@@ -1,7 +1,7 @@
 import bz2
 import mwxml
-from modules.reference_list_processor import extract_names_from_citations, find_exact_matches_with_positions
-from modules.utils import wikitext_to_plain
+from modules.reference_list_processor import extract_names_from_citations, find_exact_matches_with_positions_in_wikitext, find_words_in_wikitext
+
 from tqdm import tqdm
 
 def process_wikipedia_dump_file(dump_file, output):
@@ -25,8 +25,8 @@ def process_wikipedia_dump(dump, output):
                 names = extract_names_from_citations(revision.text)
                 reference_list.update(names)
 
-            for revision in tqdm(page_list, desc="Processing Article with Candidate List"): #[-1:]
-                names_found = find_exact_matches_with_positions(wikitext_to_plain(revision.text), reference_list)
+            for revision in tqdm(page_list[-1:], desc="Processing Article with Candidate List"): #[-1:]
+                names_found = find_words_in_wikitext(revision.text, reference_list)
                 formatted_names_with_positions = [f"{match['word']} (positions: {match['positionStart']} - {match['positionEnd']})" for match in names_found]
                 revision_names_list.append(", ".join(formatted_names_with_positions))
             

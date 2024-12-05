@@ -2,6 +2,61 @@ import unicodedata
 import mwparserfromhell
 import re
 
+def filter_wikitext(wikitext):
+    combined_pattern = re.compile(
+        r"(?:"  # Start non-capturing group
+        r"\{\{cite[^}]*?\}\}|"  # Matches {{cite ...}}
+        r"<ref(?: name=\"[^\"]*\")?\/>|"  # Matches self-closing <ref .../>
+        r"<ref(?: name=\"[^\"]*\")?>.*?<\/ref>|"  # Matches <ref ...>...</ref>
+        r"<!--.*?-->"  # Matches HTML comments
+        r")",  # End non-capturing group
+        re.DOTALL
+    )
+    
+    # Replace matches with spaces
+    processed_text = re.sub(combined_pattern, lambda m: ' ' * (m.end() - m.start()), wikitext)
+    
+    return processed_text
+
+def process_results(results):
+    i = 0
+    while i < len(results) - 1:
+        current = results[i]
+        next_token = results[i + 1]
+
+        # Case 1: Merge if distance is 2
+        if current["positionEnd"] + 2 == next_token["positionStart"]:
+            current["word"] += " " + next_token["word"]
+            current["positionEnd"] = next_token["positionEnd"]
+            results.pop(i + 1)
+            continue  # Recheck this token for further merging
+
+        # Case 2: Merge with a period if distance is 3 and last token is uppercase
+        current_words = current["word"].split()
+        if (
+            len(current_words[-1]) == 1 and  # Last token in current is a single character
+            current_words[-1].isupper() and  # It's an uppercase character
+            current["positionEnd"] + 3 == next_token["positionStart"]
+        ):
+            current["word"] += ". " + next_token["word"]
+            current["positionEnd"] = next_token["positionEnd"]
+            results.pop(i + 1)
+            continue  # Recheck this token for further merging
+
+        i += 1  # Move to the next token only if no merging occurred
+
+    return results
+
+def filter_results(results):
+    filtered_results = []
+    for item in results:
+        tokens = item["word"].split()
+        # Keep only if not all lowercase or not all uppercase
+        if not (all(token.islower() for token in tokens) or all(token.isupper() for token in tokens)):
+            filtered_results.append(item)
+    return filtered_results
+
+
 def normalize_token(input_str):
     """
     Normalize a token by removing diacritics, stripping non-letter characters,

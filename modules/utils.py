@@ -6,8 +6,10 @@ def filter_wikitext(wikitext):
     combined_pattern = re.compile(
         r"(?:"  # Start non-capturing group
         r"\{\{[cC]ite[^}]*?\}\}|"  # Matches {{cite ...}}
-        r"<ref(?: name=\"[^\"]*\")?\/>|"  # Matches self-closing <ref .../>
-        r"<ref(?: name=\"[^\"]*\")?>.*?<\/ref>|"  # Matches <ref ...>...</ref>
+        r"<ref[^>]*?\/>|"  # Matches self-closing <ref .../>
+        r"<ref[^>]*?>.*?<\/ref>|"  # Matches <ref ...>...</ref>
+        #r"<ref(?: name=\"[^\"]*\")?\/>|"  # Matches self-closing <ref .../>
+        #r"<ref(?: name=\"[^\"]*\")?>.*?<\/ref>|"  # Matches <ref ...>...</ref>
         r"<!--.*?-->"  # Matches HTML comments
         r")",  # End non-capturing group
         re.DOTALL

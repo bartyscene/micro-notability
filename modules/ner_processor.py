@@ -1,4 +1,5 @@
 import spacy
+from modules.utils import filter_wikitext
 
 class NameEntityRecognizer:
     def __init__(self, use_gpu=True):
@@ -16,10 +17,10 @@ class NameEntityRecognizer:
             except Exception as e:
                 print(f"GPU is not available. Falling back to CPU. Error: {e}")
         
-        self.nlp = spacy.load("en_core_web_lg")
+        self.nlp = spacy.load("en_core_web_trf")
         self.nlp.disable_pipes("tagger", "parser", "lemmatizer")
 
-    def extract_names(self, text):
+    def extract_names(self, wikitext):
         """
         Extract PERSON entities from the given text.
 
@@ -27,14 +28,23 @@ class NameEntityRecognizer:
             text (str): The input text to process.
 
         Returns:
-            list: A list of unique PERSON entity names found in the text.
+            list: A list of objects containing PERSON entity information:
+                  {
+                      "word": word,
+                      "positionStart": start,
+                      "positionEnd": end
+                  }
         """
+        text = filter_wikitext(wikitext)
         doc = self.nlp(text)
-        persons_set = set()
+        persons_list = []
 
         for ent in doc.ents:
             if ent.label_ == "PERSON":
-                persons_set.add(ent.text)
+                persons_list.append({
+                    "word": ent.text,
+                    "positionStart": ent.start_char,
+                    "positionEnd": ent.end_char
+                })
 
-        return list(persons_set)
-
+        return persons_list

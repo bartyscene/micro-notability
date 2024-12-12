@@ -1,6 +1,7 @@
 import bz2
 import mwxml
 from modules.reference_list_processor import extract_names_from_citations, find_names_in_wikitext
+from modules.ner_processor import NameEntityRecognizer
 
 from tqdm import tqdm
 
@@ -15,6 +16,7 @@ def process_wikipedia_dump_file(dump_file, output):
             process_wikipedia_dump(dump, output)
 
 def process_wikipedia_dump(dump, output):
+    
     with open(output, 'w') as f:
         for page in tqdm(dump, desc="Processing Wikipedia dump"):
             page_list = list(page)
@@ -29,7 +31,12 @@ def process_wikipedia_dump(dump, output):
                 names_found = find_names_in_wikitext(revision.text, reference_list)
                 formatted_names_with_positions = [f"{match['word']} (positions: {match['positionStart']} - {match['positionEnd']})" for match in names_found]
                 revision_names_list.append(", ".join(formatted_names_with_positions))
-            
+
+                name_entity_recognizer = NameEntityRecognizer(use_gpu=False)
+                ner_names_found = name_entity_recognizer.extract_names(revision.text)
+                formatted_ner_names_with_positions = [f"{match['word']} (positions: {match['positionStart']} - {match['positionEnd']})" for match in ner_names_found]
+                revision_names_list.append(", ".join(formatted_ner_names_with_positions))
+
             reference_list_text = "\n".join(reference_list)
             revision_names = "\n".join(revision_names_list)
             f.write("TITLE: " + page.title + "\n\n")

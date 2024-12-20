@@ -1,0 +1,203 @@
+CRISPR:
+Emmanuelle Charpentier - 2
+Jennifer Doudna - 3
+Yoshizumi Ishino - 1
+Francisco Mojica - 1
+Mojica - 5
+Ruud Jansen - 1
+Jansen - 1
+Tang - 1
+Rodolphe Barrangou - 1
+Barrangou - 2
+Koonin - 2
+Brouns - 1
+Van der Oost - 1
+Marraffini - 1
+Sontheimer - 1
+Virginijus Šikšnys - 1
+Gasiūnas - 1
+Horvath - 1
+Feng Zhang - 1
+George Church - 1
+P. Liang - 1
+Y. Xu - 1
+Hui Yang - 1
+Lamarck - 1
+
+CRISPR Gene Editing:
+Jennifer Doudna
+Emmanuelle Charpentier
+Virginijus Šikšnys
+Alexander Bolotin
+Eugene Koonin
+Philippe Horvath
+Jennifer Doudna 
+Emmanuelle Charpentier
+Feng Zhang
+Charpentier
+Doudna
+Sally Gardner Lane
+James T. Moore
+Deborah Katz
+Emmanuelle Charpentier
+Jennifer Doudna
+Martins
+Shen
+David Baltimore
+Jiankui He
+Lulu
+Nana
+Yinong Yang
+Yang
+Jennifer Doudna 
+Emmanuelle Charpentier
+Rudolph Barrangou
+Philippe Horvath
+Feng Zhang
+Doudna
+Charpentier
+Charpentier
+Doudna
+Zhang
+Charpentier
+Doudna
+
+Large Language Model:
+Bahdanau
+Schaeffer
+Ilya Sutskever
+Connor Leahy
+Terrence Sejnowski
+George Lakoff
+Vyvyan Evans
+Claude Shannon
+Alice
+Bob 
+Alice
+Goldman Sachs
+Kevin Esvelt
+Yongge Wang
+
+Messenger RNA:
+Sydney Brenner
+Francis Crick
+François Jacob
+Brenner
+Jacob
+Matthew Meselson
+James Watson
+Jacob
+Jacques Monod
+Katalin Karikó
+Drew Weissman
+Jacques Monod
+Arthur Pardee
+Alfred Hershey
+June Dixon
+Martha Chase
+Sydney Brenner
+Francis Crick
+François Jacob
+Arthur Pardee
+Monod
+Crick
+Brenner
+Jacob
+Matthew Meselson
+Brenner
+Jacob
+Meselson
+Meselson
+Jacob
+Monod
+James Watson
+Brenner
+Watson
+Brenner
+Watson
+Jacob
+Monod
+
+Fourier Series:
+Joseph Fourier
+Fourier
+Fourier
+Jean-Baptiste Joseph Fourier
+Leonhard Euler
+Jean le Rond d'Alembert
+Daniel Bernoulli
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Peter Gustav Lejeune Dirichlet
+Bernhard Riemann
+Fourier
+Joseph Fourier
+Joseph Fourier
+Fourier
+Euler
+d'Alembert
+Daniel Bernoulli
+Gauss
+Fourier
+Fourier
+Lagrange
+Laplace
+Malus
+Legendre
+Fourier
+Fourier
+Lennart Carleson
+Andrey Kolmogorov
+D'Alembert
+Euler
+Bernoulli 
+Fetter
+Walecka
+Fourier 
+Fourier 
+Poisson
+Fourier 
+Fourier
+
+Wearable computer:
+Steve Mann
+Queen Elizabeth I
+Thorp
+Shannon
+Steve Mann
+Steve Mann
+Woodward Yang
+Queen Elizabeth I
+Edward O. Thorp
+Claude Shannon
+C.C. Collins
+Steve Mann
+Mann
+Gerald "Chip" Maguire
+Doug Platt
+Thad Starner
+Doug Platt
+Devon Sean McCullough
+Starner
+Edgar Matias
+Mike Ruicci
+Mik Lamming
+Mike Flynn
+Steve Mann
+Bruce H. Thomas
+Wayne Piekarski
+Kevin Warwick
+Warwick
+Irena
+Warwick
+Warwick
+Samus Aran
+Robocop
+Samus Aran
+Leela
+Iron Man
+Zack Freedman

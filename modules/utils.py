@@ -3,6 +3,8 @@ import mwparserfromhell
 import re
 
 def filter_wikitext(wikitext):
+    if wikitext is None:
+        return ""
     combined_pattern = re.compile(
         r"(?:"  # Start non-capturing group
         r"\{\{[cC]ite[^}]*?\}\}|"  # Matches {{cite ...}}

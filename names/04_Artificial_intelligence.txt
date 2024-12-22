@@ -1,0 +1,340 @@
+Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1263832280
+[
+    Markov (decision process)
+    Noam Chomsky
+    Margaret Masterman
+    Horn (clauses)
+    Turing (complete)
+    Markov (decision process)
+    Bayesian (networks)
+    Bayesian (inference algorithm)
+    Bayesian (networks)
+    Markov (models)
+    Kalman ((filters))
+    Bayes (classifier)
+    Moore (law)
+    Gordon Moore 
+    Parkinson (disease)
+    Garry Kasparov
+    Watson
+    Brad Rutter
+    Ken Jennings
+    Lee Sedol
+    Ke Jie
+    Nicolas Firzli
+    Vincent van Gogh
+    Pope Francis
+    Donald Trump
+    Demis Hassabis
+    Cynthia Dwork
+    Brian Christian
+    John Grisham
+    Jonathan Franzen
+    Goldman (The Goldman Sachs Group)
+    Sachs (The Goldman Sachs Group)
+    Jen-Hsun Huang
+    Crane (Clean Energy Center)
+    Chris Crane
+    Willie L. Phillips
+    Geoffrey Hinton
+    Jacky Alcine
+    Julia Angwin
+    Moritz Hardt
+    Michael Osborne
+    Carl Benedikt Frey
+    Joseph Weizenbaum
+    Stephen Hawking
+    Nick Bostrom
+    Stuart Russell
+    Yuval Noah Harari
+    Stephen Hawking
+    Bill Gates
+    Elon Musk
+    Yoshua Bengio
+    Stuart Russell
+    Demis Hassabis
+    Sam Altman
+    Geoffrey Hinton
+    Juergen Schmidhuber
+    Andrew Ng
+    Yann LeCun
+    Eliezer Yudkowsky
+    Wendell Wallach
+    Stuart J. Russell
+    Alan Turing (Institute)
+    Henry Kissinger
+    Eric Schmidt
+    Daniel Huttenlocher
+    Alan Turing
+    McCullouch
+    Pitts
+    Turing
+    Turing (test)
+    Herbert Simon
+    Marvin Minsky
+    Sir James Lighthill
+    Minsky
+    Papert
+    Rodney Brooks
+    Judea Pearl
+    Lofti Zadeh
+    Geoffrey Hinton
+    Yann LeCun
+    Alan Turing
+    Turing (test)
+    Russell
+    Norvig
+    Turing
+    John McCarthy
+    McCarthy 
+    Marvin Minsky
+    Newell
+    Simon
+    Moravec (paradox)
+    Hubert Dreyfus
+    Noam Chomsky 
+    Russell
+    Norvig
+    David Chalmers
+    Dennett
+    Jerry Fodor
+    Hilary Putnam
+    John Searle 
+    I. J. Good
+    Vernor Vinge
+    Hans Moravec
+    Kevin Warwick
+    Ray Kurzweil 
+    Aldous Huxley
+    Robert Ettinger
+    Edward Fredkin
+    Samuel Butler
+    Darwin
+    George Dyson
+    Darwin
+    Mary Shelley
+    Frankenstein
+    Arthur C. Clarke
+    Stanley Kubrick
+    Isaac Asimov
+    Asimov
+    Asimov
+    Karel Čapek
+    Philip K. Dick
+
+]
+
+Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=641848453
+[
+    John McCarthy
+    Talos
+    Hephaestus
+    Pygmalion
+    Galatea
+    Yan Shi
+    Al-Jazari
+    Jābir ibn Hayyān
+    Judah Loew
+    Paracelsus
+    Mary Shelley
+    Frankenstein
+    Karel Čapek
+    Pamela McCorduck
+    Alan Turing
+    Turing
+    John McCarthy
+    Marvin Minsky
+    Allen Newell
+    Herbert Simon
+    Herbert Simon
+    Marvin Minsky
+    Sir James Lighthill
+    Moore (law)
+    Garry Kasparov
+    Watson
+    Brad Rutter
+    Ken Jennings
+    John McCarthy
+    Rosalind Picard
+    John Haugeland
+    W. Grey Walter
+    Johns Hopkins (Beast)
+    John Haugeland 
+    Herbert Simon
+    Allen Newell
+    Newell
+    Simon
+    John McCarthy
+    Marvin Minsky
+    Seymour Papert
+    Roger Schank
+    Doug Lenat
+    Edward Feigenbaum
+    Rodney Brooks
+    David Rumelhart
+    Stuart Russell
+    Peter Norvig
+    Peter Norvig
+    Noam Chomsky
+    Rodney Brooks
+    Bayesian (networks)
+    Bayesian (inference)
+    Bayesian (networks)
+    Markov (models)  
+    Kalman (filters)
+    Markov (decision processes)
+    Gaussian (mixture model)
+    Bayes (classifier)
+    Walter Pitts  
+    Warren McCullough
+    Frank Rosenblatt
+    Paul Werbos
+    Hopfield (network)
+    John Hopfield
+    Hebbian (learning)
+    Geoffrey Hinton  
+    Ruslan Salakhutdinov
+    Boltzmann (machine)
+    Alan Turing
+    Turing (test)
+    Turing (tests)
+    Kolmogorov (complexity)
+    Turing (test)
+    Rodney Brooks
+    Toshitada Doi
+    Masahiro Fujita
+    Doi
+    Hajime Sorayama
+    Carnegie (Carnegie Mellon University)
+    Mellon (Carnegie Mellon University)
+    Carnegie (Carnegie Mellon University)
+    Mellon (Carnegie Mellon University)
+    Alan Turing 
+    Turing
+    Turing (test)
+    Newell
+    Simon
+    Newell
+    Simon
+    Hubert Dreyfus
+    Gödel
+    John Lucas
+    Roger Penrose 
+    Turing (machines)
+    Kurt Gödel
+    Gödel (statements)
+    Turing (program)
+    Gödel (statement)
+    Turing (machines)
+    Roger Penrose
+    Planck (scale)
+    Roger Penrose
+    Lucas
+    Penrose
+    Gödel
+    Hans Moravec
+    Ray Kurzweil
+    Gary Kasparov
+    Wendell Wallach
+    Wallach
+    Wallach 
+    Charles T. Rubin
+    Stephen Hawking
+    Rodney Brooks
+    Joseph Weizenbaum
+    Weizenbaum 
+    Weizenbaum 
+    Martin Ford
+    Ford 
+    Searle
+    John Searle
+    Mary Shelley
+    Frankenstein
+    Vernor Vinge
+    Ray Kurzweil
+    Moore (law)
+    Hans Moravec
+    Kevin Warwick
+    Ray Kurzweil
+    Aldous Huxley
+    Robert Ettinger
+    Hajime Sorayama
+    George Lucas
+    Sorayama 
+    Edward Fredkin
+    Samuel Butler
+    Darwin
+    George Dyson
+    Karel Čapek
+    Isaac Asimov
+    Arthur C. Clarke
+]
+
+Permalink_2005_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=9314633
+[
+    John McCarthy
+    Alan Turing
+    Turing (test)
+    John Searle
+    J Searle
+    Searle 
+    Searle 
+    Searle 
+    Searle 
+    Turing (test)
+    Daniel C. Dennett
+    Simon Blackburn
+    Church (Church-Turing thesis)
+    Turing (Church-Turing thesis)
+    Roger Penrose
+    Church (Church-Turing thesis)
+    Turing (Church-Turing thesis)
+    Turing (test)
+    Warren McCulloch
+    Walter Pitts
+    Alan Turing
+    J.C.R. Licklider
+    Turing (test) 
+    Gödel
+    John Lucas
+    John von Neumann 
+    E.T. Jaynes
+    Von Neumann
+    Church (Church-Turing thesis)
+    Turing (Church-Turing thesis)
+    McCarthy
+    Hayes 
+    Allen Newell
+    Herbert Simon
+    McCarthy 
+    Marvin Minsky
+    McCarthy
+    Minsky
+    Nathan Rochester
+    Claude Shannon
+    McCarthy
+    Minsky
+    Seymour Papert
+    Terry Winograd
+    Garry Kasparov
+    Hugo de Garis
+    Kevin Warwick
+    de Garis
+    Turing (test)
+    John Wilensky
+    Steve Grand
+    Douglas Lenat
+    Maggie Boden
+    Rodney Brooks
+    Boris Katz
+    Doug Lenat
+    John McCarthy
+    Marvin Minsky
+    Raj Reddy
+    Roger Schank
+    Alan Turing
+    Wolfgang Wahlster
+    Terry Winograd
+    Kevin Warwick
+    Raj Reddy
+]

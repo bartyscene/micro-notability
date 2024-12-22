@@ -1,0 +1,410 @@
+[
+  [
+    {
+      "input_file_name": "01_wearable_computer.xml"
+    },
+    {
+      "output_file_name": "01_wearable_computer_2005_01_10.txt",
+      "id": 9593251
+    },
+    {
+      "output_file_name": "01_wearable_computer_2015_01_10.txt",
+      "id": 641507365
+    },
+    {
+      "output_file_name": "01_wearable_computer_2025_01_10.txt",
+      "id": 1257964292
+    }
+  ],
+  [
+    {
+      "input_file_name": "02_light_emitting_diode.xml"
+    },
+    {
+      "output_file_name": "02_light_emitting_diode_2005_01_10.txt",
+      "id": 9549951
+    },
+    {
+      "output_file_name": "02_light_emitting_diode_2015_01_10.txt",
+      "id": 641853600
+    },
+    {
+      "output_file_name": "02_light_emitting_diode_2025_01_10.txt",
+      "id": 1263288573
+    }
+  ],
+  [
+    {
+      "input_file_name": "03_insulin.xml"
+    },
+    {
+      "output_file_name": "03_insulin_2005_01_10.txt",
+      "id": 9269045
+    },
+    {
+      "output_file_name": "03_insulin_2015_01_10.txt",
+      "id": 641928527
+    },
+    {
+      "output_file_name": "03_insulin_2025_01_10.txt",
+      "id": 1257123824
+    }
+  ],
+  [
+    {
+      "input_file_name": "04_artificial_intelligence.xml"
+    },
+    {
+      "output_file_name": "04_artificial_intelligence_2005_01_10.txt",
+      "id": 9314633
+    },
+    {
+      "output_file_name": "04_artificial_intelligence_2015_01_10.txt",
+      "id": 641848453
+    },
+    {
+      "output_file_name": "04_artificial_intelligence_2025_01_10.txt",
+      "id": 1263832280
+    }
+  ],
+  [
+    {
+      "input_file_name": "05_messenger_rna.xml"
+    },
+    {
+      "output_file_name": "05_messenger_rna_2005_01_10.txt",
+      "id": 9898940
+    },
+    {
+      "output_file_name": "05_messenger_rna_2015_01_10.txt",
+      "id": 641559759
+    },
+    {
+      "output_file_name": "05_messenger_rna_2025_01_10.txt",
+      "id": 1262086963
+    }
+  ],
+  [
+    {
+      "input_file_name": "06_genetic_engineering.xml"
+    },
+    {
+      "output_file_name": "06_genetic_engineering_2005_01_10.txt",
+      "id": 9493702
+    },
+    {
+      "output_file_name": "06_genetic_engineering_2015_01_10.txt",
+      "id": 638498661
+    },
+    {
+      "output_file_name": "06_genetic_engineering_2025_01_10.txt",
+      "id": 1263690094
+    }
+  ],
+  [
+    {
+      "input_file_name": "07_cognitive_behavioral_therapy.xml"
+    },
+    {
+      "output_file_name": "07_cognitive_behavioral_therapy_2005_01_10.txt",
+      "id": 10917908
+    },
+    {
+      "output_file_name": "07_cognitive_behavioral_therapy_2015_01_10.txt",
+      "id": 641675359
+    },
+    {
+      "output_file_name": "07_cognitive_behavioral_therapy_2025_01_10.txt",
+      "id": 1263874230
+    }
+  ],
+  [
+    {
+      "input_file_name": "08_fourier_analysis.xml"
+    },
+    {
+      "output_file_name": "08_fourier_analysis_2005_01_10.txt",
+      "id": 9494202
+    },
+    {
+      "output_file_name": "08_fourier_analysis_2015_01_10.txt",
+      "id": 637221956
+    },
+    {
+      "output_file_name": "08_fourier_analysis_2025_01_10.txt",
+      "id": 1263338092
+    }
+  ],
+  [
+    {
+      "input_file_name": "09_fourier_series.xml"
+    },
+    {
+      "output_file_name": "09_fourier_series_2005_01_10.txt",
+      "id": 9317792
+    },
+    {
+      "output_file_name": "09_fourier_series_2015_01_10.txt",
+      "id": 641124498
+    },
+    {
+      "output_file_name": "09_fourier_series_2025_01_10.txt",
+      "id": 1263880062
+    }
+  ],
+  [
+    {
+      "input_file_name": "10_social_robot.xml"
+    },
+    {
+      "output_file_name": "10_social_robot_2005_01_10.txt",
+      "id": 10745585
+    },
+    {
+      "output_file_name": "10_social_robot_2015_01_10.txt",
+      "id": 628829934
+    },
+    {
+      "output_file_name": "10_social_robot_2025_01_10.txt",
+      "id": 1243236040
+    }
+  ],
+  [
+    {
+      "input_file_name": "11_touchscreen.xml"
+    },
+    {
+      "output_file_name": "11_touchscreen_2005_01_10.txt",
+      "id": 10626356
+    },
+    {
+      "output_file_name": "11_touchscreen_2015_01_10.txt",
+      "id": 641144269
+    },
+    {
+      "output_file_name": "11_touchscreen_2025_01_10.txt",
+      "id": 1262838270
+    }
+  ],
+  [
+    {
+      "input_file_name": "12_metabolic_engineering.xml"
+    },
+    {
+      "output_file_name": "12_metabolic_engineering_2005_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "12_metabolic_engineering_2015_01_10.txt",
+      "id": 641230558
+    },
+    {
+      "output_file_name": "12_metabolic_engineering_2025_01_10.txt",
+      "id": 1228247624
+    }
+  ],
+  [
+    {
+      "input_file_name": "13_car_t_cell.xml"
+    },
+    {
+      "output_file_name": "13_car_t_cell_2005_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "13_car_t_cell_2015_01_10.txt",
+      "id": 1262143184
+    },
+    {
+      "output_file_name": "13_car_t_cell_2025_01_10.txt",
+      "id": 1262143184
+    }
+  ],
+  [
+    {
+      "input_file_name": "14_language_model.xml"
+    },
+    {
+      "output_file_name": "14_language_model_2005_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "14_language_model_2015_01_10.txt",
+      "id": 638768845
+    },
+    {
+      "output_file_name": "14_language_model_2025_01_10.txt",
+      "id": 1262350440
+    }
+  ],
+  [
+    {
+      "input_file_name": "15_crispr.xml"
+    },
+    {
+      "output_file_name": "15_crispr_2005_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "15_crispr_2015_01_10.txt",
+      "id": 641773758
+    },
+    {
+      "output_file_name": "15_crispr_2025_01_10.txt",
+      "id": 1262872084
+    }
+  ],
+  [
+    {
+      "input_file_name": "16_personalized_medicine.xml"
+    },
+    {
+      "output_file_name": "16_personalized_medicine_2005_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "16_personalized_medicine_2015_01_10.txt",
+      "id": 636944595
+    },
+    {
+      "output_file_name": "16_personalized_medicine_2025_01_10.txt",
+      "id": 1260391448
+    }
+  ],
+  [
+    {
+      "input_file_name": "17_self_healing_material.xml"
+    },
+    {
+      "output_file_name": "17_self_healing_material_2005_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "17_self_healing_material_2015_01_10.txt",
+      "id": 634312970
+    },
+    {
+      "output_file_name": "17_self_healing_material_2025_01_10.txt",
+      "id": 1259458289
+    }
+  ],
+  [
+    {
+      "input_file_name": "18_electric_aircraft.xml"
+    },
+    {
+      "output_file_name": "18_electric_aircraft_2005_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "18_electric_aircraft_2015_01_10.txt",
+      "id": 641093777
+    },
+    {
+      "output_file_name": "18_electric_aircraft_2025_01_10.txt",
+      "id": 1253274607
+    }
+  ],
+  [
+    {
+      "input_file_name": "19_insulin_medication.xml"
+    },
+    {
+      "output_file_name": "19_insulin_medication_2005_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "19_insulin_medication_2015_01_10.txt",
+      "id": 637465427
+    },
+    {
+      "output_file_name": "19_insulin_medication_2025_01_10.txt",
+      "id": 1257308371
+    }
+  ],
+  [
+    {
+      "input_file_name": "20_event_horizon_telescope.xml"
+    },
+    {
+      "output_file_name": "20_event_horizon_telescope_2005_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "20_event_horizon_telescope_2015_01_10.txt",
+      "id": 636736540
+    },
+    {
+      "output_file_name": "20_event_horizon_telescope_2025_01_10.txt",
+      "id": 1251024930
+    }
+  ],
+  [
+    {
+      "input_file_name": "21_crispr_gene_editing.xml"
+    },
+    {
+      "output_file_name": "21_crispr_gene_editing_2005_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "21_crispr_gene_editing_2015_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "21_crispr_gene_editing_2025_01_10.txt",
+      "id": 1263525580
+    }
+  ],
+  [
+    {
+      "input_file_name": "22_mRNA_vaccine.xml"
+    },
+    {
+      "output_file_name": "22_mRNA_vaccine_2005_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "22_mRNA_vaccine_2015_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "22_mRNA_vaccine_2025_01_10.txt",
+      "id": 1263884120
+    }
+  ],
+  [
+    {
+      "input_file_name": "23_genetic_vaccine.xml"
+    },
+    {
+      "output_file_name": "23_genetic_vaccine_2005_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "23_genetic_vaccine_2015_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "23_genetic_vaccine_2025_01_10.txt",
+      "id": 1228426999
+    }
+  ],
+  [
+    {
+      "input_file_name": "24_large_language_model.xml"
+    },
+    {
+      "output_file_name": "24_large_language_model_2005_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "24_large_language_model_2015_01_10.txt",
+      "id": null
+    },
+    {
+      "output_file_name": "24_large_language_model_2025_01_10.txt",
+      "id": 1262992255
+    }
+  ]
+]

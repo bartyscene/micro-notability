@@ -1,6 +1,10 @@
 from modules.dump_processor import process_wikipedia_dump_file
+from modules.text_files_generator import process_json_file
+from modules.dump_downloader import DumpDownloader
+
 
 if __name__ == "__main__":
-    input_dump = "dumps/01_wearable_computer.xml"
-    output_file = "output/01_wearable_computer_output.txt"
-    process_wikipedia_dump_file(input_dump, output_file)
+    #input_dump = "dumps/20_event_horizon_telescope.xml"
+    #output_file = "output/20_event_horizon_telescope_output.txt"
+    #process_wikipedia_dump_file(input_dump, output_file)
+    process_json_file("wikitext/filtered_text.json")

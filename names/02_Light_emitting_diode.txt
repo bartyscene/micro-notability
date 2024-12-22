@@ -1,0 +1,96 @@
+Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Light-emitting_diode&oldid=1263288573
+[
+    H. J. Round
+    Oleg Losev
+    James R. Biard
+    Nick Holonyak
+    Oleg Losev
+    Monstanto
+    Hewlett (HP)
+    Packard (HP)
+    Haitz (Law)
+    Shockley (diode)
+    Auger (recombination)
+    Auger (recombination)
+    Cao et al. 
+    Lin et al.
+    Cao et al.
+    Cao
+    Lin
+    Lin
+]
+
+Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Light-emitting_diode&oldid=641853600
+[
+    Oleg Losev
+    James R. Biard
+    Nick Holonyak
+    H. J. Round
+    Marconi (Labs)
+    Oleg Losev
+    Kurt Lehovec
+    Carl Accardo
+    Edward Jamgochian
+    Rubin Braunstein
+    Braunstein 
+    Braunstein
+    Kroemer Braunstein
+    H. J. Round
+    James R. Biard
+    Gary Pittman
+    Biard
+    Pittman
+    Bell (Labs)
+    Nick Holonyak Jr.
+    Holonyak 
+    M. George Craford
+    Holonyak
+    T. P. Pearsall
+    Hewlett (HP)
+    Packard (HP)
+    Dr. Jean Hoerni
+    Fairchild 
+    Thomas Brandt
+    Shuji Nakamura
+    Isamu Akasaki
+    Hiroshi Amano
+    Alberto Barbieri
+    Moore (Law)
+    Haitz (Law)
+    Haitz (Law)
+    Dr. Roland Haitz
+    Auger (recombination)
+    Auger (recombination)
+    Auger (recombination)
+    Auger (processes)
+    Herb Maruska
+    Wally Rhines
+    Maruska 
+    Jacques Pankove
+    Maruska 
+    Pankove
+    Ed Miller
+    Pankove
+    Miller
+    Maruska
+    Rhines
+    David Stevenson
+    Shuji Nakamura 
+    Nakamura 
+    Nakamura 
+    Hiroshi Amano
+    Isamu Akasaki
+    Michael Bowers
+    Haitz (Law)
+    Shockley (diode)
+    Rayleigh (scattering)
+    Zener (diode)
+    Zener (diode)
+    Zener (diode)
+]
+
+Permalink_2005_01_10: https://en.wikipedia.org/w/index.php?title=Light-emitting_diode&oldid=9549951
+[
+    Nick Holonyak Jr.
+    Shuji Nakamura 
+]

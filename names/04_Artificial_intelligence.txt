@@ -1,20 +1,8 @@
 Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1263832280
 [
-    Markov (decision process)
     Noam Chomsky
     Margaret Masterman
-    Horn (clauses)
-    Turing (complete)
-    Markov (decision process)
-    Bayesian (networks)
-    Bayesian (inference algorithm)
-    Bayesian (networks)
-    Markov (models)
-    Kalman ((filters))
-    Bayes (classifier)
-    Moore (law)
     Gordon Moore 
-    Parkinson (disease)
     Garry Kasparov
     Watson
     Brad Rutter
@@ -30,10 +18,7 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Brian Christian
     John Grisham
     Jonathan Franzen
-    Goldman (The Goldman Sachs Group)
-    Sachs (The Goldman Sachs Group)
     Jen-Hsun Huang
-    Crane (Clean Energy Center)
     Chris Crane
     Willie L. Phillips
     Geoffrey Hinton
@@ -61,7 +46,6 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Eliezer Yudkowsky
     Wendell Wallach
     Stuart J. Russell
-    Alan Turing (Institute)
     Henry Kissinger
     Eric Schmidt
     Daniel Huttenlocher
@@ -69,7 +53,6 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     McCullouch
     Pitts
     Turing
-    Turing (test)
     Herbert Simon
     Marvin Minsky
     Sir James Lighthill
@@ -81,7 +64,6 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Geoffrey Hinton
     Yann LeCun
     Alan Turing
-    Turing (test)
     Russell
     Norvig
     Turing
@@ -90,7 +72,6 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Marvin Minsky
     Newell
     Simon
-    Moravec (paradox)
     Hubert Dreyfus
     Noam Chomsky 
     Russell
@@ -122,6 +103,26 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Karel Čapek
     Philip K. Dick
 
+    /////Eponyms/////
+    Markov (decision process)
+    Horn (clauses)
+    Turing (complete)
+    Markov (decision process)
+    Bayesian (networks)
+    Bayesian (inference algorithm)
+    Bayesian (networks)
+    Markov (models)
+    Kalman (filters)
+    Bayes (classifier)
+    Moore (law)
+    Parkinson (disease)
+    Goldman (The Goldman Sachs Group)
+    Sachs (The Goldman Sachs Group)
+    Crane (Clean Energy Center)
+    Alan Turing (Institute)
+    Turing (test)
+    Turing (test)
+    Moravec (paradox)
 ]
 
 Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=641848453
@@ -149,7 +150,6 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Herbert Simon
     Marvin Minsky
     Sir James Lighthill
-    Moore (law)
     Garry Kasparov
     Watson
     Brad Rutter
@@ -158,7 +158,6 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Rosalind Picard
     John Haugeland
     W. Grey Walter
-    Johns Hopkins (Beast)
     John Haugeland 
     Herbert Simon
     Allen Newell
@@ -177,41 +176,21 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Peter Norvig
     Noam Chomsky
     Rodney Brooks
-    Bayesian (networks)
-    Bayesian (inference)
-    Bayesian (networks)
-    Markov (models)  
-    Kalman (filters)
-    Markov (decision processes)
-    Gaussian (mixture model)
-    Bayes (classifier)
     Walter Pitts  
     Warren McCullough
     Frank Rosenblatt
     Paul Werbos
-    Hopfield (network)
     John Hopfield
-    Hebbian (learning)
     Geoffrey Hinton  
     Ruslan Salakhutdinov
-    Boltzmann (machine)
     Alan Turing
-    Turing (test)
-    Turing (tests)
-    Kolmogorov (complexity)
-    Turing (test)
     Rodney Brooks
     Toshitada Doi
     Masahiro Fujita
     Doi
     Hajime Sorayama
-    Carnegie (Carnegie Mellon University)
-    Mellon (Carnegie Mellon University)
-    Carnegie (Carnegie Mellon University)
-    Mellon (Carnegie Mellon University)
     Alan Turing 
     Turing
-    Turing (test)
     Newell
     Simon
     Newell
@@ -220,14 +199,7 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Gödel
     John Lucas
     Roger Penrose 
-    Turing (machines)
-    Kurt Gödel
-    Gödel (statements)
-    Turing (program)
-    Gödel (statement)
-    Turing (machines)
     Roger Penrose
-    Planck (scale)
     Roger Penrose
     Lucas
     Penrose
@@ -252,7 +224,6 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Frankenstein
     Vernor Vinge
     Ray Kurzweil
-    Moore (law)
     Hans Moravec
     Kevin Warwick
     Ray Kurzweil
@@ -268,40 +239,60 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Karel Čapek
     Isaac Asimov
     Arthur C. Clarke
+
+    /////Eponyms/////
+    Moore (law)
+    Moore (law)
+    Johns Hopkins (Beast)
+    Bayesian (networks)
+    Bayesian (inference)
+    Bayesian (networks)
+    Markov (models)  
+    Kalman (filters)
+    Markov (decision processes)
+    Gaussian (mixture model)
+    Bayes (classifier)
+    Hopfield (network)
+    Hebbian (learning)
+    Boltzmann (machine)
+    Turing (test)
+    Turing (tests)
+    Kolmogorov (complexity)
+    Turing (test)
+    Carnegie Mellon (University)
+    Carnegie Mellon (University)
+    Turing (test)
+    Turing (machines)
+    Kurt Gödel
+    Gödel (statements)
+    Turing (program)
+    Gödel (statement)
+    Turing (machines)
+    Planck (scale)
 ]
 
 Permalink_2005_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=9314633
 [
     John McCarthy
     Alan Turing
-    Turing (test)
     John Searle
     J Searle
     Searle 
     Searle 
     Searle 
     Searle 
-    Turing (test)
     Daniel C. Dennett
     Simon Blackburn
-    Church (Church-Turing thesis)
-    Turing (Church-Turing thesis)
     Roger Penrose
-    Church (Church-Turing thesis)
-    Turing (Church-Turing thesis)
-    Turing (test)
     Warren McCulloch
     Walter Pitts
     Alan Turing
     J.C.R. Licklider
-    Turing (test) 
     Gödel
     John Lucas
     John von Neumann 
     E.T. Jaynes
     Von Neumann
-    Church (Church-Turing thesis)
-    Turing (Church-Turing thesis)
     McCarthy
     Hayes 
     Allen Newell
@@ -320,7 +311,6 @@ Permalink_2005_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Hugo de Garis
     Kevin Warwick
     de Garis
-    Turing (test)
     John Wilensky
     Steve Grand
     Douglas Lenat
@@ -337,4 +327,14 @@ Permalink_2005_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Terry Winograd
     Kevin Warwick
     Raj Reddy
+
+    /////Eponyms/////
+    Turing (test)
+    Turing (test)
+    Turing (test)
+    Turing (test)
+    Turing (test)
+    Church-Turing (thesis)
+    Church-Turing (thesis)
+    Church-Turing (thesis)
 ]

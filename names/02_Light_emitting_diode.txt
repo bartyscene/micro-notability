@@ -6,18 +6,19 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Light-emitting_
     Nick Holonyak
     Oleg Losev
     Monstanto
-    Hewlett (HP)
-    Packard (HP)
-    Haitz (Law)
-    Shockley (diode)
-    Auger (recombination)
-    Auger (recombination)
     Cao et al. 
     Lin et al.
     Cao et al.
     Cao
     Lin
     Lin
+
+    /////Eponyms/////
+    Hewlett Packard (HP)
+    Haitz (Law)
+    Shockley (diode)
+    Auger (recombination)
+    Auger (recombination)
 ]
 
 Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Light-emitting_diode&oldid=641853600
@@ -26,7 +27,6 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Light-emitting_
     James R. Biard
     Nick Holonyak
     H. J. Round
-    Marconi (Labs)
     Oleg Losev
     Kurt Lehovec
     Carl Accardo
@@ -40,14 +40,11 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Light-emitting_
     Gary Pittman
     Biard
     Pittman
-    Bell (Labs)
     Nick Holonyak Jr.
     Holonyak 
     M. George Craford
     Holonyak
     T. P. Pearsall
-    Hewlett (HP)
-    Packard (HP)
     Dr. Jean Hoerni
     Fairchild 
     Thomas Brandt
@@ -55,14 +52,7 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Light-emitting_
     Isamu Akasaki
     Hiroshi Amano
     Alberto Barbieri
-    Moore (Law)
-    Haitz (Law)
-    Haitz (Law)
     Dr. Roland Haitz
-    Auger (recombination)
-    Auger (recombination)
-    Auger (recombination)
-    Auger (processes)
     Herb Maruska
     Wally Rhines
     Maruska 
@@ -81,6 +71,19 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Light-emitting_
     Hiroshi Amano
     Isamu Akasaki
     Michael Bowers
+
+    /////Eponyms/////
+    Marconi (Labs)
+    Bell (Labs)
+    Hewlett Packard (HP)
+    Hewlett Packard (HP)
+    Moore (Law)
+    Haitz (Law)
+    Haitz (Law)
+    Auger (recombination)
+    Auger (recombination)
+    Auger (recombination)
+    Auger (processes)
     Haitz (Law)
     Shockley (diode)
     Rayleigh (scattering)

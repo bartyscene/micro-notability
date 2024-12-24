@@ -13,8 +13,6 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Wearable_comput
     Claude Shannon
     Thorp
     Thorp
-    Hewlett
-    Packard 
     C.C. Collins
     Steve Mann
     Mann
@@ -49,6 +47,9 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Wearable_comput
     Samus Aran
     Leela
     Zack Freedman
+
+    /////Eponyms/////
+    Hewlett Packard (HP)
 ]
 
 Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Wearable_computer&oldid=641507365
@@ -68,8 +69,6 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Wearable_comput
     Thorp
     Thorp
     C.C. Collins
-    Hewlett
-    Packard
     Steve Mann
     Mann
     Steve Roberts
@@ -94,7 +93,10 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Wearable_comput
     Irena
     Warwick
     Dr. Bruce H Thomas
-    Dr. Wayne Piekarski 
+    Dr. Wayne Piekarski
+
+    /////Eponyms///// 
+    Hewlett Packard (HP)
 ]
 
 Permalink_2005_01_10: https://en.wikipedia.org/w/index.php?title=Wearable_computer&oldid=9593251

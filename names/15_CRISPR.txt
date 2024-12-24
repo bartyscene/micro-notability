@@ -31,11 +31,15 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=CRISPR&oldid=12
     Y. Xu 
     Hui Yang 
     Koonin
-    Lamarckian (inheritance)
-    Lamarck 
+    Lamarck
+
+    /////Eponyms/////
+    Lamarckian (inheritance) 
     Lamarckian (phenomena)
     Lamarckian (evolution)
     Darwinian (evolution)
+    Nobel (Prize)
+    Nobel (Prize)
 ]
 
 Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=CRISPR&oldid=641773758
@@ -48,8 +52,6 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=CRISPR&oldid=64
     Charpentier
     Jinek
     Jinek
-    Lamarckian (inheritance mechanism)
-    Huntington (disease)
     Gao Caixia
     Gao
     Feng Zhang
@@ -58,4 +60,8 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=CRISPR&oldid=64
     Zhang
     Doudna
     Charpentier
+    
+    /////Eponyms/////
+    Lamarckian (inheritance mechanism)
+    Huntington (disease)
 ]

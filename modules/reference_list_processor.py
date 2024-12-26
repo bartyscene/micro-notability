@@ -27,10 +27,8 @@ def extract_names_from_citations(wikitext):
                 if name_field:
                     name_parts.update(name_part_pattern.findall(name_field))
 
-    tokens_to_remove = {"and", "the", "of", "for", "in", "not", "on", 
-                        "And", "The", "Of", "For", "In", "Not", "On"} 
-    name_parts -= tokens_to_remove # manually remove tokens
-
+    tokens_to_remove = {"and", "the", "of", "for", "in", "not", "on", "an"}
+    name_parts = {part for part in name_parts if part.lower() not in tokens_to_remove}
     return name_parts
 
 

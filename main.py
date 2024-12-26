@@ -4,7 +4,7 @@ from modules.dump_downloader import DumpDownloader
 
 
 if __name__ == "__main__":
-    input_dump = "dumps/13_car_t_cell.xml"
+    input_dump = "dumps/20_event_horizon_telescope.xml"
     output_file = "output/output.txt"
     process_wikipedia_dump_file(input_dump, output_file)
     #process_json_file("wikitext/filtered_text.json")

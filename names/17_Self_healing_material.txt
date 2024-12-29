@@ -15,7 +15,7 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Self-healing_ma
     Van Tittlelboom
 
     /////Eponyms/////
-    Grubbs (catalyst)
+    Grubbs' catalyst
     Diels–Alder polymer 
     Diels–Alder reaction
     van der Waals forces
@@ -33,9 +33,11 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Self-healing_ma
     Grubbs' catalyst
     Grubbs' catalyst
     Grubbs' catalyst
+    Diels-Alder cycloaddition reaction
     Diels-Alder chemistry
     Grubbs' catalyst 
     Kelvin (temperature)
+    Sandia National Laboratories
 ]
 
 Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Self-healing_material&oldid=634312970
@@ -51,9 +53,12 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Self-healing_ma
     Diels-Alder-based polymers
     Diels-Alder reaction
     van der Waals forces
+    Diels-Alder
+    retro-Diels-Alder
     Diels-Alder  reaction
     retro-Diels-Alder reaction
     Diels-Alder cycloadition
+    Grubbs' catalyst
     Grubbs' catalyst
     Grubbs' catalyst
     Grubbs' catalyst

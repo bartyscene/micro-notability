@@ -14,11 +14,17 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Light-emitting_
     Lin
 
     /////Eponyms/////
-    Hewlett Packard (HP)
-    Haitz (Law)
-    Shockley (diode)
+    Hewlett Packard (company)
+    Czochralski (method)
+    Haitz (law)
+    Shockley (diode equation)
+    Philips (corporation) 
+    Zener (diode)
+    Zener (diode)
+    Zener (diode)
     Auger (recombination)
     Auger (recombination)
+    Zener (diode)
 ]
 
 Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Light-emitting_diode&oldid=641853600
@@ -71,22 +77,27 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Light-emitting_
     Hiroshi Amano
     Isamu Akasaki
     Michael Bowers
-
+    
     /////Eponyms/////
     Marconi (Labs)
     Bell (Labs)
-    Hewlett Packard (HP)
-    Hewlett Packard (HP)
+    Hewlett Packard (company)
+    Fairchild Semiconductor (company)
+    Fairchild (company)
     Moore (Law)
-    Haitz (Law)
-    Haitz (Law)
+    Philips Lumileds (company)
+    Philips Lumileds (company)
+    Haitz (law)
+    Haitz (law)
     Auger (recombination)
     Auger (recombination)
     Auger (recombination)
     Auger (processes)
-    Haitz (Law)
-    Shockley (diode)
+    Nobel (Prize)
+    Haitz (law)
+    Shockley (diode equation)
     Rayleigh (scattering)
+    Philips (corporation)
     Zener (diode)
     Zener (diode)
     Zener (diode)

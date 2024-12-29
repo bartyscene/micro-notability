@@ -51,5 +51,4 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Messenger_RNA&o
 
 Permalink_2005_01_10: https://en.wikipedia.org/w/index.php?title=Messenger_RNA&oldid=9898940
 [
-    
 ]

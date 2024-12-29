@@ -18,10 +18,6 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Wearable_comput
     Mann
     Gerald "Chip" Maguire
     Doug Platt
-    Carnegie
-    Mellon
-    Carnegie
-    Mellon
     Thad Starner
     Doug Platt
     Devon Sean McCullough
@@ -31,8 +27,6 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Wearable_comput
     Mik Lamming
     Mike Flynn
     Mark
-    Carnegie
-    Mellon
     Steve Mann
     Dr. Bruce H. Thomas
     Dr. Wayne Piekarski
@@ -47,9 +41,16 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Wearable_comput
     Samus Aran
     Leela
     Zack Freedman
+    Steve Mann
 
     /////Eponyms/////
+    Qing Dynasty
     Hewlett Packard (HP)
+    Carnegie Mellon University
+    Carnegie Mellon's Engineering Design Research Center
+    Carnegie Mellon University
+    Seiko Group
+    Seiko Epson Corporation
 ]
 
 Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Wearable_computer&oldid=641507365
@@ -75,10 +76,6 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Wearable_comput
     Steve Roberts
     Gerald "Chip" Maguire
     Doug Platt
-    Carnegie
-    Mellon
-    Carnegie
-    Mellon
     Thad Starner
     Doug Platt
     Devon Sean McCullough
@@ -94,12 +91,23 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Wearable_comput
     Warwick
     Dr. Bruce H Thomas
     Dr. Wayne Piekarski
+    Steve Mann
+    Paul Miller
 
     /////Eponyms///// 
+    Qing Dynasty
+    Girard-Perregaux AG
     Hewlett Packard (HP)
+    Seiko Group
+    Carnegie Mellon University
+    Carnegie Mellon's Engineering Design Research Center
+    Carnegie Mellon University
 ]
 
 Permalink_2005_01_10: https://en.wikipedia.org/w/index.php?title=Wearable_computer&oldid=9593251
 [
     Steve Mann
+    
+    /////Eponyms///// 
+    Seiko Group
 ]

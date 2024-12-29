@@ -116,13 +116,13 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Bayes (classifier)
     Moore (law)
     Parkinson (disease)
-    Goldman (The Goldman Sachs Group)
-    Sachs (The Goldman Sachs Group)
+    The Goldman Sachs Group
     Crane (Clean Energy Center)
     Alan Turing (Institute)
     Turing (test)
     Turing (test)
     Moravec (paradox)
+    Rossum's Universal Robots
 ]
 
 Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=641848453
@@ -196,9 +196,11 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Newell
     Simon
     Hubert Dreyfus
+    Dreyfus
     Gödel
     John Lucas
-    Roger Penrose 
+    Roger Penrose
+    Kurt Gödel
     Roger Penrose
     Roger Penrose
     Lucas
@@ -241,7 +243,7 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Arthur C. Clarke
 
     /////Eponyms/////
-    Moore (law)
+    Rossum's Universal Robots
     Moore (law)
     Johns Hopkins (Beast)
     Bayesian (networks)
@@ -263,12 +265,15 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Carnegie Mellon (University)
     Turing (test)
     Turing (machines)
-    Kurt Gödel
+    Gödelian (arguments)    
     Gödel (statements)
     Turing (program)
     Gödel (statement)
     Turing (machines)
     Planck (scale)
+    Moore (law)
+    Moore (law)
+    Rossum's Universal Robots
 ]
 
 Permalink_2005_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=9314633
@@ -281,6 +286,7 @@ Permalink_2005_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Searle 
     Searle 
     Searle 
+    Searle
     Daniel C. Dennett
     Simon Blackburn
     Roger Penrose
@@ -327,7 +333,7 @@ Permalink_2005_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Terry Winograd
     Kevin Warwick
     Raj Reddy
-
+    
     /////Eponyms/////
     Turing (test)
     Turing (test)
@@ -337,4 +343,5 @@ Permalink_2005_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Church-Turing (thesis)
     Church-Turing (thesis)
     Church-Turing (thesis)
+    Carnegie-Mellon University
 ]

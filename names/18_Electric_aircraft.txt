@@ -6,6 +6,8 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Electric_aircra
     William C. Brown
     Pascal Chretien
     Martine Rothblatt
+    Fred Militky
+    Heino Brditschka
     Chip Yates
     Freddie To
     David Williams
@@ -18,6 +20,7 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Electric_aircra
     Petróczy-Kármán-Žurovec PKZ-2
     Petróczy-Kármán-Žurovec PKZ-1
     Robinson R44
+    Guinness World Record 
     Militky MB-E1
     Brditschka HB-3
     X-57 Maxwell
@@ -30,13 +33,15 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Electric_aircra
     Mauro Solar Riser
     Mauro Solar Riser
     Kremer prize
-    MacCready Gossamer Penguin???
-    MacCready Solar Challenger???
+    Robinson R44
+    MacCready Gossamer Penguin
+    MacCready Solar Challenger
     Berblinger prize
     Berblinger competition
     Extra 330LE
     Pratt & Whitney Canada PT6
     Pratt & Whitney R-985 Wasp Junior
+    Robinson R44
     Petróczy-Kármán-Žurovec PKZ-1
     Extra 330
     Extra 330
@@ -85,6 +90,7 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Electric_aircra
     /////Eponyms/////
     Brditschka HB-3
     Militky MB-E1
+    Sikorsky Aircraft
     Militky MB-E1
     Militky MB-E1
     Mauro Solar Riser
@@ -94,10 +100,13 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Electric_aircra
     Kremer prize
     Kremer Speed Challenge
     Icaré II
+    Icaré II
     Berblinger prize 
+    Berblinger competition
     Icaré II
     Bevirt JM1 Joby
     Sikorsky S-300
+    Sisteron's airfield
     Monnett Moni Motor glider
     Schempp-Hirth Flugzeugbau Arcus-E
     Schempp-Hirth Flugzeugbau Arcus-E

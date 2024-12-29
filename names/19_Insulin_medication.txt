@@ -31,18 +31,19 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Insulin_(medica
     Axel Ullrich
 
     /////Eponyms/////
+    Hagedorn (Neutral Protamine)
+    Hagedorn (Neutral Protamine)
     Eli Lilly and Company (company)
+    Eli Lilly
     Lilly (company)
     Eli Lilly (company)
     Eli Lilly (company)
+    Hagedorn (Neutral Protamine)
     Eli Lilly and Company (company)
     Lilly (company)
     Abott (laboratories)
     Eli Lilly and Company (company)
-    Eli Lilly and Company (company)
-    Hagedorn (Neutral Protamine)
-    Hagedorn (Neutral Protamine)
-    Hagedorn (Neutral Protamine)
+    Eli Lilly and Company (company) 
 ]
 
 Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Insulin_(medication)&oldid=637465427
@@ -56,7 +57,7 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Insulin_(medica
     James Collip
     Leonard Thompson
     Elizabeth Hughes Gossett
-    Hagedorn
+    Hagedorn    
     D.M. Scott
     A.M. Fisher
     Hagedorn
@@ -71,6 +72,8 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Insulin_(medica
     Eli Lilly (company)
     Lilly (company)
     Lilly (company)
+    Lilly (company)
+    Eli Lilly (company)
     Eli Lilly (company)
     Hagedorn (Neutral Protamine)
     Eli Lilly and Company (company)

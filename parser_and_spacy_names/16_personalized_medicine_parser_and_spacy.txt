@@ -1,0 +1,32 @@
+TITLE: Personalized medicine
+
+REVISION ID: 636944595, TIMESTAMP: 2014-12-06T22:40:17Z
+
+PARSER NAMES:
+Disease
+New
+
+NER NAMES:
+
+
+
+REVISION ID: 1260391448, TIMESTAMP: 2024-11-30T14:24:43Z
+
+PARSER NAMES:
+National
+National
+President s Council
+Advisors
+Science
+Technology
+Disease
+U S. President
+National
+David
+Lazzari et al
+New
+
+NER NAMES:
+Barack Obama
+David Flockhart
+

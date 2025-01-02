@@ -1,0 +1,77 @@
+TITLE: Large language model
+
+REVISION ID: 1262992255, TIMESTAMP: 2024-12-14T01:56:03Z
+
+PARSER NAMES:
+Bahdanau et al
+OpenAI
+OpenAI
+Mistral AI
+Mistral
+Turing
+Mistral
+Schaeffer
+Karel
+Karel
+Karel
+Ilya Sutskever
+Connor Leahy
+George Lakoff
+Vyvyan Evans
+Shannon
+Jose
+Stanley
+Stanley
+Alice
+Alice
+OpenAI
+Kevin
+Yongge Wang
+OpenAI
+OpenAI
+OpenAI
+Turing
+OpenAI
+Mistral
+Mistral AI
+Mistral AI
+Mistral AI
+Nova
+Nova
+Nova
+Nova
+Dan Jurafsky Jurafsky
+Dan
+Martin
+James
+Deep
+
+NER NAMES:
+Bahdanau
+Schaeffer
+Ilya Sutskever
+Connor Leahy
+Terrence Sejnowski
+George Lakoff
+Vyvyan Evans
+Claude Shannon
+Alice
+Bob
+Alice
+Kevin Esvelt
+Yongge Wang
+Ernie Bot
+Claude
+BLOOM
+Chinchilla
+Falcon
+Llama
+Claude
+Claude
+Grok
+Gemma
+Fugaku
+Dan Jurafsky|Jurafsky
+Dan
+Martin
+

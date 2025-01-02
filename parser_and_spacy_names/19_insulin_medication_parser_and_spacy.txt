@@ -1,0 +1,211 @@
+TITLE: Insulin (medication)
+
+REVISION ID: 637465427, TIMESTAMP: 2014-12-10T12:19:51Z
+
+PARSER NAMES:
+PubChem
+Charles
+Charles
+Frederick Banting
+Medical
+Diabetes
+Diabetes
+Medical
+Clinical
+Institute
+Quality
+Health Care
+Health
+System
+Expert
+Mark
+Frederick Banting
+Charles
+Charles
+Toronto
+Thompson
+Thompson
+New
+Toronto
+Banting et al
+D M. Scott
+Frederick
+Wang
+Dorothy Crowfoot Hodgkin
+National Institute
+Health
+Clinical Excellence
+University
+Diabetes
+
+NER NAMES:
+Charles Herbert Best|Charles Best
+Frederick Banting
+Lys
+Ala
+Thr
+Ile
+Lys
+Ala
+Thr
+Ile
+Lys
+Thr
+Novolog
+Thr
+Ile
+Lys
+Thr
+Thr
+Ile
+Lys
+Thr
+Thr
+Ile
+Glu
+Thr
+Lantus
+Thr
+Ilc
+Gly
+Lys
+Thr
+Thr
+Lys
+Mark Fainaru-Wada
+Lance Williams
+Barry Bonds
+Frederick Banting
+Charles Herbert Best|Charles Best
+James Collip
+Leonard Thompson
+Thompson
+Elizabeth Hughes Gossett
+Banting
+Hagedorn
+D.M. Scott
+Hagedorn
+Frederick Sanger
+C.L. Tsou
+Wang Yinglai
+Dorothy Crowfoot Hodgkin
+Alfred E. Mann
+
+
+REVISION ID: 1257308371, TIMESTAMP: 2024-11-14T07:25:40Z
+
+PARSER NAMES:
+PubChem
+World Health Organization
+Medical
+Society
+Diabetes
+Diabetes
+Medical
+Clinical
+Institute
+Quality
+Health Care
+Health
+University
+Toronto
+University
+Toronto
+System
+Expert
+Peter Sönksen
+Mark
+National
+System
+Charles
+Charles
+Frederick Banting
+Frederick Banting
+Charles
+Charles
+Toronto
+Thompson
+Thompson
+American
+American
+Toronto
+Banting et al
+David M. Scott
+Toronto
+Frederick
+Wang
+Chen
+Dorothy Crowfoot Hodgkin
+Society
+Health
+National Health
+National Institute
+Health
+Clinical Excellence
+University
+Diabetes
+World Health Organization
+
+NER NAMES:
+Lys
+Ala
+Thr
+Ile
+Lys
+Ala
+Thr
+Lys
+Thr
+Ile
+Lys
+Thr
+Thr
+Ile
+Lys
+Thr
+Apidra
+Thr
+Ile
+Glu
+Thr
+Lantus
+Thr
+Ilc
+Gly
+Lys
+Thr
+Arg
+Thr
+Ile
+Lys
+Ile
+Nicolae C. Paulescu
+Paulescu
+Eli Lilly and
+James Collip
+Peter Sönksen
+Mark Fainaru-Wada
+Lance Williams
+Barry Bonds
+Bonds
+Ghent Wakefield
+Rich Piana
+Charles Best
+Frederick Banting
+Frederick Banting
+Charles Best
+James Collip
+Leonard Thompson
+Thompson
+James D. Havens
+James S. Havens
+Elizabeth Hughes Gossett
+Banting
+Hans Christian Hagedorn
+David M. Scott
+Albert M. Fisher
+Frederick Sanger
+Wang Yinglai
+Chen-Lu Tsou
+Dorothy Crowfoot Hodgkin
+

@@ -1,0 +1,745 @@
+TITLE: Insulin
+
+REVISION ID: 9269045, TIMESTAMP: 2005-01-09T06:25:00Z
+
+PARSER NAMES:
+Insulin
+Insulin
+Insulin
+Insulin
+Bernardo
+Opie
+University
+University
+University
+Toronto
+Frederick Banting
+He
+He
+Toronto
+John James
+Macleod J J R. Macleod
+Banting
+University
+Charles Best
+Banting
+Best
+Macleod
+Toronto
+Banting
+Macleod
+James Collip
+Thompson
+Collip
+Banting
+Best
+Collip
+Collip
+Best
+Insulin
+Macleod
+Banting
+Banting
+Best
+Best
+Collip
+Frederick Sanger
+Hodgkin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin as
+Insulin
+Insulin
+Insulin
+Medical
+Clinical
+Insulin
+Insulin
+Insulin
+de Insulin
+Insulin
+Insulin
+
+NER NAMES:
+Paul Langerhans
+Edouard Laguesse
+Oscar Minkowski
+Bernardo Houssay
+Minkowski
+Eugene Opie
+Georg Ludwig Zuelzer
+E.L. Scott
+Israel Kleiner
+Nicolae Paulescu
+Frederick Banting
+Minkowski
+Minkowski
+John James Richard Macleod|J.J.R. Macleod
+Banting
+Charles Best
+Banting
+Best
+Macleod
+Banting
+Macleod
+James Collip
+Leonard Thompson
+Collip
+Banting
+Best
+Collip
+Collip
+Best
+Macleod
+Banting
+Banting
+Best
+Best
+MacLeod
+Collip
+Frederick Sanger
+Dorothy Crowfoot Hodgkin
+ndash
+ndash
+
+
+REVISION ID: 641928527, TIMESTAMP: 2015-01-10T22:05:01Z
+
+PARSER NAMES:
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin from
+Insulin
+Insulin
+Insulin
+Insulin
+Frederick Sanger
+Hodgkin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Gerald Reaven
+Insulin
+Insulin
+Insulin
+Insulin
+History
+Opie
+Opie
+University
+University
+Carol
+University
+University
+He
+Frederick Banting
+He
+Banting
+He
+Banting
+Toronto
+John James
+Macleod J J R. Macleod
+University
+Toronto
+Macleod
+Macleod
+Banting
+He
+Banting
+Charles
+Best Charles Best
+Clark
+Banting
+Best
+Banting
+Best
+as Banting
+Banting
+Best
+Banting
+Banting
+Best
+Banting
+Best
+Macleod
+Toronto
+Macleod
+He
+Banting
+Best
+Banting
+Macleod
+Toronto
+Banting
+Macleod
+James Collip
+Thompson
+Thompson
+Toronto
+Thompson
+Collip
+American
+Elizabeth
+James D
+Dr
+John
+from Toronto
+Banting
+Best
+Collip
+Banting
+Best
+Collip
+Collip
+Best
+Insulin
+Frederick Sanger
+Frederick Sanger
+Panayotis Katsoyannis
+University
+University
+Institute
+National Medical
+Merrifield
+C. H. Best
+F. G. Banting
+Frederick Banting
+Charles
+Best Charles Best
+University
+Toronto
+Frederick Banting
+John James
+Macleod J J R. Macleod
+Banting
+Best
+Macleod
+James Collip
+University
+Toronto
+Frederick Sanger
+He
+Hodgkin
+Dr
+William Bosworth Castle William Castle
+Banting
+Best
+Collip
+Macleod
+Ian Murray
+Murray
+Association
+Murray
+Paulesco
+Toronto
+Institute
+Insulin
+Insulin
+Insulin
+Insulin
+Frederick Banting
+Insulin
+History
+Insulin
+Banting
+Best
+Macleod
+Collip
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+
+NER NAMES:
+Frederick Sanger
+Dorothy Hodgkin
+Gerald Reaven
+Paul Langerhans
+Edouard Laguesse
+Paul Langerhans'
+Archibald
+Oscar Minkowski
+Joseph von Mering
+Minkowski
+Eugene Lindsay Opie
+Opie
+George Ludwig Zuelzer
+E.L. Scott
+Israel Kleiner
+Frederick Banting
+Minkowski
+Banting
+Banting
+John James Rickard Macleod|J.J.R. Macleod
+Macleod
+Macleod
+Banting
+Banting
+Charles Herbert Best|Charles Best
+Clark Noble
+Banting
+Best
+Noble
+Banting
+Best
+Banting
+Noble
+Banting
+Best
+Noble
+Banting
+Banting
+Best
+Marjorie
+Marjorie
+Banting
+Best
+Macleod
+Macleod
+Banting
+Best
+Banting
+Macleod
+Banting
+James Collip
+Leonard Thompson
+Thompson
+Collip
+Elizabeth Hughes Gossett
+[[James D. Havens
+John Ralston Williams
+Havens
+Banting
+Best
+Collip
+Banting
+Best
+Collip
+Collip
+Best
+Frederick Sanger#Sequencing
+Panayotis Katsoyannis
+Helmut Zahn
+Arthur Riggs
+Riggs
+Keiichi Itakura
+Herbert Boyer
+Swanson
+Boyer
+Bruce Merrifield
+C. H. Best
+F. G. Banting
+Banting
+Charles Herbert Best|Charles Best
+Frederick Banting
+John James Rickard Macleod|J.J.R. Macleod
+Banting
+Best
+Macleod
+James Collip
+Frederick Sanger
+Dorothy Hodgkin
+Rosalyn Sussman Yalow
+George Minot
+William Bosworth Castle|William Castle
+Minot
+Nicolae Paulescu
+Collip
+Macleod
+Paulescu
+Ian Murray
+Nicolae Paulescu
+Murray
+Murray
+Paulesco
+Arne Tiselius|Tiselius
+Paulescu
+Frederick Banting
+
+
+REVISION ID: 1257123824, TIMESTAMP: 2024-11-13T10:33:06Z
+
+PARSER NAMES:
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin from
+Insulin
+Frederick Banting
+Charles Best
+Charles Best
+John Macleod
+John Macleod
+University
+Toronto
+Frederick Sanger
+Hodgkin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Insulin
+Gerald Reaven
+Medical
+Insulin
+Insulin
+Insulin
+Health
+Insulin
+National Health
+History
+American
+Opie
+University
+University
+He
+Edward
+Jean de
+Frederick Banting
+Banting
+He
+He
+Charles H. Best
+Clark
+Charles Best
+Charles Best
+Clark
+Banting
+Toronto
+John Macleod
+John Macleod
+University
+Toronto
+Macleod
+Banting
+Banting
+Macleod
+Banting
+Banting
+Charles Best
+Charles Best
+Clark
+Best
+as Banting
+Best
+Best
+Banting
+Best
+Banting
+Best
+Macleod
+Toronto
+Macleod
+He
+Banting
+Best
+Banting
+Macleod
+Toronto
+Banting
+Macleod
+He
+James Collip
+Elizabeth
+Elizabeth
+Thompson
+Thompson
+Toronto
+Thompson
+Collip
+American
+Elizabeth
+Elizabeth
+Charles Evans
+James D
+John
+from Toronto
+Banting
+Best
+Collip
+Collip
+Best
+Collip
+John G
+Macleod
+Banting
+Edward Calvin Kendall
+He
+University
+Banting
+Best
+Collip
+Macleod
+University
+Toronto
+Board
+Governors
+University
+Toronto Board
+Governors
+Health
+Insulin
+Robert
+Insulin
+Insulin
+John
+Abel
+Michael Somogyi
+Edward
+Doisy Edward A. Doisy
+Philip
+Shaffer Philip A. Shaffer
+Jensen
+A. Evans Jr
+Frederick Sanger
+Frederick Sanger
+Panayotis Katsoyannis
+University
+University
+Hodgkin
+University
+He
+American
+Association
+Donald Steiner
+Steiner
+Institute
+National Medical
+Merrifield
+C. H. Best
+F. G. Banting
+Frederick Banting
+Charles Best
+Charles Best
+University
+Toronto
+Frederick Banting
+John Macleod
+John Macleod
+Banting
+Best
+Macleod
+James Collip
+University
+Toronto
+Frederick Sanger
+William Bosworth Castle William Castle
+Hodgkin
+Banting
+Best
+Collip
+Macleod
+Ian Murray
+Murray
+Association
+Murray
+Toronto
+Institute
+Frederick Banting
+Insulin
+University
+Toronto
+Insulin
+Banting
+Best
+Macleod
+Collip
+Insulin
+Insulin
+Insulin
+Insulin
+
+NER NAMES:
+Frederick Banting
+Charles Best
+Best
+John Macleod
+Macleod
+Frederick Sanger
+Dorothy Hodgkin
+Brockmann
+Gerald Reaven
+Paul Langerhans
+Édouard Laguesse
+Paul Langerhans'
+Archibald
+Oskar Minkowski
+Joseph von Mering
+Eugene Lindsay Opie
+George Ludwig Zuelzer
+Ernest Lyman Scott|E.L. Scott
+Israel Kleiner
+Nicolae Paulescu
+Edward Albert Sharpey-Schafer
+Sharpey-Schafer
+Frederick Banting
+Minkowski
+Banting
+Charles H. Best
+Clark Noble
+Clark Noble
+Banting
+John Macleod
+Macleod
+Macleod
+Banting
+Banting
+Macleod
+Banting
+Banting
+Charles Best
+Clark Noble
+Best
+Noble
+Banting
+Best
+Best
+Banting
+Best
+Banting
+Best
+Macleod
+Macleod
+Banting
+Best
+Banting
+Macleod
+Banting
+Macleod
+[[James Collip
+Elizabeth Hughes
+Elizabeth Hughes
+Leonard Thompson
+Thompson
+Elizabeth Hughes Gossett|Elizabeth Hughes
+Charles Evans Hughes
+James D. Havens
+John Ralston Williams
+Havens
+Banting
+Best
+Collip
+Collip
+Best
+George B. Walden
+Collip
+John G. FitzGerald
+FitzGerald
+Banting
+Eli Lilly
+Edward Calvin Kendall
+Mayo
+Banting
+Best
+Collip
+Macleod
+FitzGerald
+Robert Defries
+Richardson
+John Jacob Abel
+Michael Somogyi
+Edward Adelbert Doisy|Edward A. Doisy
+Philip Anderson Shaffer|Philip A. Shaffer
+Hans Jensen
+Earl A. Evans Jr.
+Frederick Sanger#Sequencing
+Panayotis Katsoyannis
+Helmut Zahn
+Dorothy Hodgkin
+Hans E. Weber
+Weber
+Weber
+Weber
+Weber
+Donald Steiner
+Steiner
+Hans Weber
+Arthur Riggs
+Riggs
+Keiichi Itakura
+Herbert Boyer
+Swanson
+Boyer
+Bruce Merrifield
+C. H. Best
+F. G. Banting
+Charles Best
+Frederick Banting
+John Macleod
+Banting
+Best
+Macleod
+James Collip
+Frederick Sanger
+Rosalyn Sussman Yalow
+George Minot
+William Bosworth Castle|William Castle
+Minot
+Dorothy Hodgkin
+Nicolae Paulescu
+Banting
+Best
+Collip
+Macleod
+Paulescu
+Ian Murray
+Nicolae Paulescu
+Murray
+Murray
+Paulescu
+Arne Tiselius
+Paulescu
+Frederick Banting
+

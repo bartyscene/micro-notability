@@ -1,0 +1,68 @@
+A '''social robot''' is an [[autonomous robot]] that interacts and communicates with humans or other autonomous physical agents by following social behaviors and rules attached to its role. This definition suggests that a social [[robot]] must have a physical embodiment (screen characters would be excluded). Recently some robots have been developed that use a screen to display the robot's head. Such a machine is on the borderline of being a robot. If the body only functions as a holder for the screen then such a system cannot be considered a robot but if the robot has some physical motor and sensor abilities then such a system could be considered a robot.
+
+==Background==
+While robots have often been described  as possessing social qualities (see for example the tortoises developed by [[William Grey Walter]] in the 1950s), social robotics is a fairly recent branch of robotics. Since the early 1990s [[artificial intelligence]] and [[robotics]] researchers have developed robots which explicitly engage on a social level. Notable researchers include [[Cynthia Breazeal]], Tony Belpaeme, Aude Billard, Kerstin Dautenhahn, Yiannis Demiris, Maja Mataric and Brian Scassellati. Also related is the Kansai engineering movement in Japanese science and technology --- for social robotics, see especially work by Takayuki Kanda, Hideki Kozima, [[Hiroshi Ishiguro]] and Tomio Watanabe.
+
+Designing an [[Autonomy|autonomous]] social robot is particularly challenging, as the robot needs to correctly interpret people's action and respond appropriately, which is currently not yet possible. As such, many social robots are partially or fully [[remote control]]led, a method often referred to as [[Wizard of Oz (character)|Wizard of Oz]], after the character in the [[L. Frank Baum]] book. Wizard of Oz studies are useful to evaluate how people respond to social robots.
+
+==Definition==
+The definition states that a social robot should communicate and interact with humans and embodied agents. These are likely to be cooperative, but the definition is not limited to this situation. Moreover, uncooperative behavior can be considered social in certain situations. The robot could, for example, exhibit competitive behavior within the framework of a game. The robot could also interact with a minimum or no communication. It could, for example, hand tools to an astronaut working on a space station. However, it is likely that some communication will be necessary at some point.
+Two suggested ultimate requirements for social robots are the [[Turing Test]] to determine the robot's communication skills and [[Isaac Asimov]]'s [[Three Laws of Robotics]] for its behavior (The usefulness to apply these requirements in a real-world application, especially in the case of Asimov's laws, still is disputed and maybe not possible at all).  However, a consequence of this viewpoint is that a robot that only interacts and communicates with other robots would not be considered to be a social robot: Being social is bound to humans and their society which defines necessary social values, norms and standards. This results in a cultural dependency of social robots since social values, norms and standards differ between cultures.
+
+This brings us directly to the last part of the definition. A social robot must interact within the social rules attached to its role. The role and its rules are defined through society. For example a robotic butler for humans would have to comply with established rules of good service. It should be anticipating, reliable and most of all discreet. A social robot must be aware of this and comply with it. However, social robots that interact with other autonomous robots would also behave and interact according to non-human conventions.
+
+An example of social robot would be [[Kaspar (robot)|Kaspar]], designed by [[University of Hertfordshire]] to help children with autism learn responses from the robot through games and interactive play.                                                                                                                                                                                                                                  
+
+==Research Laboratories==
+* [http://robotic.media.mit.edu/ Personal Robots Group, MIT Media Lab, USA]
+* [http://scazlab.yale.edu Social Robotics Lab, Yale University] 
+* [http://srl.informatik.uni-freiburg.de Social Robotics Lab, University of Freiburg, Germany]
+* [http://www.asoro.a-star.edu.sg A*STAR Social Robotics, Singapore]
+* [http://robotics.nus.edu.sg Social Robotics Lab, National University of Singapore, Singapore]
+* [http://www.icd.tutkie.tut.ac.jp/en/profile.html Interactions and Communication Design (ICD) Lab, Toyohashi University of Technology, Japan]
+* [http://www.irc.atr.jp/en/ ATR Intelligent Robotics and Communication Laboratories, Kyoto, Japan]
+* [http://adapsys.stca.herts.ac.uk/ Adaptive Systems Research Group, University of Hertfordshire, Hatfield, U.K.]
+* [http://www.speech.kth.se/ Department for Speech, Music and Hearing, KTH Royal Institute of Technology, Stockholm, Sweden]
+
+==International Journals==
+* [http://www.springer.com/engineering/journal/12369 International Journal of Social Robotics]
+* [http://www.benjamins.com/cgi-bin/t_seriesview.cgi?series=IS Interaction Studies: Social Behaviour and Communication in Biological and Artificial Systems]
+
+==See also==
+{{Portal|Robotics}}
+* [[Kismet (robot)|Kismet]]
+* [[Joe Robot]]
+* [[Tico Robot|Tico]]
+
+==Further references==
+{{more footnotes|date=June 2011}}
+* Brian R. Duffy, ''Fundamental Issues in Affective Intelligent Social Machines'', The Open Artificial Intelligence Journal, pp.&nbsp;21–34 (14), ISSN: 1874-0618 Volume 2, 2008 
+* Cynthia L. Breazeal, ''Designing Sociable Robots'', MIT Press, 2002. ISBN 0-262-02510-8
+* Kerstin Dautenhahn, Trying to Imitate - a Step Towards Releasing Robots from Social Isolation, ''Proceedings: From Perception to Action Conference (Lausanne, Switzerland, September 7–9, 1994),'' editors: P. Gaussier and J.-D. Nicoud, IEEE Computer Society Press, pp 290–301, 1994. ISBN 0-8186-6482-7.
+* Kerstin Dautenhahn, Getting to know each other - artificial social intelligence for autonomous robots, ''Robotics and Autonomous Systems'' 16:333-356, 1995.
+* Terrence Fong, Illah R. Nourbakhsh, Kerstin Dautenhahn: A survey of socially interactive robots. ''Robotics and Autonomous Systems'' 42(3-4):143-166, 2003.
+* W. Grey Walter, "An Imitation of Life," ''Scientific American'', May 1950, pp 42–45.
+* Brian R. Duffy, "Social Embodiment in Autonomous Mobile Robotics", ''International Journal of Advanced Robotic Systems'' 1(3):155-170, 2004.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Social robots}}
+
+===Examples of social robots===
+* [http://www.personalrobotics.nl/mambo/index.php?option=com_content&task=view&id=25&Itemid=51 iCat user-interface robot with animated face]
+* [http://www.bartneck.de/2002/09/01/emuu/ eMuu]
+* [[Kaspar (robot)|KASPAR]]
+* [http://www.speech.kth.se/furhat/ Furhat]
+* [[Leonardo (robot)|Leonardo]]
+* [http://roboticslab.uc3m.es/roboticslab/robot.php?id_robot=1 Maggie]
+* [[Tico Robot|Tico]]
+* [[Media Lab Europe's social robots|Anthropos]]
+* [http://www.kumotek.com/entertainment_robots.htm/ ARTI: The Interactive Conversational Robot at Intel]
+* [http://probo.vub.ac.be The intelligent huggable robot PROBO]
+* [http://srl.informatik.uni-freiburg.de/realrobots DARYL]
+* [https://github.com/somenice/Pablo Pablo]
+* [[Paro (robot)|Paro]]
+
+[[Category:Social robots| ]]

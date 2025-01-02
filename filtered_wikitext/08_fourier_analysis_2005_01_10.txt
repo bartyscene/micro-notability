@@ -1,0 +1,80 @@
+The '''Fourier transform''', named for [[Jean Baptiste Joseph Fourier]], is an [[integral transform]] that re-expresses a function in terms of [[trigonometric function|sinusoidal]] [[basis function]]s, i.e. as a sum or integral of sinusoidal functions multiplied by some coefficients ("amplitudes").  There are many closely-related variations of this transform, summarized below, depending upon the type of function being transformed.  See also: [[List of Fourier-related transforms]].
+
+==Fourier transform uses==
+Fourier transforms have many scientific applications &mdash; in [[physics]], [[number theory]], [[combinatorics]], [[signal processing]], [[probability theory]], [[statistics]], [[cryptography]], [[acoustics]], [[oceanography]], [[optics]], [[geometry]], and other areas.  (In signal processing and related fields, the Fourier transform is typically thought of as decomposing a signal into its component [[frequency|frequencies]] and their [[amplitude]]s.) This wide applicability stems from several useful properties of the transforms:
+
+* The transforms are [[linear operator]]s and, with proper normalization, are [[unitary operator|unitary]] as well (a property known as [[Parseval's theorem]] or, more generally, as the [[Plancherel theorem]], and most generally via [[Pontryagin duality]]).
+
+* The transforms are invertible, and in fact the inverse transform has almost the same form as the forward transform.
+
+* The sinusoidal basis functions are [[eigenfunctions]] of [[derivative|differentiation]], which means that this representation transforms linear [[differential equation]]s with constant coefficients into ordinary algebraic ones.  (For example, in a linear time-invariant physical system, [[frequency]] is a conserved quantity, so the behavior at each frequency can be solved independently.)
+
+* By the [[convolution theorem]], Fourier transforms turn the complicated [[convolution]] operation into simple multiplication, which means that they provide an efficient way to compute convolution-based operations such as [[polynomial]] multiplication and [[multiplication algorithm|multiplying large numbers]].
+
+* The discrete version of the Fourier transform (see below) can be evaluated quickly on computers, using algorithms based on the [[fast Fourier transform]] (FFT).
+
+==Variants of the Fourier transform==
+===[[Continuous Fourier transform]]===
+Most often, the unqualified term "Fourier transform" refers to the [[continuous Fourier transform]], representing any square-[[Lebesgue integral|integrable]] function ''f''(''t'') as a sum of [[complex number|complex]]  exponentials with angular frequencies &omega; and complex amplitudes ''F''(&omega;):
+
+:<math>f(t) = \mathcal{F}^{-1}(F)(t)
+ = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty F(\omega) e^{i\omega t}\,d\omega.</math>
+
+This is actually the ''inverse'' continuous Fourier transform, whereas the Fourier transform expresses ''F''(&omega;) in terms of ''f''(''t''); the original function and its transform are sometimes called a ''transform pair''. See [[continuous Fourier transform]] for more information, including a table of transforms, discussion of the transform properties, and the various conventions.  A generalization of this transform is the [[fractional Fourier transform]], by which the transform can be raised to any real "power". 
+
+===[[Fourier series]]===
+The continuous transform is itself actually a generalization of an earlier concept, a [[Fourier series]], which was specific to periodic (or finite-domain) functions ''f''(''x'') (with period 2&pi;), and represents these functions as a [[series (mathematics)|series]] of sinusoids:
+
+:<math>f(x) = \sum_{n=-\infty}^{\infty} F_n \,e^{inx} ,</math>
+
+where <math>F_n</math> is the (complex) amplitude. Or, for [[real number|real]]-valued functions, the Fourier series is often written:
+
+:<math>f(x) = \frac{1}{2}a_0 + \sum_{n=1}^\infty\left[a_n\cos(nx)+b_n\sin(nx)\right],</math>
+
+where ''a''<sub>''n''</sub> and ''b''<sub>''n''</sub> are the (real) Fourier series amplitudes.
+
+===[[Discrete Fourier transform]]===
+For use on computers, both for scientific computation and [[digital signal processing]], one must have functions ''x''<sub>''k''</sub> that are defined over ''discrete'' instead of continuous domains, again finite or periodic.  In this case, one uses the [[discrete Fourier transform]] (DFT), which represents ''x''<sub>''k''</sub> as the sum of sinusoids:
+
+:<math>x_k = \frac{1}{n} \sum_{j=0}^{n-1} f_j e^{2\pi ijk/n} \quad \quad k = 0,\dots,n-1</math>
+
+where ''f''<sub>''j''</sub> are the Fourier amplitudes. Although applying this formula directly would require O(''n''<sup>2</sup>) operations, it can be computed in only O(''n'' log ''n'') operations using a [[fast Fourier transform]] (FFT) algorithm (see [[Big O notation]]), which makes Fourier transformation a practical and important operation on computers.  
+
+===Other variants===
+The DFT is a special case of (and is sometimes used as an approximation for) the [[discrete-time Fourier transform]] (DTFT), in which the ''x''<sub>''k''</sub> are defined over discrete but infinite domains, and thus the spectrum is continuous and periodic.  The DTFT is essentially the inverse of the Fourier series.
+
+These Fourier variants can also be generalized to Fourier transforms on arbitrary [[locally compact]] [[abelian]] [[topological group]]s, which are studied in [[harmonic analysis]]; there, one transforms from a group to its [[dual group]]. This treatment also allows a general formulation of the [[convolution theorem]], which relates Fourier transforms and [[convolution]]s.  See also the [[Pontryagin duality]] for the generalized underpinnings of the Fourier transform.
+
+==Interpretation in terms of time and frequency==
+
+In terms of [[signal]] processing, the transform takes a [[time series]]  representation of a signal function and maps it into a [[frequency spectrum]], where &omega; is [[angular frequency]].  That is, it takes a function in the [[time]] domain into the [[frequency]] domain; it is a [[orthogonal system|decomposition]] of a function into [[harmonic]]s of different frequencies.
+
+When the function ''f'' is a function of time and represents a physical [[signal]],
+the transform has a standard interpretation as the [[spectrum]] of the signal. The [[magnitude (mathematics)|magnitude]] of the resulting complex-valued function ''F'' represents the [[amplitude]]s of the respective frequencies (&omega;), while the [[phase_(waves)|phase shift]]s are given by ''arctan(imaginary parts/real parts)''.
+
+However, it is important to realize that Fourier transforms are not limited to functions of time, and temporal frequencies.  They can equally be applied to analyze ''spatial'' frequencies, and indeed for nearly any function domain.
+
+==References==
+Smith, Steven W. ''The Scientist and Engineer's Guide to Digital Signal Processing'', 2nd edition. San Diego: California Technical Publishing, 1999. ISBN 0-9660176-3-3. ''(also available online: [http://www.dspguide.com/pdfbook.htm])''
+
+==See also==
+
+*[[Number-theoretic transform]]
+*[[Laplace transform]]
+*[[Orthogonal functions]]
+*[[Wavelet]]
+*[[Chirplet]]
+
+==External links==
+*[http://wims.unice.fr/wims/wims.cgi?session=6WA23CFB0C.3&+lang=en&+module=tool%2Fanalysis%2Ffourierlaplace.en Online Computation] of the transform or inverse transform, wims.unice.fr
+
+[[Category:Fourier analysis]]
+[[Category:Integral transforms]]
+[[Category:Digital signal processing]]
+[[Category:Numerical analysis]]
+[[de:Fourier-Transformation]]
+[[fr:transformée de Fourier]]
+[[ja:&#12501;&#12540;&#12522;&#12456;&#22793;&#25563;]]
+[[pl:Transformata Fouriera]]
+[[pt:Transformada de Fourier]]
+[[zh:&#20613;&#37324;&#21494;&#21464;&#25442;]]

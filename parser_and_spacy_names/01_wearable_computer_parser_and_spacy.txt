@@ -1,0 +1,156 @@
+TITLE: Wearable computer
+
+REVISION ID: 9593251, TIMESTAMP: 2004-11-27T16:44:51Z
+
+PARSER NAMES:
+Mann
+
+NER NAMES:
+Steve Mann
+
+
+REVISION ID: 641507365, TIMESTAMP: 2015-01-08T01:10:25Z
+
+PARSER NAMES:
+Mann
+Mann
+Thorp
+Shannon
+Mann
+Mann
+Edward O. Thorp
+Shannon
+Thorp
+Thorp
+Mann
+Mann
+Gerald
+Electronic
+Electronic
+Research Center
+Thad Starner
+Starner
+Edgar Matias
+H Thomas
+Piekarski
+Mann
+Paul Miller
+
+NER NAMES:
+Steve Mann|Steve Mann
+Breguet
+Thorp
+Shannon
+Steve Mann
+Mann
+Woodward Yang
+Breguet
+Girard-Perregaux
+Edward O. Thorp
+Claude Shannon
+Thorp
+Thorp
+Steve Mann
+Mann
+Steve Roberts
+Steve Roberts'
+Gerald "Chip" Maguire's
+Doug Platt's
+Thad Starner]
+Doug Platt
+Devon Sean McCullough
+Starner
+Edgar Matias]
+Mike Ruicci
+Mik Lamming
+Mike Flynn
+Mark
+Kevin Warwick]
+Warwick
+Irena
+Warwick
+Warwick
+Bruce H Thomas
+Wayne Piekarski
+Steve Mann
+Paul Miller
+
+
+REVISION ID: 1257964292, TIMESTAMP: 2024-11-17T12:12:18Z
+
+PARSER NAMES:
+Mann
+Mann
+Thorp
+Shannon
+Mann
+Mann
+Mann
+Edward O. Thorp
+Shannon
+Thorp
+Thorp
+Mann
+Mann
+Mann
+Mann
+Gerald
+Electronic
+Electronic
+Research Center
+Thad Starner
+Starner
+Edgar Matias
+Mann
+H. Thomas
+Piekarski
+Information
+Mann
+Mann
+
+NER NAMES:
+Steve Mann
+Mann
+Elizabeth I
+Thorp
+Shannon
+Steve Mann
+Mann
+Mann
+Woodward Yang
+Elizabeth I
+Elizabeth I
+Robert Dudley
+Edward O. Thorp
+Claude Shannon
+Thorp
+Thorp
+Steve Mann
+Mann
+Steve Mann
+Seiko Epson
+Gerald "Chip" Maguire's
+Doug Platt's
+Thad Starner]
+Doug Platt]
+Devon Sean McCullough
+Starner
+Edgar Matias]
+Mike Ruicci
+Mik Lamming
+Mike Flynn
+Mark
+Steve Mann
+Bruce H. Thomas
+Wayne Piekarski
+Kevin Warwick
+Kevin Warwick#Project Cyborg|Project
+Warwick
+Irena
+Warwick
+Warwick
+Samus Aran
+Leela
+Zack Freedman
+Steve Mann
+

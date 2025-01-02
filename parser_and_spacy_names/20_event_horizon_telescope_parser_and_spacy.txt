@@ -1,0 +1,65 @@
+TITLE: Event Horizon Telescope
+
+REVISION ID: 636736540, TIMESTAMP: 2014-12-05T09:57:30Z
+
+PARSER NAMES:
+Event Horizon Telescope
+Event Horizon Telescope
+James
+Telescope
+Telescope
+Fulvio Melia
+Fulvio Melia
+Event Horizon Telescope
+
+NER NAMES:
+Fulvio Melia
+Fulvio Melia
+
+
+REVISION ID: 1251024930, TIMESTAMP: 2024-10-13T23:27:05Z
+
+PARSER NAMES:
+Event Horizon Telescope
+Event Horizon Telescope
+Event Horizon Telescope
+Event Horizon Telescope
+EHT Collaboration
+Collaboration
+Telescope
+Telescope
+Event Horizon Telescope
+Event Horizon Telescope
+Event Horizon Telescope Collaboration
+Blandford Znajek
+Jan Högbom
+Katherine Bouman
+Avery Broderick
+EHT Collaboration
+EHT Collaboration
+Event Horizon Telescope
+EHT Collaboration
+Telescope
+Event Horizon Telescope
+James
+Telescope
+Telescope
+Telescope
+Telescope
+EHT Collaboration
+Telescope
+Telescope
+EHT Collaboration
+Event Horizon Telescope
+
+NER NAMES:
+Albert Einstein
+Paul T.P. Ho
+Blandford
+Jan Högbom
+Katherine Bouman
+Avery Broderick
+Sera Markoff
+Junkkarinen
+Alfonso Serrano
+

@@ -1,0 +1,85 @@
+TITLE: Social robot
+
+REVISION ID: 10745585, TIMESTAMP: 2004-11-23T10:49:16Z
+
+PARSER NAMES:
+
+
+NER NAMES:
+
+
+
+REVISION ID: 628829934, TIMESTAMP: 2014-10-08T19:38:53Z
+
+PARSER NAMES:
+Grey Walter
+Cynthia Breazeal
+Tony
+Kerstin Dautenhahn
+Brian
+Brian R. Duffy
+Cynthia L. Breazeal
+Kerstin Dautenhahn
+P. Gaussier
+J. D. Nicoud
+Kerstin Dautenhahn
+Terrence Fong
+Illah R. Nourbakhsh
+Kerstin Dautenhahn
+W. Grey Walter
+Brian R. Duffy
+
+NER NAMES:
+William Grey Walter
+Tony Belpaeme
+Aude Billard
+Kerstin Dautenhahn
+Yiannis Demiris
+Maja Mataric
+Brian Scassellati
+Kansai
+Takayuki Kanda
+Hideki Kozima
+Hiroshi Ishiguro
+Tomio Watanabe
+Wizard of Oz
+L. Frank Baum
+Asimov
+Kismet
+Brian R. Duffy
+Cynthia L. Breazeal
+Kerstin Dautenhahn
+P. Gaussier
+J.-D. Nicoud
+Kerstin Dautenhahn
+Terrence Fong
+Illah R. Nourbakhsh
+Kerstin Dautenhahn
+W. Grey Walter
+Brian R. Duffy
+Kaspar
+Leonardo
+Maggie
+Tico
+
+
+REVISION ID: 1243236040, TIMESTAMP: 2024-08-31T09:10:25Z
+
+PARSER NAMES:
+Grey Walter
+Moro
+Moyle
+United Nations
+
+NER NAMES:
+William Grey Walter
+L. Frank Baum
+Asimov
+Moro
+Moyle
+Nao
+Paro
+Paro
+Pepper
+Nao
+

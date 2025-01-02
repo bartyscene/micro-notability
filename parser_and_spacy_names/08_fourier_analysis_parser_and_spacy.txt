@@ -1,0 +1,144 @@
+TITLE: Fourier analysis
+
+REVISION ID: 9494202, TIMESTAMP: 2005-01-10T12:44:35Z
+
+PARSER NAMES:
+Smith
+Steven W
+
+NER NAMES:
+Jean Baptiste Joseph Fourier
+Fourier
+Smith
+Steven W.
+
+
+REVISION ID: 637221956, TIMESTAMP: 2014-12-08T20:59:46Z
+
+PARSER NAMES:
+Rudin
+Evans
+Knuth
+Conte de Boor
+Carl
+Carl
+Carl
+Conte
+de Boor
+Carl
+Evans
+Howell
+Kenneth B
+Press
+Kamen
+B S. Heck
+Donald E
+Knuth
+Polyanin
+A V. Manzhirov
+Press
+Walter
+Rudin
+Smith
+Steven W
+Stein
+G. Weiss
+Press
+Steven
+
+NER NAMES:
+Joseph Fourier
+Fourier
+Parseval
+Pontryagin
+Nyquist
+Shannon
+Alexis Clairaut
+Joseph Louis Lagrange
+Clairaut
+Lagrange
+Carl Friedrich Gauss|Gauss
+Euler
+Lagrange
+Fourier
+Lagrange
+Lagrange
+Carl Friedrich Gauss
+Joseph Fourier
+Fourier
+Lagrange
+Fourier
+Daniel Bernoulli
+Leonhard Euler
+Lagrange
+Fourier
+Carl Friedrich Gauss
+Tukey
+Conte
+S. D.
+de Boor
+Carl
+Howell
+Kenneth B.
+Kamen
+B.S. Heck
+Donald E.|last=
+Polyanin
+A.V. Manzhirov
+Smith
+Steven W.
+Stein
+G. Weiss
+Steven Lehar
+Alan Peters
+Joseph Fourier
+
+
+REVISION ID: 1263338092, TIMESTAMP: 2024-12-16T02:39:13Z
+
+PARSER NAMES:
+Carl
+Carl
+Carl
+Steven
+
+NER NAMES:
+Fourier
+Joseph Fourier
+Fourier
+Fourier
+Fourier
+Parseval
+Pontryagin
+Fourier
+Nyquist
+Whittaker
+Shannon
+Fourier
+Alexis Clairaut
+Joseph Louis Lagrange
+Clairaut
+Lagrange
+Carl Friedrich Gauss|Gauss
+Euler
+Lagrange
+Fourier
+Lagrange
+Lagrange
+Lagrange
+Jean le Rond d'Alembert
+Carl Friedrich Gauss
+Lagrange
+Fourier
+Daniel Bernoulli
+Leonhard Euler
+Lagrange
+Fourier
+Carl Friedrich Gauss
+Tukey
+Fourier
+Walsh
+Steven Lehar
+Alan Peters
+Joseph Fourier
+

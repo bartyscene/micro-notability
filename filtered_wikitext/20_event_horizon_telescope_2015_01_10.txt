@@ -1,0 +1,31 @@
+{{cleanup|date=February 2012}}
+The '''Event Horizon Telescope''' is a project to create a [[Astronomical interferometer|telescope array]] combining data from [[Very-long-baseline interferometry|VLBI]] stations around the Earth to observe the immediate environment of the [[Milky Way]]'s [[supermassive black hole]] [[Sagittarius A*]] with [[angular resolution]] comparable to the [[event horizon]].                                                                                                                                                                                                                                                                                                                                           
+
+The group proposes till 2022 to combine existing and planned millimeter/submillimeter facilities into a high-sensitivity, high angular resolution Event Horizon Telescope.  The effort will include development and deployment of submillimeter dual polarization receivers, highly stable frequency standards to enable VLBI at 230–450&nbsp;GHz, higher-bandwidth VLBI backends and recorders, as well as commissioning of new submillimeter VLBI sites.                                                                                       
+
+==Contributing Institutes==
+*[[Haystack Observatory]], [[Arizona Radio Observatory|MIT]]
+*[[Arizona Radio Observatory]], [[University of Arizona]]
+*[[Harvard–Smithsonian Center for Astrophysics]]
+*[[Radio Astronomy Laboratory]], [[UC Berkeley]]
+*[[Joint Astronomy Centre]] - [[James Clerk Maxwell Telescope]]
+*[[Caltech Submillimeter Observatory]]
+*[[Combined Array for Research in Millimeter-wave Astronomy]]
+*[[Max Planck Institute for Radio Astronomy|Max Planck Institut für Radioastronomie]]
+*[[National Astronomical Observatory of Japan]]
+*[[Institut de Radio Astronomie Millimetrique]]
+*[[National Radio Astronomy Observatory]]
+*[[Academia Sinica]] Institute for Astronomy and Astrophysics
+*[[Onsala Space Observatory]]
+*[[Large Millimeter Telescope]]
+
+==References==
+{{Reflist}}
+
+*''Non-technical'': [http://press.princeton.edu/titles/7480.html The Black Hole at the Center of Our Galaxy] (2001), [[Fulvio Melia]] ([[Princeton University Press]]), ISBN  0691095051
+*''Technical'': [http://press.princeton.edu/titles/8453.html The Galactic Supermassive Black Hole] (2008), [[Fulvio Melia]] ([[Princeton University Press]]), ASIN: B008VQXCN2
+
+==External links==
+*[http://eventhorizontelescope.org/ Event Horizon Telescope, official website]
+
+[[Category:Interferometric telescopes]]

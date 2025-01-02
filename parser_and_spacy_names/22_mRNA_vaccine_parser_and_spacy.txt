@@ -1,0 +1,15 @@
+TITLE: MRNA vaccine
+
+REVISION ID: 1263884120, TIMESTAMP: 2024-12-19T05:22:35Z
+
+PARSER NAMES:
+Katalin Karikó
+Drew Weissman
+Margaret A
+Margaret
+
+NER NAMES:
+Katalin Karikó
+Drew Weissman
+Margaret A. Liu|Margaret Liu
+

@@ -1,0 +1,560 @@
+TITLE: Fourier series
+
+REVISION ID: 9317792, TIMESTAMP: 2004-12-23T01:13:47Z
+
+PARSER NAMES:
+Fourier
+Joseph Fourier
+Fourier
+Fourier
+Dirichlet
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Yitzhak Katznelson
+Fourier
+Fourier
+Fourier
+
+NER NAMES:
+Fourier
+Joseph Fourier
+Euler
+Fourier
+Daniel Bernoulli
+Fourier
+Fourier
+Fourier
+Fourier
+Parseval
+Yitzhak Katznelson
+Fourier
+
+
+REVISION ID: 641124498, TIMESTAMP: 2015-01-05T19:05:29Z
+
+PARSER NAMES:
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Jean Baptiste Joseph Fourier
+Jean
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Peter Gustav Lejeune Dirichlet
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Dirichlet
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+by Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Joseph Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Joseph
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+A Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Peter
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Peter
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Katznelson
+Dirichlet
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+by Alexander Freeman
+Fourier
+by M
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+by John H
+Joseph Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Joseph Fourier
+
+NER NAMES:
+Nyquist
+Fourier
+Fourier
+Fourier
+Fourier
+Jean-Baptiste Joseph Fourier
+Leonhard Euler
+Jean le Rond d'Alembert
+Daniel Bernoulli
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Peter Gustav Lejeune Dirichlet
+Bernhard Riemann
+Fourier
+Hilbert
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Daniel Bernoulli
+Carl Friedrich Gauss|Gauss
+Fourier
+Fourier
+Joseph Louis Lagrange|Lagrange
+Étienne-Louis Malus|Malus
+Adrien-Marie Legendre|Legendre
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Bloch
+Kronecker
+Parseval
+Plancherel
+Fourier
+Fourier
+Fourier
+Parseval
+Fourier
+Lennart Carleson
+Fourier
+Fourier
+Fourier
+Andrey Kolmogorov
+Lebesgue
+Fejér
+Laurent
+Alexander Freeman
+Fourier
+Felix Klein
+M. Ackerman
+John H. Mathews
+Joseph Fourier
+Fourier
+Fourier
+Fourier
+Joseph Fourier
+
+
+REVISION ID: 1263880062, TIMESTAMP: 2024-12-19T04:41:08Z
+
+PARSER NAMES:
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Joseph Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Jean Baptiste Joseph Fourier
+Jean
+Fetter Walecka
+Fourier
+Fourier
+Fourier
+Fourier
+Jean Baptiste Joseph Fourier Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Peter Gustav Lejeune Dirichlet
+Fourier
+Fourier
+Joseph Fourier
+Fourier
+Joseph Fourier
+Fourier
+Fourier
+by Fourier
+Fourier
+Fourier
+Fourier
+Jean
+Fourier
+Fourier
+Joseph
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+by Fourier
+Fourier
+Folland
+Fourier
+Dirichlet
+Dirichlet
+Dirichlet
+Khare Butola Rajora
+Proakis Manolakis
+Fourier
+A Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Stade
+Fourier
+Folland
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Dirichlet
+Fourier
+Fourier
+Stade
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Proakis Manolakis
+Oppenheim Schafer
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Peter
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Peter
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Rudin
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Dirichlet
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Dirichlet
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+by Alexander Freeman
+Fourier
+by M
+Fourier
+Fourier
+Joseph Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Joseph Fourier
+
+NER NAMES:
+Joseph Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Jean-Baptiste Joseph Fourier
+Leonhard Euler
+Jean le Rond d'Alembert
+Daniel Bernoulli]].{{efn
+D'Alembert
+Euler
+Euler
+Bernoulli
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Peter Gustav Lejeune Dirichlet
+Bernhard Riemann
+Fourier
+Joseph Fourier
+Fourier
+Fourier
+Fourier
+Poisson
+Fourier
+Fourier
+Fourier
+Fourier
+Jean le Rond d'Alembert|d'Alembert
+Daniel Bernoulli
+Carl Friedrich Gauss|Gauss
+Fourier
+Fourier
+Joseph Louis Lagrange|Lagrange
+Adrien-Marie Legendre|Legendre
+Fourier
+Fourier
+Fourier
+Parseval
+Basel
+Parseval
+Plancherel
+Fourier
+Fourier
+Bloch
+Kronecker
+Carleson
+Hilbert
+Fourier
+Parseval
+Fourier
+Lennart Carleson
+Andrey Kolmogorov
+Lebesgue
+Carleson
+Fejér
+Laurent
+Alexander Freeman
+Fourier
+Felix Klein
+M. Ackerman
+FourierSeries
+Joseph Fourier
+Fourier
+Fourier
+Fourier
+Joseph Fourier
+

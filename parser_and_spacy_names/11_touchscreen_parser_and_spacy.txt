@@ -1,0 +1,117 @@
+TITLE: Touchscreen
+
+REVISION ID: 10626356, TIMESTAMP: 2004-10-21T10:20:09Z
+
+PARSER NAMES:
+Touch
+Touch
+Information
+Touch
+
+NER NAMES:
+
+
+
+REVISION ID: 641144269, TIMESTAMP: 2015-01-05T21:43:01Z
+
+PARSER NAMES:
+Simon
+Simon
+Simon
+Stumpe
+Bent Stumpe
+Stumpe
+E A. Johnson
+Frank Beck
+Bent Stumpe
+Bent Stumpe
+Sears
+Sun
+Sun
+Simon
+Touch
+Touch
+Brown
+Touch
+Touch
+
+NER NAMES:
+Bent Stumpe
+Stumpe
+E.A. Johnson
+Frank Beck
+Bent Stumpe
+Bent Stumpe's
+G. Samuel Hurst
+Bill Buxton
+Gene Mosher
+Sears
+Brewster
+Chohan
+Brown
+Hogan
+
+
+REVISION ID: 1262838270, TIMESTAMP: 2024-12-13T10:59:49Z
+
+PARSER NAMES:
+Stumpe
+Frank Beck
+Frank Beck
+Bent Stumpe Stumpe
+Johnson
+Rainer Mallebrein
+Frank Beck
+Frank Beck
+Bent Stumpe
+Stumpe
+Beck
+Stumpe
+Johnson
+Stumpe
+Beck
+Stumpe
+Touch
+Sears
+Sun
+Sun
+Simon
+Stumpe
+Beck
+Displays
+Touch
+Touch
+Brown
+Touch
+
+NER NAMES:
+Frank Beck (
+Beck
+Bent Stumpe|Stumpe
+Eric Johnson
+Frank Beck
+Beck
+Bent Stumpe
+Stumpe
+Beck
+Stumpe
+George Samuel Hurst
+Bob Boie
+Boie
+Boie
+Bill Buxton
+Bill Buxton
+Boie
+Johnson
+Stumpe
+Beck
+Stumpe
+Bill Buxton
+Gene Mosher
+Sears
+Bob Boie
+Stumpe
+Brewster
+Chohan
+Hogan
+

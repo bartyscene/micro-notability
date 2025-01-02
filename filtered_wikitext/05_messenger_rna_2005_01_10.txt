@@ -1,0 +1,36 @@
+[[Image:MRNA-interaction.png|thumb|300px|The interaction of '''mRNA''' in a eukaryote cell. RNA is created in the [[Transcription (genetics)|transcription]]; after [[splicing (genetics)|splicing]] and [[polyadenylation]] it is transported to the [[cytoplasm]], and [[Translation (genetics)|translation]] occurs in a [[ribosome]].]]
+'''Messenger RNA''' ('''mRNA''') is [[RNA]] that carries information from [[DNA]] to the ribosome sites of protein synthesis in the cell.
+mRNA runs through several steps during its usually brief existence: During [[Transcription (genetics)|transcription]], an enzyme called [[RNA polymerase]] makes a copy of a gene from the DNA to mRNA as needed. In [[prokaryote]]s, no further processing of mRNA occurs (except in rare cases), and often [[Translation (genetics)|translation]] of the mRNA into protein occurs even while transcription is going on. In [[eukaryote]]s, transcription and translation occur in different parts of the cell (transcription in the [[cell nucleus|nucleus]], where DNA is kept, and translation in the [[cytoplasm]], where [[ribosome]]s reside). Also in eukaryotes, mRNA undergoes several processing steps before it is ready to be translated:
+#The addition of a [[5' cap]]. A modified guanine nucleotide is added to the "front" of the message. This is critical for recognition and proper attachment of the ribosome.
+# [[splicing]] - The pre-mRNA is modified to remove certain stretches of non-coding sequences called [[intron]]s; the stretches that remain include protein-coding sequences and are called [[exon]]s. Sometimes one pre-mRNA message may be spliced in several different ways, allowing a single gene to encode multiple proteins. Most RNA splicing is performed by [[enzyme]]s, but some RNA molecules are also capable of catalyzing their own splicing (''see [[ribozyme]]s'').
+# [[polyadenylation]] - A sequence (often several hundred) of [[adenine]] nucleotides is added to the 3' end of the pre-mRNA. This helps increase the [[half-life]] of the message, so that the transcript lasts longer in the cell and consequently is translated more and produces more protein.
+
+After the mRNA has been processed, it is exported from the nucleus into the cytoplasm, where it is bound to [[ribosome]]s and translated into protein. After a certain amount of time the message degrades into its component nucleotides, usually with the assistance of [[RNase]]s.
+
+Messenger RNA that has been processed and is ready for transcription is called a "mature transcript" or "mature mRNA" or sometimes simply "mRNA". Unprocessed or partially-processed messenger RNA is called "pre-mRNA" or "hnRNA" (for [[heterogeneous nuclear RNA]]).
+
+== Untranslated regions ==
+
+There are sections of the RNA before and after its  start and stop sequences that are not translated.  These come from the template DNA strand that the RNA was transcribed from.  These regions, known as the 5'UTR and 3'UTR (five-prime and three-prime untranslated regions, respectively, due to the fact that DNA and RNA run from 5' to 3' and this region is on the end of the RNA sequence) code for no protein sequences.  However, their importance lies in the belief that the sequence of the [[5' UTR]] and [[3' UTR]] may, by their varying affinity for certain RNase enzymes, promote or inhibit the relative stability of the RNA molecule.  Certain UTRs may allow the RNA to survive longer in the cytoplasm before being degraded, thus allowing them to produce more protein, while others may be degraded sooner, thus lasting a shorter time and producing a smaller relative amount of protein.
+
+Also, there is evidence that certain complexes within the UTRs may not only affect the stability of the molecule, but that they may promote translational efficiency or even cause inhibition of translation altogether, depending on the sequences in the UTRs.
+
+Some functional elements contained in untranslated regions form a characteristic [[secondary structure]] when transcribed into RNA.  These structural mRNA elements are involved in regulating the mRNA.  Some, such as the [[SECIS element]], are targets for proteins to bind.  One class of mRNA element, the [[riboswitch]]es, directly bind small molecules, changing their fold to modify levels of transcription or translation.  In these cases, the mRNA regulates itself.
+
+== Anti-sense mRNA ==
+
+Anti-sense mRNA can inhibit gene translation in many eukaryotes, when
+the anti-sense RNA's sequence is complementary to that of the mRNA of the gene. This means a gene is not expressed as protein if a matching anti-sense mRNA is present in the cell. This may be a defense mechanism against [[retrotransposon]]s ([[transposon]]s that use dsRNA as an intermediate state) or viruses, because both can use double-stranded mRNA as an intermediate. In biochemical research, this effect has been used to study gene function, simply shutting down the
+studied gene by adding its anti-sense mRNA transcript. Such studies
+have been done on the worm ''[[C. elegans]]''.
+
+Compare [[RNA interference]].
+
+
+[[de:mRNA]]
+[[es:ARN mensajero]]
+[[ja:mRNA]]
+[[nl:Messenger RNA]]
+[[pl:mRNA]]
+
+[[Category:RNA]][[Category:Gene expression]]

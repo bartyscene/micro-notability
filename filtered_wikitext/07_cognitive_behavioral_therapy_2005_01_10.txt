@@ -1,0 +1,47 @@
+'''Cognitive therapy''' or '''cognitive behavior therapy''' is a kind of [[psychotherapy]] used to treat [[Clinical depression|depression]], [[anxiety disorder]]s, [[phobia]]s, and other forms of [[psychological disorder]]. It involves recognising distorted thinking and learning to replace it with more realistic substitute ideas. Its practitioners hold that the cause of many (though not all) depressions are [[irrationality|irrational thoughts]]. [[Cognitive]] [[therapy]] is often used in conjunction with [[mood stabilizer|mood stabilizing]] medications to treat [[bipolar disorder]].  According to the U.S-based National Association of Cognitive-Behavioral Therapists:
+
+:"There are several approaches to cognitive-behavioral therapy, including Rational Emotive Behavior Therapy, Rational Behavior Therapy, Rational Living Therapy, Cognitive Therapy, and Dialectic Behavior Therapy." [http://www.nacbt.org/whatiscbt.htm]
+
+
+==Thoughts as the cause of emotions==
+With [[thought]]s stipulated as being the cause of [[emotion]]s rather than vice-versa, cognitive therapists reverse the causal order more generally used by psychotherapists.  The therapy is essentially, therefore, to identify those irrational thoughts that are making one unhappy and what it is about them that is irrational; this is done in an effort to reject the depressing thoughts and replace them with more accurate, but also more cheering thoughts.  
+
+Cognitive therapy is not an overnight process. Even once a patient has learnt to recognise when and where his thought processes are going awry, it can take months of concerted effort to replace an invalid thought with a more suitable one. But with patience and a good therapist, cognitive therapy can be a valuable tool in recovery.
+
+==Cognitive behavioral therapy==
+While similar views of emotion have existed for millennia, cognitive therapy was developed in its present form by [[Albert Ellis]] and [[Aaron T. Beck]] in the [[1950s]] and [[1960s]].  It rapidly became a favorite intervention to study in psychotherapy research in academic settings. In initial studies it was often contrasted with behavioral treatments to see which was most effective.  However, in recent years, cognitive and behavioral techniques have often been combined into cognitive behavioral treatment.  This is arguably the primary type of psychological treatment being studied in research today.
+
+A sub-field of cognitive behavior therapy used to treat [[OCD|Obsessive Compulsive Disorder]] makes use of [[classical conditioning]] through [[extinction (conditioning)|extinction]] and [[habituation]]. Such a procedure has been used successfully by Dr. [[Steven Phillipson]] to treat OCD.  CBT has also been successfully applied to the treatment of [[Generalized Anxiety Disorder]] and [[Panic Disorder]].
+
+==Depression==
+Negative thinking in depression can result from biological sources (i.e., endogenous depression), modeling from parents, or other sources. The depressed person experiences negative thoughts as being beyond their control.  The cognitive therapist provides techniques to give the client a greater degree of control over negative thinking by correcting "[[cognitive distortion]]s" or thinking errors that abet them in a process called [[cognitive restructuring]].
+
+Negative thoughts in depression are generally about one of three areas: negative view of self, negative view of the world, and negative view of the future.  These comprise the cognitive triad.  
+
+===The four column technique===
+A major technique in cognitive therapy is the four column technique.  It consists of a four step process.  The first three steps analyze the process by which a person has become depressed or distressed.  The first column records the objective situation.  In the second column, the client writes down the negative thoughts which occurred to them.  The third column is for the negative feelings and dysfunctional behaviors which ensued.  The negative thoughts of the second column are seen as a connecting bridge between the situation and the distressing feelings.  Finally, the fourth column is used for challenging the negative thoughts on the basis of evidence from the client's experience.   
+
+
+==Treating depression with CBA==
+The newest and most effective cognitive and behavioral therapy for depression is the cognitive behavioral-analysis system of psychotherapy (CBASP). CBASP is a mix of several of the most successful techniques.  When combined with appropriate antidepressants, it can be extremely effective.
+
+A study published by [[Martin Keller]] MD of [[Brown University]] et al in the [[May 18]], [[2000]] [[New England Journal of Medicine]] compared the [[antidepressant]] [[Serzone]] with the talking therapy, cognitive behavioral-analysis system of psychotherapy (CBASP). CBASP is largely derivative of other talking therapies such as cognitive, behavioral, and interpersonal therapy. Six hundred eighty-one patients with severe chronic depression (some with other psychiatric illnesses) were enrolled in the trial, and were assigned to either Serzone, CBASP, or combination Serzone-CBASP for 12 weeks. The response rates to either Serzone or CBASP alone were rather underwhelming - 55 percent and 52 percent, respectively, for the 76 percent who completed the study. In other words, a little more than half of the completers in those two arms of the trial reduced their depression by 50 percent or better.
+
+The Serzone findings roughly correspond with many other trial results for antidepressants, and underscore a major weakness in these drugs - that while they are effective, the benefit is often marginal and the treatment outcome problematic. Similarly, the CBASP findings validate other studies finding talking therapy about equal in efficacy to taking antidepressants.
+
+The results for the combination drug-therapy group, however, were surprising, with 85 percent of the completing patients achieving a 50 percent reduction in symptoms or better. Forty-two percent in the combination group achieved [[remission]] (a virtual elimination of all depressive symptoms) compared to 22 percent in the Serzone group and 24 percent in the CBASP group.
+The authors of the study confessed to being caught by surprise by the results, acknowledging that "the rates of response and remission in the combined-treatment group were substantially higher than those that might have been anticipated".
+
+==Further reading==
+*[[David D. Burns]], ''[[Feeling Good: The New Mood Therapy]]'' (rev ed); Avon, 1999: ISBN 0380810336
+*James P. Jr. McCullough, ''Treatment for Chronic Depression : Cognitive Behavioral Analysis System of Psychotherapy (CBASP)'' Guilford Press; (August 27, 2003) ISBN 1572309652
+
+==External links==
+* [http://www.nacbt.org/whatiscbt.htm NACBT Online - What is CBT?]
+* [http://counsellingresource.com/types/cognitive-therapy/index.html An Introduction to Cognitive Therapy & Cognitive Behavioural Approaches]
+* [http://counsellingresource.com/types/rational-emotive/ An Introduction to Rational Emotive Behaviour Therapy]
+* [http://www.cognitivetherapy.com/ New York Institute for Cognitive and Behavioral Therapies]
+
+[[Category:Psychotherapy]]
+
+[[es:Terapia_cognitiva]]

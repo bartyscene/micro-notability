@@ -1,0 +1,1497 @@
+TITLE: Artificial intelligence
+
+REVISION ID: 9314633, TIMESTAMP: 2005-01-10T14:18:40Z
+
+PARSER NAMES:
+Artificial Intelligence
+Artificial
+Study
+John McCarthy
+John McCarthy
+Alan Turing
+Computing
+October
+Turing
+John Searle
+Searle
+J Searle
+Searle
+Searle
+Searle
+Searle
+Turing
+Daniel C. Dennett
+Man
+Man
+Simon
+Turing
+Roger Penrose
+Turing
+Turing
+Artificial
+Warren
+Walter
+Computing Machinery
+Intelligence
+Alan Turing
+Man
+See
+Turing
+Gödel
+John Lucas
+John von Neumann
+Neumann
+Turing
+McCarthy
+Hayes
+Artificial Intelligence
+Artificial
+Allen Newell
+Herbert Simon
+University
+McCarthy
+Marvin Minsky
+McCarthy
+Minsky
+Nathan Rochester
+Claude Shannon
+Artificial
+Defense
+Research
+United States
+McCarthy
+Minsky
+Terry Winograd
+Man Machine
+Machine
+Machine
+Hugo de Garis
+Kevin Warwick
+de Garis
+Turing
+Machine
+Machine
+Artificial
+Artificial
+Intelligence
+Alan
+John
+Steve
+Douglas Lenat
+Ray
+Rodney Brooks
+Katz
+Lenat
+John McCarthy
+John McCarthy
+Marvin Minsky
+Raj
+Roger Schank
+Alan Turing
+Wolfgang
+Terry Winograd
+Kevin Warwick
+See
+Raj
+Artificial Intelligence
+Stuart J. Russell
+Peter Norvig
+Gödel
+Bach
+Douglas R. Hofstadter
+New
+Roger Penrose
+Dennett
+Ray Kurzweil
+Hans Moravec
+Stanford University
+See
+David
+Artificial Intelligence
+Artificial
+David
+David
+Robert A
+William
+William
+John McCarthy
+Research
+Artificial Intelligence
+See
+computer science Artificial
+Searle
+Artificial Intelligence
+Artificial Intelligence
+Gerald Jay
+Richard
+General
+University
+Artificial Intelligence
+Artificial Intelligence
+Board
+Artificial
+Association
+Artificial Intelligence
+Artificial Intelligence
+Association
+Artificial Intelligence
+Research
+Artificial Intelligence
+Association
+Artificial Intelligence
+Institute
+Artificial Intelligence
+Study
+Artificial Intelligence
+United
+Artificial
+Intelligence
+
+NER NAMES:
+John McCarthy
+McCarthy
+John Searle
+Searle
+J Searle
+Searle
+Searle
+Searle
+Daniel C. Dennett
+Simon Blackburn
+Roger Penrose
+Warren McCulloch
+Walter Pitts
+Alan Turing
+J.C.R. Licklider
+John Lucas
+John von Neumann
+E.T. Jaynes
+Von Neumann
+McCarthy
+Hayes
+Allen Newell
+Herbert Simon
+McCarthy
+Marvin Minsky
+McCarthy
+Minsky
+Nathan Rochester
+Claude Shannon
+McCarthy
+Minsky
+Terry Winograd
+Garry Kasparov
+Hugo de Garis
+Kevin Warwick
+de Garis
+Alan
+John Wilensky
+Grand
+Douglas Lenat
+Maggie Boden
+Rodney Brooks
+Boris Katz
+Doug Lenat
+John McCarthy
+McCarthy
+Marvin Minsky
+Raj Reddy
+Roger Schank
+Turing
+Wolfgang Wahlster
+Terry Winograd
+Kevin Warwick
+Raj Reddy]
+Stuart J. Russell
+Peter Norvig
+Douglas R. Hofstadter
+Roger Penrose
+Dennett
+Ray Kurzweil
+Heinz von Foerster
+Jim Jubak
+Hans Moravec
+David Gerrold
+David Lodge
+Lodge
+Robert A. Heinlein
+William Gibson
+Isaac Asimov
+John McCarthy
+Gerald Jay Sussman
+Richard Stallman
+Kecergasan Buatan
+
+
+REVISION ID: 641848453, TIMESTAMP: 2015-01-10T09:09:29Z
+
+PARSER NAMES:
+Artificial
+Artificial
+John McCarthy
+John McCarthy
+General
+Artificial
+King
+Zhou
+Pamela
+Alan Turing
+Turing
+John McCarthy
+John McCarthy
+Marvin Minsky
+Allen Newell
+Herbert A. Simon Herbert Simon
+Defense
+Herbert A. Simon Herbert Simon
+Marvin Minsky
+Sir James Lighthill
+Lighthill
+Congress
+Machine
+Artificial
+Moore
+Brad
+Ken
+Markoff
+D body
+Research
+John McCarthy
+John McCarthy
+Research
+date October
+Learning
+Machine
+Machine
+Weng McClelland Pentland Sporns
+Lungarella Metta Pfeifer Sandini
+Asada Hosoda Kuniyoshi Ishiguro
+Oudeyer
+Machine
+Machine
+Intelligence
+Tecuci
+Long
+General
+Thro
+Edelson
+Tao Tan
+James
+James
+Rosalind Picard
+Picard
+Artificial
+Artificial
+General
+Artificial
+John Haugeland
+Artificial Intelligence
+Haugeland
+Law
+Bach
+Walter
+University
+University
+Stanford
+John Haugeland
+Herbert A. Simon Herbert Simon
+Allen Newell
+University
+Allen Newell Newell
+Herbert A. Simon Simon
+John McCarthy
+John McCarthy
+Stanford University Stanford
+Stanford Artificial Intelligence
+University
+Marvin Minsky
+Roger Schank
+University
+Stanford
+Lenat
+Edward Feigenbaum
+Rodney Brooks
+David Rumelhart
+Stuart J. Russell Stuart Russell
+Peter Norvig
+Hutter
+Langley
+Peter Norvig
+Noam
+Katz
+Norvig
+AI at
+AI at
+Rodney Brooks
+Tecuci
+Machine
+Machine
+Artificial
+Artificial
+Walter
+Warren
+Frank
+Paul Werbos
+John
+Geoffrey Hinton
+Hinton
+Alan Turing
+Turing
+Artificial
+Turing
+Rajani
+Turing
+Turing
+Turing
+A computer
+O Brien Marakas
+Artificial
+Rodney Brooks
+Brooks
+University
+University
+Hall
+Alan Turing
+AI Turing
+Dreyfus
+New
+Computing Machinery
+Intelligence Turing
+Turing
+Newell
+Simon
+Newell
+Simon
+Hubert Dreyfus
+See
+Dreyfus
+Gödel
+John Lucas
+John Lucas
+Roger Penrose
+Turing
+Kurt Gödel
+Gödel
+Gödel
+Turing
+Gödel
+Turing
+Roger Penrose
+Roger Penrose
+Lucas
+C Penrose
+Lucas
+Penrose
+Gödel
+Hans Moravec
+Ray Kurzweil
+Gary
+Wendell Wallach
+Wallach
+Wallach
+Machine
+Machine
+Machine
+Research
+Machine
+Machine
+Machine
+Charles T. Rubin
+He
+Stephen
+He
+Rodney Brooks
+Power
+Joseph Weizenbaum
+Weizenbaum
+Weizenbaum
+Martin Ford
+Ford
+Machine
+Searle
+John Searle
+Artificial Intelligence
+Institute
+Moore
+Vernor Vinge
+Ray Kurzweil
+Moore
+Hans Moravec
+Kevin Warwick
+Ray Kurzweil
+Robert
+George Lucas
+Edward
+Samuel Butler
+Samuel Butler
+George Dyson
+George Dyson
+Artificial
+Arthur C
+See
+Artificial Intelligence
+Artificial Intelligence
+Artificial
+Artificial
+computer science Artificial
+Learning
+Artificial
+Russell Norvig
+Crevier
+Association
+Computing Machinery ACM
+ACM Computing
+Artificial
+Aleksander
+News
+Tao Tan
+Artificial Intelligence
+October
+United States National Research Council
+United States National Research Council
+Artificial Intelligence
+Government
+Computing Research
+National
+Press
+Association
+Artificial Intelligence
+Turing
+John
+Margaret
+Machine
+University Press
+Johnston
+John
+Artificial
+New AI
+Press
+Boyd
+Needham
+Artificial Intelligence
+John McCarthy
+John McCarthy
+Artificial Intelligence
+Edward A. Feigenbaum
+Stanford University
+Artificial Intelligence
+Artificial Intelligence Richmond Thomason
+Artificial Intelligence
+Association
+Artificial Intelligence
+John McCarthy
+Use
+Artificial Intelligence
+Artificial
+
+NER NAMES:
+John McCarthy
+McCarthy
+Pygmalion
+Galatea
+Mu
+Jābir ibn Hayyān
+Judah Loew
+Mary Shelley
+Karel Čapek
+Rossum
+Pamela McCorduck
+Alan Turing
+Turing
+John McCarthy
+McCarthy
+Marvin Minsky
+Allen Newell
+Herbert A. Simon|Herbert Simon
+Herbert A. Simon|Herbert Simon
+Marvin Minsky
+James Lighthill]]{{sfn|Lighthill|1973
+Garry Kasparov
+Watson
+Brad Rutter
+Ken Jennings
+John McCarthy
+McCarthy
+Kismet
+Rosalind Picard]
+John Haugeland
+John Haugeland
+Herbert A. Simon|Herbert Simon
+Allen Newell
+Allen Newell|Newell]
+Herbert A. Simon|Simon
+John McCarthy
+McCarthy
+Marvin Minsky
+Seymour Papert
+Roger Schank
+Edward Feigenbaum
+Rodney Brooks
+David Rumelhart
+Stuart J. Russell|Stuart Russell
+Peter Norvig
+Peter Norvig
+Noam Chomsky]].{{sfn|Katz|2012}}{{sfn|Norvig|2012
+Rodney Brooks
+Markov
+Kalman
+Markov
+Walter Pitts
+Warren McCullough
+Frank Rosenblatt
+Paul Werbos
+John Hopfield
+Geoffrey Hinton
+Ruslan Salakhutdinov
+Boltzmann
+Alan Turing
+Turing
+Turing
+Turing
+Turing
+Rodney Brooks
+Toshitada Doi
+Masahiro Fujita
+Doi
+Hajime Sorayama
+Alan Turing
+Turing
+Simon
+Newell
+Simon
+Hubert Dreyfus
+Dreyfus
+John Lucas
+Lucas
+Roger Penrose
+Kurt Gödel]
+Gödel
+Gödel
+Turing
+Gödel
+Roger Penrose
+Roger Penrose
+Lucas
+Penrose
+Gödel
+Hans Moravec
+Ray Kurzweil
+Gary Kasparov
+Wendell Wallach
+Wallach
+Wallach
+Charles T. Rubin
+Stephen Hawking
+Rodney Brooks
+Joseph Weizenbaum
+Weizenbaum
+Weizenbaum
+Martin Ford
+Ford
+John Searle
+Mary Shelley
+Vernor Vinge
+Ray Kurzweil
+Hans Moravec
+[[Kevin Warwick
+Ray Kurzweil
+Aldous Huxley
+Robert Ettinger
+Hajime Sorayama
+George Lucas
+Sorayama
+Edward Fredkin
+Samuel Butler (
+Butler
+George Dyson
+Dyson
+Karel Čapek
+Isaac Asimov
+Arthur C. Clarke
+Norvig
+Crevier
+McCorduck
+John Sagi
+Boden
+Johnston
+John
+Myers
+Courtney Boyd
+Sun
+Bookman
+John McCarthy
+McCarthy
+Avron Barr
+Edward A. Feigenbaum
+John McCarthy
+
+
+REVISION ID: 1263832280, TIMESTAMP: 2024-12-18T22:19:17Z
+
+PARSER NAMES:
+Intelligence
+Artificial
+Use
+Artificial
+Artificial
+Machine
+Russell Norvig
+Artificial
+General
+Artificial
+Toews
+Russell Norvig
+Luger Stubblefield
+Poole Mackworth Goebel
+Nilsson
+General
+Smoliar Zhang
+Neumann Möller
+Kuperman Reichley Bailey
+McGarry
+Bertini Del Bimbo Torniai
+Russell Norvig
+Newquist
+Crevier
+Russell Norvig
+Learning
+Machine
+Alan Turing
+Computing Machinery
+Intelligence
+Turing
+Ray Solomonoff
+Machine
+Solomonoff
+Noam
+See
+Machine
+Margaret
+Russell Norvig
+Dickson
+Vincent
+Russell Norvig
+Machine
+Russell Norvig
+Russell Norvig
+Russell Norvig
+Challa Moreland Mušicki Evans
+Russell Norvig
+Waddell
+Poria Cambria Bajpai
+Hussain
+General
+Russell Norvig
+Luger Stubblefield
+Poole Mackworth Goebel
+Nilsson
+Russell Norvig
+Artificial
+Merkle Middendorf
+Turing
+Domingos
+Machine
+Domingos
+Machine
+Machine
+Domingos
+Artificial
+Artificial
+Artificial
+Learning
+Long
+Deng Yu
+Ciresan Meier Schmidhuber
+Russell Norvig
+Warren S
+Walter
+Russell Norvig
+Alan Turing
+Russell Norvig
+Karl
+Roger David Joseph
+Schmidhuber
+Frank
+Russell Norvig
+Schmidhuber
+Alexey Ivakhnenko
+Valentin
+Schmidhuber
+Schmidhuber
+Schmidhuber
+John Joseph
+Schmidhuber
+Henry J
+Russell Norvig
+Arthur E. Bryson
+Russell Norvig
+Stuart Dreyfus
+Russell Norvig
+Arthur E. Bryson
+Yu Chi Ho
+Russell Norvig
+Seppo Linnainmaa
+Schmidhuber
+Paul Werbos
+Russell Norvig
+Geoffrey Hinton
+Smith
+Claude Claude
+Microsoft
+Marmouyet
+Kobielus
+Moore
+Gordon Moore
+Microsoft
+Microsoft
+Artificial
+New AI
+Brad
+Ken
+March
+Lee
+Claude
+Claude
+Research
+Vincent van
+Vincent van
+March
+Artificial
+Artificial
+Demis Hassabis
+Simonite
+Russell Norvig
+Laskowski
+Artificial
+Machine
+Russell Norvig
+Russell Norvig
+Brian Christian
+Christian
+Vincent
+John
+Jonathan
+Microsoft
+Power
+See
+Microsoft
+Goldman Sachs
+Research
+AI Data
+Power
+Data
+March
+Huang
+Microsoft
+Microsoft
+October
+Chris
+Fukushima
+October
+Bloomberg
+See
+Nicas
+Williams
+Geoffrey Hinton
+Taylor Hern
+Machine
+Rose
+Goffrey
+Rose
+Christian
+Russell Norvig
+Microsoft
+Grant Hill
+Julia Angwin
+Larson Angwin
+Jon
+University
+University
+Chicago
+Sam
+Davis
+Stanford
+Christian
+Moritz
+Moritz
+Max
+Institute
+Russell Norvig
+Accountability
+Accountability
+Association
+Computing Machinery
+See
+Sample
+Christian
+Christian
+General Data
+Christian
+Artificial Intelligence
+Artificial Intelligence
+Christian
+Verma
+Rothman
+Christian
+Christian
+Artificial
+Artificial
+United
+Russell Norvig
+Russell Norvig
+Russell Norvig
+United
+United States
+Russell Norvig
+Machine
+Harari
+Urbina Lentzos Invernizzi Ekins
+IGM Chicago
+Michael Osborne
+Carl Benedikt Frey
+See
+Gregory
+Morgenstern
+Joseph Weizenbaum
+Stephen
+Global
+Cellan Jones
+Russell Norvig
+Nick Bostrom
+Bostrom
+Stuart J. Russell Stuart Russell
+Russell
+Yuval Noah Harari
+Harari
+Müller Bostrom
+Stephen
+Yoshua Bengio
+Stuart J. Russell Stuart Russell
+Demis Hassabis
+Sam Altman
+Geoffrey Hinton
+He
+Valance
+Schmidhuber
+Andrew Ng
+Yann LeCun
+Christian
+Machine
+Artificial
+Anderson Anderson
+Anderson Anderson
+Wendell Wallach
+Wallach
+Stuart J. Russell
+Russell
+Russell
+Artificial Intelligence
+Alan Turing Institute
+Institute
+United
+Institute
+Law Library
+Congress
+Global Legal Research Directorate
+Stanford
+Vincent
+Stanford University
+Canada
+United
+Global
+Artificial Intelligence
+Henry Kissinger
+Eric
+Daniel
+Kissinger
+Altman Brockman Sutskever
+United
+Council
+Artificial Intelligence
+Law
+United States
+United
+Vincent
+Edwards
+Fox News
+Kasperowicz
+Fox News
+Park
+United States
+Alan Turing
+Russell Norvig
+Russell Norvig
+Warren
+Walter
+Russell Norvig
+Turing
+Computing Machinery
+Intelligence
+Turing
+Daniel Crevier
+Crevier
+Stuart J. Russell Russell
+Norvig
+Russell Norvig
+Stuart J. Russell Russell
+Norvig
+Russell Norvig
+Stuart J. Russell Russell
+Norvig
+Russell Norvig
+Arthur Samuel
+Arthur Samuel
+Daniel
+Allen Newell Newell
+Herbert A. Simon Simon
+Terry Winograd
+Artificial
+Newquist
+Herbert A. Simon Herbert Simon
+Marvin Minsky
+Stuart J. Russell Russell
+Norvig
+Russell Norvig
+Lighthill
+Sir James Lighthill
+Lighthill
+U S. Congress
+Marvin Minsky Minsky
+Russell Norvig
+Machine
+Russell Norvig
+Nilsson
+Rodney Brooks
+Hans Moravec
+Moravec
+Rodney Brooks
+Brooks
+Brooks
+Russell Norvig
+Geoffrey Hinton
+Yann LeCun
+Russell Norvig
+Matteo Wong
+Wong
+Moore
+Clark
+Clark
+Jack Clark
+Bloomberg News Bloomberg
+Clark
+Christian
+PhD
+DiFeliciantonio
+Goswami
+See
+Turing
+Alan Turing
+Turing
+He
+Turing
+He
+Turing
+Turing
+Turing
+Turing
+Turing
+Stuart J. Russell Russell
+Norvig
+Turing
+Russell Norvig
+Russell Norvig
+John McCarthy
+John McCarthy
+Artificial
+Maker
+McCarthy
+McCarthy
+Marvin Minsky
+Minsky
+Russell Norvig
+Nils Nilsson
+Nils Nilsson
+Nilsson
+Haugeland
+Newell
+Simon
+Moravec
+Hubert Dreyfus
+Dreyfus
+Daniel Crevier
+Dreyfus
+Crevier
+Noam
+Langley
+Katz
+Artificial
+Artificial
+Pennachin Goertzel
+Roberts
+General
+Machine
+Artificial
+Stuart J. Russell Russell
+Norvig
+Russell Norvig
+David Chalmers
+Chalmers
+Dennett
+Dennett
+Horst
+John Searle
+Searle
+Searle
+Searle
+Searle
+Searle
+Stuart J. Russell Russell
+Norvig
+Russell Norvig
+Searle
+Roberts
+Vernor Vinge
+Russell Norvig
+Hans Moravec
+Kevin Warwick
+Ray Kurzweil
+Robert
+Edward
+Samuel Butler
+Samuel Butler
+George Dyson
+George Dyson
+Global Intelligence
+Global Intelligence
+Artificial
+Arthur C
+Buttazzo
+Anderson
+McCauley
+A I. Artificial Intelligence
+Philip K
+Galvan
+See
+Artificial
+Artificial
+Case
+Intelligence
+Use
+Russell Norvig
+Crevier
+Alexandra
+New
+Elizabeth A
+October
+Melanie
+Gregory
+Terry
+New
+Artificial Intelligence
+Winston
+Patrick
+Patrick Winston
+Sophie
+New
+March
+October
+Peter
+Machine
+October
+Goodfellow
+Ian
+Learning
+Press
+Bengio
+Yoshua
+Courville
+Aaron
+October
+last Lipartito
+Kenneth
+October
+last Maker
+Meg Houston
+October
+October
+last Minsky
+Marvin
+Simon
+Schuster
+Marvin Minsky
+last McCarthy
+John
+Artificial Intelligence
+John McCarthy
+last McCarthy
+John
+John McCarthy
+Will
+Law
+last Minsky
+Marvin
+Hall
+Marvin Minsky
+last Nilsson
+Nils
+Nils John Nilsson
+Association
+Artificial Intelligence
+Steven
+Steven
+Alex
+October
+October
+last Simon
+New
+Turing
+Jordan
+October
+last Williams
+October
+last Wong
+Matteo
+October
+Artificial Intelligence
+Global
+Global
+October
+University Press
+David Autor Autor
+David H
+Margaret
+Margaret
+Machine
+University Press
+Kenneth
+Kenneth
+How
+Affairs
+George Dyson
+George Dyson
+Dyson
+Law
+Alex Pentland
+Gertner
+Jon
+New
+James
+Will
+Kevin J. Mitchell
+How
+Will
+University Press
+New
+Artificial
+How
+University Press
+Gary Marcus
+How
+Press
+Gregory
+Henry
+New
+Gary Marcus
+Marcus
+Marcus
+University
+Sharma
+Daniel
+How
+New
+Johnston
+John
+Artificial
+New AI
+Press
+Jill
+Jill
+New
+October
+Marcus
+Gary
+Artificial
+October
+Press Press
+New
+Paul
+Affairs
+Learning
+Ashish
+Ashish
+Noam Shazeer
+Vincent
+James
+James Vincent
+October
+Artificial
+Artificial
+Artificial Intelligence
+Artificial
+Artificial
+John McCarthy
+Artificial
+Artificial
+Data science
+Intelligence
+
+NER NAMES:
+Markov
+Turing
+Ray Solomonoff
+Noam Chomsky
+Margaret Masterman
+Markov
+Markov
+Kalman
+Warren S. McCulloch
+Walter Pitts
+Alan Turing
+Karl Steinbuch
+Roger David Joseph
+Frank Rosenblatt]](1957);{{Sfnp|Russell|Norvig|2021|p=785
+Alexey Ivakhnenko
+Valentin Lapa
+Kaoru Nakano
+John Joseph Hopfield
+Henry J. Kelley
+Arthur E. Bryson
+Stuart Dreyfus
+Arthur E. Bryson
+Yu-Chi Ho
+Hinton
+Bard
+Grok
+Moore
+Gordon Moore
+Garry Kasparov
+Watson
+Brad Rutter
+Ken Jennings
+Lee Sedol
+Ke Jie|defeated
+Ke Jie
+Claude
+Lean
+Vincent van Gogh
+van Gogh
+Francis
+Donald Trump
+Cynthia Dwork
+Brian Christian
+John Grisham
+Jonathan Franzen
+Jen-Hsun Huang
+Chris Crane
+Wesley Kuo
+Willie L. Phillips
+Geoffrey Hinton
+Jacky Alcine
+Julia Angwin
+Jon Kleinberg
+Sendhil Mullainathan
+Cynthia Chouldechova
+Sam Corbett-Davis
+Moritz Hardt
+Michael Osborne
+Carl Benedikt Frey
+Joseph Weizenbaum
+Stephen Hawking
+Nick Bostrom
+Stuart J. Russell|Stuart Russell
+Yuval Noah Harari
+Stephen Hawking
+Bill Gates
+Elon Musk
+Yoshua Bengio
+Stuart J. Russell|Stuart Russell
+Demis Hassabis
+Sam Altman
+Geoffrey Hinton
+Juergen Schmidhuber
+Andrew Ng
+Yann LeCun
+Eliezer Yudkowsky
+Wendell Wallach
+Stuart J. Russell
+Harris
+Henry Kissinger
+Eric Schmidt
+Daniel Huttenlocher
+Turing
+Daniel Crevier
+Stuart J. Russell|Russell
+Stuart J. Russell|Russell
+Stuart J. Russell|Russell]
+Arthur Samuel
+Samuel
+Daniel Bobrow]
+Allen Newell|Newell]
+Terry Winograd
+Herbert A. Simon|Herbert Simon
+Marvin Minsky
+Lighthill
+James Lighthill]]{{Sfnp|Lighthill|1973
+Rodney Brooks
+Hans Moravec]]{{Sfnp|Moravec|1988
+Rodney Brooks]]{{Sfnp|Brooks|1990
+Judea Pearl
+Lofti Zadeh
+Geoffrey Hinton
+Yann LeCun
+Moore
+Alan Turing
+Turing
+Turing
+Turing
+Turing
+Stuart J. Russell|Russell
+Turing
+John McCarthy
+McCarthy
+McCarthy
+Marvin Minsky]
+Newell
+Simon
+Moravec
+Hubert Dreyfus
+Dreyfus
+Daniel Crevier
+Dreyfus
+Noam Chomsky
+Stuart J. Russell|Russell
+David Chalmers
+Dennett
+Jerry Fodor
+Hilary Putnam]].{{Sfnp|Horst|2005
+Philosopher
+John Searle
+Searle
+Searle
+Stuart J. Russell|Russell]
+Searle
+I. J. Good
+Hans Moravec
+Kevin Warwick
+Ray Kurzweil
+Aldous Huxley
+Robert Ettinger
+Edward Fredkin
+Samuel Butler
+George Dyson
+Capek
+Karel Čapek
+Mary Shelley]
+Gort
+Bishop
+Isaac Asimov
+Asimov
+Asimov
+Karel Čapek
+Philip K. Dick
+Dick
+Norvig
+Crevier
+McCorduck
+Alexandra
+Franzen
+Grisham
+Harris
+Elizabeth A.
+Melanie
+Gregory
+Terry
+Zierahn
+Ulrich
+Beal
+Winston
+Patrick
+Patrick Winston
+Bushwick
+Sophie
+Dockrill
+Peter
+I. J.
+I. J. Good
+Goodfellow
+Ian
+Bengio
+Yoshua
+Courville
+Aaron
+Lipartito
+Kenneth
+Meg Houston
+Minsky
+Marvin
+Marvin Minsky
+McCarthy
+John
+John McCarthy
+McCarthy
+John
+John McCarthy
+McGaughey
+Minsky
+Marvin
+Marvin Minsky
+Nilsson
+Nils
+Nils John Nilsson
+Pinker
+Steven Pinker
+Reisner
+Alex
+Valinsky
+Jordan
+Williams
+Rhiannon
+Wong
+Yudkowsky
+David H.
+Margaret Boden|Boden
+Margaret
+Kenneth Cukier|Cukier
+Kenneth
+George Dyson
+Dyson
+Dyson
+Alex Pentland
+Gertner
+Jon
+Gleick
+James
+Kevin J. Mitchell
+Halpern
+Sue
+Verity Harding
+Gary Marcus
+Daniela Rus
+Gregory Mone
+Madhumita Murgia
+Marcus
+Marcus
+Marcus
+Chinmayi Sharma
+Kenna
+Daniel
+Johnston
+John
+Leffer
+Lauren
+Jill Lepore|Lepore,
+Jill
+Marcus
+Gary
+Roivainen
+Eka
+Scharre
+Paul
+Ashish Vaswani|Vaswani
+Ashish
+Noam Shazeer
+Niki Parmar
+Vincent
+James
+John McCarthy
+

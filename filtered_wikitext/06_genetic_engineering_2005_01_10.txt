@@ -1,0 +1,91 @@
+'''Genetic engineering''', '''genetic modification''' ('''GM'''), and '''gene splicing''' (once in widespread use but now deprecated) are terms for the process of manipulating genes in an organism, usually outside of the organism's normal reproductive process.
+
+It often involves the isolation, manipulation and reintroduction of [[DNA]] into [[model organism|model organisms]], usually to [[gene expression|express]] a [[protein]]. The aim is introduce new genetic characteristics to an organism to increase its usefulness such as, increasing the yield of a crop species, introducing a novel characteristic, or producing a new protein or enzyme.  Examples are the production of human insulin through the use of modified bacteria and the production of new types of mice like the [[Oncomouse|OncoMouse]], (cancer mouse) for research, through genetic redesign.
+
+Since a protein is specified by a DNA segment or [[gene]], future copies of that protein can be modified by changing the gene's underlying DNA. One way to do this is to isolate the DNA, cut it, and splice in a different DNA segment. [[Daniel Nathans]] and [[Hamilton Smith]] received the [[1978]] [[Nobel Prize in physiology or medicine]] for their isolation of [[restriction enzyme|restriction endonucleases]], which are able to cut DNA at specific sites. Together with [[ligase]], which can join together fragments of DNA, restriction enzymes formed the initial basis of recombinant DNA technology.
+
+== Naming ==
+''Genetic modification'' or ''genetic manipulation'' are claimed to be neutral and possibly more technically correct terms for what is claimed, controversially, to be genetic engineering. Opponents question whether the concept of 'modification', with its implications of progress, are applicable here.
+
+Many opponents of the use of the term 'genetic engineering' argue the operations of genes in combination with [[cell biochemistry]] are rather poorly understood  and sometimes lead to unexpected side effects.
+
+Reluctance to recognize this field as "engineering" has become popular in the [[anti-globalization movement]] and [[safe trade]] movement, and is also widely held by most [[Green parties]], and the major parties of [[France]] and [[Germany]], which have resisted any [[agricultural policy]] favoring [[genetically modified food]]. These groups tend to resist the label 'engineer' as applied to such genetic modification most strongly. 
+
+Defenders of the term ''genetic engineering'' argue that [[animal husbandry]] and [[crop breeding]] are also forms of genetic engineering that use [[artificial selection]] instead of modern  genetic modification techniques. It is politics, they argue, not economics or science, that causes their work to be closely investigated, and for different standards to apply to it than to other fields of [[engineering]]. These scientists, however, do not object to the term 'genetic modification' as applied to what they do, although it is sometimes used to deny them the status of professionals serving society in an ethical manner, which is one implication of the term [[engineer]].
+
+The term "genetic engineering" is sometimes informally abbreviated as "genegineering."
+
+"[[Transgenic]] organism" is now the preferred term for genetically modified organisms with extra-genome information, as opposed to "genetically engineered" organisms.
+
+== Applications ==   
+One of the best known applications of genetic engineering is [[genetically modified organism]]s (GMOs).   
+
+There are potentially momentous [[biotechnology]] applications of GM, for example oral [[vaccine]]s produced naturally in fruit at very low cost. This represents, however, a spread of genetic modification to medical purposes and opens an ethical door to other uses of the technology to directly modify human genomes.   
+
+These effects are often not traceable back to direct causes in the [[genome]], but rather in the environment or interaction of proteins. The means by which 'genes' (in fact [[DNA]] strands that are assumed to have discrete effects) are detected and inserted are inexact, including such means as coating gold particles with DNA to be inserted and literally firing it at strands of target DNA (see [[gene gun]]), which is guaranteed to cause insertions in at least some random locations, which can on rare occasion cause unplanned characteristics.   
+
+Similar objections apply to [[protein engineering]] and [[molecular engineering]] for use as drugs. However, a single protein or a molecule is easier to examine for '[[quality control]]' than a complete genome, and there are more limited claims made for the reliability of proteins and molecules, than for the genomes of whole organisms. While protein and molecule engineers often times acknowledge the requirement to test their products in a wide variety of environments to determine if they pose dangers to life, the position of many genetic engineers is that they do not need to do so, since the outputs of their work are 'substantially the same as' the original organism which was produced by the original genome(s).    
+
+An extreme ambition of some groups is [[human enhancement]] via genetics, eventually by [[artificial intelligence]] or [[molecular engineering]]. ''See also:'' [[transhumanism]]. 
+
+=== Genetic engineering and research ===
+Although a there has been a tremendous revolution in the biological sciences in the past twenty years, there is still a great deal that remains to be discovered. The completion of the sequencing of the human genome, as well as the genomes of most agriculturally and scientifically important plants and animals, have increased the possibilities of genetic research immeasurably. Expedient and inexpensive access to comprehensive genetic data has become a reality, with billions of sequenced nucleotides already online and annotated.
+Now that the rapid sequencing of arbitrarily large genomes has become a simple, if not trivial affair, a much greater challenge will be elucidating function of the extraordinarily complex web of interacting proteins, dubbed the proteome, that constitutes and powers all living things. Genetic engineering has become the gold standard in protein research, and major research process has been made using a wide variety of techniques, including
+
+* loss of function, such as in a [[Gene knockout|knockout]] experiment, in which an organism is engineered to lack one or more genes. This allows the experimenter to analyze the defects caused by this mutation, and can be considerably useful in unearthing the function of a gene. It is used especially frequently in [[developmental biology]]. A knockout experiment involves the creation and manipulation of a DNA construct in vitro, which, in a simple knockout, consists of a copy of the desired gene which has been slightly altered such as to cripple its function. The construct is then taken up by [[embryo]]nic [[stem cells]], where the engineered copy of the gene replaces the organism's own gene. These stem cells are injected into blastocysts, which are implanted into surrogate mothers. Another method, useful in organisms such as drosophila, is to induce mutations in a large population and then screen the progeny for the desired mutation.  A similar process can be used in both plants and prokaryotes.
+*gain of function experiments, the logical counterpart of knockouts. These are sometimes performed in conjunction with knockout experiments to more finely establish the function of the desired gene. The process is much the same as that in knockout engineering, except that the construct is designed to increase the function of the gene, usually by providing extra copies of the gene or attracting more frequent transcription.
+*'tracking' experiments, which seek to gain information about the localization and interaction of the desired protein. One way to do this is to replace the wild-type gene with a 'fusion' gene, which is a juxtaposition of the wild-type gene with a reporting element such as green fluorescent protein that will allow easy visualization of the products of the genetic modification. While this is a useful technique, the manipulation can destroy the function of the gene, creating secondary effects and possibly calling into question the results of the experiment. More sophisticated techniques are now in development that can track protein products without mitigating their function, such as the addition of small sequences which will serve as binding motifs to monoclonal antibodies.
+
+== Ethics ==
+
+Proponents of genetic engineering argue that the technology is safe, and that it is necessary in order to maintain [[food]] production that will continue to match population growth. However, others argue that food distribution, not production, is the biggest problem, citing that the population growth is actually a result of uneven distribution of food (and wealth).
+
+Others oppose genetic engineering on the grounds that genetic modifications may have unforeseen consequences, both in the initially modified organisms, and their environments.  For example, certain strains of [[maize]] have been developed that are toxic to plant eating insects (see [[bt corn]]).  However, when those strains cross-polinated with other varieties of wild and domestic maize, the relevant genes were passed on.  This introduced a new gene into the [[gene pool]] of the maize population outside of the crop field.  The ecological and environmental effects of [[transgenic plants]] are constantly being investigated.
+
+Anti-genetic-engineering activists say that with current recombinant technology there is no way to ensure that [[genetically modified organism]]s will remain under control, and the use of this technology outside of secure laboratory environments carries unacceptable risks for the future.
+
+Some fear that certain types of genetically engineered crops will further reduce [[biodiversity]] in the cropland; [[herbicide]]-tolerant crops will for example be treated with the relevant herbicide to the extent that there are no wild [[plant]]s ('weeds') able to survive, and plants toxic to insects will mean [[insect]]-free crops. This could result in declines in other wildlife (e.g. [[bird]]s) which depend on weed [[seed]]s and/or insects for food resources. The recent (2003) farm scale studies in the [[United Kingdom|UK]] found this to be the case with GM [[sugar beet]] and GM [[rapeseed]], but not with GM maize (though in the last instance, the non-GM comparison maize crop had also been treated with environmentally damaging pesticides subsequently (2004) withdrawn from use in the [[EU]]).
+
+Proponents of current genetic techniques as applied to food plants cite the benefits that the technology can have, for example, in the harsh agricultural conditions of third world countries. They say that with modifications, existing crops would be able to thrive under the relatively hostile conditions providing much needed food to their people.  Proponents also like to cite golden rice, a genetically engineered rice variety (still under development) that contains elevated vitamin A levels.  There is hope that this rice may alleviate vitamin A deficiency that contributes to the death of millions annually.  
+
+Proponents say that  genetically engineered crops are not significantly different from those modified by nature or humans in the past, and by extension are as safe or even safer than such methods. There is gene transfer between unicellular [[eukaryote]]s and [[prokaryote]]s. There have been no known genetic catastrophes as a result of this.
+
+=== Economic and political effects ===
+Many opponents of current genetic engineering believe the increasing use of GM in major crops has caused a power shift in agriculture towards  Biotechnology companies gaining excessive control over the production chain of crops and food, and over the farmers that use their products, as well.
+
+Many proponents of current genetic engineering techniques believe it has brought higher yields and profitability to many farmers, including those in third world countries.
+
+In April 2004 [[Hugo Chávez]] announced a total ban on genetically modified seeds in [[Venezuela]].
+
+== See also: ==
+* [[Cell biochemistry]]
+* [[Cloning]]
+* [[Engineer]]
+* [[Expression vector]]
+* [[Gene therapy]]
+* [[Genetically modified food]]
+* [[Genetically modified organism]]
+* [[Genetic engineering in fiction]]
+* [[Genome]]
+* [[Germline]]
+* [[Human Genome Project]]
+* [[Plant improvement]]
+* [[Protein engineering]]
+* [[Proteomics]]
+* [[Site-directed mutagenesis]]
+* [[Transformation (genetics)|Transformation]]
+* [[Biorobotics]]
+
+==External links==
+*[http://www.royalsoc.ac.uk/gmplants/ Debate on the genetic modification of plants]
+*[http://www.nanoaging.com/modules.php?name=News&new_topic=5 News about Genomics]
+
+[[da:Gensplejsning]]
+[[de:Gentechnologie]]
+[[eo:Gentekniko]]
+[[nl:Genetische manipulatie]]
+[[es:ingeniería genética]]
+[[pl:In&#380;ynieria genetyczna]]
+[[zh:&#22522;&#22240;&#24037;&#31243;]]
+[[Category:Ethics]]
+[[Category:Molecular genetics]]

@@ -1,0 +1,122 @@
+[
+  {
+    "input_file_name": "01_wearable_computer.xml",
+    "output_file_name": "01_wearable_computer_parser_and_spacy.txt",
+    "ids": [9593251, 641507365, 1257964292]
+  },
+  {
+    "input_file_name": "02_light_emitting_diode.xml",
+    "output_file_name": "02_light_emitting_diode_parser_and_spacy.txt",
+    "ids": [9549951, 641853600, 1263288573]
+  },
+  {
+    "input_file_name": "03_insulin.xml",
+    "output_file_name": "03_insulin_parser_and_spacy.txt",
+    "ids": [9269045, 641928527, 1257123824]
+  },
+  {
+    "input_file_name": "04_artificial_intelligence.xml",
+    "output_file_name": "04_artificial_intelligence_parser_and_spacy.txt",
+    "ids": [9314633, 641848453, 1263832280]
+  },
+  {
+    "input_file_name": "05_messenger_rna.xml",
+    "output_file_name": "05_messenger_rna_parser_and_spacy.txt",
+    "ids": [9898940, 641559759, 1262086963]
+  },
+  {
+    "input_file_name": "06_genetic_engineering.xml",
+    "output_file_name": "06_genetic_engineering_parser_and_spacy.txt",
+    "ids": [9493702, 638498661, 1263690094]
+  },
+  {
+    "input_file_name": "07_cognitive_behavioral_therapy.xml",
+    "output_file_name": "07_cognitive_behavioral_therapy_parser_and_spacy.txt",
+    "ids": [10917908, 641675359, 1263874230]
+  },
+  {
+    "input_file_name": "08_fourier_analysis.xml",
+    "output_file_name": "08_fourier_analysis_parser_and_spacy.txt",
+    "ids": [9494202, 637221956, 1263338092]
+  },
+  {
+    "input_file_name": "09_fourier_series.xml",
+    "output_file_name": "09_fourier_series_parser_and_spacy.txt",
+    "ids": [9317792, 641124498, 1263880062]
+  },
+  {
+    "input_file_name": "10_social_robot.xml",
+    "output_file_name": "10_social_robot_parser_and_spacy.txt",
+    "ids": [10745585, 628829934, 1243236040]
+  },
+  {
+    "input_file_name": "11_touchscreen.xml",
+    "output_file_name": "11_touchscreen_parser_and_spacy.txt",
+    "ids": [10626356, 641144269, 1262838270]
+  },
+  {
+    "input_file_name": "12_metabolic_engineering.xml",
+    "output_file_name": "12_metabolic_engineering_parser_and_spacy.txt",
+    "ids": [641230558, 1228247624]
+  },
+  {
+    "input_file_name": "13_car_t_cell.xml",
+    "output_file_name": "13_car_t_cell_parser_and_spacy.txt",
+    "ids": [1262143184]
+  },
+  {
+    "input_file_name": "14_language_model.xml",
+    "output_file_name": "14_language_model_parser_and_spacy.txt",
+    "ids": [638768845, 1262350440]
+  },
+  {
+    "input_file_name": "15_crispr.xml",
+    "output_file_name": "15_crispr_parser_and_spacy.txt",
+    "ids": [641773758, 1262872084]
+  },
+  {
+    "input_file_name": "16_personalized_medicine.xml",
+    "output_file_name": "16_personalized_medicine_parser_and_spacy.txt",
+    "ids": [636944595, 1260391448]
+  },
+  {
+    "input_file_name": "17_self_healing_material.xml",
+    "output_file_name": "17_self_healing_material_parser_and_spacy.txt",
+    "ids": [634312970, 1259458289]
+  },
+  {
+    "input_file_name": "18_electric_aircraft.xml",
+    "output_file_name": "18_electric_aircraft_parser_and_spacy.txt",
+    "ids": [641093777, 1253274607]
+  },
+  {
+    "input_file_name": "19_insulin_medication.xml",
+    "output_file_name": "19_insulin_medication_parser_and_spacy.txt",
+    "ids": [637465427, 1257308371]
+  },
+  {
+    "input_file_name": "20_event_horizon_telescope.xml",
+    "output_file_name": "20_event_horizon_telescope_parser_and_spacy.txt",
+    "ids": [636736540, 1251024930]
+  },
+  {
+    "input_file_name": "21_crispr_gene_editing.xml",
+    "output_file_name": "21_crispr_gene_editing_parser_and_spacy.txt",
+    "ids": [1263525580]
+  },
+  {
+    "input_file_name": "22_mRNA_vaccine.xml",
+    "output_file_name": "22_mRNA_vaccine_parser_and_spacy.txt",
+    "ids": [1263884120]
+  },
+  {
+    "input_file_name": "23_genetic_vaccine.xml",
+    "output_file_name": "23_genetic_vaccine_parser_and_spacy.txt",
+    "ids": [1228426999]
+  },
+  {
+    "input_file_name": "24_large_language_model.xml",
+    "output_file_name": "24_large_language_model_parser_and_spacy.txt",
+    "ids": [1262992255]
+  }
+]

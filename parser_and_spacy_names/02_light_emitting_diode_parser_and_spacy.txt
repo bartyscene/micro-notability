@@ -1,0 +1,203 @@
+TITLE: Light-emitting diode
+
+REVISION ID: 9549951, TIMESTAMP: 2004-12-29T17:42:51Z
+
+PARSER NAMES:
+Nick Holonyak Nick Holonyak
+Shuji Nakamura
+Inc
+Lighting
+Lighting
+
+NER NAMES:
+Shuji Nakamura
+Don Klipstein's
+
+
+REVISION ID: 641853600, TIMESTAMP: 2015-01-10T10:26:37Z
+
+PARSER NAMES:
+Losev
+James R. Biard
+Nick Holonyak
+Green
+Lighting
+Green
+H. J. Round
+H. J. Round
+Losev
+Lehovec
+Accardo
+Jamgochian
+Rubin Braunstein
+Braunstein
+Braunstein
+by Kroemer
+Braunstein
+Inc
+James R. Biard
+Gary Pittman
+Biard
+Pittman
+Research
+Research
+United States
+Nick Holonyak Nick Holonyak
+Holonyak
+M. George
+Holonyak
+T. P. Pearsall
+United States
+Hoerni
+Thomas
+Lighting
+Shuji Nakamura
+Lighting
+Green
+Inc
+nbsp W
+nbsp W
+Lighting
+United States
+nbsp K
+Research
+Green
+Jacques
+Miller
+Miller
+David
+Inc
+Shuji Nakamura
+Nakamura
+Nakamura
+Green
+by Alivisatos et al
+by Michael
+Photo
+Lighting
+Inc
+United States
+So
+Dark
+Lighting
+Lighting
+Lighting
+Research
+Research
+Li
+United States
+Li
+Lighting
+
+NER NAMES:
+James R. Biard
+Nick Holonyak
+H. J. Round
+Oleg Losev
+Kurt Lehovec
+Carl Accardo
+Edward Jamgochian
+Rubin Braunstein
+Braunstein
+Braunstein
+James R. Biard
+Gary Pittman
+Biard
+Pittman
+Nick Holonyak|Nick Holonyak,
+Holonyak
+M. George Craford
+T. P. Pearsall
+Jean Hoerni
+Thomas Brandt
+Haitz
+Haitz
+Shuji Nakamura
+Isamu Akasaki
+Hiroshi Amano
+Alberto Barbieri
+Moore
+Haitz
+Roland Haitz
+Herb Maruska
+Wally Rhines
+Maruska
+Jacques Pankove
+Maruska
+Pankove
+Ed Miller
+Pankove
+Miller
+Maruska
+Rhines
+David Stevenson
+Shuji Nakamura
+Nakamura
+Nakamura
+Hiroshi Amano
+Isamu Akasaki
+Stokes
+Alivisatos
+Michael Bowers
+Haitz
+Beo Beyond.jpg|thumb|LED
+
+
+REVISION ID: 1263288573, TIMESTAMP: 2024-12-15T20:18:56Z
+
+PARSER NAMES:
+H. J. Round
+Losev
+James R. Biard
+Nick Holonyak
+Green
+Lighting
+Losev
+Green
+Green
+nbsp V
+nbsp V
+Lighting
+Center
+So
+United States
+Green
+Lighting
+Lighting
+Lighting
+Thomas
+Research
+Li
+United States
+Research
+Research
+Center
+Center
+Research
+nbsp V
+nbsp V
+Research
+Cao et al
+Lin et al
+Cao
+Cao
+Lin
+Lin
+
+NER NAMES:
+J. Round
+Losev
+R. Biard
+Oleg Losev
+Herb Maruska
+Haitz
+Beo Beyond.jpg|thumb|LED
+Meystyle
+Tsach Zimroni
+Cao
+Lin
+Cao
+Cao
+Lin
+Lin
+

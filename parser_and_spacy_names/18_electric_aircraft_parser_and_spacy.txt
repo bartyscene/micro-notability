@@ -1,0 +1,273 @@
+TITLE: Electric aircraft
+
+REVISION ID: 641093777, TIMESTAMP: 2015-01-05T14:56:26Z
+
+PARSER NAMES:
+Solar Impulse
+Solar Impulse
+Electric
+Gaston Tissandier
+Charles Renard
+Arthur Constantin Krebs Arthur Krebs
+Electric
+C. Brown
+Electric Aircraft
+Turin Polytechnic University
+Electric Aircraft
+Aviation
+Aircraft
+Federal Aviation Administration
+Experimental
+West
+West
+Solar
+Solar
+Solar
+Solar
+Aircraft
+Solar
+David
+Solar
+Aircraft
+Solar
+Solar Challenger
+Solar Challenger
+Paul
+Solar Challenger
+Inc
+Aircraft
+Experimental
+Solar
+Sunseeker
+Sunseeker
+Sunseeker
+Sunseeker
+Solar
+H. Y. Li
+Institut für Flugzeugbau
+University
+Lange Flugzeugbau
+Alan
+Alan
+Propulsion
+Solar Impulse
+Solar Impulse
+Solar Impulse
+Solar Impulse
+Solar Impulse
+Solar Impulse
+Solar Impulse
+APAME Association
+Electric
+Aircraft
+QinetiQ
+QinetiQ
+QinetiQ
+DigiSky
+Polytechnic University
+Turin
+Aviation
+Aircraft
+Aviation
+H. Y. Li
+Le
+Le
+Aircraft
+Institut für Flugzeugbau
+University
+Dean
+October
+Li
+Electric
+Electric
+Electric Aircraft Corporation
+Aircraft
+Electric Aircraft Corporation
+Sonex Aircraft
+Sonex Aircraft
+Sonex Electric
+Aircraft
+Lange
+Lange Flugzeugbau
+Lange
+Lange
+Flightstar
+Flightstar Flightstar
+Flightstar Sportplanes
+Icaro
+Icaro
+Flugzeugbau
+Flugzeugbau
+Lange Aviation
+Lange
+October
+Aviation
+Electric Aircraft
+Electric
+Aviation
+Electric
+Electric
+Aviation
+Solar
+Solar
+Noth
+Solar
+Electric Aircraft
+Electric
+Aviation
+Solar
+Electric Aircraft
+Electric
+
+NER NAMES:
+Flea Hop
+Gaston Tissandier
+Charles Renard
+Arthur Constantin Krebs|Arthur Krebs
+William C. Brown
+Walter Cronkite
+Fred Militky
+Heino Brditschka
+Heino
+Larry Mauro
+David Williams
+Freddie To
+Paul MacCready
+Kremer
+Günther Rochelt
+Hans Farner
+Günther Rochelt
+Eric Scott Raymond|Eric Raymond
+Danny H. Y. Li
+Zhao Yong
+Rudolf Voit-Nitschmann
+Alan Cocconi
+Alan Cocconi
+Christian Vandamme
+Danny H. Y. Li
+Arnaud Montebourg
+Jean Botti
+Hugues Duval
+Hugues Duval
+Duval
+Michaël Morin
+Jean Luc-Soullier
+Dale Kramer
+Pascal Chretien
+Randall Fishman
+Tom Peghiny
+Manfred Ruhmer
+Jack Pelton
+Pelton
+Elon Musk
+
+
+REVISION ID: 1253274607, TIMESTAMP: 2024-10-25T04:46:50Z
+
+PARSER NAMES:
+Aircraft
+Electric
+Electric
+Aviation
+Lange
+Lange E
+Solar Impulse
+Electric
+Electric
+October
+Gaston Tissandier
+Charles Renard
+Arthur Krebs
+Inc
+Aircraft
+Propulsion
+QinetiQ
+C. Brown
+Experimental
+Aircraft
+October
+October
+Solar
+Solar
+Solar
+Solar
+Solar Impulse
+Solar Impulse
+Solar
+Solar
+Aircraft
+Solar
+Solar
+David
+Solar
+Aircraft
+Solar
+Solar Challenger
+Stephen
+Institut für Flugzeugbau
+University
+Solar Impulse
+Solar Impulse
+Solar Impulse
+Lange
+Aviation
+October
+Aircraft
+Aircraft
+Electric Aircraft
+Electric Aircraft
+Electric Aircraft
+Electric
+Electric
+Electric
+Electric
+Electric
+Electric
+Federal Aviation Administration
+Solar Impulse
+Electric
+Aircraft
+Aviation
+Aircraft
+Solar
+Solar
+Solar
+Solar
+Electric
+Electric
+Electric
+Li
+Electric
+Propulsion
+Electric
+Electric
+Aircraft
+Aircraft
+Electric
+Electric
+Electric
+Solar
+Solar
+Electric Aircraft
+Electric
+Aircraft
+Aviation
+
+NER NAMES:
+Gaston Tissandier
+Charles Renard
+Arthur Krebs
+William C. Brown
+Pascal Chretien
+Martine Rothblatt
+Fred Militky
+Heino Brditschka
+Chip Yates
+Bertrand Piccard Payerne
+Freddie To
+David Williams
+Stephen Ptacek
+Günther Rochelt
+Rudolf Voit-Nitschmann
+Jeffrey Engler
+

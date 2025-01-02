@@ -1,0 +1,104 @@
+In [[mathematics]], a '''Fourier series''', named in honor of [[Joseph Fourier]] ([[1768]]-[[1830]]), is a representation of a [[periodic function]] (often taken to have period 2&pi; -- in a sense, the simplest case) as a sum of periodic functions of the form
+
+:<math>x\mapsto e^{inx},</math>
+
+which are [[harmonic]]s of ''e''<sup>''i x''</sup>. By [[Euler's formula]], the series can be expressed equivalently in terms of [[sine]] and [[cosine]] functions. 
+
+Fourier was the first to study systematically such [[infinite series]], after preliminary investigations by [[Euler]], [[d'Alembert]], and [[Daniel Bernoulli]]. He applied these series to the solution of the [[heat equation]], publishing his initial results in [[1807]] and [[1811]], and publishing his ''Théorie analytique de la chaleur'' in 1822. From a modern point of view, Fourier's results are somewhat informal, due in no small part to the lack of a precise notion of ''[[function_(mathematics)|function]]'' and ''[[integral]]'' in the early nineteenth century. Later, [[Dirichlet]] and [[Riemann]] expressed Fourier's results with greater precision and formality. 
+
+Many other [[List of Fourier-related transforms|Fourier-related transforms]] have since been defined, extending to other applications the initial idea of representing any periodic function as a [[superposition]] of harmonics. This general area of inquiry is now sometimes called [[harmonic analysis]].
+
+==Definition of Fourier series==
+
+Suppose ''f''(''x'') is a complex-valued function of a real number, is periodic with period 2&pi;, and is [[square-integrable]] over the interval from 0 to 2&pi;.  Let
+
+:<math>F_n =\frac{1}{2\pi}\int_{-\pi}^\pi f(x)\,e^{-inx}\,dx.</math>
+
+Then the Fourier series representation of ''f''(''x'') is given by
+
+:<math>f(x) = \sum_{n=-\infty}^{\infty} F_n \,e^{inx}.</math>
+
+Each term in this sum is called a '''Fourier mode'''. In the important special case of a [[real number|real]]-valued function ''f''(''x''), one often uses the identity
+
+:<math>e^{inx}=\cos(nx)+i\sin(nx) \,\!</math>
+
+to equivalently represent ''f''(''x'') as an infinite linear combination of functions of the form <math>\cos(nx) \,\!</math> and <math>\sin(nx) \,\!</math>, i.e.
+
+:<math>f(x) = \frac{1}{2}a_0 + \sum_{n=1}^\infty\left[a_n\cos(nx)+b_n\sin(nx)\right]</math>, where
+
+:<math>a_n = \frac{1}{\pi}\int_{-\pi}^\pi f(x)\cos(nx)\,dx</math> and <math>b_n = \frac{1}{\pi}\int_{-\pi}^\pi f(x)\sin(nx)\,dx</math>
+
+which corresponds to <math>F_n = (a_n - i b_n) / 2 \,\!</math> and <math>F_n = F_{-n}^*.</math>
+
+For example problems, see [http://www.exampleproblems.com/wiki/index.php?title=Fourier_Series www.exampleproblems.com].
+
+==Convergence of Fourier series==
+
+While the '''Fourier coefficients''' ''a''<sub>''n''</sub> and ''b''<sub>''n''</sub> can be formally defined for any function for which the integrals make sense, 
+whether the series so defined actually converges to ''f''(''x'') depends on the properties of ''f''.
+
+The simplest answer is that if ''f'' is [[square-integrable]] then
+
+:<math>\lim_{N\rightarrow\infty}\int_{-\pi}^\pi\left|f(x)-\sum_{n=-N}^{N}
+F_n\,e^{inx}\right|^2\,dx=0</math>
+
+(this is convergence in the norm of the [[Lp space|space ''L''<sup>2</sup>]]).
+
+There are also many known tests that ensure that the series converges at a given point ''x''. For example, if the function is [[differentiable]] at ''x''. Even a jump discontinuity does not pose a problem: if the function has left and right derivatives at ''x'', then the Fourier series will converge to the average of the left and right limits (but see [[Gibbs phenomenon]]). 
+
+However, a fact that many find surprising, is that the Fourier series of a continuous function need not converge pointwise.  A discussion of the counterexample, along with other positive and negative results in the general spirit of "for functions of type ''X'', the Fourier series converges in sense ''Y''" may be found in [[Convergence of Fourier series]].
+
+==Some positive consequences of the homomorphism properties of exp==
+
+Because "basis functions" ''e''<sup>''ikx''</sup> are [[homomorphism]]s of the real line (more precisely, of the "circle group") we have some useful identities:
+
+* If
+
+:<math>g(x)=f(x-y) \,\!</math>
+
+then (if ''G'' is the transform of ''g'')
+
+:<math>G_k = e^{-iky}F_k \,\!</math>.
+
+* If <math>H_k</math> is the transform of <math>h = f * g \,\!</math>, then
+
+:<math>H_k = F_k G_k \,\!</math>,
+
+that is, the Fourier transform of a [[convolution]] is the product of the Fourier transforms. Vice versa, if <math>h = fg</math> then the Fourier transform ''H'' of ''h'' is the convolution of the Fourier transforms of ''f'' and ''g''
+
+:<math>H_k=\sum_{i=-\infty}^\infty F_i G_{k-i}</math>.
+
+==Parseval's theorem==
+
+Another important property of the Fourier series is [[Parseval's theorem]], a special case of the [[Plancherel theorem]] and a form of [[unitary|unitarity]]:
+
+:<math>\sum_{n=-\infty}^\infty |F_n|^2 = \frac{1}{2\pi} \int_{-\pi}^\pi |f(x)|^2 dx \,</math>
+
+or, for the real-valued ''f''(''x'') case above,
+
+:<math>\frac{a_0^2}{4} + \frac{1}{2} \sum_{n=1}^\infty \left( a_n^2 + b_n^2 \right) = \frac{1}{2\pi} \int_{-\pi}^\pi f(x)^2 dx</math>.
+
+==General formulation==
+
+The useful properties of Fourier series are largely derived from the [[orthogonal]]ity and [[homomorphism|homomorphism property]] of the functions <math>e^{inx} \,\!</math>.
+Other sequences of [[orthogonal functions]] have similar properties, although some useful identities concerning e.g. convolutions are no longer true once we lose the homomorphism property.
+Examples include sequences of [[Bessel function]]s and [[orthogonal polynomials]]. Such sequences are commonly the solutions of a differential equation; a large class of useful sequences are solutions of the so-called [[Sturm-Liouville theory|Sturm-Liouville problems]].
+
+==See also==
+
+* [[Fourier transform]]
+* [[Harmonic analysis]]
+* [[Gibbs phenomenon]]
+* [[Sturm-Liouville theory]]
+
+==References==
+
+* Yitzhak Katznelson, ''An introduction to harmonic analysis'', Second corrected edition. Dover Publications, Inc., New York, 1976. ISBN 0486633314
+
+[[Category:Fourier analysis]]
+[[Category:Fourier series|*]]
+[[Category:Mathematical series]]
+[[de:Fourierreihe]]
+[[fr:Série de Fourier]]
+[[ko:&#54392;&#47532;&#50640; &#44553;&#49688;]]
+[[zh:&#20613;&#37324;&#21494;&#32423;&#25968;]]

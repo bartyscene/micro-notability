@@ -1,7 +1,7 @@
 import json
 import os
 import mwxml
-from modules.utils import  filter_wikitext
+from modules.utils import filter_wikitext
 
 def list_files_in_folder(folder_path):
     try:
@@ -22,7 +22,7 @@ def list_files_in_folder(folder_path):
 def process_json_file(json_file_path):
     # Load the JSON file
     try:
-        with open(json_file_path, "r") as file:
+        with open(json_file_path, "r", encoding="utf-8") as file:
             json_data = json.load(file)
     except FileNotFoundError:
         print(f"JSON file {json_file_path} not found.")
@@ -31,9 +31,12 @@ def process_json_file(json_file_path):
         print(f"Error decoding JSON: {e}")
         return
 
+    # Determine the directory in which the JSON file resides
+    output_dir = os.path.dirname(json_file_path)
+
     # Iterate over the JSON structure
     for file_data in json_data:
-        # Get the input file name
+        # Get the input file name from the JSON
         input_file_name = file_data[0]["input_file_name"]
         input_file_path = os.path.join("dumps", input_file_name)
         
@@ -47,16 +50,19 @@ def process_json_file(json_file_path):
                             output_file_name = item["output_file_name"]
                             id_to_find = item["id"]
 
+                            # If there's no ID, skip
                             if id_to_find is None:
                                 continue
                             
+                            # Match the revision ID
                             if revision.id == id_to_find:
                                 # Filter and process the wikitext
                                 processed_text = filter_wikitext(revision.text)
-                                # Write to the output file
-                                with open(output_file_name, "w", encoding="utf-8") as output_file:
+                                # Write to a file in the same directory as the JSON
+                                output_file_path = os.path.join(output_dir, output_file_name)
+                                with open(output_file_path, "w", encoding="utf-8") as output_file:
                                     output_file.write(processed_text)
-                                print(f"Processed and saved to {output_file_name}")
+                                print(f"Processed and saved to {output_file_path}")
         except FileNotFoundError:
             print(f"File {input_file_path} not found.")
         except Exception as e:

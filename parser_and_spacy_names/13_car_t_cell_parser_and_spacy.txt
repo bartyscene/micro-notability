@@ -1,0 +1,41 @@
+TITLE: CAR T cell
+
+REVISION ID: 1262143184, TIMESTAMP: 2024-12-09T21:08:19Z
+
+PARSER NAMES:
+Kuwana et al
+Gideon Gross
+Zelig Eshhar
+Weiss
+Weiss
+Center
+Drug
+Agency
+Agency
+Drug
+European Medicines Agency
+European Medicines Agency
+European Medicines Agency
+European Medicines Agency
+European Medicines Agency
+European Medicines Agency
+European Medicines Agency
+European Medicines Agency
+European Medicines Agency
+European Medicines Agency
+Johnson
+Johnson J J
+European Medicines Agency
+European Medicines Agency
+Research Center
+Research
+European
+
+NER NAMES:
+Yoshihisa Kuwana
+Gideon Gross
+Zelig Eshhar
+Arthur Weiss
+Weiss
+Kymriah
+

@@ -1,0 +1,416 @@
+TITLE: Cognitive behavioral therapy
+
+REVISION ID: 10917908, TIMESTAMP: 2004-12-22T04:58:17Z
+
+PARSER NAMES:
+Clinical
+National Association
+Albert Ellis
+Aaron T. Beck
+Steven
+Martin Keller
+Brown
+May
+David D. Burns
+James P. Jr
+McCullough
+Institute
+
+NER NAMES:
+Albert Ellis
+Aaron T. Beck
+Steven Phillipson
+David D. Burns
+James P. Jr. McCullough
+
+
+REVISION ID: 641675359, TIMESTAMP: 2015-01-09T03:22:32Z
+
+PARSER NAMES:
+Psychology
+Psychological
+by Hofmann
+Aaron T. Beck
+Albert Ellis
+John Stewart
+John B
+Mary Cover Jones
+Joseph Wolpe
+Wolpe
+Hans Eysenck
+Arnold Lazarus
+United
+United Kingdom
+John B
+Clark L
+Joseph Wolpe
+British psychologist
+Hans Eysenck
+Eysenck
+Albert
+Albert Ellis
+Aaron T. Beck
+Beck
+Beck
+Albert Ellis
+Albert Ellis
+Aaron T. Beck
+David M. Clark
+David H. Barlow
+Martinez Devesa
+Turner
+Smedslund
+Edwards
+Spinal
+United Kingdom
+National Institute
+Mowrer O
+Mowrer
+Schizophrenia
+American
+Association
+Aaron T. Beck
+Beck
+Beck
+Beck
+American
+Association
+Clinical
+They
+Evidence
+Cox
+Lyn Yvonne Abramson Abramson
+Patricia Devine Devine
+Hollon
+Patricia Devine Devine
+Low
+National Institute
+Clinical
+Learning
+National
+Group
+by David M. Rudd
+Albert Ellis
+Spinal
+Evidence
+Cochrane
+Cochrane
+Cochrane
+Psychological
+American Psychological Association APA
+Psychological
+Fancher
+Fancher
+Slife
+Williams
+They
+They
+They
+Society
+National
+National
+Psychological
+National Institute
+Clinical
+Andrew Samuels
+National Institute
+Clinical
+Aaron T. Beck
+Disorders
+Butler G. Fennell M
+Hackmann A
+Disorders
+Freeman A
+Fancher
+American
+Hofmann
+Psychological
+Mental
+Problems
+Willson R. Branch R
+Association
+British Association
+National Association
+Association
+Research
+Psychology
+Clinical
+United Kingdom
+
+NER NAMES:
+Hofmann
+Aaron T. Beck]
+Albert Ellis
+John Stewart Mill
+John B. Watson|Watson]
+Rayner
+Mary Cover Jones]
+Joseph Wolpe]
+Wolpe
+Watson
+Ivan Pavlov]
+Hans Eysenck
+Arnold Lazarus
+Ivan Pavlov
+John B. Watson
+Clark L. Hull
+Joseph Wolpe
+Hans Eysenck
+Eysenck
+B.F. Skinner
+Skinner
+Julian Rotter
+Albert Bandura
+Alfred Adler
+Adler
+Albert Ellis
+Aaron T. Beck
+Beck
+Beck
+Albert Ellis
+Aaron T. Beck
+David M. Clark
+[[David H. Barlow
+Martinez
+Devesa
+Turner
+Smedslund
+Edwards
+Orval Hobart Mowrer|O. Hobart Mowrer
+Aaron T. Beck]
+Beck
+Beck
+Beck
+Cox
+Lyn Yvonne Abramson|Abramson
+Patricia Devine|Devine
+Hollon
+Patricia Devine|Devine
+David M. Rudd
+Fancher
+Fancher
+Slife
+Williams
+Andrew Samuels
+Aaron T. Beck
+Hackmann A.
+Freeman A.
+Fancher
+R. T.
+Hofmann
+Willson
+
+
+REVISION ID: 1263874230, TIMESTAMP: 2024-12-19T03:49:26Z
+
+PARSER NAMES:
+American
+American
+Association
+American Psychological Association
+National
+British National
+Aaron T. Beck
+Albert Ellis
+John
+John
+John B
+John B
+Mary Cover Jones
+Joseph Wolpe
+Wolpe
+Hans Eysenck
+Arnold Lazarus
+United
+United Kingdom
+John B
+Clark L
+Joseph Wolpe
+Wolpe
+British psychologist
+Hans Eysenck
+Eysenck
+Albert
+Claire
+Abraham Low
+Low
+Albert Ellis
+Aaron T. Beck
+Beck
+Beck
+Beck
+Albert Ellis
+Albert Ellis
+Aaron T. Beck
+David M. Clark
+David H. Barlow
+Spinal
+Psychological
+Evidence
+United Kingdom
+National Institute
+American
+Association
+A Cochrane
+Aaron T. Beck
+Beck
+Beck
+Beck
+Beck
+Beck
+Psychological
+Learning
+Mowrer O
+Mowrer
+National Institute
+National Institute
+Schizophrenia
+A Cochrane
+Mental
+Cochrane
+May
+Research
+Research
+Cochrane
+A Cochrane
+Evidence
+A Cochrane
+Cochrane
+Cochrane
+Cochrane
+Cochrane
+National
+National Institute
+Chaloult
+Ngo
+Cousineau
+Goulet
+Beck
+Walen
+Wessler
+Beck
+Emery
+Greenberg
+Auger
+They
+Chaloult
+Ngo
+Cousineau
+Goulet
+They
+Agras
+Prochaska
+Norcross
+Learning
+National Institute
+Clinical
+Learning
+National
+Group
+Rudd
+Beck
+M. David Rudd
+Albert Ellis
+Group
+Disorders
+David H. Barlow
+They
+Beck
+Slife
+Williams
+They
+Society
+National
+National
+Psychological
+National Institute
+Clinical
+Andrew Samuels
+Association
+British Association
+National Association
+Association
+Research
+Psychology
+
+NER NAMES:
+Aaron T. Beck]
+Albert Ellis
+John Stuart Mill
+John B. Watson
+Rosalie Rayner
+Mary Cover Jones]
+Joseph Wolpe]
+Wolpe
+Watson
+Ivan Pavlov]
+Hans Eysenck
+Arnold Lazarus
+Ivan Pavlov
+John B. Watson
+Clark L. Hull
+Joseph Wolpe
+Wolpe
+Hans Eysenck
+Eysenck
+B. F. Skinner
+Skinner
+Julian Rotter
+Albert Bandura
+Claire Weekes
+Alfred Adler
+Abraham Low
+Adler
+Low
+Albert Ellis
+Aaron T. Beck
+Beck
+Beck
+Albert Ellis
+Aaron T. Beck
+David M. Clark
+David H. Barlow
+Cochrane
+Aaron T. Beck]
+Beck
+Beck
+Beck
+Beck
+Beck
+Rotter
+Orval Hobart Mowrer|O. Hobart Mowrer
+Cochrane
+Chaloult
+Ngo
+Cousineau
+Goulet
+Beck
+Walen
+Wessler
+Beck
+Emery
+Greenberg
+Auger
+Chaloult
+Ngo
+Cousineau
+Goulet
+Agras
+Prochaska
+Norcross
+Kirk
+Kanfer
+Saslow
+Rudd
+Beck
+M. David Rudd
+Albert Ellis
+David H. Barlow
+Beck
+Slife
+Williams
+Farhad Dalal
+Dalal
+Dalal
+[[Andrew Samuels]
+

@@ -34,9 +34,9 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Wearable_comput
     Warwick
     Irena
     Warwick
+    Warwick
     Samus Aran
     Iron Man
-    Predator
     Robocop
     Samus Aran
     Leela
@@ -88,6 +88,7 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Wearable_comput
     Kevin Warwick
     Warwick
     Irena
+    Warwick
     Warwick
     Dr. Bruce H Thomas
     Dr. Wayne Piekarski

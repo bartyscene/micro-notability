@@ -25,6 +25,7 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Light-emitting_
     Auger (recombination)
     Auger (recombination)
     Zener (diode)
+    Vincent Thomas Bridge
 ]
 
 Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Light-emitting_diode&oldid=641853600
@@ -76,6 +77,7 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Light-emitting_
     Nakamura 
     Hiroshi Amano
     Isamu Akasaki
+    Alivisatos
     Michael Bowers
     
     /////Eponyms/////
@@ -87,6 +89,10 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Light-emitting_
     Moore (Law)
     Philips Lumileds (company)
     Philips Lumileds (company)
+    Stokes (shift) 
+    Stokes (shift) 
+    Stokes (shift) 
+    Stokes (shift) 
     Haitz (law)
     Haitz (law)
     Auger (recombination)

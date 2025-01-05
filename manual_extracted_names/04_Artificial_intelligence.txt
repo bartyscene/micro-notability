@@ -195,6 +195,7 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Simon
     Newell
     Simon
+    Dreyfus
     Hubert Dreyfus
     Dreyfus
     Gödel

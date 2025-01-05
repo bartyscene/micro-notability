@@ -45,13 +45,13 @@ Resistive touch is used in restaurants, factories and hospitals due to its high 
 ===Surface acoustic wave===
 {{Main|Surface acoustic wave}}
 
-[[Surface acoustic wave]] (SAW) technology also uses [[ultrasound|ultrasonic]] waves that pass over the touchscreen panel. When the panel is touched, a portion of the wave is absorbed. This change in the ultrasonic waves registers the position of the touch event and sends this information to the [[controller (computing)|controller]] for processing. Surface acoustic wave touchscreen panels can be damaged by outside elements. Contaminants on the surface can also interfere with the functionality of the touchscreen.{{Citation needed|date=October 2013}}
+[[Surface acoustic wave]] (SAW) technology also uses [[ultrasound|ultrasonic]] waves that pass over the touchscreen panel. When the panel is touched, a portion of the wave is absorbed. This change in the ultrasonic waves registers the position of the touch event and sends this information to the [[controller (computing)|controller]] for processing. Surface acoustic wave touchscreen panels can be damaged by outside elements. Contaminants on the surface can also interfere with the functionality of the touchscreen.                                     
 
 ===Capacitive===
 [[File:Capacitive touchscreen.jpg|thumb|Capacitive touchscreen of a mobile phone]]
 {{Main|Capacitive sensing}}
 
-A capacitive touchscreen panel consists of an [[insulator (electrical)|insulator]] such as [[glass]], coated with a transparent [[electrical conductor|conductor]] such as [[indium tin oxide]] (ITO).{{Citation needed|date=October 2013}} As the human body is also an electrical conductor, touching the surface of the screen results in a distortion of the screen's [[electrostatic]] field, measurable as a change in [[capacitance]]. Different technologies may be used to determine the location of the touch. The location is then sent to the [[Controller (computing)|controller]] for processing.
+A capacitive touchscreen panel consists of an [[insulator (electrical)|insulator]] such as [[glass]], coated with a transparent [[electrical conductor|conductor]] such as [[indium tin oxide]] (ITO).                                      As the human body is also an electrical conductor, touching the surface of the screen results in a distortion of the screen's [[electrostatic]] field, measurable as a change in [[capacitance]]. Different technologies may be used to determine the location of the touch. The location is then sent to the [[Controller (computing)|controller]] for processing.
 
 Unlike a [[resistive touchscreen]], one cannot use a capacitive touchscreen through most types of electrically insulating material, such as gloves. This disadvantage especially affects usability in consumer electronics, such as touch tablet PCs and capacitive smartphones in cold weather. It can be overcome with a special capacitive stylus, or a special-application glove with an embroidered patch of conductive thread passing through it and contacting the user's fingertip.
 
@@ -156,50 +156,4 @@ Unsupported touchscreens are still fairly common in applications such as ATMs an
 
 Touchscreens can suffer from the problem of fingerprints on the display. This can be mitigated by the use of materials with [[optical coating]]s designed to reduce the visible effects of fingerprint oils, or [[oleophobic]] coatings as most of the modern smartphones, which lessen the actual amount of oil residue, or by installing a matte-finish anti-glare screen protector, which creates a slightly roughened surface that does not easily retain smudges, or by reducing skin contact by using a fingernail or stylus.
 
-==See also==
-*[[Dual-touchscreen]]
-*[[Pen computing]]
-*[[Energy harvesting]]
-*[[Flexible keyboard]]
-*[[Gestural interface]]
-*[[Graphics tablet]]
-*[[Graphics tablet-screen hybrid]]
-*[[Lock screen]]
-*[[List of Touch Solution manufacturers]]
-*[[Tablet computer|Tablet PC]]
-*[[Touch switch]]
-*[[Touchscreen remote control]]
-*[[Multi-touch]]
-
-*[[Omnitouch]]
-*[[SixthSense]]
-
-==Notes==
-{{Reflist|colwidth=30em}}
-
-==References==
-{{refbegin}}
-*                                                                                                                                                                                           
-
-*                                                                                                                                                                                                                                                                
-
-*                                                                                                                                                                                                                                                                                                                                                  
-
-*                                                                                                                                                                                                                                                                                                 
-{{refend}}
-
-*                                                                                                                                                                                                                                                                                                                                                                              
-{{refend}}
-
-==External links==
-{{Commons category|Touchscreens}}
-{{Wiktionary|touch screen}}
-* [http://electronics.howstuffworks.com/question716.htm Howstuffworks] - How do touchscreen monitors know where you're touching?
-* [http://www.cammaxlimited.co.uk/what-are-the-different-types-of-touchscreen/ What are the different types of touchscreen technology]
-* [http://arstechnica.com/gadgets/2013/04/from-touch-displays-to-the-surface-a-brief-history-of-touchscreen-technology/ From touch displays to the surface: A brief history of touchscreen technology]
-* [http://ruetersward.com/biblio.html Annotated bibliography of references to handwriting recognition and pen computing]
-{{Basic computer components}}
-
-[[Category:American inventions]]
-[[Category:Touchscreens| ]]
-[[Category:Display devices]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

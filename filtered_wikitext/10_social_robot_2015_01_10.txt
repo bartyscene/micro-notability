@@ -28,41 +28,4 @@ An example of social robot would be [[Kaspar (robot)|Kaspar]], designed by [[Uni
 * [http://www.springer.com/engineering/journal/12369 International Journal of Social Robotics]
 * [http://www.benjamins.com/cgi-bin/t_seriesview.cgi?series=IS Interaction Studies: Social Behaviour and Communication in Biological and Artificial Systems]
 
-==See also==
-{{Portal|Robotics}}
-* [[Kismet (robot)|Kismet]]
-* [[Joe Robot]]
-* [[Tico Robot|Tico]]
-
-==Further references==
-{{more footnotes|date=June 2011}}
-* Brian R. Duffy, ''Fundamental Issues in Affective Intelligent Social Machines'', The Open Artificial Intelligence Journal, pp.&nbsp;21–34 (14), ISSN: 1874-0618 Volume 2, 2008 
-* Cynthia L. Breazeal, ''Designing Sociable Robots'', MIT Press, 2002. ISBN 0-262-02510-8
-* Kerstin Dautenhahn, Trying to Imitate - a Step Towards Releasing Robots from Social Isolation, ''Proceedings: From Perception to Action Conference (Lausanne, Switzerland, September 7–9, 1994),'' editors: P. Gaussier and J.-D. Nicoud, IEEE Computer Society Press, pp 290–301, 1994. ISBN 0-8186-6482-7.
-* Kerstin Dautenhahn, Getting to know each other - artificial social intelligence for autonomous robots, ''Robotics and Autonomous Systems'' 16:333-356, 1995.
-* Terrence Fong, Illah R. Nourbakhsh, Kerstin Dautenhahn: A survey of socially interactive robots. ''Robotics and Autonomous Systems'' 42(3-4):143-166, 2003.
-* W. Grey Walter, "An Imitation of Life," ''Scientific American'', May 1950, pp 42–45.
-* Brian R. Duffy, "Social Embodiment in Autonomous Mobile Robotics", ''International Journal of Advanced Robotic Systems'' 1(3):155-170, 2004.
-
-==References==
-{{Reflist}}
-
-==External links==
-{{Commons category|Social robots}}
-
-===Examples of social robots===
-* [http://www.personalrobotics.nl/mambo/index.php?option=com_content&task=view&id=25&Itemid=51 iCat user-interface robot with animated face]
-* [http://www.bartneck.de/2002/09/01/emuu/ eMuu]
-* [[Kaspar (robot)|KASPAR]]
-* [http://www.speech.kth.se/furhat/ Furhat]
-* [[Leonardo (robot)|Leonardo]]
-* [http://roboticslab.uc3m.es/roboticslab/robot.php?id_robot=1 Maggie]
-* [[Tico Robot|Tico]]
-* [[Media Lab Europe's social robots|Anthropos]]
-* [http://www.kumotek.com/entertainment_robots.htm/ ARTI: The Interactive Conversational Robot at Intel]
-* [http://probo.vub.ac.be The intelligent huggable robot PROBO]
-* [http://srl.informatik.uni-freiburg.de/realrobots DARYL]
-* [https://github.com/somenice/Pablo Pablo]
-* [[Paro (robot)|Paro]]
-
-[[Category:Social robots| ]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

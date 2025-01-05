@@ -141,7 +141,7 @@ can be carried out term-by-term.  But all terms involving <math>\cos(2j+1)\frac{
 
 In these few lines, which are close to the modern [[Formalism (mathematics)|formalism]] used in Fourier series, Fourier revolutionized both mathematics and physics. Although similar trigonometric series were previously used by [[Euler]], [[d'Alembert]], [[Daniel Bernoulli]] and [[Carl Friedrich Gauss|Gauss]], Fourier believed that such trigonometric series could represent any arbitrary function.  In what sense that is actually true is a somewhat subtle issue and the attempts over many years to clarify this idea have led to important discoveries in the theories of [[Convergent series|convergence]], [[function space]]s, and [[harmonic analysis]].
 
-When Fourier submitted a later competition essay in 1811, the committee (which included [[Joseph Louis Lagrange|Lagrange]], [[Laplace]], [[Étienne-Louis Malus|Malus]] and [[Adrien-Marie Legendre|Legendre]], among others) concluded: ''...the manner in which the author arrives at these equations is not exempt of difficulties and...his analysis to integrate them still leaves something to be desired on the score of generality and even [[Mathematical rigour|rigour]]''.{{citation needed|date=November 2012}}
+When Fourier submitted a later competition essay in 1811, the committee (which included [[Joseph Louis Lagrange|Lagrange]], [[Laplace]], [[Étienne-Louis Malus|Malus]] and [[Adrien-Marie Legendre|Legendre]], among others) concluded: ''...the manner in which the author arrives at these equations is not exempt of difficulties and...his analysis to integrate them still leaves something to be desired on the score of generality and even [[Mathematical rigour|rigour]]''.                                      
 
 ===Birth of harmonic analysis===
 Since Fourier's time, many different approaches to defining and understanding the concept of Fourier series have been discovered, all of which are consistent with one another, but each of which emphasizes different aspects of the topic.  Some of the more powerful and elegant approaches are based on mathematical ideas and tools that were not available at the time Fourier completed his original work. Fourier originally defined the Fourier series for real-valued functions of real arguments, and using the sine and cosine functions as the [[basis (linear algebra)|basis set]] for the decomposition.
@@ -354,51 +354,4 @@ Since Fourier series have such good convergence properties, many are often surpr
 
 In 1922, [[Andrey Kolmogorov]] published an article entitled "Une série de Fourier-Lebesgue divergente presque partout" in which he gave an example of a Lebesgue-integrable function whose Fourier series diverges almost everywhere. He later constructed an example of an integrable function whose Fourier series diverges everywhere {{harv|Katznelson|1976}}.
 
-==See also==
-* [[ATS theorem]]
-* [[Dirichlet kernel]]
-* [[Discrete Fourier transform]]
-* [[Fast Fourier transform]]
-* [[Fejér's theorem]]
-* [[Fourier Analysis]]
-* [[Fourier sine and cosine series]]
-* [[Fourier Transform]]
-* [[Gibbs phenomenon]]
-* [[Laurent series]] – the substitution ''q''&nbsp;=&nbsp;''e''<sup>''ix''</sup> transforms a Fourier series into a Laurent series, or conversely. This is used in the ''q''-series expansion of the [[j-invariant|''j''-invariant]].
-* [[Multidimensional transform]]
-* [[Spectral theory]]
-* [[Sturm–Liouville theory]]
-
-== Notes ==
-                         
-
-==References==
-{{Reflist|2}}
-
-===Further reading===
-*                                                                                                                                                                                                                                       
-*                                                                                                                                                                                                                                       2003 unabridged republication of the 1878 English translation by Alexander Freeman of Fourier's work ''Théorie Analytique de la Chaleur'', originally published in 1822.
-*                                                                                                                                                                                                                                       
-*                                                                                                                                                                                                                                
-* [[Felix Klein]], ''Development of mathematics in the 19th century''. Mathsci Press Brookline, Mass, 1979. Translated by M. Ackerman from ''Vorlesungen über die Entwicklung der Mathematik im 19 Jahrhundert'', Springer, Berlin, 1928.
-*                                                                                                                                                                          
-*                                                                                                                                                                               The first edition was published in 1935.
-
-==External links==
-* [http://www.thefouriertransform.com/series/fourier.php thefouriertransform.com] Fourier Series as a prelude to the Fourier Transform
-* [http://mathoverflow.net/questions/46626/characterizations-of-a-linear-subspace-associated-with-fourier-series Characterizations of a linear subspace associated with Fourier series]
-* [http://www.fourier-series.com/fourierseries2/fourier_series_tutorial.html An interactive flash tutorial for the Fourier Series]
-* [http://www.jhu.edu/~signals/phasorapplet2/phasorappletindex.htm Phasor Phactory] Allows custom control of the harmonic amplitudes for arbitrary terms
-* [http://www.falstad.com/fourier/ Java applet] shows Fourier series expansion of an arbitrary function
-* [http://www.exampleproblems.com/wiki/index.php/Fourier_Series Example problems] – Examples of computing Fourier Series
-*{{springer|title=Fourier series|id=p/f041090}}
-* {{MathWorld | urlname= FourierSeries | title= Fourier Series}}
-* [http://math.fullerton.edu/mathews/c2003/FourierSeriesComplexMod.html Fourier Series Module by John H. Mathews]
-* [http://www.shsu.edu/~icc_cmf/bio/fourier.html Joseph Fourier] – A site on Fourier's life which was used for the historical section of this article
-* [http://www.sfu.ca/sonic-studio/handbook/Fourier_Theorem.html SFU.ca] – 'Fourier Theorem'
-
-{{PlanetMath attribution|id=4718|title=example of Fourier series}}
-
-{{DEFAULTSORT:Fourier Series}}
-[[Category:Fourier series| ]]
-[[Category:Joseph Fourier]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

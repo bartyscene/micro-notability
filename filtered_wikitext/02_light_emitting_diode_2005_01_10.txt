@@ -112,34 +112,4 @@ For outdoor use, you need at least 2,000 nits for most situations, whereas highe
 
 For specific projects, you need to take into account factors such as sight lines, local authority planning requirements (if the installation is to become semi-permanent), vehicular access (trucks carrying the screen, truck-mounted screens, or cranes), cable runs for power and video (accounting for both distance and health and safety requirements), power, suitability of the ground for the location of the screen (check to make sure there are no pipes, shallow drains, caves, or tunnels that may not be able to support heavy loads), and overhead obstructions.
 
-==See also==
-*[[Nixie tube]]
-
-== External links ==
-*[http://www2.whidbey.net/opto/LEDFAQ/The%20LED%20FAQ%20Pages.html The LED FAQ Pages - A compilation of questions and answers about light-emitting diodes and infrared emitters]
-*[http://www.ledmuseum.org The LED Museum - Information about old and new LED developments]
-*[http://members.misty.com/don/ledx.html Don Klipstein's LED Page - A comprehensive LED information resource]
-*[http://members.misty.com/don/lede.html Why LEDs can be 10 times as efficient as incandescents in some applications but not in general home lighting?]
-*[http://www.oksolar.com/led/led_color_chart.htm Chart showing voltage drops of various colors]
-
-
-[[Category:Display technology]]
-[[Category:Electrical components]]
-[[Category:Embedded systems]]
-[[Category:Lighting]]
-
-[[ca:Díode LED]]
-[[da:Lysdiode]]
-[[de:Leuchtdiode]]
-[[eo:Lum-Elsenda Diodo]]
-[[es:Diodo LED]]
-[[et:Valgusdiood]]
-[[fi:LED]]
-[[fr:Diode électroluminescente]]
-[[id:Dioda cahaya]]
-[[it:LED]]
-[[ja:&#30330;&#20809;&#12480;&#12452;&#12458;&#12540;&#12489;]]
-[[nl:LED]]
-[[no:Lysdiode]]
-[[pl:Dioda elektroluminescencyjna]]
-[[sv:Lysdiod]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

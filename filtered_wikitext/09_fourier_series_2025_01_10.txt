@@ -48,7 +48,7 @@ can be carried out term-by-term. But all terms involving <math>\cos(2j+1)\frac{\
 
 In these few lines, which are close to the modern [[Formalism (mathematics)|formalism]] used in Fourier series, Fourier revolutionized both mathematics and physics. Although similar trigonometric series were previously used by [[Euler]], [[Jean le Rond d'Alembert|d'Alembert]], [[Daniel Bernoulli]] and [[Carl Friedrich Gauss|Gauss]], Fourier believed that such trigonometric series could represent any arbitrary function. In what sense that is actually true is a somewhat subtle issue and the attempts over many years to clarify this idea have led to important discoveries in the theories of [[Convergent series|convergence]], [[function space]]s, and [[harmonic analysis]].
 
-When Fourier submitted a later competition essay in 1811, the committee (which included [[Joseph Louis Lagrange|Lagrange]], [[Laplace]], [[Étienne-Louis Malus|Malus]] and [[Adrien-Marie Legendre|Legendre]], among others) concluded: ''...the manner in which the author arrives at these equations is not exempt of difficulties and...his analysis to integrate them still leaves something to be desired on the score of generality and even [[Mathematical rigour|rigour]]''.{{citation needed|date=November 2012}}
+When Fourier submitted a later competition essay in 1811, the committee (which included [[Joseph Louis Lagrange|Lagrange]], [[Laplace]], [[Étienne-Louis Malus|Malus]] and [[Adrien-Marie Legendre|Legendre]], among others) concluded: ''...the manner in which the author arrives at these equations is not exempt of difficulties and...his analysis to integrate them still leaves something to be desired on the score of generality and even [[Mathematical rigour|rigour]]''.                                      
 
 ===Fourier's motivation===
 [[File:Fourier heat in a plate.png|thumb|right|Heat distribution in a metal plate, using Fourier's method]]
@@ -605,64 +605,4 @@ As {{mvar|m}} increases, the coefficients will be positive and increasing until 
 
 in the {{mvar|n}}th wave before returning to around zero, showing that the series does not converge at zero but reaches higher and higher peaks. Note that though the function is continuous, it is not differentiable.
 
-==See also==
-{{cols|colwidth=26em}}
-* [[ATS theorem]]
-* [[Carleson's theorem]]
-* [[Dirichlet kernel]]
-* [[Discrete Fourier transform]]
-* [[Fast Fourier transform]]
-* [[Fejér's theorem]]
-* [[Fourier analysis]]
-* [[Fourier sine and cosine series]]
-* [[Fourier transform]]
-* [[Gibbs phenomenon]]
-* [[Half range Fourier series]]
-* [[Laurent series]] – the substitution ''q''&nbsp;=&nbsp;''e''<sup>''ix''</sup> transforms a Fourier series into a Laurent series, or conversely. This is used in the ''q''-series expansion of the [[j-invariant|''j''-invariant]].
-* [[Least-squares spectral analysis]]
-* [[Multidimensional transform]]
-* [[Sine and cosine transforms]]
-* [[Spectral theory]]
-* [[Sturm–Liouville theory]]
-* [[Residue theorem]] integrals of ''f''(''z''), singularities, poles
-{{colend}}
-
-== Notes ==
-{{notelist-ua}}
-
-==References==
-{{Reflist|refs=
-
-                                                                                                                                                                                                                                                                                                                                     
-}}
-
-===Further reading===
-{{refbegin|2|indent=yes}}
-*                                                                                                                                                                                                                                              
-*                                                                                                                                                                                        2003 unabridged republication of the 1878 English translation by Alexander Freeman of Fourier's work ''Théorie Analytique de la Chaleur'', originally published in 1822.
-*                                                                                                                                                                                                                                                     
-*                                                                                                                                                                                                                                                      
-*[[Felix Klein]], ''Development of mathematics in the 19th century''. Mathsci Press Brookline, Mass, 1979. Translated by M. Ackerman from ''Vorlesungen über die Entwicklung der Mathematik im 19 Jahrhundert'', Springer, Berlin, 1928.
-*                                                                                                                                                                                                               
-*                                                                                                                                                                                                                                                                                                      
-*                                                                                                                                                                                                                                                 
-*                                                                                                                                                                                                                                                                                                                                               
-*                                                                                                                                                                                                                                                                                           
-*                                                                                                                                                                                                              
-*                                                                                                                                                    
-*                                                                                                                                                                                                                                                The first edition was published in 1935.
-{{refend}}
-
-==External links==
-*{{springer|title=Fourier series|id=p/f041090}}
-*                                                                                                                                
-*{{MathWorld | urlname= FourierSeries | title= Fourier Series}}
-*{{webarchive |url=https://web.archive.org/web/20011205152434/http://www.shsu.edu/~icc_cmf/bio/fourier.html |date=December 5, 2001 |title=Joseph Fourier – A site on Fourier's life which was used for the historical section of this article }}
-
-{{PlanetMath attribution|id=4718|title=example of Fourier series}}
-{{series (mathematics)}}
-{{Authority control}}
-
-{{DEFAULTSORT:Fourier Series}}
-[[Category:Fourier series| ]]
-[[Category:Joseph Fourier]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

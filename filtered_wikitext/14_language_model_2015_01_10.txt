@@ -96,38 +96,4 @@ Additionally, without an end-of-sentence marker, the probability of an ungrammat
 
 A [[positional language model]]                                                                                                                                                                                                                                                                                            is one that describes the probability of given words occurring close to one another in a text, not necessarily immediately adjacent. Similarly, bag-of-concepts models                                                                                                                                                             leverage on the semantics associated with multi-word expressions such as ''buy_christmas_present'', even when they are used in information-rich sentences like "today I bought a lot of very nice Christmas presents".
 
-== See also ==
-* [[Factored language model]]
-* [[Cache language model]]
-* [[Katz's back-off model]]
-
-== References ==
-{{reflist}}
-
-===Further reading===
-{{refbegin}}
-*                                                                                        | title=A Language Modeling Approach to Information Retrieval | booktitle=Research and Development in Information Retrieval | year=1998 | pages=275–281}}
-*                                                                                    | title=A General Language Model for Information Retrieval | booktitle=Research and Development in Information Retrieval | year=1999 | pages=279–280}}
-*                                                                                                                                                                                                                                                                                       , number 10-98}}
-{{refend}}
-
-==External links==
-*[http://www-lium.univ-lemans.fr/cslm CSLM] - Free toolkit for [[feedforward neural network|feedforward neural]] language models
-*[https://github.com/jnory/DALM DALM] - Fast, Free software for language model queries
-*[http://sourceforge.net/projects/irstlm IRSTLM] - Free software for language modeling
-*[http://www.phontron.com/kylm Kylm] (Kyoto Language Modeling Toolkit) - Free language modeling toolkit in Java
-*[http://kheafield.com/code/kenlm KenLM] - Fast, Free software for language modeling
-*[https://lmsharp.codeplex.com/ LMSharp] - Free language model toolkit for [[Kneser-Ney smoothing|Kneser-Ney smoothed]] n-gram models and [[recurrent neural network]] models
-*[https://code.google.com/p/mitlm MITLM] - MIT Language Modeling toolkit.  Free software
-*[http://openfst.cs.nyu.edu/twiki/bin/view/GRM/NGramLibrary OpenGrm NGram] library - Free software for language modeling.  Built on [[OpenFst]].
-*[http://nlg.isi.edu/software/nplm NPLM] - Free toolkit for [[feedforward neural network|feedforward neural]] language models
-*[http://sifaka.cs.uiuc.edu/~ylv2/pub/plm/plm.htm Positional Language Model]
-*[http://sourceforge.net/projects/randlm RandLM] - Free software for [[randomised language modeling]]
-*[http://rnnlm.org RNNLM] - Free [[recurrent neural network]] language model toolkit
-*[http://www-speech.sri.com/projects/srilm SRILM] - Proprietary software for language modeling
-*[http://vsiivola.github.io/variKN VariKN] - Free software for creating, growing and pruning Kneser-Ney smoothed n-gram models.
-*[http://www.keithv.com/software/csr/ Language models trained on newswire data]
-
-[[Category:Language modeling|*]]
-[[Category:Statistical natural language processing]]
-[[Category:Markov models]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

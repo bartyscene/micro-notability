@@ -119,16 +119,4 @@ Additionally, [[Western Digital]] and [[Xilinx]] are industry donors.
 == References ==
 {{Reflist}}
 
-== External links ==
-{{Commons}}
-* {{Official website}}
-* {{Facebook}}
-* {{twitter}}
-* {{YouTube|channel= UC4sItzYomoJ6Flt0aDyHMOQ}}
-* [https://www.reddit.com/r/askscience/comments/olel36/askscience_ama_series_were_event_horizon_horizon/ EHT "Ask Me Anything" (AMA) serie] on [[reddit]]
-* [https://www.ngeht.org/ The Next Generation Event Horizon Telescope]
-{{Radio astronomy}}
-{{Portal bar|Astronomy|Stars|Spaceflight|Outer space|Solar System}}
-
-[[Category:Interferometric telescopes]]
-[[Category:Albert Einstein Medal recipients]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

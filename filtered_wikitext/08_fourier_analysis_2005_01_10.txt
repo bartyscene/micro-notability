@@ -57,24 +57,4 @@ However, it is important to realize that Fourier transforms are not limited to f
 ==References==
 Smith, Steven W. ''The Scientist and Engineer's Guide to Digital Signal Processing'', 2nd edition. San Diego: California Technical Publishing, 1999. ISBN 0-9660176-3-3. ''(also available online: [http://www.dspguide.com/pdfbook.htm])''
 
-==See also==
-
-*[[Number-theoretic transform]]
-*[[Laplace transform]]
-*[[Orthogonal functions]]
-*[[Wavelet]]
-*[[Chirplet]]
-
-==External links==
-*[http://wims.unice.fr/wims/wims.cgi?session=6WA23CFB0C.3&+lang=en&+module=tool%2Fanalysis%2Ffourierlaplace.en Online Computation] of the transform or inverse transform, wims.unice.fr
-
-[[Category:Fourier analysis]]
-[[Category:Integral transforms]]
-[[Category:Digital signal processing]]
-[[Category:Numerical analysis]]
-[[de:Fourier-Transformation]]
-[[fr:transformée de Fourier]]
-[[ja:&#12501;&#12540;&#12522;&#12456;&#22793;&#25563;]]
-[[pl:Transformata Fouriera]]
-[[pt:Transformada de Fourier]]
-[[zh:&#20613;&#37324;&#21494;&#21464;&#25442;]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

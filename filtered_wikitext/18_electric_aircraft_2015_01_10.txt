@@ -81,7 +81,7 @@ Built by Lange Flugzeugbau GmbH, the LF20                                       
 ===2000s===
 
 ====Antares 20E and 23E====
-The [[Antares 20E]] is an electric, self-launching 20-meter [[sailplane]] with a 42-[[kW]] DC/DC brushless motor and [[lithium-ion battery|lithium-ion batteries]]. It can climb up to 3,000 meters with fully charged cells.                                                                                                                                                The first flight was in 2003. The Antares 20E was the first aircraft with an electric propulsion system to obtain a certificate of airworthiness. In 2011 the aircraft won the 2011 Berblinger competition,                                                                                                                                 an ambitious aerial challenge for “green” aircraft. The [[Antares 23E]] is a 23-meter version of the 20E featuring a wider range of wing-loading and higher performance, using the same propulsion system as the 20E and Arcus E. The [[Antares 23E]] first flew in December 2011, with series production commencing in early 2012.{{Citation needed|date=January 2012}}
+The [[Antares 20E]] is an electric, self-launching 20-meter [[sailplane]] with a 42-[[kW]] DC/DC brushless motor and [[lithium-ion battery|lithium-ion batteries]]. It can climb up to 3,000 meters with fully charged cells.                                                                                                                                                The first flight was in 2003. The Antares 20E was the first aircraft with an electric propulsion system to obtain a certificate of airworthiness. In 2011 the aircraft won the 2011 Berblinger competition,                                                                                                                                 an ambitious aerial challenge for “green” aircraft. The [[Antares 23E]] is a 23-meter version of the 20E featuring a wider range of wing-loading and higher performance, using the same propulsion system as the 20E and Arcus E. The [[Antares 23E]] first flew in December 2011, with series production commencing in early 2012.                                     
 
 ====Alan Cocconi and the SoLong====
 In 2005, [[Alan Cocconi]], who founded the California (USA) electric-propulsion research company [[AC Propulsion]], flew, with the assistance of several other pilots, an unmanned airplane named "SoLong" for 48 hours non-stop, propelled entirely by solar energy. This was the first such around-the-clock flight, on energy stored in the batteries mounted on the plane.                                                                                                                                                                                                                                                                                                                                                                 
@@ -278,44 +278,4 @@ Recently proposed electric aircraft concepts for the future, feature unconventio
 
 Another proposed electric aircraft concept is the [[EADS VoltAir]]. It could be made within 25 years and features liquid nitrogen cooling for the engine.                                                                                     
 
-==See also==
-* [[Compressed air engine]]
-* [[Electric vehicle]]
-* [[Electric vehicle conversion]]
-* [[European Aviation Safety Agency]] (EASA)
-* [[Green Flight Challenge]]
-* [[High-temperature superconductivity]]
-* [[Hybrid electric vehicle]]
-* [[Hydrogen-powered aircraft]]
-* [[Model aircraft]]
-* [[Nanotechnology]]
-* [[Plug-in hybrid]]
-* [[Power beaming]]
-* [[Radio-controlled aircraft]]
-* [[Solar energy]]
-* [[Turbofan]]
-
-==References==
-{{Reflist|30em}}
-
-==External links==
-{{Commons category|Electrically-powered aircraft|Electrically powered aircraft}}
-* [http://www.sciam.com/article.cfm?articleID=000E6AF3-C2D8-1CDB-B4A8809EC588EEDF Solar Flyer]
-* [http://www.evworld.com/article.cfm?storyid=878 Sky-high Hydrogen Flyer]
-* [http://www.evworld.com/article.cfm?storyid=1265 The Evolution of Electrically-Powered Flight]
-* [http://airhybridblog.com/2006/11/ World’s First Hybrid Airplane Engine]
-* [http://www.sky-sailor.ethz.ch/docs/Thesis_Noth_2008.pdf PhD Thesis on the "Design of Solar Powered Airplanes for Continuous Flight" - 19.2 MB download]
-* [http://www.evworld.com/article.cfm?storyid=1248 Supersonic Electric Aircraft]
-* [http://techcrunch.com/2009/05/05/tesla-founder-elon-musk-dreams-of-electric-airplanes/ Tesla Founder Elon Musk Dreams Of Electric Airplanes]
-
-{{Alternative propulsion}}
-{{Photovoltaics}}
-{{Aviation lists}}
-{{Solar energy}}
-{{Portal bar|Renewable energy|Energy}}
-
-{{DEFAULTSORT:Electric Aircraft}}
-[[Category:Electric aircraft|*]]
-[[Category:Energy conservation]]
-[[Category:Hybrid electric vehicles]]
-[[Category:Renewable energy]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

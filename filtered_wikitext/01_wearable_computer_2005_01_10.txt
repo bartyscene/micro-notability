@@ -20,22 +20,4 @@ The [[United States Army]] plans to issue 10,000 wearable computers to its comba
 
 See also [[Personal digital assistant]], [[laptop]], [[retina projection]], [[EyeTap]].
 
-==External links==
-
-*[http://www.eyetap.org Eyetap Personal Imaging (ePI) Lab]
-*[http://www.cc.gatech.edu/ccg/index.html Georgia Tech College of Computing wearables group]
-*[http://www.media.mit.edu/wearables/index.html MIT Media Lab wearables group]
-*[http://www.wearablegroup.org CMU wearables group]
-*[http://wearcam.org/ieeeis/index.htm Artificial Intelligence in Wearable Computing (Special Issue in IEEE Intelligent Systems)]
-*[http://about.eyetap.org Worldwide Wearable Computing Webpage]
-*[http://wearcam.org/hi.htm The theory of Humanistic Intelligence]
-*[http://jebara.www.media.mit.edu/people/jebara/wearables.html FACENAME Wearable Face Recognition]
-*[http://wearcam.org/vmp.htm Visual Memory Prosthetic (Wearable Face Recognizer)]
-*[http://wearcam.org/wearable_face_recognizer96.htm Wearable Face Recognizer web link]
-*[http://www.iswc.net IEEE International Symposium on Wearable Computers (Academic Conference)]
-*[http://wearcam.org//transvision2004.htm TransVision 2004]
-*[http://research.microsoft.com/CARPE2004/ Continuous Archival and Retrieval of Personal Experiences]. 
-*[http://wearcam.org/iwis/ International Workshop on Inverse Surveillance].
-*[http://192.107.62.111/~paolozini/wearIT/ WearIT@work: a large European research project on wearable computing at work].
-
-[[Category:Human-computer interaction]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

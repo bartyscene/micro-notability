@@ -231,7 +231,7 @@ In 2014, [[UCSF]] researchers used CRISPR to create disease-free versions of [[i
 
 === Mouse models ===
 
-CRISPR simplifies creation of mouse models and reduces the time required to a matter of weeks from months or longer. [[Gene knockdown|Knockdown]] of endogenous genes has been achieved by transfection with a [[plasmid]] that contains a CRISPR area with a spacer, which inhibits a target gene. Injecting mouse zygotes with Cas9 and two guide RNAs was able to disable two genes with 80% efficiency. So-called homology-directed repair involves using Cas9 to "nick" DNA, to introduce new gene parts to the zygote.{{citation needed|date=April 2014}}
+CRISPR simplifies creation of mouse models and reduces the time required to a matter of weeks from months or longer. [[Gene knockdown|Knockdown]] of endogenous genes has been achieved by transfection with a [[plasmid]] that contains a CRISPR area with a spacer, which inhibits a target gene. Injecting mouse zygotes with Cas9 and two guide RNAs was able to disable two genes with 80% efficiency. So-called homology-directed repair involves using Cas9 to "nick" DNA, to introduce new gene parts to the zygote.                                   
 
 === Agriculture===
 
@@ -269,62 +269,4 @@ A provisional US patent application on the use of the CRISPR system for editing 
 
 Since then, Feng Zhang at the [[Broad Institute]] (who weren't publicly involved with the invention of CRISPR) has obtained a patent on CRISPR on cells with a nucleus — i.e. human, animal and plant cells. According to Zhang, Doudna’s predictions in her own earlier patent application that her discovery would work in humans was “mere conjecture” and that, instead, he was the first to show it, in a separate and “surprising” act of invention.                                                                                                                                                                                                                                                         This second patent is controversial; other scientists suggest that in patent terms it was "obvious" that CRISPR would work in human cells, and that Zhang’s invention might not be worthy of its own patent.                 As of December 2014, Doudna and Charpentier are expected to mount an interference proceeding in the US against the Broad Institute's patent.                
 
-== See also ==
-*[[Gene drive]]
-*[[Transcription activator-like effector nuclease]] (TALEN)
-*[[Zinc finger nuclease]]
-*[[CRISPR interference]]
-
-== References ==
-{{Reflist|2}}
-
-== Further reading ==
-{{Refbegin}}
-
-*                       
-*                                       
-*                                 
-*                       
-*                       
-*                       
-*                       
-*                       
-*                       
-*                       
-*                       
-*                       
-*                       
-*                       
-*                       
-*                       
-*                       
-*                       
-*                       
-*                       
-*                       
-
-{{Refend}}
-
-{{Navbox
-| name = hidden
-| title = Gallery of secondary structure images
-| titlestyle = background:#e7dcc3
-| state = uncollapsed
-| list1  = {{Gallery
-| lines=3
-| Image:RF01315.png|'''CRISPR-DR2''':  Secondary structure taken from the [http://rfam.sanger.ac.uk Rfam] database. Family [http://rfam.sanger.ac.uk/family/RF01315 RF01315].
-| Image:RF01318.png|'''CRISPR-DR5''':  Secondary structure taken from the [http://rfam.sanger.ac.uk Rfam] database. Family [http://rfam.sanger.ac.uk/family/RF01318 RF011318].
-| Image:RF01319.png|'''CRISPR-DR6''':  Secondary structure taken from the [http://rfam.sanger.ac.uk Rfam] database. Family [http://rfam.sanger.ac.uk/family/RF01319 RF01319].
-| Image:RF01321.png|'''CRISPR-DR8''':  Secondary structure taken from the [http://rfam.sanger.ac.uk Rfam] database. Family [http://rfam.sanger.ac.uk/family/RF01321 RF01321].
-| Image:RF01322.png|'''CRISPR-DR9''':  Secondary structure taken from the [http://rfam.sanger.ac.uk Rfam] database. Family [http://rfam.sanger.ac.uk/family/RF01322 RF01322].
-| Image:RF01332.png|'''CRISPR-DR19''':  Secondary structure taken from the [http://rfam.sanger.ac.uk Rfam] database. Family [http://rfam.sanger.ac.uk/family/RF01332 RF01332].
-| Image:RF01350.png|'''CRISPR-DR41''':  Secondary structure taken from the [http://rfam.sanger.ac.uk Rfam] database. Family [http://rfam.sanger.ac.uk/family/RF01350 RF01350].
-| Image:RF01365.png|'''CRISPR-DR52''':  Secondary structure taken from the [http://rfam.sanger.ac.uk Rfam] database. Family [http://rfam.sanger.ac.uk/family/RF01365 RF01365].
-| Image:RF01370.png|'''CRISPR-DR57''':  Secondary structure taken from the [http://rfam.sanger.ac.uk Rfam] database. Family [http://rfam.sanger.ac.uk/family/RF01370 RF01370].
-| Image:RF01378.png|'''CRISPR-DR65''':  Secondary structure taken from the [http://rfam.sanger.ac.uk Rfam] database. Family [http://rfam.sanger.ac.uk/family/RF01378 RF01378].
-|}}
-}}
-
-{{DEFAULTSORT:Crispr}}
-[[Category:Repetitive DNA sequences]]
-[[Category:Non-coding RNA]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

@@ -54,34 +54,4 @@ Other notable examples of social robots include [[ASIMO]] by [[Honda]], [[Jibo]]
 
 Social robots do not necessarily have to be humanoid. The most famous example of a non-humanoid social robot is [[Paro (robot)|Paro the seal]].
 
-==See also==
-* [[hitchBOT]] (decapitated in Philadelphia)
-* [[Cobot|Companion robot]]
-* [[Kismet (robot)|Kismet]]
-* [[Joe Robot]]
-* [[Tico Robot|Tico]]
-* [[Paro (robot)|Paro]]
-* [[Pepper (robot)|Pepper]]
-* [[Nao (robot)|Nao]]
-* [[Pleo]]
-* [[Socially assistive robot]]
-
-==Further references==
-{{more footnotes needed|date=June 2011}}
-*                                                                                                                                           
-*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-*                                                                                                                                                                                                                                                                                                              
-*                                                                                                                                           
-*                                                                                                                                                                                                                                                                                                                                                                                                          
-*                                                                                                                                                                                                                                                                                            
-
-==References==
-{{Reflist}}
-
-==External links==
-* [https://www.springer.com/engineering/journal/12369 International Journal of Social Robotics]
-* [http://www.benjamins.com/cgi-bin/t_seriesview.cgi?series=IS Interaction Studies: Social Behaviour and Communication in Biological and Artificial Systems] {{Webarchive|url=https://web.archive.org/web/20080526132855/http://www.benjamins.com/cgi-bin/t_seriesview.cgi?series=IS |date=2008-05-26 }}
-
-{{Commons category|Social robots}}
-
-[[Category:Social robots| ]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

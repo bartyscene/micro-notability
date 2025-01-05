@@ -69,7 +69,7 @@ Insulin is produced and stored in the body as a hexamer (a unit of six insulin m
 == Synthesis, physiological effects, and degradation ==
 
 === Synthesis ===
-Insulin is produced in the [[pancreas]] and released when any of several stimuli are detected. These stimuli include ingested protein and glucose in the blood produced from digested food.{{citation needed|date=November 2012}} [[Carbohydrate]]s can be polymers of simple sugars or the simple sugars themselves. If the carbohydrates include glucose, then that glucose will be absorbed into the bloodstream and blood glucose level will begin to rise. In target cells, insulin initiates a [[signal transduction]], which has the effect of increasing [[glucose]] uptake and storage. Finally, insulin is degraded, terminating the response.
+Insulin is produced in the [[pancreas]] and released when any of several stimuli are detected. These stimuli include ingested protein and glucose in the blood produced from digested food.                                       [[Carbohydrate]]s can be polymers of simple sugars or the simple sugars themselves. If the carbohydrates include glucose, then that glucose will be absorbed into the bloodstream and blood glucose level will begin to rise. In target cells, insulin initiates a [[signal transduction]], which has the effect of increasing [[glucose]] uptake and storage. Finally, insulin is degraded, terminating the response.
 
 [[File:Insulin path.svg|thumb|400px|Insulin undergoes extensive posttranslational modification along the production pathway. Production and secretion are largely independent; prepared insulin is stored awaiting secretion. Both C-peptide and mature insulin are biologically active. Cell components and proteins in this image are not to scale.]]
 
@@ -268,62 +268,4 @@ The work published by Banting, Best, Collip and Macleod represented the preparat
 
 In a recent private communication Professor [[Arne Tiselius|Tiselius]], head of the Nobel Institute, has expressed his personal opinion that Paulescu was equally worthy of the award in 1923.                                                                                                                                                                                                                                                                  
 
-== See also ==
-* [[Insulin analog]]
-* Anatomy and physiolology
-** [[Pancreas]]
-** [[Islets of Langerhans]]
-** [[Endocrinology]]
-** [[Leptin#Adiposity signal|Leptin]] (The only other known adiposity signal besides insulin).
-* Forms of diabetes mellitus
-** [[Diabetes mellitus]]
-** [[Diabetes mellitus type 1]]
-** [[Diabetes mellitus type 2]]
-* Treatment
-** [[Diabetic coma]]
-** [[Insulin therapy]]
-** [[Intensive insulinotherapy]]
-** [[Insulin pump]]
-** [[Conventional insulinotherapy]]
-* Other medical / diagnostic uses
-** [[Insulin tolerance test]]
-** [[Triple bolus test]]
-
-== References ==
-{{Reflist|30em}}
-
-== Further reading ==
-{{Refbegin|colwidth=35em}}
-*                                                                                                                                                                                                                                                                                            
-*                                                                                                                                                                                                  
-*                                                                                                                                                                                                                                                                                              
-*                                                                                                                                                                                                                                              
-*                                                                                                                                                                                                                                                                                                                                                                                
-* [http://www.collectionscanada.ca/physicians/002032-200-e.html Famous Canadian Physicians: Sir Frederick Banting] at Library and Archives Canada
-*                                                                                                                                                                                                                                                                                                                                        
-{{Refend}}
-
-== External links ==
-{{div col|colwidth=35em}}
-* [http://nist.rcsb.org/pdb/101/motm.do?momID=14 Insulin: entry from protein databank]
-* [http://www.med.uni-giessen.de/itr/history/inshist.html The History of Insulin]
-* [http://www.cbc.ca/archives/categories/health/medical-research/chasing-a-cure-for-diabetes/topic-chasing-a-cure-for-diabetes.html CBC Digital Archives - Banting, Best, Macleod, Collip: Chasing a Cure for Diabetes]
-* [http://link.library.utoronto.ca/insulin/ Discovery and Early Development of Insulin, 1920&ndash;1925]
-* [http://www.medbio.info/Horn/Time%203-4/secretion_of_insulin_and_glucagon_nov_2007.htm Secretion of Insulin and Glucagon]
-* [http://www.genome.jp/kegg-bin/show_pathway?hsa04910+3630 Insulin signaling pathway]
-* [http://www.aboutkidshealth.ca/En/ResourceCentres/Diabetes/AboutDiabetes/Pages/Insulin-An-Overview.aspx Animations of insulin's action in the body] at AboutKidsHealth.ca
-{{Div col end}}
-
-{{PDB Gallery|geneid=3630}}
-{{Hormones}}
-{{Peptidergics}}
-
-[[Category:Eli Lilly and Company]]
-[[Category:Recombinant proteins]]
-[[Category:Peptide hormones]]
-[[Category:Human hormones]]
-[[Category:Hormones of glucose metabolism]]
-[[Category:Pancreatic hormones]]
-[[Category:Insulin therapies]]
-[[Category:Animal products]]
-[[Category:Tumor markers]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

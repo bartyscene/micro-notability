@@ -73,7 +73,7 @@ The thiol-based polymers have [[disulfide bonds]] that can be reversibly cross-l
 [[File:Disulfidebridge.png|thumb|500 px|center|'''Scheme 5.''' Reversible polymer cross-linking by disulfide bridges.                            ]]
 
 =====Poly(urea-urethane)=====
-A soft poly(urea-urethane) network uses the metathesis reaction in aromatic disulphides to provide room-temperature self-healing properties, without the need for external catalysts. This chemical reaction is naturally able to create covalent bonds at room temperature, allowing the polymer to autonomously heal without an external source of energy. Left to rest at room temperature, the material mended itself with 80 percent efficiency after only two hours and 97 percent after 24 hours.{{citation needed|date=February 2014}}
+A soft poly(urea-urethane) network uses the metathesis reaction in aromatic disulphides to provide room-temperature self-healing properties, without the need for external catalysts. This chemical reaction is naturally able to create covalent bonds at room temperature, allowing the polymer to autonomously heal without an external source of energy. Left to rest at room temperature, the material mended itself with 80 percent efficiency after only two hours and 97 percent after 24 hours.                                      
 In 2014 a polyurea [[elastomer]]-based material was shown to be self-healing, melding together after being cut in half, without the addition of catalysts or other chemicals. The material also include inexpensive commercially available compounds. The elastomer molecules were tweaked, making the bonds between them longer. The resulting molecules are easier to pull apart from one another and better able to rebond at room temperature with almost the same strength. The rebonding can be repeated. Stretchy, self-healing paints and other coatings recently took a step closer to common use, thanks to research being conducted at the University of Illinois. Scientists there have used "off-the-shelf" components to create a polymer that melds back together after being cut in half, without the addition of catalysts or other chemicals.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 
 The urea-urethane polymers however have glassy transition temperatures below 273 K therefore at room temperature they are gels and their tensile strength is low.                        To optimize the tensile strength the reversible bonding energy, or the polymer length must be increased to increase the degree of covalent or mechanical interlocking respectively. However, increase polymer length inhibits mobility and thereby impairs the ability for polymers to re-reversibly bond. Thus at each polymer length an optimal reversible bonding energy exists.                                                                                                                                                                                                                                                                                                                                                              
@@ -240,10 +240,4 @@ At least two companies are attempting to bring the newer applications of self-he
 == References ==
 {{reflist|30em}}
 
-== External links ==
-* {{Commons category-inline|Self-healing material}}
-
-[[Category:Biomaterials]]
-[[Category:Catalysis]]
-[[Category:Materials science]]
-[[Category:Smart materials]]
+                                                                                                                                                                                      

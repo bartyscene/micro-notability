@@ -28,17 +28,4 @@ After solving for the fluxes of reactions in the network, it is necessary to det
 ===Experimental measurements===
 In order to create a solvable model, it is often necessary to have certain fluxes already known or experimentally measured. In addition, in order to verify the effect of genetic manipulations on the metabolic network (to ensure they align with the model), it is necessary to experimentally measure the fluxes in the network. To measure reaction fluxes, carbon flux measurements are made using [[isotopic labeling|carbon-13 isotopic labeling]].                                                                                                                                                                                                               The organism is fed a mixture that contains molecules where specific carbons are engineered to be carbon-13 atoms, instead of carbon-12. After these molecules are used in the network, downstream metabolites also become labeled with carbon-13, as they incorporate those atoms in their structures. The specific labeling pattern of the various metabolites is determined by the reaction fluxes in the network. Labeling patterns may be measured using techniques such as [[Gas chromatography-mass spectrometry]] (GC-MS) along with computational algorithms to determine reaction fluxes.
 
-== See also ==
-{{Portal|Metabolism}}
-* [[Bioreactor]]
-* [[Bacterial transformation]]
-* [[Genetic engineering]]
-
-== References ==
-              
-
-==External links==
-Biotechnology Industry Organization(BIO) website:
-* [http://www.bio.org/ BIO Website]
-
-[[Category:Biological engineering]]
+                                                                                                                                                                                                                                                                                              

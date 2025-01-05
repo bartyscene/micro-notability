@@ -158,34 +158,4 @@ There are reports that some patients abuse insulin by injecting larger doses tha
 
 On [[July 23]], [[2004]], news reports claim that a former spouse of a prominent international track athlete said that, among other drugs, the ex-spouse had used insulin as a way of 'energizing' the body. The intended implication would seem to be that insulin has effects similar to those alleged for some [[steroid]]s. This is not so; eighty years of insulin use has given no reason to believe it to be in any respect a performance enhancer for non diabetics. Improperly treated diabetics are, to be sure, more prone than others to exhaustion and tiredness, and in some of these cases, proper administration of insulin can relieve such symptoms. However, insulin is not, chemically or clinically, a steroid, and its use in non diabetics is dangerous and always an abuse outside of a well-equipped medical facility. Its use in athletes, very few of whom are diabetic, is at best simply foolish, and can be, at worst, quickly fatal. Between these cases lies permanent brain damage.
 
-==See also==
-* anatomy and physiolology
-** [[glucagon]]
-** [[pancreas]]
-** [[islets of Langerhans]]
-** [[endocrinology]]
-* forms of diabetes mellitus
-** [[diabetes mellitus]]
-** [[diabetes mellitus type 1]]
-** [[diabetes mellitus type 2]]
-* treatment
-** [[Diabetic coma]]
-** [[intensive insulinotherapy]]
-** [[insulin pump]]
-** [[conventional insulinotherapy]]
-
-== External links ==
-*[http://nist.rcsb.org/pdb/molecules/pdb14_1.html Insulin: entry from protein databank]
-
-[[Category:Peptide hormones]]
-
-[[da:Insulin]]
-[[de:Insulin]]
-[[es:Insulina]]
-[[fr:Insuline]]
-[[ms:Insulin]]
-[[nl:Insuline]]
-[[ja:&#12452;&#12531;&#12471;&#12517;&#12522;&#12531;]]
-[[pl:Insulina]]
-[[pt:Insulina]]
-[[sv:Insulin]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

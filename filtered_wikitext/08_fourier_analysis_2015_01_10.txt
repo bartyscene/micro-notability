@@ -202,7 +202,7 @@ r_3 &= x_1 + \zeta^2 x_2 + \zeta x_3
 \end{align}</math>
 where ''ζ'' is a cubic root of unity, which is the DFT of order 3.
 
-A number of authors, notably  [[Jean le Rond d'Alembert]], and [[Carl Friedrich Gauss]] used [[trigonometric series]] to study the [[heat equation]],{{Citation needed|date=April 2009}} but the breakthrough development was the 1807 paper
+A number of authors, notably  [[Jean le Rond d'Alembert]], and [[Carl Friedrich Gauss]] used [[trigonometric series]] to study the [[heat equation]],                                    but the breakthrough development was the 1807 paper
 ''[[Mémoire sur la propagation de la chaleur dans les corps solides]]'' by [[Joseph Fourier]], whose crucial insight was to model ''all'' functions by trigonometric series, introducing the Fourier series.
 
 Historians are divided as to how much to credit Lagrange and others for the development of Fourier theory: [[Daniel Bernoulli]] and [[Leonhard Euler]] had introduced trigonometric representations of functions,                       and Lagrange had given the Fourier series solution to the wave equation,                       so Fourier's contribution was mainly the bold claim that an arbitrary function could be represented by a Fourier series.                      
@@ -221,73 +221,4 @@ Fourier transforms are not limited to functions of time, and temporal frequencie
 ==Notes==
 {{reflist|group=note}}
 
-==See also==
-{{colbegin}}
-* [[Generalized Fourier series]]
-* [[Fourier-Bessel series]]
-* [[Fourier-related transforms]]
-* [[Laplace transform]] (LT)
-* [[Two-sided Laplace transform]]
-* [[Mellin transform]]
-* [[Non-uniform discrete Fourier transform]] (NDFT)
-* [[Quantum Fourier transform]] (QFT)
-* [[Number-theoretic transform]]
-* [[Least-squares spectral analysis]]
-* [[Basis vector]]s
-* [[Bispectrum]]
-* [[Characteristic function (probability theory)]]
-* [[Orthogonal functions]]
-* [[Schwartz space]]
-* [[Spectral density]]
-* [[Spectral density estimation]]
-* [[Spectral music]]
-* [[Wavelet]]
-{{colend}}
-
-==Citations==
-{{reflist}}
-
-==References==
-* {{citation
- | last1 = Conte | first1 = S. D.
- | last2 = de Boor | first2 = Carl
- | title = Elementary Numerical Analysis
- | edition = Third
- | location = New York
- | publisher=McGraw Hill, Inc.
- | isbn = 0-07-066228-2
- | year=1980
-}}
-* {{citation|first=L.|last=Evans|title=Partial Differential Equations|publisher=American Mathematical Society|year=1998|isbn=3-540-76124-1}}
-* Howell, Kenneth B. (2001). ''Principles of Fourier Analysis'', CRC Press. ISBN 978-0-8493-8275-8
-* Kamen, E.W., and B.S. Heck. "Fundamentals of Signals and Systems Using the Web and Matlab". ISBN 0-13-017293-6
-* {{citation|first=Donald E.|last=Knuth|title=The Art of Computer Programming Volume 2: Seminumerical Algorithms|edition=3rd|year=1997|publisher=Addison-Wesley Professional|isbn=0-201-89684-2|location=Section 4.3.3.C: Discrete Fourier transforms, pg.305}}
-* Polyanin, A.D., and A.V. Manzhirov (1998). ''Handbook of Integral Equations'', CRC Press, Boca Raton. ISBN 0-8493-2876-4
-* {{citation|first=Walter|last=Rudin|title=Fourier Analysis on Groups|publisher=Wiley-Interscience|year=1990|isbn=0-471-52364-X}}
-* {{Citation
- | last = Smith | first = Steven W.
- | url = http://www.dspguide.com/pdfbook.htm
- | title = The Scientist and Engineer's Guide to Digital Signal Processing
- | edition = Second
- | location = San Diego, Calif.
- | publisher=California Technical Publishing
- | year=1999
- | isbn=0-9660176-3-3
-}}
-*  Stein, E.M., and G. Weiss (1971). ''Introduction to Fourier Analysis on Euclidean Spaces''. Princeton University Press. ISBN 0-691-08078-X
-
-==External links==
-* [http://eqworld.ipmnet.ru/en/auxiliary/aux-inttrans.htm Tables of Integral Transforms] at EqWorld: The World of Mathematical Equations.
-* [http://cns-alumni.bu.edu/~slehar/fourier/fourier.html An Intuitive Explanation of Fourier Theory] by Steven Lehar.
-* [https://archive.org/details/Lectures_on_Image_Processing Lectures on Image Processing: A collection of 18 lectures in pdf format from Vanderbilt University. Lecture 6 is on the 1- and 2-D Fourier Transform.  Lectures 7–15 make use of it.], by Alan Peters
-*                                                                                                                                                                                                                                                        
-
-{{Statistics|analysis}}
-
-[[Category:Fourier analysis| ]]
-[[Category:Integral transforms]]
-[[Category:Digital signal processing]]
-[[Category:Mathematical physics]]
-[[Category:Mathematics of computing]]
-[[Category:Time series analysis]]
-[[Category:Joseph Fourier]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

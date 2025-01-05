@@ -84,21 +84,4 @@ The useful properties of Fourier series are largely derived from the [[orthogona
 Other sequences of [[orthogonal functions]] have similar properties, although some useful identities concerning e.g. convolutions are no longer true once we lose the homomorphism property.
 Examples include sequences of [[Bessel function]]s and [[orthogonal polynomials]]. Such sequences are commonly the solutions of a differential equation; a large class of useful sequences are solutions of the so-called [[Sturm-Liouville theory|Sturm-Liouville problems]].
 
-==See also==
-
-* [[Fourier transform]]
-* [[Harmonic analysis]]
-* [[Gibbs phenomenon]]
-* [[Sturm-Liouville theory]]
-
-==References==
-
-* Yitzhak Katznelson, ''An introduction to harmonic analysis'', Second corrected edition. Dover Publications, Inc., New York, 1976. ISBN 0486633314
-
-[[Category:Fourier analysis]]
-[[Category:Fourier series|*]]
-[[Category:Mathematical series]]
-[[de:Fourierreihe]]
-[[fr:Série de Fourier]]
-[[ko:&#54392;&#47532;&#50640; &#44553;&#49688;]]
-[[zh:&#20613;&#37324;&#21494;&#32423;&#25968;]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

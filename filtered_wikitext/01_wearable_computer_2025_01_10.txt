@@ -158,7 +158,7 @@ Many technologies for wearable computers derive their ideas from science fiction
 :This form-factor of wearable computer has been shown in many sci-fi movies, including ''[[Prometheus (2012 film)|Prometheus]]'' and ''[[Iron Man (2008 film)|Iron Man]].''
 
 ===Advancement with wearable technology over years===
-Technology has advanced with continuous change in wearable computers. [[Wearable technologies]] are increasingly used in healthcare. For instance, portable sensors are used as [[medical device]]s which helps patients with diabetes to help them keep track of exercise related data.                                                                                                                                                                                                                                                                      A number of people think wearable technology as a new trend;{{Citation needed|date=February 2022}} however, companies have been trying to develop or design wearable technologies for decades. The spotlight has more recently been focused on new types of technology which are more focused on improving efficiency in the wearer's life.
+Technology has advanced with continuous change in wearable computers. [[Wearable technologies]] are increasingly used in healthcare. For instance, portable sensors are used as [[medical device]]s which helps patients with diabetes to help them keep track of exercise related data.                                                                                                                                                                                                                                                                      A number of people think wearable technology as a new trend;                                       however, companies have been trying to develop or design wearable technologies for decades. The spotlight has more recently been focused on new types of technology which are more focused on improving efficiency in the wearer's life.
 
 ===Main elements of wearable computers===
 * the display, which allows the user to see the work they do.
@@ -167,9 +167,9 @@ Technology has advanced with continuous change in wearable computers. [[Wearable
 
 ===Challenges with wearable computers===
 {{Essay-like|date=February 2022|section}}
-Wearable technology comes with many challenges, like data security, trust issues, and regulatory and ethical issues. After 2010, wearable technologies have been seen more as a technology focused mostly on fitness.                                                                                                                                                                                                                                                                                                                                               They have been used with the potential to improve the operations of health and many other professions. With an increase in wearable devices, privacy and security issues can be very important, especially when it comes to health devices. Also, the FDA considers wearable devices as "general wellness products". In the US, wearable devices are not under any Federal laws, but regulatory law like Protected Health Information (PHI) is the subject to regulation which is handled by the Office for Civil Rights (OCR). The devices with sensors can create security issues as the companies have to be more alert to protect the public data. The issue with cybersecurity of these devices are the regulations are not that strict in the US.{{Citation needed|date=February 2022}} Likewise, the [[National Institute of Standards and Technology]] (NIST) has a code called NIST Cyber security Framework, but it is not mandatory.                                                                                                                                                                                                                                                                                                                                
+Wearable technology comes with many challenges, like data security, trust issues, and regulatory and ethical issues. After 2010, wearable technologies have been seen more as a technology focused mostly on fitness.                                                                                                                                                                                                                                                                                                                                               They have been used with the potential to improve the operations of health and many other professions. With an increase in wearable devices, privacy and security issues can be very important, especially when it comes to health devices. Also, the FDA considers wearable devices as "general wellness products". In the US, wearable devices are not under any Federal laws, but regulatory law like Protected Health Information (PHI) is the subject to regulation which is handled by the Office for Civil Rights (OCR). The devices with sensors can create security issues as the companies have to be more alert to protect the public data. The issue with cybersecurity of these devices are the regulations are not that strict in the US.                                       Likewise, the [[National Institute of Standards and Technology]] (NIST) has a code called NIST Cyber security Framework, but it is not mandatory.                                                                                                                                                                                                                                                                                                                                
 
-Consequently, the lack of specific regulations for wearable devices, specifically medical devices, increases the risk of threats and other vulnerabilities. For instance, Google Glass raised major privacy risks with wearable computer technology; Congress investigated the privacy risks related to consumers using Google Glass and how they{{Clarify|reason=Google?|date=February 2022}} use the data.{{Citation needed|date=February 2022}} The product can be used to track not only the users of the product but others around them, particularly without them being aware. Nonetheless, all the data captured with [[Google Glass]] was then stored on Google's cloud servers, giving them access to the data. They also raised questions regarding women's security as they allowed stalkers or harassers to take intrusive pictures of women's bodies by wearing the Glass without any fear of getting caught.                                                                                                                                                                                                                          
+Consequently, the lack of specific regulations for wearable devices, specifically medical devices, increases the risk of threats and other vulnerabilities. For instance, Google Glass raised major privacy risks with wearable computer technology; Congress investigated the privacy risks related to consumers using Google Glass and how they{{Clarify|reason=Google?|date=February 2022}} use the data.                                       The product can be used to track not only the users of the product but others around them, particularly without them being aware. Nonetheless, all the data captured with [[Google Glass]] was then stored on Google's cloud servers, giving them access to the data. They also raised questions regarding women's security as they allowed stalkers or harassers to take intrusive pictures of women's bodies by wearing the Glass without any fear of getting caught.                                                                                                                                                                                                                          
 
 Wearable technologies like smart glasses can also raise cultural and social issues. Although wearable technologies can make life easier and more enjoyable, some devices (e.g.: Bluetooth headphones) can make people more dependent on technology than on interaction with nearby humans.                                                                                                                                                                                                                                                    Society considers these technologies luxury accessories and there may be peer pressure within a group to own similar products. These products raise challenges of social and moral discipline. For instance, wearing a smart watch can be a way to fit in with standards in male-dominated fields, where femininity may be perceived as unprofessional.                                                                                                                                                                                                                                                                                                                                                                        
 
@@ -197,67 +197,4 @@ The wearable computer was introduced to the US Army in 1989 as a small computer 
 
 [[F-INSAS]] is an Indian military project, designed largely with wearable computing.
 
-==See also==
-{{div col|colwidth=15em}}
-*[[Activity tracker]]
-*[[Apple Watch]]
-*[[Artificial neural membrane]] (Smartskin)
-*[[Augmented reality]]
-*[[Radio-frequency identification|Active tag]]
-*[[Calculator watch]]
-*[[Computer-mediated reality]]
-*[[eHealth]]
-*[[EyeTap]]
-*[[E-textiles]]
-*[[Extended reality]]
-*[[FrogPad]]
-*[[Retro-futurism|Futuristic clothing]]
-*[[Glove One]]
-*[[Google Glass]]
-*[[Golden-i]]
-*[[GPS watch]]
-*[[Head-mounted display]]
-*[[Head-up display]]
-*[[Heart rate monitor]]
-*[[Internet of Things]]
-*[[Lifelog]]
-*[[Open-source computing hardware]]
-*[[Radio-frequency identification|Identity tag]]
-*[[Mobile phone]]
-*[[Mobile interaction]]
-*[[Optical head-mounted display]]
-*[[OQO]]
-*[[Personal digital assistant]]
-*[[Pocket computer]]
-*[[Skully (helmet)|Skully]] (helmet)
-*[[Smartphone]]
-*[[Smartglasses]]
-*[[Smartwatch]]
-*[[Real-time locating system|Staff locators]]
-*[[Tablet computer|Tablet PC]]
-*[[Virtual retinal display]]
-*[[Wireless ambulatory ECG]] 
-{{div col end}}
-
-==References==
-{{reflist|30em}}
-
-==External links==
-*Peer-reviewed [http://www.interaction-design.org/encyclopedia/wearable_computing.html encyclopedia chapter on Wearable Computing] by [[Steve Mann (inventor)|Steve Mann]]
-*[http://bradleyrhodes.com/Papers/brief-history-of-wearable-computing.html A brief history of wearable computing]
-*[http://www.iswc.net IEEE International Symposium on Wearable Computers (Academic Conference)]
-*                                                                                                                                                                                                                                              
-
-{{Computer science}}
-{{Computer sizes}}
-
-{{DEFAULTSORT:Wearable Computer}}
-[[Category:Ambient intelligence]]
-[[Category:Fashion accessories]]
-[[Category:Human–computer interaction]]
-[[Category:Internet of things]]
-[[Category:Japanese inventions]]
-[[Category:Personal digital assistants]]
-[[Category:Ubiquitous computing]]
-[[Category:Wearable computers| ]]
-[[Category:Wearable devices]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

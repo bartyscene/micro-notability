@@ -294,7 +294,7 @@ CRISPR is unique to the development of solving neurological diseases for several
 
 Alzheimer's Disease (AD) is a [[neurodegenerative disease]] categorized by neuron loss and an accumulation of intracellular neurofibrillary tangles and extracellular amyloid plaques in the brain.                                                                                                                                                                                                                                                                                                                                                                                                                        Three pathogenic genes that cause early onset AD in humans have been identified, specifically amyloid precursor protein (APP), presenilin 1 (PSEN1), and presenilin 2 (PSEN2).                   Over 300 mutations have been detected in these genes, resulting in an increase in total β-amyloid (Aβ), Aβ42/40 ratio, and/or Aβ polymerization.
 
-In the case of [[Duchenne muscular dystrophy]], the mutation responsible for the disease occurs in the dystrophin gene.                                                                                                                                                                                                                                                                                                                                     CRISPR has been used to correct for this. Similarly, for [[Dravet syndrome]], an epilepsy disorder, CRISPR has been used to correct the [[SCN1A]] gene mutation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Despite the progress that has been made, there are still challenges with using CRISPR, one of which being the transfer of CRISPR components across the [[Blood–brain barrier|blood-brain barrier]]. However, recent advancements in nanoparticle delivery systems and viral vectors have shown promise in overcoming this hurdle{{citation needed|date=September 2024}}. Looking to the future, the use of CRISPR in neuroscience is expected to increase as technology evolves.
+In the case of [[Duchenne muscular dystrophy]], the mutation responsible for the disease occurs in the dystrophin gene.                                                                                                                                                                                                                                                                                                                                     CRISPR has been used to correct for this. Similarly, for [[Dravet syndrome]], an epilepsy disorder, CRISPR has been used to correct the [[SCN1A]] gene mutation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Despite the progress that has been made, there are still challenges with using CRISPR, one of which being the transfer of CRISPR components across the [[Blood–brain barrier|blood-brain barrier]]. However, recent advancements in nanoparticle delivery systems and viral vectors have shown promise in overcoming this hurdle                                       . Looking to the future, the use of CRISPR in neuroscience is expected to increase as technology evolves.
 
 ==== Blindness ====
 
@@ -308,7 +308,7 @@ In March 2020, the first patient volunteer in this US-based study, sponsored by 
 
 ==== Cardiovascular diseases ====
 
-CRISPR technology has been shown to work efficiently in the treatment of heart disease. In the case of [[familial hypercholesterolemia]] (FH), cholesterol deposition in the walls of the artery causes blockage of blood flow. This is caused by mutation in low density lipoprotein cholesterol receptors [[Low-density lipoprotein|(LDLC)]] which results in excessive release of cholesterol into the blood. This can be treated by deletion of a base pair in exon 4 of the LDLC receptor. This is a [[nonsense mutation]]. {{citation needed|date=September 2024}}
+CRISPR technology has been shown to work efficiently in the treatment of heart disease. In the case of [[familial hypercholesterolemia]] (FH), cholesterol deposition in the walls of the artery causes blockage of blood flow. This is caused by mutation in low density lipoprotein cholesterol receptors [[Low-density lipoprotein|(LDLC)]] which results in excessive release of cholesterol into the blood. This can be treated by deletion of a base pair in exon 4 of the LDLC receptor. This is a [[nonsense mutation]].                                        
 
 ==== β-Hemoglobinopathies ====
 
@@ -435,32 +435,4 @@ In China, where social conditions sharply contrast with those of the West, genet
 === Recognition ===
 In 2012 and 2013, CRISPR was a runner-up in ''[[Science Magazine]]''<nowiki/>'s [[Breakthrough of the Year]] award. In 2015, it was the winner of that award.                                   CRISPR was named as one of ''[[MIT Technology Review]]''{{'}}s 10 breakthrough technologies in 2014 and 2016.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       In 2016, [[Jennifer Doudna]] and [[Emmanuelle Charpentier]], along with Rudolph Barrangou, [[Philippe Horvath]], and [[Feng Zhang]] won the Gairdner International award. In 2017, Doudna and Charpentier were awarded the Japan Prize in Tokyo, Japan for their revolutionary invention of CRISPR-Cas9. In 2016, Charpentier, Doudna, and Zhang won the [[Tang Prize]] in Biopharmaceutical Science.                                                                                                                                                                                 In 2020, Charpentier and Doudna were awarded the [[Nobel Prize in Chemistry]], the first such prize for an all-female team, "for the development of a method for genome editing."                                                                                                                                                                                                            
 
-== See also ==
-{{Portal|Biology|Technology}}
-{{div col|colwidth=20em}}
-* [[CRISPR/Cas Tools]]
-* ''[[The CRISPR Journal]]''
-* [[Eugenics]]
-* [[DRACO]]
-* [[Zinc finger]]
-* [[Gene knockout]]
-* [[Genetics]]
-* [[Glossary of genetics]]
-* [[Human Nature (2019 film)|''Human Nature'']] (2019 documentary film)
-* [[LEAPER gene editing]]
-* ''[[Make People Better]]'' (2022 documentary)
-* [[RNAi]]
-* [[SiRNA]]
-* [[Surveyor nuclease assay]]
-* [[Synthetic biology]]
-{{div col end}}
-
-== References ==
-{{Reflist}}
-
-{{Breakthrough of the Year}}
-{{Authority control}}
-
-[[Category:Biotechnology]]
-[[Category:Genetic engineering]]
-[[Category:Genome editing]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

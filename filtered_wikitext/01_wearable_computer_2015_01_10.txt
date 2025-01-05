@@ -110,82 +110,8 @@ LG and iriver have both launched earbud wearables that use Valencell PerfomTek s
 
 ==Military use==
 {{Expand section|date=September 2010}}
-The wearable computer was introduced to the American Army in 1989 as a small computer that was meant to assist soldiers in battle. Since then, the concept has grown to include the =Land Warrior program and proposal for future systems.                                                                                                                                                                                                                                                                                                                                                                                                                                             The most extensive military program in the wearables arena is the [[US Army]]'s [[Land Warrior]] system,                                                                                                                                                                                                      which will eventually be merged into the [[Future Force Warrior]] system.{{Citation needed|date=May 2008}}
+The wearable computer was introduced to the American Army in 1989 as a small computer that was meant to assist soldiers in battle. Since then, the concept has grown to include the =Land Warrior program and proposal for future systems.                                                                                                                                                                                                                                                                                                                                                                                                                                             The most extensive military program in the wearables arena is the [[US Army]]'s [[Land Warrior]] system,                                                                                                                                                                                                      which will eventually be merged into the [[Future Force Warrior]] system.                                 
 
 [[F-INSAS]] is an Indian Military Project, designed largely with wearable computing.
 
-==See also==
-{{col-begin}}
-{{col-2}}
-*[[Activity tracker]]
-*[[Augmented reality]]
-*[[Radio-frequency identification|Active tag]]
-*[[Calculator watch]]
-*[[Computer-mediated reality]]
-*[[eHealth]]
-*[[EyeTap]]
-*[[E-textiles]]
-*[[FrogPad]]
-*[[Retro-futurism|Futuristic clothing]]
-*[[Glove One]]
-*[[Google Glass]]
-*[[Golden-i]]
-*[[GPS watch]]
-*[[Head-mounted display]]
-{{col-2}}
-*[[Head-up display]]
-*[[Lifelog]]
-*[[Heart rate monitor]]
-*[[Open-source computing hardware]]
-*[[Radio-frequency identification|Identity tag]]
-*[[Mobile phone]]
-*[[Optical head-mounted display]]
-*[[OQO]]
-*[[Personal digital assistant]]
-*[[Pocket computer]]
-*[[Skully (helmet)|Skully]] (helmet)
-*[[Smartphone]]
-*[[Smartglasses]]
-*[[Smartwatch]]
-*[[Real-time locating system|Staff locators]]
-*[[Tablet computer|Tablet PC]]
-*[[Virtual retinal display]]
-{{col-end}}
-
-==References==
-{{reflist|colwidth=30em}}
-
-
-==External links==
-*[http://www.WearableTechnologies.co.uk/ Online Magazine - Latest News In Wearable Computing]
-*Peer-reviewed [http://www.interaction-design.org/encyclopedia/wearable_computing.html encyclopedia chapter on Wearable Computing] by Steve Mann
-*[http://www.vit.ac.in/events2012/Phamplet_Wearable%20Computing%20Techniques.pdf A workshop on wearable computing]
-*[http://www.ctit.ae/andrews.php A workshop on wearable computing]
-*[http://bradleyrhodes.com/Papers/brief-history-of-wearable-computing.html A brief history of wearable computing]
-*[http://www.wearables.unisa.edu.au/ Wearable Computing Laboratory, University of South Australia]
-*[http://www.wearable.ethz.ch/ Wearable Computing Laboratory, ETH Zurich]
-*[http://www.iswc.net IEEE International Symposium on Wearable Computers (Academic Conference)]
-*[http://www.accelerating.org/articles/tummypc.html The Tummy PC: A Practical Wearable Computer]
-*[http://portal.acm.org/citation.cfm?id=339369 Wearable Computers for the Emergency Services, University of Birmingham, United Kingdom]
-*[http://wifinotes.com/other-technology-articles/google-goggles-glasses.html Augmented reality by Google]
-*[http://www.eproguide.com/google-glass-is-threat-should-it-be-banned/ Google Glasses can be threat, Should it be banned?]
-*[http://www.theverge.com/2012/6/26/2986317/google-project-glass-wearable-computers-disappoint-me Project Glass and the epic history of wearable computers], Paul Miller, ''The Verge,'' 26 June 2012.
-*[[F-INSAS]]
-*[http://www.scirp.org/journal/PaperInformation.aspx?paperID=28264 ]
-{{Computer sizes}}
-{{Computer science}}
-
-{{DEFAULTSORT:Wearable Computer}}
-[[Category:Wearable technologies]]
-[[Category:Smartwear]]
-[[Category:Internet of Things]]
-[[Category:Smartwatches]]
-[[Category:Biometric Clothing]]
-[[Category:Mobile computers]]
-[[Category:Laptops]]
-[[Category:Personal digital assistants]]
-[[Category:Human–computer interaction]]
-[[Category:Ambient intelligence]]
-[[Category:Ubiquitous computing]]
-[[Category:American inventions]]
-[[Category:Wearable computers]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

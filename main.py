@@ -5,4 +5,4 @@ from modules.dump_downloader import DumpDownloader
 
 if __name__ == "__main__":
     #process_revisions_from_json("parser_and_spacy_names/_revisions.json")
-    process_json_file("wikitext/_revisions.json")
+    process_json_file("filtered_wikitext/_revisions.json")

@@ -25,7 +25,4 @@ The group proposes till 2022 to combine existing and planned millimeter/submilli
 *''Non-technical'': [http://press.princeton.edu/titles/7480.html The Black Hole at the Center of Our Galaxy] (2001), [[Fulvio Melia]] ([[Princeton University Press]]), ISBN  0691095051
 *''Technical'': [http://press.princeton.edu/titles/8453.html The Galactic Supermassive Black Hole] (2008), [[Fulvio Melia]] ([[Princeton University Press]]), ASIN: B008VQXCN2
 
-==External links==
-*[http://eventhorizontelescope.org/ Event Horizon Telescope, official website]
-
-[[Category:Interferometric telescopes]]
+                                                                                                                                          

@@ -280,29 +280,4 @@ The following table summarizes electric aircraft shipments worldwide by manufact
 ==List of battery-electric aircraft==
 {{see also| List of electric aircraft}}
 
-==See also==
-
-* [[Electric boat]]
-* [[Electric vehicle]]
-* [[Solar energy]]
-* [[VTOL]]
-
-==References==
-{{Reflist}}
-
-==External links==
-{{Commons category}}
-*                                                                                                                                                                                                                       
-
-{{Alternative propulsion}}
-{{Photovoltaics}}
-{{Solar energy}}
-{{Portal bar|Renewable energy|Energy}}
-{{Authority control}}
-
-{{DEFAULTSORT:Electric Aircraft}}
-[[Category:Electric aircraft| ]]
-[[Category:Energy conservation]]
-[[Category:Hybrid electric vehicles|Aircraft]]
-[[Category:Renewable energy technology]]
-[[Category:Aviation and the environment]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

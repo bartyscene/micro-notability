@@ -53,36 +53,4 @@ Various data sets have been developed for use in evaluating language processing 
 * Winograd NLI
 * BoolQ, PIQA, SIQA, HellaSwag, WinoGrande, ARC, OpenBookQA, NaturalQuestions, TriviaQA, RACE, [[MMLU|MMLU (Massive Multitask Language Understanding)]], BIG-bench hard, GSM8k, RealToxicityPrompts, WinoGender, CrowS-Pairs.                                                                                                                                                                                                                                                                                                                                                     ([https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md LLaMa Benchmark])
 
-== See also ==
-{{div col|colwidth=18em}}
-* [[Cache language model]]
-* [[Deep linguistic processing]]
-* [[Factored language model]]
-* [[Generative pre-trained transformer]]
-* [[Katz's back-off model]]
-* [[Language technology]]
-* [[Statistical model]]
-* [[Ethics of artificial intelligence]]
-* [[Semantic similarity network]]
-
-{{div col end}}
-
-== References ==
-{{Reflist|refs=
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-}}
-
-== Further reading ==
-{{refbegin}}
-
-*                                                                                                                                                                                                                                                  
-*                                                                                                                                                                                                                                       
-*                                                                                                                                                                                                                       
-
-{{refend}}
-{{Natural language processing}}
-{{Artificial intelligence navbox}}
-
-[[Category:Language modeling|*]]
-[[Category:Statistical natural language processing]]
-[[Category:Markov models]]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

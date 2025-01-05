@@ -11,17 +11,11 @@ Steven
 Martin Keller
 Brown
 May
-David D. Burns
-James P. Jr
-McCullough
-Institute
 
 NER NAMES:
 Albert Ellis
 Aaron T. Beck
 Steven Phillipson
-David D. Burns
-James P. Jr. McCullough
 
 
 REVISION ID: 641675359, TIMESTAMP: 2015-01-09T03:22:32Z
@@ -115,27 +109,6 @@ Clinical
 Andrew Samuels
 National Institute
 Clinical
-Aaron T. Beck
-Disorders
-Butler G. Fennell M
-Hackmann A
-Disorders
-Freeman A
-Fancher
-American
-Hofmann
-Psychological
-Mental
-Problems
-Willson R. Branch R
-Association
-British Association
-National Association
-Association
-Research
-Psychology
-Clinical
-United Kingdom
 
 NER NAMES:
 Hofmann
@@ -192,13 +165,6 @@ Fancher
 Slife
 Williams
 Andrew Samuels
-Aaron T. Beck
-Hackmann A.
-Freeman A.
-Fancher
-R. T.
-Hofmann
-Willson
 
 
 REVISION ID: 1263874230, TIMESTAMP: 2024-12-19T03:49:26Z
@@ -326,12 +292,6 @@ Psychological
 National Institute
 Clinical
 Andrew Samuels
-Association
-British Association
-National Association
-Association
-Research
-Psychology
 
 NER NAMES:
 Aaron T. Beck]
@@ -366,6 +326,7 @@ Albert Ellis
 Aaron T. Beck
 Beck
 Beck
+Beck
 Albert Ellis
 Aaron T. Beck
 David M. Clark
@@ -377,7 +338,6 @@ Beck
 Beck
 Beck
 Beck
-Rotter
 Orval Hobart Mowrer|O. Hobart Mowrer
 Cochrane
 Chaloult
@@ -412,5 +372,5 @@ Williams
 Farhad Dalal
 Dalal
 Dalal
-[[Andrew Samuels]
+Andrew Samuels
 

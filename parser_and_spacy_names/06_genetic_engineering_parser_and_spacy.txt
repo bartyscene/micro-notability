@@ -64,12 +64,6 @@ European
 Genetically
 Genetically
 Human
-United
-Genetically
-Genetically
-Genetically
-Genetically
-Engineering
 
 NER NAMES:
 Jack Williamson
@@ -208,11 +202,6 @@ Park
 Park
 Michael Clark
 Clark s
-Engineering
-Medical
-Engineering
-Technology
-Engineering
 
 NER NAMES:
 Paul Berg

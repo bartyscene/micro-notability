@@ -19,7 +19,7 @@ def list_files_in_folder(folder_path):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-def process_json_file(json_file_path):
+def generate_filtered_texts_from_json(json_file_path):
     # Load the JSON file
     try:
         with open(json_file_path, "r", encoding="utf-8") as file:

@@ -29,4 +29,5 @@ New
 NER NAMES:
 Barack Obama
 David Flockhart
+Lazzari
 

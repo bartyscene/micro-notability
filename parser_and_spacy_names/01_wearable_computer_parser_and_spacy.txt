@@ -33,8 +33,6 @@ Starner
 Edgar Matias
 H Thomas
 Piekarski
-Mann
-Paul Miller
 
 NER NAMES:
 Steve Mann|Steve Mann
@@ -72,8 +70,6 @@ Warwick
 Warwick
 Bruce H Thomas
 Wayne Piekarski
-Steve Mann
-Paul Miller
 
 
 REVISION ID: 1257964292, TIMESTAMP: 2024-11-17T12:12:18Z
@@ -105,8 +101,6 @@ Mann
 H. Thomas
 Piekarski
 Information
-Mann
-Mann
 
 NER NAMES:
 Steve Mann
@@ -152,5 +146,4 @@ Warwick
 Samus Aran
 Leela
 Zack Freedman
-Steve Mann
 

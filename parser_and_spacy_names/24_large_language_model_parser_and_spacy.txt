@@ -40,11 +40,6 @@ Nova
 Nova
 Nova
 Nova
-Dan Jurafsky Jurafsky
-Dan
-Martin
-James
-Deep
 
 NER NAMES:
 Bahdanau
@@ -60,18 +55,16 @@ Bob
 Alice
 Kevin Esvelt
 Yongge Wang
-Ernie Bot
+Ernie Bot]
 Claude
+Chinchilla
 BLOOM
 Chinchilla
 Falcon
+Bard
 Llama
 Claude
 Claude
 Grok
 Gemma
-Fugaku
-Dan Jurafsky|Jurafsky
-Dan
-Martin
 

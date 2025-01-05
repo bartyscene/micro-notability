@@ -32,8 +32,6 @@ Simon
 Touch
 Touch
 Brown
-Touch
-Touch
 
 NER NAMES:
 Bent Stumpe
@@ -82,7 +80,6 @@ Displays
 Touch
 Touch
 Brown
-Touch
 
 NER NAMES:
 Frank Beck (

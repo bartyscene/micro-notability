@@ -27,11 +27,6 @@ Fourier
 Fourier
 Fourier
 Fourier
-Fourier
-Yitzhak Katznelson
-Fourier
-Fourier
-Fourier
 
 NER NAMES:
 Fourier
@@ -44,8 +39,6 @@ Fourier
 Fourier
 Fourier
 Parseval
-Yitzhak Katznelson
-Fourier
 
 
 REVISION ID: 641124498, TIMESTAMP: 2015-01-05T19:05:29Z
@@ -170,35 +163,6 @@ Fourier
 Fourier
 Fourier
 Katznelson
-Dirichlet
-Fourier
-Fourier
-Fourier
-Fourier
-Fourier
-Fourier
-by Alexander Freeman
-Fourier
-by M
-Fourier
-Fourier
-Fourier
-Fourier
-Fourier
-Fourier
-Fourier
-Fourier
-Fourier
-Fourier
-by John H
-Joseph Fourier
-Fourier
-Fourier
-Fourier
-Fourier
-Fourier
-Fourier
-Joseph Fourier
 
 NER NAMES:
 Nyquist
@@ -236,33 +200,18 @@ Fourier
 Fourier
 Fourier
 Fourier
-Bloch
+Fourier
 Kronecker
 Parseval
 Plancherel
-Fourier
-Fourier
 Fourier
 Parseval
 Fourier
 Lennart Carleson
 Fourier
 Fourier
-Fourier
 Andrey Kolmogorov
 Lebesgue
-Fejér
-Laurent
-Alexander Freeman
-Fourier
-Felix Klein
-M. Ackerman
-John H. Mathews
-Joseph Fourier
-Fourier
-Fourier
-Fourier
-Joseph Fourier
 
 
 REVISION ID: 1263880062, TIMESTAMP: 2024-12-19T04:41:08Z
@@ -458,25 +407,6 @@ Fourier
 Fourier
 Fourier
 Fourier
-Dirichlet
-Fourier
-Fourier
-Fourier
-Fourier
-Fourier
-Fourier
-Fourier
-by Alexander Freeman
-Fourier
-by M
-Fourier
-Fourier
-Joseph Fourier
-Fourier
-Fourier
-Fourier
-Fourier
-Joseph Fourier
 
 NER NAMES:
 Joseph Fourier
@@ -528,33 +458,19 @@ Adrien-Marie Legendre|Legendre
 Fourier
 Fourier
 Fourier
+Fourier
+Basel
 Parseval
+Fourier
 Basel
 Parseval
 Plancherel
 Fourier
-Fourier
 Bloch
-Kronecker
-Carleson
 Hilbert
 Fourier
 Parseval
-Fourier
 Lennart Carleson
 Andrey Kolmogorov
 Lebesgue
-Carleson
-Fejér
-Laurent
-Alexander Freeman
-Fourier
-Felix Klein
-M. Ackerman
-FourierSeries
-Joseph Fourier
-Fourier
-Fourier
-Fourier
-Joseph Fourier
 

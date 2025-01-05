@@ -22,7 +22,6 @@ Zhang
 Doudna
 Charpentier
 Institute
-Crispr
 
 NER NAMES:
 Koonin
@@ -33,11 +32,10 @@ Doudna
 Charpentier
 Gao Caixia
 Gao
-Zhang
-Zhang
-Doudna
+Feng Zhang
 Zhang
 Doudna
+Zhang
 Charpentier
 
 
@@ -75,9 +73,6 @@ P. Liang
 Y. Xu
 Hui Yang
 Eugene Koonin Koonin
-Science
-Crispr
-Jennifer Doudna
 
 NER NAMES:
 Emmanuelle Charpentier
@@ -123,5 +118,4 @@ Cas13b
 Eugene Koonin|Koonin
 Lamarck
 Lamarckian
-Jennifer Doudna
 

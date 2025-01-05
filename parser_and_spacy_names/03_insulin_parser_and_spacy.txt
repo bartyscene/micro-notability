@@ -57,11 +57,6 @@ Insulin
 Medical
 Clinical
 Insulin
-Insulin
-Insulin
-de Insulin
-Insulin
-Insulin
 
 NER NAMES:
 Paul Langerhans
@@ -253,23 +248,6 @@ Murray
 Paulesco
 Toronto
 Institute
-Insulin
-Insulin
-Insulin
-Insulin
-Frederick Banting
-Insulin
-History
-Insulin
-Banting
-Best
-Macleod
-Collip
-Insulin
-Insulin
-Insulin
-Insulin
-Insulin
 
 NER NAMES:
 Frederick Sanger
@@ -287,6 +265,8 @@ Opie
 George Ludwig Zuelzer
 E.L. Scott
 Israel Kleiner
+Kleiner
+Nicolae Paulescu
 Frederick Banting
 Minkowski
 Banting
@@ -322,10 +302,10 @@ Best
 Banting
 Macleod
 Banting
+Macleod
 James Collip
 Leonard Thompson
 Thompson
-Collip
 Elizabeth Hughes Gossett
 [[James D. Havens
 John Ralston Williams
@@ -342,7 +322,6 @@ Frederick Sanger#Sequencing
 Panayotis Katsoyannis
 Helmut Zahn
 Arthur Riggs
-Riggs
 Keiichi Itakura
 Herbert Boyer
 Swanson
@@ -350,7 +329,6 @@ Boyer
 Bruce Merrifield
 C. H. Best
 F. G. Banting
-Banting
 Charles Herbert Best|Charles Best
 Frederick Banting
 John James Rickard Macleod|J.J.R. Macleod
@@ -365,6 +343,8 @@ George Minot
 William Bosworth Castle|William Castle
 Minot
 Nicolae Paulescu
+Banting
+Best
 Collip
 Macleod
 Paulescu
@@ -373,9 +353,8 @@ Nicolae Paulescu
 Murray
 Murray
 Paulesco
-Arne Tiselius|Tiselius
+Arne Tiselius|Tiselius]
 Paulescu
-Frederick Banting
 
 
 REVISION ID: 1257123824, TIMESTAMP: 2024-11-13T10:33:06Z
@@ -587,19 +566,6 @@ Association
 Murray
 Toronto
 Institute
-Frederick Banting
-Insulin
-University
-Toronto
-Insulin
-Banting
-Best
-Macleod
-Collip
-Insulin
-Insulin
-Insulin
-Insulin
 
 NER NAMES:
 Frederick Banting
@@ -620,19 +586,19 @@ Joseph von Mering
 Eugene Lindsay Opie
 George Ludwig Zuelzer
 Ernest Lyman Scott|E.L. Scott
-Israel Kleiner
+Kleiner
+Kleiner
 Nicolae Paulescu
 Edward Albert Sharpey-Schafer
-Sharpey-Schafer
 Frederick Banting
 Minkowski
 Banting
 Charles H. Best
 Clark Noble
+Best
 Clark Noble
 Banting
 John Macleod
-Macleod
 Macleod
 Banting
 Banting
@@ -658,13 +624,15 @@ Banting
 Macleod
 Banting
 Macleod
-[[James Collip
+[[James Collip]
 Elizabeth Hughes
 Elizabeth Hughes
 Leonard Thompson
 Thompson
+Thompson
+Collip
 Elizabeth Hughes Gossett|Elizabeth Hughes
-Charles Evans Hughes
+[[Charles Evans Hughes
 James D. Havens
 John Ralston Williams
 Havens
@@ -674,13 +642,11 @@ Collip
 Collip
 Best
 George B. Walden
-Collip
 John G. FitzGerald
 FitzGerald
+Macleod
 Banting
-Eli Lilly
 Edward Calvin Kendall
-Mayo
 Banting
 Best
 Collip
@@ -697,7 +663,7 @@ Earl A. Evans Jr.
 Frederick Sanger#Sequencing
 Panayotis Katsoyannis
 Helmut Zahn
-Dorothy Hodgkin
+Dorothy Hodgkin]
 Hans E. Weber
 Weber
 Weber
@@ -716,8 +682,10 @@ Bruce Merrifield
 C. H. Best
 F. G. Banting
 Charles Best
+Best
 Frederick Banting
 John Macleod
+Macleod
 Banting
 Best
 Macleod
@@ -741,5 +709,4 @@ Murray
 Paulescu
 Arne Tiselius
 Paulescu
-Frederick Banting
 

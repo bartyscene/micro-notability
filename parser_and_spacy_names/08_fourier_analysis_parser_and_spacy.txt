@@ -23,28 +23,6 @@ Conte de Boor
 Carl
 Carl
 Carl
-Conte
-de Boor
-Carl
-Evans
-Howell
-Kenneth B
-Press
-Kamen
-B S. Heck
-Donald E
-Knuth
-Polyanin
-A V. Manzhirov
-Press
-Walter
-Rudin
-Smith
-Steven W
-Stein
-G. Weiss
-Press
-Steven
 
 NER NAMES:
 Joseph Fourier
@@ -73,25 +51,8 @@ Leonhard Euler
 Lagrange
 Fourier
 Carl Friedrich Gauss
+Cooley
 Tukey
-Conte
-S. D.
-de Boor
-Carl
-Howell
-Kenneth B.
-Kamen
-B.S. Heck
-Donald E.|last=
-Polyanin
-A.V. Manzhirov
-Smith
-Steven W.
-Stein
-G. Weiss
-Steven Lehar
-Alan Peters
-Joseph Fourier
 
 
 REVISION ID: 1263338092, TIMESTAMP: 2024-12-16T02:39:13Z
@@ -100,7 +61,6 @@ PARSER NAMES:
 Carl
 Carl
 Carl
-Steven
 
 NER NAMES:
 Fourier
@@ -136,9 +96,4 @@ Lagrange
 Fourier
 Carl Friedrich Gauss
 Tukey
-Fourier
-Walsh
-Steven Lehar
-Alan Peters
-Joseph Fourier
 

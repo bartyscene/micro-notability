@@ -5,31 +5,26 @@ import re
 def filter_wikitext(wikitext):
     if wikitext is None:
         return ""
+    
+    # Combined pattern for citations, references, comments, and headings with everything after
     combined_pattern = re.compile(
-        r"(?:"  # Start non-capturing group
-        r"\{\{[cC]ite[^}]*?\}\}|"  # Matches {{cite ...}} 
-        r"\{\{[cC]itation[^}]*?\}\}|"  # Matches {{citation ...}}
-        r"<ref[^>]*?\/>|"  # Matches self-closing <ref .../>
-        r"<ref[^>]*?>.*?<\/ref>|"  # Matches <ref ...>...</ref>
-        r"<!--.*?-->"  # Matches HTML comments
-        r")",  # End non-capturing group
-        re.DOTALL
+        r"(?:"
+            r"\{\{[cC]ite[^}]*?\}\}|"                # Matches {{cite ...}} 
+            r"\{\{[cC]itation[^}]*?\}\}|"            # Matches {{citation ...}}
+            r"<ref[^>]*?\/>|"                         # Matches self-closing <ref .../>
+            r"<ref[^>]*?>.*?<\/ref>|"                 # Matches <ref ...>...</ref>
+            r"<!--.*?-->|"                             # Matches HTML comments
+            r"==\s*(?:External links|See also|Further reading)\s*==[\s\S]*"  # Matches headings and everything after
+        r")",
+        re.DOTALL | re.IGNORECASE
     )
     
-    # Pattern to match headings of interest with flexible whitespace
-    headings_pattern = re.compile(
-        r"==\s*(External links|See also|Further reading)\s*==",
-        re.IGNORECASE
+    # Replace all matches with spaces preserving the original length
+    processed_text = re.sub(
+        combined_pattern, 
+        lambda m: ' ' * (m.end() - m.start()), 
+        wikitext
     )
-    
-    # Check for headings of interest
-    match = headings_pattern.search(wikitext)
-    if match:
-        # Replace everything from the heading to the end with spaces
-        wikitext = wikitext[:match.start()] + ' ' * (len(wikitext) - match.start())
-    
-    # Replace matches from the combined pattern with spaces
-    processed_text = re.sub(combined_pattern, lambda m: ' ' * (m.end() - m.start()), wikitext)
     
     return processed_text
 

@@ -83,8 +83,7 @@ Thompson
 Elizabeth Hughes Gossett
 Banting
 Hagedorn
-D.M. Scott
-Hagedorn
+A.M. Fisher
 Frederick Sanger
 C.L. Tsou
 Wang Yinglai
@@ -191,17 +190,19 @@ Bonds
 Ghent Wakefield
 Rich Piana
 Charles Best
+Best
 Frederick Banting
 Frederick Banting
 Charles Best
+Best
 James Collip
 Leonard Thompson
-Thompson
 James D. Havens
 James S. Havens
 Elizabeth Hughes Gossett
 Banting
 Hans Christian Hagedorn
+Constance Collier
 David M. Scott
 Albert M. Fisher
 Frederick Sanger

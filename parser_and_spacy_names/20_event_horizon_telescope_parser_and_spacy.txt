@@ -10,10 +10,8 @@ Telescope
 Telescope
 Fulvio Melia
 Fulvio Melia
-Event Horizon Telescope
 
 NER NAMES:
-Fulvio Melia
 Fulvio Melia
 
 
@@ -50,7 +48,6 @@ EHT Collaboration
 Telescope
 Telescope
 EHT Collaboration
-Event Horizon Telescope
 
 NER NAMES:
 Albert Einstein

@@ -17,17 +17,6 @@ Cynthia Breazeal
 Tony
 Kerstin Dautenhahn
 Brian
-Brian R. Duffy
-Cynthia L. Breazeal
-Kerstin Dautenhahn
-P. Gaussier
-J. D. Nicoud
-Kerstin Dautenhahn
-Terrence Fong
-Illah R. Nourbakhsh
-Kerstin Dautenhahn
-W. Grey Walter
-Brian R. Duffy
 
 NER NAMES:
 William Grey Walter
@@ -45,22 +34,6 @@ Tomio Watanabe
 Wizard of Oz
 L. Frank Baum
 Asimov
-Kismet
-Brian R. Duffy
-Cynthia L. Breazeal
-Kerstin Dautenhahn
-P. Gaussier
-J.-D. Nicoud
-Kerstin Dautenhahn
-Terrence Fong
-Illah R. Nourbakhsh
-Kerstin Dautenhahn
-W. Grey Walter
-Brian R. Duffy
-Kaspar
-Leonardo
-Maggie
-Tico
 
 
 REVISION ID: 1243236040, TIMESTAMP: 2024-08-31T09:10:25Z
@@ -77,9 +50,5 @@ L. Frank Baum
 Asimov
 Moro
 Moyle
-Nao
-Paro
-Paro
-Pepper
 Nao
 

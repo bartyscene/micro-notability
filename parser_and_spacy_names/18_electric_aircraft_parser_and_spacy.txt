@@ -105,19 +105,6 @@ Aviation
 Electric Aircraft
 Electric
 Aviation
-Electric
-Electric
-Aviation
-Solar
-Solar
-Noth
-Solar
-Electric Aircraft
-Electric
-Aviation
-Solar
-Electric Aircraft
-Electric
 
 NER NAMES:
 Flea Hop
@@ -159,7 +146,6 @@ Tom Peghiny
 Manfred Ruhmer
 Jack Pelton
 Pelton
-Elon Musk
 
 
 REVISION ID: 1253274607, TIMESTAMP: 2024-10-25T04:46:50Z
@@ -244,14 +230,6 @@ Electric
 Aircraft
 Aircraft
 Electric
-Electric
-Electric
-Solar
-Solar
-Electric Aircraft
-Electric
-Aircraft
-Aviation
 
 NER NAMES:
 Gaston Tissandier

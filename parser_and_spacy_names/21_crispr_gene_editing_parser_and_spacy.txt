@@ -95,7 +95,6 @@ Tang
 Science
 Charpentier
 Doudna
-Gene
 
 NER NAMES:
 Jennifer Doudna

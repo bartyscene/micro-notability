@@ -14,6 +14,7 @@ def filter_wikitext(wikitext):
             r"<ref[^>]*?\/>|"                         # Matches self-closing <ref .../>
             r"<ref[^>]*?>.*?<\/ref>|"                 # Matches <ref ...>...</ref>
             r"<!--.*?-->|"                             # Matches HTML comments
+            r"\{\{sfnp[^}]*?\}\}|"                      # Matches {{sfnp ...}}
             r"==\s*(?:External links|See also|Further reading)\s*==[\s\S]*"  # Matches headings and everything after
         r")",
         re.DOTALL | re.IGNORECASE

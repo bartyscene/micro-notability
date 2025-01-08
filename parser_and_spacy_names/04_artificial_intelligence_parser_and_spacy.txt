@@ -491,111 +491,60 @@ Use
 Artificial
 Artificial
 Machine
-Russell Norvig
 Artificial
 General
 Artificial
-Toews
 Russell Norvig
 Luger Stubblefield
 Poole Mackworth Goebel
 Nilsson
 General
-Smoliar Zhang
-Neumann Möller
-Kuperman Reichley Bailey
-McGarry
-Bertini Del Bimbo Torniai
-Russell Norvig
-Newquist
-Crevier
-Russell Norvig
 Learning
 Machine
 Alan Turing
 Computing Machinery
 Intelligence
-Turing
 Ray Solomonoff
 Machine
-Solomonoff
 Noam
 See
 Machine
 Margaret
-Russell Norvig
-Dickson
-Vincent
-Russell Norvig
 Machine
-Russell Norvig
-Russell Norvig
-Russell Norvig
-Challa Moreland Mušicki Evans
-Russell Norvig
-Waddell
-Poria Cambria Bajpai
-Hussain
 General
 Russell Norvig
 Luger Stubblefield
 Poole Mackworth Goebel
 Nilsson
-Russell Norvig
 Artificial
-Merkle Middendorf
 Turing
-Domingos
-Machine
-Domingos
 Machine
 Machine
-Domingos
+Machine
 Artificial
 Artificial
 Artificial
 Learning
 Long
-Deng Yu
-Ciresan Meier Schmidhuber
-Russell Norvig
 Warren S
 Walter
-Russell Norvig
 Alan Turing
-Russell Norvig
 Karl
 Roger David Joseph
-Schmidhuber
 Frank
-Russell Norvig
-Schmidhuber
 Alexey Ivakhnenko
 Valentin
-Schmidhuber
-Schmidhuber
-Schmidhuber
 John Joseph
-Schmidhuber
 Henry J
-Russell Norvig
 Arthur E. Bryson
-Russell Norvig
 Stuart Dreyfus
-Russell Norvig
 Arthur E. Bryson
 Yu Chi Ho
-Russell Norvig
 Seppo Linnainmaa
-Schmidhuber
 Paul Werbos
-Russell Norvig
 Geoffrey Hinton
-Smith
 Claude Claude
 Microsoft
-Marmouyet
-Kobielus
 Moore
 Gordon Moore
 Microsoft
@@ -615,16 +564,9 @@ March
 Artificial
 Artificial
 Demis Hassabis
-Simonite
-Russell Norvig
-Laskowski
 Artificial
 Machine
-Russell Norvig
-Russell Norvig
 Brian Christian
-Christian
-Vincent
 John
 Jonathan
 Microsoft
@@ -646,20 +588,10 @@ Fukushima
 October
 Bloomberg
 See
-Nicas
-Williams
 Geoffrey Hinton
-Taylor Hern
 Machine
-Rose
-Goffrey
-Rose
-Christian
-Russell Norvig
 Microsoft
-Grant Hill
 Julia Angwin
-Larson Angwin
 Jon
 University
 University
@@ -667,59 +599,34 @@ Chicago
 Sam
 Davis
 Stanford
-Christian
 Moritz
 Moritz
 Max
 Institute
-Russell Norvig
 Accountability
 Accountability
 Association
 Computing Machinery
 See
-Sample
-Christian
-Christian
 General Data
-Christian
 Artificial Intelligence
 Artificial Intelligence
-Christian
-Verma
-Rothman
-Christian
-Christian
 Artificial
 Artificial
 United
-Russell Norvig
-Russell Norvig
-Russell Norvig
 United
 United States
-Russell Norvig
 Machine
-Harari
-Urbina Lentzos Invernizzi Ekins
-IGM Chicago
 Michael Osborne
 Carl Benedikt Frey
 See
-Gregory
-Morgenstern
 Joseph Weizenbaum
 Stephen
 Global
-Cellan Jones
 Russell Norvig
 Nick Bostrom
-Bostrom
 Stuart J. Russell Stuart Russell
-Russell
 Yuval Noah Harari
-Harari
-Müller Bostrom
 Stephen
 Yoshua Bengio
 Stuart J. Russell Stuart Russell
@@ -727,31 +634,20 @@ Demis Hassabis
 Sam Altman
 Geoffrey Hinton
 He
-Valance
 Schmidhuber
 Andrew Ng
 Yann LeCun
-Christian
 Machine
 Artificial
-Anderson Anderson
-Anderson Anderson
 Wendell Wallach
-Wallach
 Stuart J. Russell
-Russell
 Russell
 Artificial Intelligence
 Alan Turing Institute
 Institute
 United
 Institute
-Law Library
-Congress
-Global Legal Research Directorate
 Stanford
-Vincent
-Stanford University
 Canada
 United
 Global
@@ -759,18 +655,12 @@ Artificial Intelligence
 Henry Kissinger
 Eric
 Daniel
-Kissinger
-Altman Brockman Sutskever
 United
 Council
 Artificial Intelligence
 Law
 United States
 United
-Vincent
-Edwards
-Fox News
-Kasperowicz
 Fox News
 Park
 United States
@@ -779,22 +669,17 @@ Russell Norvig
 Russell Norvig
 Warren
 Walter
-Russell Norvig
 Turing
 Computing Machinery
 Intelligence
 Turing
 Daniel Crevier
-Crevier
 Stuart J. Russell Russell
 Norvig
-Russell Norvig
 Stuart J. Russell Russell
 Norvig
-Russell Norvig
 Stuart J. Russell Russell
 Norvig
-Russell Norvig
 Arthur Samuel
 Arthur Samuel
 Daniel
@@ -802,51 +687,30 @@ Allen Newell Newell
 Herbert A. Simon Simon
 Terry Winograd
 Artificial
-Newquist
 Herbert A. Simon Herbert Simon
 Marvin Minsky
 Stuart J. Russell Russell
 Norvig
-Russell Norvig
 Lighthill
 Sir James Lighthill
-Lighthill
 U S. Congress
 Marvin Minsky Minsky
-Russell Norvig
 Machine
-Russell Norvig
-Nilsson
 Rodney Brooks
 Hans Moravec
-Moravec
 Rodney Brooks
-Brooks
-Brooks
-Russell Norvig
 Geoffrey Hinton
 Yann LeCun
-Russell Norvig
 Matteo Wong
-Wong
 Moore
-Clark
-Clark
 Jack Clark
 Bloomberg News Bloomberg
-Clark
-Christian
 PhD
-DiFeliciantonio
-Goswami
 See
 Turing
 Alan Turing
-Turing
 He
-Turing
 He
-Turing
 Turing
 Turing
 Turing
@@ -854,21 +718,13 @@ Turing
 Stuart J. Russell Russell
 Norvig
 Turing
-Russell Norvig
-Russell Norvig
 John McCarthy
 John McCarthy
 Artificial
-Maker
-McCarthy
 McCarthy
 Marvin Minsky
-Minsky
-Russell Norvig
 Nils Nilsson
 Nils Nilsson
-Nilsson
-Haugeland
 Newell
 Simon
 Moravec
@@ -876,38 +732,24 @@ Hubert Dreyfus
 Dreyfus
 Daniel Crevier
 Dreyfus
-Crevier
 Noam
-Langley
-Katz
 Artificial
 Artificial
-Pennachin Goertzel
-Roberts
 General
 Machine
 Artificial
 Stuart J. Russell Russell
 Norvig
-Russell Norvig
 David Chalmers
-Chalmers
 Dennett
-Dennett
-Horst
 John Searle
-Searle
-Searle
 Searle
 Searle
 Searle
 Stuart J. Russell Russell
 Norvig
-Russell Norvig
 Searle
-Roberts
 Vernor Vinge
-Russell Norvig
 Hans Moravec
 Kevin Warwick
 Ray Kurzweil
@@ -921,18 +763,14 @@ Global Intelligence
 Global Intelligence
 Artificial
 Arthur C
-Buttazzo
-Anderson
-McCauley
 A I. Artificial Intelligence
 Philip K
-Galvan
 
 NER NAMES:
 Markov
 Turing
 Ray Solomonoff
-Noam Chomsky
+Noam Chomsky]
 Margaret Masterman
 Markov
 Markov
@@ -941,20 +779,23 @@ Warren S. McCulloch
 Walter Pitts
 Alan Turing
 Karl Steinbuch
-Roger David Joseph
-Frank Rosenblatt]](1957);{{Sfnp|Russell|Norvig|2021|p=785
+Roger David Joseph]
+Frank Rosenblatt]](1957
+Oliver Selfridge
 Alexey Ivakhnenko
 Valentin Lapa
 Kaoru Nakano
+Shun-Ichi Amari
 John Joseph Hopfield
 Henry J. Kelley
 Arthur E. Bryson
 Stuart Dreyfus
 Arthur E. Bryson
 Yu-Chi Ho
+Seppo Linnainmaa
+Paul Werbos
 Hinton
 Bard
-Grok
 Moore
 Gordon Moore
 Garry Kasparov
@@ -964,12 +805,16 @@ Ken Jennings
 Lee Sedol
 Ke Jie|defeated
 Ke Jie
-Claude
+Llemma
+eleuther
+Julius
 Lean
+Nicolas Firzli
 Vincent van Gogh
 van Gogh
-Francis
+Pope Francis
 Donald Trump
+Demis Hassabis
 Cynthia Dwork
 Brian Christian
 John Grisham
@@ -991,6 +836,7 @@ Carl Benedikt Frey
 Joseph Weizenbaum
 Stephen Hawking
 Nick Bostrom
+Stuart J. Russell|Stuart Russell
 Yuval Noah Harari
 Stephen Hawking
 Bill Gates
@@ -1004,8 +850,8 @@ Juergen Schmidhuber
 Andrew Ng
 Yann LeCun
 Eliezer Yudkowsky
-Wendell Wallach
-Stuart J. Russell
+Wendell Wallach]
+Stuart J. Russell]
 Harris
 Henry Kissinger
 Eric Schmidt
@@ -1013,27 +859,28 @@ Daniel Huttenlocher
 Alan Turing]
 Walter Pitts|Pitts
 Turing
-Dartmouth
 Daniel Crevier
 Stuart J. Russell|Russell]
+Stuart J. Russell|Russell
 Stuart J. Russell|Russell]
 Arthur Samuel
-Daniel Bobrow]
-Allen Newell|Newell]
-Herbert A. Simon|Simon]
+Samuel
+Daniel Bobrow
+Allen Newell|Newell
+Herbert A. Simon|Simon
 Terry Winograd
+Herbert A. Simon|Herbert Simon
 Marvin Minsky
 Lighthill
-James Lighthill]]{{Sfnp|Lighthill|1973
+James Lighthill
 Mansfield
 Rodney Brooks
-Hans Moravec]]{{Sfnp|Moravec|1988
-Rodney Brooks]]{{Sfnp|Brooks|1990
-Lofti Zadeh
+Hans Moravec
+Rodney Brooks
+Judea Pearl
 Geoffrey Hinton
 Yann LeCun
 Moore
-Clark
 Alan Turing
 Turing
 Turing
@@ -1043,7 +890,10 @@ Stuart J. Russell|Russell
 Turing
 John McCarthy
 McCarthy
+McCarthy
 Marvin Minsky
+Nilsson
+Nilsson
 Newell
 Simon
 Moravec
@@ -1052,16 +902,15 @@ Dreyfus
 Daniel Crevier
 Dreyfus
 Noam Chomsky
-Stuart J. Russell|Russell
+Stuart J. Russell|Russell]
 David Chalmers
 Dennett
 Jerry Fodor
-Hilary Putnam]].{{Sfnp|Horst|2005
-Philosopher
+Hilary Putnam
 John Searle
 Searle
 Searle
-Stuart J. Russell|Russell]
+Stuart J. Russell|Russell
 Searle
 I. J. Good
 Vernor Vinge
@@ -1069,14 +918,12 @@ Hans Moravec
 Kevin Warwick
 Ray Kurzweil
 Aldous Huxley
-Robert Ettinger
-Fredkin
+Edward Fredkin
 Samuel Butler
 George Dyson
 Karel Čapek
-Mary Shelley]
+Shelley
 Gort
-Bishop
 Isaac Asimov
 Asimov
 Asimov

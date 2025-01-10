@@ -5,12 +5,11 @@ REVISION ID: 641093777, TIMESTAMP: 2015-01-05T14:56:26Z
 PARSER NAMES:
 Solar Impulse
 Solar Impulse
-Electric
 Gaston Tissandier
 Charles Renard
-Arthur Constantin Krebs Arthur Krebs
+Arthur Krebs
 Electric
-C. Brown
+C Brown
 Electric Aircraft
 Turin Polytechnic University
 Electric Aircraft
@@ -18,7 +17,6 @@ Aviation
 Aircraft
 Federal Aviation Administration
 Experimental
-West
 West
 Solar
 Solar
@@ -43,7 +41,7 @@ Sunseeker
 Sunseeker
 Sunseeker
 Solar
-H. Y. Li
+H Y Li
 Institut für Flugzeugbau
 University
 Lange Flugzeugbau
@@ -69,7 +67,7 @@ Turin
 Aviation
 Aircraft
 Aviation
-H. Y. Li
+H Y Li
 Le
 Le
 Aircraft
@@ -92,7 +90,7 @@ Lange Flugzeugbau
 Lange
 Lange
 Flightstar
-Flightstar Flightstar
+Flightstar
 Flightstar Sportplanes
 Icaro
 Icaro
@@ -107,24 +105,23 @@ Electric
 Aviation
 
 NER NAMES:
-Flea Hop
 Gaston Tissandier
 Charles Renard
-Arthur Constantin Krebs|Arthur Krebs
+Arthur Krebs
 William C. Brown
 Walter Cronkite
 Fred Militky
 Heino Brditschka
-Heino
 Larry Mauro
 David Williams
 Freddie To
+Kremer
 Paul MacCready
 Kremer
 Günther Rochelt
 Hans Farner
 Günther Rochelt
-Eric Scott Raymond|Eric Raymond
+Eric Raymond
 Danny H. Y. Li
 Zhao Yong
 Rudolf Voit-Nitschmann
@@ -141,7 +138,9 @@ Michaël Morin
 Jean Luc-Soullier
 Dale Kramer
 Pascal Chretien
+Pascal Chretien
 Randall Fishman
+Fishman
 Tom Peghiny
 Manfred Ruhmer
 Jack Pelton
@@ -153,9 +152,6 @@ REVISION ID: 1253274607, TIMESTAMP: 2024-10-25T04:46:50Z
 PARSER NAMES:
 Aircraft
 Electric
-Electric
-Aviation
-Lange
 Lange E
 Solar Impulse
 Electric
@@ -168,7 +164,7 @@ Inc
 Aircraft
 Propulsion
 QinetiQ
-C. Brown
+C Brown
 Experimental
 Aircraft
 October
@@ -179,9 +175,6 @@ Solar
 Solar
 Solar Impulse
 Solar Impulse
-Solar
-Solar
-Aircraft
 Solar
 Solar
 David
@@ -196,10 +189,8 @@ Solar Impulse
 Solar Impulse
 Solar Impulse
 Lange
-Aviation
 October
 Aircraft
-Aircraft
 Electric Aircraft
 Electric Aircraft
 Electric Aircraft
@@ -208,18 +199,14 @@ Electric
 Electric
 Electric
 Electric
-Electric
-Federal Aviation Administration
 Solar Impulse
 Electric
 Aircraft
 Aviation
-Aircraft
 Solar
 Solar
 Solar
 Solar
-Electric
 Electric
 Electric
 Li
@@ -227,7 +214,6 @@ Electric
 Propulsion
 Electric
 Electric
-Aircraft
 Aircraft
 Electric
 
@@ -237,12 +223,12 @@ Charles Renard
 Arthur Krebs
 William C. Brown
 Pascal Chretien
-Martine Rothblatt
 Fred Militky
 Heino Brditschka
 Chip Yates
 Bertrand Piccard Payerne
 Freddie To
+Kremer
 David Williams
 Stephen Ptacek
 Günther Rochelt

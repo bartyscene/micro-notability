@@ -5,13 +5,13 @@ REVISION ID: 634312970, TIMESTAMP: 2014-11-18T01:56:24Z
 PARSER NAMES:
 Saegusa
 Schiraldi
-C. de
+C de
 Chujo
 Grubbs
 Grubbs
 Grubbs
 Grubbs
-H. Grubbs Grubbs
+Grubbs
 Toohey
 Grubbs
 
@@ -19,13 +19,14 @@ NER NAMES:
 Saegusa
 Schiraldi
 Chujo
+Grubbs
+Grubbs
+Grubbs
 J. Aizenberg
-Robert H. Grubbs|Grubbs
-Murray
-Murray
 Murray
 Murray
 Toohey
+Grubbs
 
 
 REVISION ID: 1259458289, TIMESTAMP: 2024-11-25T07:45:02Z
@@ -36,7 +37,7 @@ Toohey
 Grubbs
 Saegusa
 Schiraldi
-C. de
+C de
 Chujo
 Urban
 Grubbs
@@ -46,7 +47,7 @@ Grubbs
 White et al
 White et al
 Grubbs
-Henk M. Jonkers
+Henk M Jonkers
 Erik Schlangen
 Jonkers
 Van
@@ -54,9 +55,11 @@ Van
 NER NAMES:
 Marie Jackson
 Toohey
+Grubbs
 Saegusa
 Schiraldi
 Chujo
+Grubbs
 J. Aizenberg
 White
 White
@@ -64,4 +67,5 @@ H. L. Erlich
 Henk M. Jonkers
 Erik Schlangen
 Jonkers
+Van Tittlelboom
 

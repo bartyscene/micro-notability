@@ -1,181 +1,181 @@
-:''This article is about intelligence exhibited by manufactured systems, typically computers. For other uses of the term ''AI'', see ''[[Ai]]''.  For the influential [[Warp Records]] series, see [[Artificial Intelligence (series)]].''
+:''This article is about intelligence exhibited by manufactured systems, typically computers. For other uses of the term ''AI'', see ''  Ai  ''.  For the influential   Warp Records   series, see   Artificial Intelligence  series   .''
 
-'''Artificial intelligence''', also known as '''machine intelligence''', is defined as [[intelligence (trait)|intelligence]] exhibited by anything manufactured (i.e. [[Wiktionary:artificial|artificial]]) by humans or other sentient beings or systems (should such things ever exist on [[Earth]] or [[Extraterrestrial life|elsewhere]]). It is usually hypothetically applied to general-purpose [[computer]]s. The term is also used to refer to the field of scientific investigation into the plausibility of and approaches to creating such systems.  
+'''Artificial intelligence''', also known as '''machine intelligence''', is defined as                        intelligence   exhibited by anything manufactured  i.e.                         artificial    by humans or other sentient beings or systems  should such things ever exist on   Earth   or                         elsewhere   . It is usually hypothetically applied to general-purpose   computer  s. The term is also used to refer to the field of scientific investigation into the plausibility of and approaches to creating such systems.  
  
-==Overview==
-The question of what artificial intelligence is can be reduced to two parts: "what is the nature of artifice" and "what is intelligence"?  The first question is fairly easy to answer, though it does point to the question of what it is possible to manufacture (within the constraints of certain types of system, e.g. classical computational systems, of available processes of manufacturing and of possible limits on human intellect, for instance).
+  Overview  
+The question of what artificial intelligence is can be reduced to two parts:  what is the nature of artifice  and  what is intelligence ?  The first question is fairly easy to answer, though it does point to the question of what it is possible to manufacture  within the constraints of certain types of system, e.g. classical computational systems, of available processes of manufacturing and of possible limits on human intellect, for instance .
 
-The second is much harder, raising questions of [[consciousness]] and [[self]], [[mind]] (including the [[unconscious mind]]) and the question of what components are involved in the only type of [[intelligence (trait)|intelligence]] it is universally agreed we have available to study: that of human beings.  Intelligent behavior in humans is complex and difficult to study or understand.  Study of animals and artificial systems that are not just models of what exists already are also considered widely pertinent.
+The second is much harder, raising questions of   consciousness   and   self  ,   mind    including the   unconscious mind    and the question of what components are involved in the only type of                        intelligence   it is universally agreed we have available to study: that of human beings.  Intelligent behavior in humans is complex and difficult to study or understand.  Study of animals and artificial systems that are not just models of what exists already are also considered widely pertinent.
 
 Several distinct types of artificial intelligence have been elucidated below. Also, the subject divisions, history, proponents and opponents and applications of research in the subject are described. Finally, references to fictional and non-fictional descriptions of AI are provided.
 
-==Strong AI and weak AI==
-One popular and early definition of artificial intelligence research, put forth by [[John McCarthy (computer scientist)|John McCarthy]] at the [[Dartmouth Conference]] in [[1956]], is ''"making a machine behave in ways that would be called intelligent if a human were so behaving."'', repeating the claim put forth by [[Alan Turing]] in "[[Computing machinery and intelligence]]" (Mind, October [[1950]]). However this definition seems to ignore the possibility of strong AI (see below).  Another definition of '''artificial intelligence''' is ''[[intelligence (trait)|intelligence]] arising from an artificial device''. Most definitions could be categorized as concerning either systems that ''think like humans'', systems that ''act like humans'', systems that ''think rationally'' or systems that ''act rationally''.
+  Strong AI and weak AI  
+One popular and early definition of artificial intelligence research, put forth by                                      John McCarthy   at the   Dartmouth Conference   in   1956  , is '' making a machine behave in ways that would be called intelligent if a human were so behaving. '', repeating the claim put forth by   Alan Turing   in    Computing machinery and intelligence     Mind, October   1950   . However this definition seems to ignore the possibility of strong AI  see below .  Another definition of '''artificial intelligence''' is ''                       intelligence   arising from an artificial device''. Most definitions could be categorized as concerning either systems that ''think like humans'', systems that ''act like humans'', systems that ''think rationally'' or systems that ''act rationally''.
 
-===Strong artificial intelligence===
-'''Strong artificial intelligence''' research deals with the creation of some form of computer-based artificial intelligence that can truly [[Reasoning|reason]] and [[Problem solving|solve problems]]; a strong form of AI is said to be [[sentient]], or self-aware.  In theory, there are two types of strong AI:
-* Human-like AI, in which the computer program thinks and reasons much like a [[human mind]].
-* Non-human-like AI, in which the computer program develops a totally non-human sentience, and a non-human way of thinking and reasoning.
+   Strong artificial intelligence   
+'''Strong artificial intelligence''' research deals with the creation of some form of computer-based artificial intelligence that can truly             reason   and                   solve problems  ; a strong form of AI is said to be   sentient  , or self-aware.  In theory, there are two types of strong AI:
+  Human-like AI, in which the computer program thinks and reasons much like a   human mind  .
+  Non-human-like AI, in which the computer program develops a totally non-human sentience, and a non-human way of thinking and reasoning.
 
-===Weak artificial intelligence===
-'''Weak artificial intelligence''' research deals with the creation of some form of computer-based artificial intelligence that can reason and solve problems only in a limited domain; such a machine would, in some ways, act ''as if'' it were intelligent, but it would not possess true intelligence or sentience.  The classical test for such abilities is the [[Turing test]]. 
+   Weak artificial intelligence   
+'''Weak artificial intelligence''' research deals with the creation of some form of computer-based artificial intelligence that can reason and solve problems only in a limited domain; such a machine would, in some ways, act ''as if'' it were intelligent, but it would not possess true intelligence or sentience.  The classical test for such abilities is the   Turing test  . 
 
-There are several fields of weak AI, one of which is [[natural language]]. Many weak AI fields have specialised software or programming languages created for them. For example, the 'most-human' natural language [[chatterbot]] [[A.L.I.C.E.]] uses a programming language [[AIML]] that is specific to its program, and the various clones, named [[Alicebot]]s.  
+There are several fields of weak AI, one of which is   natural language  . Many weak AI fields have specialised software or programming languages created for them. For example, the 'most-human' natural language   chatterbot     A.L.I.C.E.   uses a programming language   AIML   that is specific to its program, and the various clones, named   Alicebot  s.  
 
-To date, much of the work in this field has been done with [[computer]] simulations of intelligence based on predefined sets of rules. Very little progress has been made in strong AI. Depending on how one defines one's goals, a moderate amount of progress has been made in weak AI.
+To date, much of the work in this field has been done with   computer   simulations of intelligence based on predefined sets of rules. Very little progress has been made in strong AI. Depending on how one defines one's goals, a moderate amount of progress has been made in weak AI.
 
-When viewed with a moderate dose of cynicism, weak artificial intelligence can be viewed as ‘the set of computer science problems without good solutions at this point.’ Once a sub-discipline results in useful work, it is carved out of artificial intelligence and given its own name. Examples of this are [[pattern recognition]], [[image processing]], [[neural networks]], [[natural language processing]], [[robotics]] and [[game theory]]. While the roots of each of these disciplines is firmly established as having been part of artificial intelligence, they are now thought of as somewhat separate.
+When viewed with a moderate dose of cynicism, weak artificial intelligence can be viewed as  the set of computer science problems without good solutions at this point.  Once a sub-discipline results in useful work, it is carved out of artificial intelligence and given its own name. Examples of this are   pattern recognition  ,   image processing  ,   neural networks  ,   natural language processing  ,   robotics   and   game theory  . While the roots of each of these disciplines is firmly established as having been part of artificial intelligence, they are now thought of as somewhat separate.
 
-=== Philosophical criticism and support of strong AI ===
+    Philosophical criticism and support of strong AI    
 
-The term "Strong AI" was originally coined by [[John Searle]] and was applied to digital [[computers]] and other [[information processing]] machines. Searle defined strong AI:
+The term  Strong AI  was originally coined by   John Searle   and was applied to digital   computers   and other   information processing   machines. Searle defined strong AI:
 
-:"according to strong AI, the computer is not merely a tool in the study of the mind; rather, the appropriately programmed computer really is a mind" (J Searle in Minds Brains and Programs. The Behavioral and Brain Sciences, vol. 3, 1980).
+: according to strong AI, the computer is not merely a tool in the study of the mind; rather, the appropriately programmed computer really is a mind   J Searle in Minds Brains and Programs. The Behavioral and Brain Sciences, vol. 3, 1980 .
 
-Searle and most others involved in this debate are addressing the problem of whether a machine that works solely through the transformation of encoded data could be a mind, not the wider issue of [[Monism]] versus [[Dualism]] (ie: whether a machine of any type, including biological machines, could contain a mind).
+Searle and most others involved in this debate are addressing the problem of whether a machine that works solely through the transformation of encoded data could be a mind, not the wider issue of   Monism   versus   Dualism    ie: whether a machine of any type, including biological machines, could contain a mind .
 
-Searle points out in his  [[Chinese Room]] Argument that information processors carry encoded data which describe other things.  The encoded data itself is meaningless without a cross reference to the things it describes. This leads Searle to point out that there is no meaning or understanding in an information processor itself. As a result Searle claims to demonstrate that even a machine that passed the [[Turing test]] would not necessarily be [[consciousness | conscious]] in the human sense.
+Searle points out in his    Chinese Room   Argument that information processors carry encoded data which describe other things.  The encoded data itself is meaningless without a cross reference to the things it describes. This leads Searle to point out that there is no meaning or understanding in an information processor itself. As a result Searle claims to demonstrate that even a machine that passed the   Turing test   would not necessarily be                   conscious   in the human sense.
 
-Some philosophers hold that if Weak AI is accepted as possible then Strong AI must also be possible. Daniel C. Dennett  argues in Consciousness Explained  that if there is no magic spark or soul, then Man is just a machine, and he asks why the Man-machine should have a privileged position over all other possible machines when it comes to intelligence or 'mind'. [[Simon Blackburn]] in his introduction to philosophy, Think, points out that you might appear intelligent but there is no way of telling if that intelligence is real (ie: a 'mind').  However, if the discussion is limited to strong AI rather than [[artificial consciousness]] it may be possible to identify features of human minds that do not occur in information processing computers.
+Some philosophers hold that if Weak AI is accepted as possible then Strong AI must also be possible. Daniel C. Dennett  argues in Consciousness Explained  that if there is no magic spark or soul, then Man is just a machine, and he asks why the Man-machine should have a privileged position over all other possible machines when it comes to intelligence or 'mind'.   Simon Blackburn   in his introduction to philosophy, Think, points out that you might appear intelligent but there is no way of telling if that intelligence is real  ie: a 'mind' .  However, if the discussion is limited to strong AI rather than   artificial consciousness   it may be possible to identify features of human minds that do not occur in information processing computers.
 
 Strong AI seems to involve the following assumptions about the mind and brain:
 
-#the mind is software, a [[finite state machine]] so the [[Church-Turing thesis]] applies to it
-#[[presentism]] describes the mind
-#the brain is purely hardware (i.e. only follows the rules of a classical computer)
+ the mind is software, a   finite state machine   so the   Church-Turing thesis   applies to it
+   presentism   describes the mind
+ the brain is purely hardware  i.e. only follows the rules of a classical computer 
 
 The first assumption is particularly problematic because of the old adage that any computer is just a glorified abacus. It is indeed possible to construct any type of information processor out of balls and wood, although such a device would be very slow and prone to failure it would be able to do anything that a modern computer can do. This means that the proposition that information processors can be minds is equivalent to proposing that minds can exist as devices made of rolling balls in wooden channels.
 
-Some (including [[Roger Penrose]]) attack the applicability of the Church-Turing thesis directly by drawing attention to the [[halting problem]] in which certain types of computation cannot be performed by information systems yet seem to be performed by human minds.
+Some  including   Roger Penrose    attack the applicability of the Church-Turing thesis directly by drawing attention to the   halting problem   in which certain types of computation cannot be performed by information systems yet seem to be performed by human minds.
 
-Ultimately the truth of Strong AI depends upon whether information processing machines can include all the properties of minds such as [[Consciousness]]. However, Weak AI is independent of the Strong AI problem and there can be no doubt that many of the features of modern computers such as multiplication or database searching might have been considered 'intelligent' only a century ago.
+Ultimately the truth of Strong AI depends upon whether information processing machines can include all the properties of minds such as   Consciousness  . However, Weak AI is independent of the Strong AI problem and there can be no doubt that many of the features of modern computers such as multiplication or database searching might have been considered 'intelligent' only a century ago.
 
-==History==
-=== Development of AI theory ===
-Much of the (original) focus of artificial intelligence research draws from an experimental approach to [[psychology]], and emphasizes what may be called linguistic intelligence (best exemplified in the [[Turing test]]).
+  History  
+    Development of AI theory    
+Much of the  original  focus of artificial intelligence research draws from an experimental approach to   psychology  , and emphasizes what may be called linguistic intelligence  best exemplified in the   Turing test   .
 
-Approaches to artificial intelligence that do not focus on linguistic intelligence include [[robotics]] and [[collective intelligence]] approaches, which focus on active manipulation of an environment, or [[consensus decision making]], and draw from [[biology]] and [[political science]] when seeking models of how "intelligent" behavior is organized.
+Approaches to artificial intelligence that do not focus on linguistic intelligence include   robotics   and   collective intelligence   approaches, which focus on active manipulation of an environment, or   consensus decision making  , and draw from   biology   and   political science   when seeking models of how  intelligent  behavior is organized.
 
-Artificial intelligence [[theory]] also draws from animal studies, in particular with insects, which are easier to emulate as robots (see [[artificial life]]), as well as animals with more complex cognition, including [[ape]]s, who resemble humans in many ways but have less developed capacities for planning and cognition. AI researchers argue that animals, which are simpler than humans, ought to be considerably easier to mimic. But satisfactory computational models for animal intelligence are not available. 
+Artificial intelligence   theory   also draws from animal studies, in particular with insects, which are easier to emulate as robots  see   artificial life   , as well as animals with more complex cognition, including   ape  s, who resemble humans in many ways but have less developed capacities for planning and cognition. AI researchers argue that animals, which are simpler than humans, ought to be considerably easier to mimic. But satisfactory computational models for animal intelligence are not available. 
 
-Seminal papers advancing the concept of machine intelligence include ''A Logical Calculus of the Ideas Immanent in Nervous Activity'' ([[1943]]), by [[Warren McCulloch]] and [[Walter Pitts]], and ''[[On Computing Machinery and Intelligence]]'' ([[1950]]), by [[Alan Turing]], and ''[[Man-Computer Symbiosis]]'' by J.C.R. Licklider.  See [[cybernetics]] and [[Turing test]] for further discussion. 
+Seminal papers advancing the concept of machine intelligence include ''A Logical Calculus of the Ideas Immanent in Nervous Activity''    1943   , by   Warren McCulloch   and   Walter Pitts  , and ''  On Computing Machinery and Intelligence  ''    1950   , by   Alan Turing  , and ''  Man-Computer Symbiosis  '' by J.C.R. Licklider.  See   cybernetics   and   Turing test   for further discussion. 
 
-There were also early papers which denied the possibility of machine intelligence on [[logic]]al or [[philosophy|philosophical]] grounds such as ''[[Minds, Machines and Gödel]]'' ([[1961]]) by [[John Lucas]] [http://users.ox.ac.uk/~jrlucas/Godel/mmg.html]. 
+There were also early papers which denied the possibility of machine intelligence on   logic  al or              philosophical   grounds such as ''  Minds, Machines and Gödel  ''    1961    by   John Lucas    http:  users.ox.ac.uk  jrlucas Godel mmg.html . 
 
-With the development of practical techniques based on AI research, advocates of AI have argued that opponents of AI have repeatedly changed their position on tasks such as [[computer chess]] or [[speech recognition]] that were previously regarded as "intelligent" in order to deny the accomplishments of AI. They point out that this moving of the goalposts effectively defines "intelligence" as "whatever humans can do that machines cannot".
+With the development of practical techniques based on AI research, advocates of AI have argued that opponents of AI have repeatedly changed their position on tasks such as   computer chess   or   speech recognition   that were previously regarded as  intelligent  in order to deny the accomplishments of AI. They point out that this moving of the goalposts effectively defines  intelligence  as  whatever humans can do that machines cannot .
 
-[[John von Neumann]] (quoted by [[E.T. Jaynes]]) anticipated this in [[1948]] by saying, in response to a comment at a lecture that it was impossible for a machine to think: "You insist that there is something a machine cannot do. If you will tell me ''precisely'' what it is that a machine cannot do, then I can always make a machine which will do just that!". Von Neumann was presumably alluding to the [[Church-Turing thesis]] which states that any effective procedure can be simulated by a (generalized) computer.
+  John von Neumann    quoted by   E.T. Jaynes    anticipated this in   1948   by saying, in response to a comment at a lecture that it was impossible for a machine to think:  You insist that there is something a machine cannot do. If you will tell me ''precisely'' what it is that a machine cannot do, then I can always make a machine which will do just that! . Von Neumann was presumably alluding to the   Church-Turing thesis   which states that any effective procedure can be simulated by a  generalized  computer.
 
-In [[1969]] McCarthy and Hayes started the discussion about the [[frame problem]] with their essay, "Some Philosophical Problems from the Standpoint of Artificial Intelligence".
+In   1969   McCarthy and Hayes started the discussion about the   frame problem   with their essay,  Some Philosophical Problems from the Standpoint of Artificial Intelligence .
 
-=== Experimental AI research ===
-Artificial intelligence began as an experimental field in the [[1950s]] with such pioneers as [[Allen Newell]] and [[Herbert Simon]], who founded the first artificial intelligence laboratory at [[Carnegie-Mellon University]], and McCarthy and [[Marvin Minsky]], who founded the [[MIT AI Lab]] in [[1959]]. They all attended the aforementioned [[Dartmouth College]] summer AI conference in [[1956]], which was organized by McCarthy, Minsky, [[Nathan Rochester]] of [[International Business Machines|IBM]] and [[Claude Shannon]].
+    Experimental AI research    
+Artificial intelligence began as an experimental field in the   1950s   with such pioneers as   Allen Newell   and   Herbert Simon  , who founded the first artificial intelligence laboratory at   Carnegie-Mellon University  , and McCarthy and   Marvin Minsky  , who founded the   MIT AI Lab   in   1959  . They all attended the aforementioned   Dartmouth College   summer AI conference in   1956  , which was organized by McCarthy, Minsky,   Nathan Rochester   of                                   IBM   and   Claude Shannon  .
 
-Historically, there are two broad styles of AI research - the "neats" and "scruffies".  "Neat", ''classical'' or ''[[symbolic]]'' AI research, in general, involves symbolic manipulation of abstract concepts, and is the methodology used in most expert systems.  Parallel to this are the "scruffy", or "connectionist", approaches, of which [[neural network]]s are the best-known example, which try to "evolve" intelligence through building systems and then improving them through some automatic process rather than systematically designing something to complete the task.   Both approaches appeared very early in AI history.  Throughout the [[1960s]] and [[1970s]] scruffy approaches were pushed to the background, but interest was regained in the [[1980s]] when the limitations of the "neat" approaches of the time became clearer.  However, it has become clear that contemporary methods using ''both'' broad approaches have severe limitations.
+Historically, there are two broad styles of AI research - the  neats  and  scruffies .   Neat , ''classical'' or ''  symbolic  '' AI research, in general, involves symbolic manipulation of abstract concepts, and is the methodology used in most expert systems.  Parallel to this are the  scruffy , or  connectionist , approaches, of which   neural network  s are the best-known example, which try to  evolve  intelligence through building systems and then improving them through some automatic process rather than systematically designing something to complete the task.   Both approaches appeared very early in AI history.  Throughout the   1960s   and   1970s   scruffy approaches were pushed to the background, but interest was regained in the   1980s   when the limitations of the  neat  approaches of the time became clearer.  However, it has become clear that contemporary methods using ''both'' broad approaches have severe limitations.
 
-Artificial intelligence research was very heavily funded in the [[1980s]] by the [[Defense Advanced Research Projects Agency]] in the [[United States]] and by the [[fifth generation computer systems project]] in [[Japan]].  The failure of the work funded at the time to produce immediate results, despite the grandiose promises of some AI practitioners, led to correspondingly large cutbacks in funding by government agencies in the late 1980s, leading to a general downturn in activity in the field known as [[AI winter]].  Over the following decade, many AI researchers moved into related areas with more modest goals such as [[machine learning]], [[robotics]], and [[computer vision]], though research in pure AI continued at reduced levels.
+Artificial intelligence research was very heavily funded in the   1980s   by the   Defense Advanced Research Projects Agency   in the   United States   and by the   fifth generation computer systems project   in   Japan  .  The failure of the work funded at the time to produce immediate results, despite the grandiose promises of some AI practitioners, led to correspondingly large cutbacks in funding by government agencies in the late 1980s, leading to a general downturn in activity in the field known as   AI winter  .  Over the following decade, many AI researchers moved into related areas with more modest goals such as   machine learning  ,   robotics  , and   computer vision  , though research in pure AI continued at reduced levels.
 
-== Practical applications of AI techniques ==
-Whilst progress towards the ultimate goal of human-like intelligence has been slow, many spinoffs have come in the process.  Notable examples include the languages [[Lisp programming language|LISP]] and [[Prolog]], which were invented for AI research but are now used for non-AI tasks. [[Hacker]] culture first sprang from AI laboratories, in particular the [[MIT AI Lab]], home at various times to such luminaries as McCarthy, Minsky, [[Seymour Papert]] (who developed [[Logo programming language|Logo]] there), [[Terry Winograd]] (who abandoned AI after developing [[SHRDLU]]).
+   Practical applications of AI techniques   
+Whilst progress towards the ultimate goal of human-like intelligence has been slow, many spinoffs have come in the process.  Notable examples include the languages                             LISP   and   Prolog  , which were invented for AI research but are now used for non-AI tasks.   Hacker   culture first sprang from AI laboratories, in particular the   MIT AI Lab  , home at various times to such luminaries as McCarthy, Minsky,   Seymour Papert    who developed                             Logo   there ,   Terry Winograd    who abandoned AI after developing   SHRDLU   .
 
 Many other useful systems have been built using technologies that at least once were active areas of AI research. Some examples include:
 
-* [[Chinook]] was declared the Man-Machine World Champion in [[checkers|checkers (draughts)]] in 1994.
-* [[Deep Blue]], a chess-playing computer, beat [[Garry Kasparov]] in a famous match in 1997.
-* [[InfoTame]], a text analysis search engine developed by the KGB for automatically sorting millions of pages of communications intercepts.
-* [[Fuzzy logic]], a technique for reasoning under uncertainty, has been widely used in industrial control systems.
-* [[Expert system]]s are being used to some extent industrially.
-* [[Machine translation]] systems such as [[SYSTRAN]] are widely used, although results are not yet comparable with human translators.
-* [[Neural networks]] have been used for a wide variety of tasks, from [[intrusion detection system]]s to computer games.
-* [[Optical character recognition]] systems can translate arbitrary typewritten European script into text.
-* [[Handwriting recognition]] is used in millions of [[personal digital assistant]]s.
-* [[Speech recognition]] is commercially available and is widely deployed.
-* [[Computer algebra system]]s, such as [[Mathematica]] and [[Macsyma]], are commonplace.
-* [[Computer vision | Machine vision]] systems are used in many industrial applications ranging from [[hardware verification]] to [[security cameras | security systems]].
-* AI Planning methods were used to automatically plan the deployment of US forces during Gulf War I. This task would have cost months of time and millions of dollars to perform manually, and DARPA stated that the money saved on this single application was more than their total expenditure on AI research over the last 50 years.
+    Chinook   was declared the Man-Machine World Champion in            checkers  draughts    in 1994.
+    Deep Blue  , a chess-playing computer, beat   Garry Kasparov   in a famous match in 1997.
+    InfoTame  , a text analysis search engine developed by the KGB for automatically sorting millions of pages of communications intercepts.
+    Fuzzy logic  , a technique for reasoning under uncertainty, has been widely used in industrial control systems.
+    Expert system  s are being used to some extent industrially.
+    Machine translation   systems such as   SYSTRAN   are widely used, although results are not yet comparable with human translators.
+    Neural networks   have been used for a wide variety of tasks, from   intrusion detection system  s to computer games.
+    Optical character recognition   systems can translate arbitrary typewritten European script into text.
+    Handwriting recognition   is used in millions of   personal digital assistant  s.
+    Speech recognition   is commercially available and is widely deployed.
+    Computer algebra system  s, such as   Mathematica   and   Macsyma  , are commonplace.
+                      Machine vision   systems are used in many industrial applications ranging from   hardware verification   to                      security systems  .
+  AI Planning methods were used to automatically plan the deployment of US forces during Gulf War I. This task would have cost months of time and millions of dollars to perform manually, and DARPA stated that the money saved on this single application was more than their total expenditure on AI research over the last 50 years.
 
-The vision of artificial intelligence replacing human professional judgment has arisen many times in the history of the field, in [[science fiction]] and today in some specialized areas where "[[expert system]]s" are used to augment or to replace professional judgment in some areas of engineering and of medicine.
+The vision of artificial intelligence replacing human professional judgment has arisen many times in the history of the field, in   science fiction   and today in some specialized areas where    expert system  s  are used to augment or to replace professional judgment in some areas of engineering and of medicine.
 
-== Hypothetical consequences of AI ==
+   Hypothetical consequences of AI   
 Some observers foresee the development of systems that are far more intelligent and complex than anything currently known. One name for these hypothetical systems is '''artilects'''.
-With the introduction of artificially intelligent non-deterministic systems, many [[ethics|ethical]] issues will arise.  Many of these issues have never been encountered by [[human]]ity.
+With the introduction of artificially intelligent non-deterministic systems, many          ethical   issues will arise.  Many of these issues have never been encountered by   human  ity.
 
-Over time, debates have tended to focus less and less on "possibility" and more on "desirability", as emphasized in the "[[Cosmist]]" (versus "[[Terran]]") debates initiated by [[Hugo de Garis]] and [[Kevin Warwick]].  A Cosmist, according to de Garis, is actually seeking to build more intelligent successors to the human species.  The emergence of this debate suggests that desirability questions may also have influenced some of the early thinkers "against". 
+Over time, debates have tended to focus less and less on  possibility  and more on  desirability , as emphasized in the    Cosmist     versus    Terran     debates initiated by   Hugo de Garis   and   Kevin Warwick  .  A Cosmist, according to de Garis, is actually seeking to build more intelligent successors to the human species.  The emergence of this debate suggests that desirability questions may also have influenced some of the early thinkers  against . 
 
 Some issues that bring up interesting ethical questions are:
 
-* Determining the sentience of a system we create.
-** [[Turing test]]
-** [[Cognition]]
-** Why do we have a need to categorize these systems at all?
-* Can AI be defined in a graded sense?
-* Freedoms and rights for these systems
-* Can AIs be "smarter" than humans in the same way that we are "smarter" than other animals?
-* Designing systems that are far more intelligent than any one human
-* Deciding how many safe-guards to design into these systems
-* Seeing how much learning capability a system needs to replicate human thought, or how well it could do tasks without it (e.g. [[expert system]]s)
-* [[The Singularity]]
-* Effect on careers and jobs. The problems may resemble problems seen under [[free trade]].
+  Determining the sentience of a system we create.
+     Turing test  
+     Cognition  
+   Why do we have a need to categorize these systems at all?
+  Can AI be defined in a graded sense?
+  Freedoms and rights for these systems
+  Can AIs be  smarter  than humans in the same way that we are  smarter  than other animals?
+  Designing systems that are far more intelligent than any one human
+  Deciding how many safe-guards to design into these systems
+  Seeing how much learning capability a system needs to replicate human thought, or how well it could do tasks without it  e.g.   expert system  s 
+    The Singularity  
+  Effect on careers and jobs. The problems may resemble problems seen under   free trade  .
 
-== Sub-fields of AI research ==
+   Sub-fields of AI research   
 
-* [[Combinatorial search]]
-* [[Computer vision]]
-* [[Expert system]]
-* [[Genetic programming]]
-* [[Genetic algorithm]]
-* [[Knowledge representation]]
-* [[Knowledge-based systems]]
-* [[Machine learning]]
-* [[Machine planning]]
-* [[Neural network]]
-* [[Natural language processing]]
-* [[Program synthesis]]
-* [[Robotics]]
-* [[Artificial life]]
-* [[Artificial being]]
-* [[Distributed artificial intelligence]]
-* [[Swarm Intelligence]]
+    Combinatorial search  
+    Computer vision  
+    Expert system  
+    Genetic programming  
+    Genetic algorithm  
+    Knowledge representation  
+    Knowledge-based systems  
+    Machine learning  
+    Machine planning  
+    Neural network  
+    Natural language processing  
+    Program synthesis  
+    Robotics  
+    Artificial life  
+    Artificial being  
+    Distributed artificial intelligence  
+    Swarm Intelligence  
 
-[[Logic programming]] was sometimes considered a field of artificial intelligence, but this is no longer the case.
+  Logic programming   was sometimes considered a field of artificial intelligence, but this is no longer the case.
 
-== Famous figures ==
+   Famous figures   
 
-=== Machines displaying some degree of "intelligence" ===
+    Machines displaying some degree of  intelligence     
 
 There are many examples of programs displaying some degree of intelligence.  Some of these are:
-* [http://www.ai.mit.edu/projects/infolab/ The Start Project] - a web-based system which answers questions in English.
-* [[Cyc]], a knowledge base with vast collection of facts about the real world and logical reasoning ability.
-* [[ALICE]], a [[chatterbot]]
-* [http://www.a-i.com/alan1 Alan], another chatterbot
-* [[ELIZA]], a program which pretends to be a psychotherapist, developed in [[1966]]
-* PAM (Plan Applier Mechanism) - a story understanding system developed by John Wilensky in [[1978]].
-* SAM (Script applier mechanism) - a story understanding system, developed in [[1975]].
-* [[SHRDLU]] - an early natural language understanding computer program developed in [[1968]]-[[1970]].
-* [[Creatures]], a computer game with breeding, evolving creatures coded from the genetic level upwards using a sophisticated biochemistry and neural network brains.
-* [http://news.bbc.co.uk/1/hi/wales/3521852.stm BBC news story] on the creator of ''Creatures'' latest creation.  [[Steve Grand]]'s ''Lucy''.
-* [[Eurisko]] - a  language for solving problems which consists of heuristics, including heuristics for how to use and change its heuristics.  Developed in 1978 by Douglas Lenat.
-* [http://www.ai.mit.edu/projects/medical-vision/ X-Ray Vision for Surgeons] - a group in MIT which researches medical vision.
-* [http://www.jellyfish-ai.com Neural networks-based programs for backgammon and go].
+   http:  www.ai.mit.edu projects infolab  The Start Project  - a web-based system which answers questions in English.
+    Cyc  , a knowledge base with vast collection of facts about the real world and logical reasoning ability.
+    ALICE  , a   chatterbot  
+   http:  www.a-i.com alan1 Alan , another chatterbot
+    ELIZA  , a program which pretends to be a psychotherapist, developed in   1966  
+  PAM  Plan Applier Mechanism  - a story understanding system developed by John Wilensky in   1978  .
+  SAM  Script applier mechanism  - a story understanding system, developed in   1975  .
+    SHRDLU   - an early natural language understanding computer program developed in   1968  -  1970  .
+    Creatures  , a computer game with breeding, evolving creatures coded from the genetic level upwards using a sophisticated biochemistry and neural network brains.
+   http:  news.bbc.co.uk 1 hi wales 3521852.stm BBC news story  on the creator of ''Creatures'' latest creation.    Steve Grand  's ''Lucy''.
+    Eurisko   - a  language for solving problems which consists of heuristics, including heuristics for how to use and change its heuristics.  Developed in 1978 by Douglas Lenat.
+   http:  www.ai.mit.edu projects medical-vision  X-Ray Vision for Surgeons  - a group in MIT which researches medical vision.
+   http:  www.jellyfish-ai.com Neural networks-based programs for backgammon and go .
 
-=== AI researchers ===
+    AI researchers    
 
 There are many thousands of AI researchers around the world at hundreds of research institutions and companies.  Among the many who have made significant contributions are:
 
-* [[Maggie Boden]]
-* [[Rodney Brooks]]
-* [[Boris Katz]]
-* [[Doug Lenat]]
-* [[John McCarthy (computer scientist)|John McCarthy]]
-* [[Marvin Minsky]]
-* [[Raj Reddy]]
-* [[Roger Schank]]
-* [[Alan Turing]]
-* [[Wolfgang Wahlster]]
-* [[Terry Winograd]]
+    Maggie Boden  
+    Rodney Brooks  
+    Boris Katz  
+    Doug Lenat  
+                                       John McCarthy  
+    Marvin Minsky  
+    Raj Reddy  
+    Roger Schank  
+    Alan Turing  
+    Wolfgang Wahlster  
+    Terry Winograd  
 
-To some computer scientists, the phrase ''artificial intelligence'' has acquired somewhat of a bad name due to the large discrepancy between what has been achieved so far in the field and some more usual notions of intelligence.  This problem has been aggravated by various popular science writers and media personalities such as [[Kevin Warwick]] whose work has raised the expectations of AI research far beyond its current capabilities.  For this reason, some researchers working on topics related to artificial intelligence say they work in [[cognitive science]], [[informatics]], [[statistical inference]] or [[information engineering]].  However, progress has in fact been made, and AI is today routinely employed in thousands of industrial systems around the world.  See [[Raj Reddy]]'s AAAI paper for a huge review of real-world AI systems in deployment today.
+To some computer scientists, the phrase ''artificial intelligence'' has acquired somewhat of a bad name due to the large discrepancy between what has been achieved so far in the field and some more usual notions of intelligence.  This problem has been aggravated by various popular science writers and media personalities such as   Kevin Warwick   whose work has raised the expectations of AI research far beyond its current capabilities.  For this reason, some researchers working on topics related to artificial intelligence say they work in   cognitive science  ,   informatics  ,   statistical inference   or   information engineering  .  However, progress has in fact been made, and AI is today routinely employed in thousands of industrial systems around the world.  See   Raj Reddy  's AAAI paper for a huge review of real-world AI systems in deployment today.
 
-== Resources ==
+   Resources   
 
-=                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

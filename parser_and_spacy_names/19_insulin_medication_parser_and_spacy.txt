@@ -5,7 +5,6 @@ REVISION ID: 637465427, TIMESTAMP: 2014-12-10T12:19:51Z
 PARSER NAMES:
 PubChem
 Charles
-Charles
 Frederick Banting
 Medical
 Diabetes
@@ -21,14 +20,12 @@ Expert
 Mark
 Frederick Banting
 Charles
-Charles
 Toronto
-Thompson
 Thompson
 New
 Toronto
 Banting et al
-D M. Scott
+D M Scott
 Frederick
 Wang
 Dorothy Crowfoot Hodgkin
@@ -39,55 +36,26 @@ University
 Diabetes
 
 NER NAMES:
-Charles Herbert Best|Charles Best
+Charles Best
 Frederick Banting
 Lys
-Ala
-Thr
-Ile
-Lys
-Ala
-Thr
-Ile
-Lys
-Thr
-Novolog
-Thr
-Ile
-Lys
-Thr
-Thr
-Ile
-Lys
-Thr
-Thr
-Ile
-Glu
-Thr
-Lantus
-Thr
-Ilc
-Gly
-Lys
-Thr
-Thr
-Lys
+Wockhardt
 Mark Fainaru-Wada
 Lance Williams
 Barry Bonds
 Frederick Banting
-Charles Herbert Best|Charles Best
+Charles Best
 James Collip
 Leonard Thompson
-Thompson
 Elizabeth Hughes Gossett
 Banting
 Hagedorn
-A.M. Fisher
+Hagedorn
 Frederick Sanger
 C.L. Tsou
 Wang Yinglai
 Dorothy Crowfoot Hodgkin
+Axel Ullrich
 Alfred E. Mann
 
 
@@ -117,19 +85,16 @@ Mark
 National
 System
 Charles
-Charles
 Frederick Banting
 Frederick Banting
-Charles
 Charles
 Toronto
-Thompson
 Thompson
 American
 American
 Toronto
 Banting et al
-David M. Scott
+David M Scott
 Toronto
 Frederick
 Wang
@@ -146,41 +111,9 @@ Diabetes
 World Health Organization
 
 NER NAMES:
-Lys
-Ala
-Thr
-Ile
-Lys
-Ala
-Thr
-Lys
-Thr
-Ile
-Lys
-Thr
-Thr
-Ile
-Lys
-Thr
-Apidra
-Thr
-Ile
-Glu
-Thr
-Lantus
-Thr
-Ilc
-Gly
-Lys
-Thr
-Arg
-Thr
-Ile
-Lys
-Ile
 Nicolae C. Paulescu
 Paulescu
-Eli Lilly and
+Eli Lilly
 James Collip
 Peter Sönksen
 Mark Fainaru-Wada
@@ -190,11 +123,9 @@ Bonds
 Ghent Wakefield
 Rich Piana
 Charles Best
-Best
 Frederick Banting
 Frederick Banting
 Charles Best
-Best
 James Collip
 Leonard Thompson
 James D. Havens
@@ -205,8 +136,10 @@ Hans Christian Hagedorn
 Constance Collier
 David M. Scott
 Albert M. Fisher
+Hagedorn
 Frederick Sanger
 Wang Yinglai
 Chen-Lu Tsou
 Dorothy Crowfoot Hodgkin
+Axel Ullrich
 

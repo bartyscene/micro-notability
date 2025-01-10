@@ -1,6 +1,6 @@
-'''Touchscreens''',  '''Touch screens''','''Touch panels'''  or '''Touchscreen panels''' are [[Computer display|display screens]] that have a transparent overlay that is pressure-sensitive so that you can enter instructions and data by touching the screen. Though these are less common on PCs, they are virtually a requirement on ATM [[Computer display|monitors]] and [[PDA]]s where you use a stylus, rather than a [[Computer keyboard|keyboard]], to enter data. The popularity of [[Smart phone|smart phone]]s, PDAs and other types of [[Information Appliance|information appliance]]s are driving the demand for these touchscreens.
+'''Touchscreens''',  '''Touch screens''','''Touch panels'''  or '''Touchscreen panels''' are                    display screens   that have a transparent overlay that is pressure-sensitive so that you can enter instructions and data by touching the screen. Though these are less common on PCs, they are virtually a requirement on ATM                    monitors   and   PDA  s where you use a stylus, rather than a                     keyboard  , to enter data. The popularity of               smart phone  s, PDAs and other types of                         information appliance  s are driving the demand for these touchscreens.
 
-Touch screens are also popular in heavy [[industry]] and in other environments where small airborne particles might gradually destroy a normal keyboard.
+Touch screens are also popular in heavy   industry   and in other environments where small airborne particles might gradually destroy a normal keyboard.
 
 
                                                                                                                                                      

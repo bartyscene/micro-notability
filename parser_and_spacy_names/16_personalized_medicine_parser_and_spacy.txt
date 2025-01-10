@@ -14,19 +14,19 @@ REVISION ID: 1260391448, TIMESTAMP: 2024-11-30T14:24:43Z
 
 PARSER NAMES:
 National
-National
 President s Council
 Advisors
 Science
 Technology
 Disease
-U S. President
+U S President
 National
 David
 Lazzari et al
 New
 
 NER NAMES:
+Hippocrates
 Barack Obama
 David Flockhart
 Lazzari

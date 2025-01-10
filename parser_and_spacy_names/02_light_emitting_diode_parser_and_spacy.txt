@@ -3,12 +3,13 @@ TITLE: Light-emitting diode
 REVISION ID: 9549951, TIMESTAMP: 2004-12-29T17:42:51Z
 
 PARSER NAMES:
-Nick Holonyak Nick Holonyak
+Nick Holonyak
 Shuji Nakamura
 Inc
 Lighting
 
 NER NAMES:
+Nick Holonyak Jr.
 Shuji Nakamura
 
 
@@ -16,13 +17,11 @@ REVISION ID: 641853600, TIMESTAMP: 2015-01-10T10:26:37Z
 
 PARSER NAMES:
 Losev
-James R. Biard
+James R Biard
 Nick Holonyak
 Green
-Lighting
-Green
-H. J. Round
-H. J. Round
+H J Round
+H J Round
 Losev
 Lehovec
 Accardo
@@ -33,24 +32,20 @@ Braunstein
 by Kroemer
 Braunstein
 Inc
-James R. Biard
+James R Biard
 Gary Pittman
 Biard
 Pittman
 Research
 Research
-United States
-Nick Holonyak Nick Holonyak
+Nick Holonyak
 Holonyak
-M. George
+M George
 Holonyak
-T. P. Pearsall
-United States
+T P Pearsall
 Hoerni
 Thomas
-Lighting
 Shuji Nakamura
-Lighting
 Green
 Inc
 nbsp W
@@ -72,12 +67,9 @@ Green
 by Alivisatos et al
 by Michael
 Photo
-Lighting
 Inc
-United States
 So
 Dark
-Lighting
 Lighting
 Lighting
 Research
@@ -86,8 +78,10 @@ Li
 United States
 
 NER NAMES:
+Oleg Losev
 James R. Biard
 Nick Holonyak
+H. J. Round  
 H. J. Round
 Oleg Losev
 Kurt Lehovec
@@ -96,11 +90,12 @@ Edward Jamgochian
 Rubin Braunstein
 Braunstein
 Braunstein
+Kroemer                                                                                                                                                                                                                                             Braunstein
 James R. Biard
 Gary Pittman
 Biard
 Pittman
-Nick Holonyak|Nick Holonyak,
+Nick Holonyak, Jr.
 Holonyak
 M. George Craford
 T. P. Pearsall
@@ -116,7 +111,7 @@ Moore
 Haitz
 Roland Haitz
 Herb Maruska
-Wally Rhines
+Rhines
 Maruska
 Jacques Pankove
 Maruska
@@ -133,41 +128,34 @@ Nakamura
 Hiroshi Amano
 Isamu Akasaki
 Stokes
+Stokes
 Alivisatos
 Michael Bowers
-Haitz
-Beo Beyond.jpg|thumb|LED
+Shockley
+Beo Beyond.jpg
 
 
 REVISION ID: 1263288573, TIMESTAMP: 2024-12-15T20:18:56Z
 
 PARSER NAMES:
-H. J. Round
+H J Round
 Losev
-James R. Biard
+James R Biard
 Nick Holonyak
-Green
-Lighting
 Losev
 Green
 Green
 nbsp V
 nbsp V
-Lighting
 Center
 So
-United States
 Green
-Lighting
 Lighting
 Lighting
 Thomas
 Research
 Li
-United States
 Research
-Research
-Center
 Center
 Research
 nbsp V
@@ -181,15 +169,15 @@ Lin
 Lin
 
 NER NAMES:
-J. Round
-Losev
-R. Biard
+H. J. Round
 Oleg Losev
-Herb Maruska
+James R. Biard
+Nick Holonyak
+Oleg Losev
 Haitz
-Vincent Thomas Bridge
-Beo Beyond.jpg|thumb|LED
-Meystyle
+Shockley
+Beo Beyond.jpg
+Tsach Zimroni
 Cao
 Lin
 Cao

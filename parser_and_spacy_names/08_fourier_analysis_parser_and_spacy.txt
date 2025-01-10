@@ -9,6 +9,9 @@ Steven W
 NER NAMES:
 Jean Baptiste Joseph Fourier
 Fourier
+Fourier
+Parseval
+Pontryagin
 Smith
 Steven W.
 
@@ -22,30 +25,33 @@ Knuth
 Conte de Boor
 Carl
 Carl
-Carl
 
 NER NAMES:
-Joseph Fourier
 Fourier
+Fourier
+Joseph Fourier
 Parseval
 Pontryagin
-Nyquist
-Shannon
+harv Rudin
+harv Evans
+Fourier
+harv Knuth
+harv Conte de Boor
+Fourier
+Fourier
 Alexis Clairaut
 Joseph Louis Lagrange
 Clairaut
 Lagrange
-Carl Friedrich Gauss|Gauss
+Gauss
 Euler
 Lagrange
 Fourier
 Lagrange
-Lagrange
+Jean le Rond d'Alembert
 Carl Friedrich Gauss
 Joseph Fourier
-Fourier
 Lagrange
-Fourier
 Daniel Bernoulli
 Leonhard Euler
 Lagrange
@@ -60,34 +66,30 @@ REVISION ID: 1263338092, TIMESTAMP: 2024-12-16T02:39:13Z
 PARSER NAMES:
 Carl
 Carl
-Carl
 
 NER NAMES:
 Fourier
 Joseph Fourier
 Fourier
-Fourier
-Fourier
 Parseval
 Pontryagin
+Poisson
 Fourier
-Nyquist
-Whittaker
-Shannon
 Fourier
 Alexis Clairaut
 Joseph Louis Lagrange
 Clairaut
 Lagrange
-Carl Friedrich Gauss|Gauss
+Gauss
 Euler
 Lagrange
 Fourier
 Lagrange
 Lagrange
-Lagrange
 Jean le Rond d'Alembert
 Carl Friedrich Gauss
+Joseph Fourier
+Fourier
 Lagrange
 Fourier
 Daniel Bernoulli
@@ -95,5 +97,7 @@ Leonhard Euler
 Lagrange
 Fourier
 Carl Friedrich Gauss
+Cooley
 Tukey
+Fourier
 

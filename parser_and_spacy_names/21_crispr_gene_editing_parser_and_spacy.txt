@@ -7,8 +7,6 @@ Gene
 Jennifer Doudna
 Emmanuelle Charpentier
 Virginijus Šikšnys
-Virginijus Šikšnys
-Science
 Drug
 Alexander
 National Institute
@@ -37,7 +35,6 @@ Jennifer Doudna
 June
 May
 June
-Drug
 Bassik
 Bassik
 Gene
@@ -48,31 +45,22 @@ Bassik
 Bassik
 Doench
 Root
-Gene
 Drug
-Drug
-Gene
-Excision BioTherapeutics
 June
 Gene
 Gene
 Gene
 Shen
-Brain
-Long
 Gene
 Gene
 Gene
 Institute
-Institute
-Science
 Science
 Gene
 Washington
 David Baltimore
 National
 Gene
-He
 He
 He
 He
@@ -99,7 +87,7 @@ Doudna
 NER NAMES:
 Jennifer Doudna
 Emmanuelle Charpentier
-Virginijus Šikšnys#Publication
+Virginijus Šikšnys
 Alexander Bolotin
 Eugene Koonin
 Philippe Horvath
@@ -116,6 +104,7 @@ Jennifer Doudna
 Martins
 Shen
 David Baltimore
+Jiankui He
 Lulu
 Nana
 Yinong Yang

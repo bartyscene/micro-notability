@@ -17,8 +17,7 @@ Frederick Banting
 He
 He
 Toronto
-John James
-Macleod J J R. Macleod
+J J R Macleod
 Banting
 University
 Charles Best
@@ -72,14 +71,13 @@ Nicolae Paulescu
 Frederick Banting
 Minkowski
 Minkowski
-John James Richard Macleod|J.J.R. Macleod
+J.J.R. Macleod
 Banting
 Charles Best
 Banting
 Best
 Macleod
 Banting
-Macleod
 James Collip
 Leonard Thompson
 Collip
@@ -97,8 +95,6 @@ MacLeod
 Collip
 Frederick Sanger
 Dorothy Crowfoot Hodgkin
-ndash
-ndash
 
 
 REVISION ID: 641928527, TIMESTAMP: 2015-01-10T22:05:01Z
@@ -131,9 +127,7 @@ Insulin
 Insulin
 Insulin
 Insulin
-Insulin
 Gerald Reaven
-Insulin
 Insulin
 Insulin
 Insulin
@@ -141,8 +135,6 @@ History
 Opie
 Opie
 University
-University
-Carol
 University
 University
 He
@@ -152,8 +144,7 @@ Banting
 He
 Banting
 Toronto
-John James
-Macleod J J R. Macleod
+J J R Macleod
 University
 Toronto
 Macleod
@@ -161,8 +152,7 @@ Macleod
 Banting
 He
 Banting
-Charles
-Best Charles Best
+Charles Best
 Clark
 Banting
 Best
@@ -189,7 +179,6 @@ Banting
 Macleod
 James Collip
 Thompson
-Thompson
 Toronto
 Thompson
 Collip
@@ -209,23 +198,19 @@ Collip
 Best
 Insulin
 Frederick Sanger
-Frederick Sanger
 Panayotis Katsoyannis
 University
 University
 Institute
-National Medical
 Merrifield
-C. H. Best
-F. G. Banting
+C H Best
+F G Banting
 Frederick Banting
-Charles
-Best Charles Best
+Charles Best
 University
 Toronto
 Frederick Banting
-John James
-Macleod J J R. Macleod
+J J R Macleod
 Banting
 Best
 Macleod
@@ -236,7 +221,7 @@ Frederick Sanger
 He
 Hodgkin
 Dr
-William Bosworth Castle William Castle
+William Castle
 Banting
 Best
 Collip
@@ -251,9 +236,9 @@ Institute
 
 NER NAMES:
 Frederick Sanger
-Dorothy Hodgkin
+Dorothy Hodgkin  
 Gerald Reaven
-Paul Langerhans
+Langerhans
 Edouard Laguesse
 Paul Langerhans'
 Archibald
@@ -265,18 +250,17 @@ Opie
 George Ludwig Zuelzer
 E.L. Scott
 Israel Kleiner
-Kleiner
 Nicolae Paulescu
 Frederick Banting
 Minkowski
 Banting
 Banting
-John James Rickard Macleod|J.J.R. Macleod
+J.J.R. Macleod
 Macleod
 Macleod
 Banting
 Banting
-Charles Herbert Best|Charles Best
+Charles Best
 Clark Noble
 Banting
 Best
@@ -302,12 +286,11 @@ Best
 Banting
 Macleod
 Banting
-Macleod
 James Collip
 Leonard Thompson
 Thompson
 Elizabeth Hughes Gossett
-[[James D. Havens
+James D. Havens
 John Ralston Williams
 Havens
 Banting
@@ -318,7 +301,7 @@ Best
 Collip
 Collip
 Best
-Frederick Sanger#Sequencing
+Frederick Sanger
 Panayotis Katsoyannis
 Helmut Zahn
 Arthur Riggs
@@ -329,9 +312,10 @@ Boyer
 Bruce Merrifield
 C. H. Best
 F. G. Banting
-Charles Herbert Best|Charles Best
 Frederick Banting
-John James Rickard Macleod|J.J.R. Macleod
+Charles Best
+Frederick Banting
+J.J.R. Macleod
 Banting
 Best
 Macleod
@@ -340,8 +324,9 @@ Frederick Sanger
 Dorothy Hodgkin
 Rosalyn Sussman Yalow
 George Minot
-William Bosworth Castle|William Castle
+William Castle
 Minot
+Nicolae Paulescu
 Nicolae Paulescu
 Banting
 Best
@@ -353,7 +338,7 @@ Nicolae Paulescu
 Murray
 Murray
 Paulesco
-Arne Tiselius|Tiselius]
+Tiselius
 Paulescu
 
 
@@ -371,16 +356,11 @@ Insulin from
 Insulin
 Frederick Banting
 Charles Best
-Charles Best
-John Macleod
 John Macleod
 University
 Toronto
 Frederick Sanger
 Hodgkin
-Insulin
-Insulin
-Insulin
 Insulin
 Insulin
 Insulin
@@ -430,14 +410,12 @@ Frederick Banting
 Banting
 He
 He
-Charles H. Best
+Charles H Best
 Clark
-Charles Best
 Charles Best
 Clark
 Banting
 Toronto
-John Macleod
 John Macleod
 University
 Toronto
@@ -447,7 +425,6 @@ Banting
 Macleod
 Banting
 Banting
-Charles Best
 Charles Best
 Clark
 Best
@@ -474,12 +451,10 @@ James Collip
 Elizabeth
 Elizabeth
 Thompson
-Thompson
 Toronto
 Thompson
 Collip
 American
-Elizabeth
 Elizabeth
 Charles Evans
 James D
@@ -508,7 +483,6 @@ Governors
 University
 Toronto Board
 Governors
-Health
 Insulin
 Robert
 Insulin
@@ -516,13 +490,10 @@ Insulin
 John
 Abel
 Michael Somogyi
-Edward
-Doisy Edward A. Doisy
-Philip
-Shaffer Philip A. Shaffer
+Edward A Doisy
+Philip A Shaffer
 Jensen
-A. Evans Jr
-Frederick Sanger
+A Evans Jr
 Frederick Sanger
 Panayotis Katsoyannis
 University
@@ -535,17 +506,14 @@ Association
 Donald Steiner
 Steiner
 Institute
-National Medical
 Merrifield
-C. H. Best
-F. G. Banting
+C H Best
+F G Banting
 Frederick Banting
-Charles Best
 Charles Best
 University
 Toronto
 Frederick Banting
-John Macleod
 John Macleod
 Banting
 Best
@@ -554,7 +522,7 @@ James Collip
 University
 Toronto
 Frederick Sanger
-William Bosworth Castle William Castle
+William Castle
 Hodgkin
 Banting
 Best
@@ -570,11 +538,10 @@ Institute
 NER NAMES:
 Frederick Banting
 Charles Best
-Best
 John Macleod
-Macleod
 Frederick Sanger
 Dorothy Hodgkin
+Brockmann
 Brockmann
 Gerald Reaven
 Paul Langerhans
@@ -584,10 +551,10 @@ Archibald
 Oskar Minkowski
 Joseph von Mering
 Eugene Lindsay Opie
+Langerhans
 George Ludwig Zuelzer
-Ernest Lyman Scott|E.L. Scott
-Kleiner
-Kleiner
+E.L. Scott
+Israel Kleiner
 Nicolae Paulescu
 Edward Albert Sharpey-Schafer
 Frederick Banting
@@ -595,7 +562,7 @@ Minkowski
 Banting
 Charles H. Best
 Clark Noble
-Best
+Charles Best
 Clark Noble
 Banting
 John Macleod
@@ -624,15 +591,13 @@ Banting
 Macleod
 Banting
 Macleod
-[[James Collip]
+James Collip
 Elizabeth Hughes
 Elizabeth Hughes
 Leonard Thompson
 Thompson
-Thompson
-Collip
-Elizabeth Hughes Gossett|Elizabeth Hughes
-[[Charles Evans Hughes
+Elizabeth Hughes
+Charles Evans Hughes
 James D. Havens
 John Ralston Williams
 Havens
@@ -642,6 +607,7 @@ Collip
 Collip
 Best
 George B. Walden
+Collip
 John G. FitzGerald
 FitzGerald
 Macleod
@@ -654,16 +620,17 @@ Macleod
 FitzGerald
 Robert Defries
 Richardson
+Richardson
 John Jacob Abel
 Michael Somogyi
-Edward Adelbert Doisy|Edward A. Doisy
-Philip Anderson Shaffer|Philip A. Shaffer
+Edward A. Doisy
+Philip A. Shaffer
 Hans Jensen
 Earl A. Evans Jr.
-Frederick Sanger#Sequencing
+Frederick Sanger
 Panayotis Katsoyannis
 Helmut Zahn
-Dorothy Hodgkin]
+Dorothy Hodgkin  
 Hans E. Weber
 Weber
 Weber
@@ -673,19 +640,15 @@ Donald Steiner
 Steiner
 Hans Weber
 Arthur Riggs
-Riggs
 Keiichi Itakura
 Herbert Boyer
-Swanson
-Boyer
 Bruce Merrifield
 C. H. Best
 F. G. Banting
+Frederick Banting
 Charles Best
-Best
 Frederick Banting
 John Macleod
-Macleod
 Banting
 Best
 Macleod
@@ -693,12 +656,11 @@ James Collip
 Frederick Sanger
 Rosalyn Sussman Yalow
 George Minot
-William Bosworth Castle|William Castle
+William Castle
 Minot
 Dorothy Hodgkin
 Nicolae Paulescu
-Banting
-Best
+Nicolae Paulescu
 Collip
 Macleod
 Paulescu

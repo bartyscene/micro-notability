@@ -50,13 +50,11 @@ Telescope
 EHT Collaboration
 
 NER NAMES:
-Albert Einstein
+Albert Einstein  
 Paul T.P. Ho
-Blandford
+Znajek
 Jan Högbom
 Katherine Bouman
 Avery Broderick
 Sera Markoff
-Junkkarinen
-Alfonso Serrano
 

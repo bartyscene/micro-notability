@@ -37,7 +37,6 @@ def extract_names_from_citations(wikitext):
 def find_names_in_wikitext(wikitext, name_set):
         
     processed_text = filter_wikitext(wikitext)
-    #with open("output/__filtered_wikitext.txt", "w", encoding="utf-8") as file: file.write(processed_text)
 
     pattern = re.compile(r"[^\W\d_]+", re.UNICODE)
     results = []

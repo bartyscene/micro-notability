@@ -5,7 +5,6 @@ REVISION ID: 9493702, TIMESTAMP: 2005-01-05T16:41:34Z
 PARSER NAMES:
 Daniel Nathans
 Smith
-United
 Genetically
 Genetically
 Human
@@ -29,30 +28,25 @@ Genetically
 Genetically
 Hershey
 Chase
-James D. Watson James Watson
+James Watson
 Jaenisch
 Jaenisch
 Paul Berg
 Herbert Boyer
 Stanley Cohen
-Stanley Cohen
 Jaenisch
 Herbert Boyer
-Robert A
 Robert
-U S. Supreme Court
+U S Supreme Court
 Food
 Steven
 Sciences
 European Union
 Agency
 Canada
-J. Craig Venter Institute
-Genetically
-Infectious
+J Craig Venter Institute
 Genetically
 Genetically
-Human
 United
 European Commission
 Research
@@ -62,25 +56,23 @@ Agriculture
 Genetically
 European
 Genetically
-Genetically
 Human
 
 NER NAMES:
 Jack Williamson
 Alfred Hershey
 Martha Chase
-James D. Watson|James Watson
+James Watson
 Francis Crick
 Jaenisch
-Sam Ogden.jpg|thumb|In
+Sam Ogden.jpg
 Rudolf Jaenisch
 Paul Berg
 Herbert Boyer
 Stanley Cohen
-Cohen
 Rudolf Jaenisch
 Herbert Boyer
-Robert A. Swanson|Robert Swanson
+Robert Swanson
 Diamond
 Chakrabarty
 Steven Lindow
@@ -93,18 +85,13 @@ REVISION ID: 1263690094, TIMESTAMP: 2024-12-18T02:28:27Z
 PARSER NAMES:
 Engineering
 Paul Berg
-Genetically
 Herbert Boyer
-Stanley
-Cohen Stanley Cohen
+Stanley Cohen
 Jaenisch
 Genetically
 Genetically
-Genetically
 United
-Genetically
 United
-Union
 Crops
 United
 Canada
@@ -112,34 +99,28 @@ Timofeev Ressovsky
 British
 Hershey
 Chase
-James D. Watson James Watson
+James Watson
 Stanley G
 Jaenisch
 Jaenisch
 Paul Berg
 Herbert Boyer
-Stanley
-Cohen Stanley Cohen
+Stanley Cohen
 Jaenisch
 Herbert Boyer
-Robert A
 Robert
-U S. Supreme Court
+U S Supreme Court
 Food
 Sciences
 European Union
-Genetically
 Agency
 Canada
-J. Craig Venter Institute
+J Craig Venter Institute
 Jennifer Doudna
 Emmanuelle Charpentier
 Genetically
 Genetically
-Infectious
 Genetically
-Genetically
-Human
 He
 Research
 Human
@@ -147,23 +128,13 @@ Human
 Agriculture
 Genetically
 Genetically
-Genetically
 Crops have
-Genetically
-Genetically
 Office
-Science
-Technology Policy Office
 Science
 Technology
 European Union
 European Food
 United
-United
-Agriculture
-Food
-United
-Agency EPA
 European Food
 Canada
 Health Canada
@@ -199,37 +170,36 @@ Genetically
 Herbert
 Herbert s
 Park
-Park
 Michael Clark
 Clark s
 
 NER NAMES:
 Paul Berg
 Herbert Boyer
-Stanley Norman Cohen|Stanley Cohen
+Stanley Cohen
 Rudolf Jaenisch
 Nikolay Timofeev-Ressovsky
 Jack Williamson
 Alfred Hershey
 Martha Chase
-James D. Watson|James Watson
+James Watson
 Francis Crick
-Stanley G. Weinbaum]
+Stanley G. Weinbaum  
 Jaenisch
-Sam Ogden.jpg|thumb|upright|In
+Sam Ogden.jpg
 Rudolf Jaenisch
 Paul Berg
 Herbert Boyer
-Stanley Norman Cohen|Stanley Cohen
+Stanley Cohen
 Rudolf Jaenisch
 Herbert Boyer
-Robert A. Swanson|Robert Swanson
+Robert Swanson
 Diamond
 Chakrabarty
 Jennifer Doudna
 Emmanuelle Charpentier
 He Jiankui
-Frank Herbert]
+Frank Herbert  
 Herbert
 Michael Clark
 Clark

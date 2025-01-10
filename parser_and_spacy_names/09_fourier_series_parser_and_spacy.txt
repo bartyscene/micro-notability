@@ -26,19 +26,26 @@ Fourier
 Fourier
 Fourier
 Fourier
-Fourier
 
 NER NAMES:
 Fourier
 Joseph Fourier
 Euler
 Fourier
+Euler
+d'Alembert
 Daniel Bernoulli
 Fourier
+Dirichlet
+Riemann
 Fourier
 Fourier
+Fourier
+Gibbs
+Parseval
 Fourier
 Parseval
+Plancherel
 
 
 REVISION ID: 641124498, TIMESTAMP: 2015-01-05T19:05:29Z
@@ -84,7 +91,6 @@ Fourier
 Fourier
 Fourier
 Fourier
-Fourier
 Dirichlet
 Fourier
 Fourier
@@ -101,13 +107,10 @@ Fourier
 Fourier
 Fourier
 Fourier
-Fourier
 Joseph Fourier
 Fourier
 Fourier
 Fourier
-Fourier
-Joseph
 Fourier
 Fourier
 Fourier
@@ -165,8 +168,6 @@ Fourier
 Katznelson
 
 NER NAMES:
-Nyquist
-Fourier
 Fourier
 Fourier
 Fourier
@@ -182,36 +183,48 @@ Fourier
 Peter Gustav Lejeune Dirichlet
 Bernhard Riemann
 Fourier
-Hilbert
 Fourier
 Fourier
 Fourier
 Fourier
+Basel
+Parseval
+Joseph Fourier   Mémoire
 Fourier
+Fourier
+Euler
+d'Alembert
 Daniel Bernoulli
-Carl Friedrich Gauss|Gauss
+Gauss
 Fourier
 Fourier
-Joseph Louis Lagrange|Lagrange
-Étienne-Louis Malus|Malus
-Adrien-Marie Legendre|Legendre
+Lagrange
+Laplace
+Malus
+Legendre
 Fourier
 Fourier
 Fourier
 Fourier
 Fourier
-Fourier
-Kronecker
+Bloch
+frac
 Parseval
 Plancherel
+Peter Weyl
+Peter Weyl
+Laplace
+Fourier
 Fourier
 Parseval
+Gibbs
+Hölder
 Fourier
-Lennart Carleson
-Fourier
+Lennart Carleson  
 Fourier
 Andrey Kolmogorov
 Lebesgue
+harv Katznelson
 
 
 REVISION ID: 1263880062, TIMESTAMP: 2024-12-19T04:41:08Z
@@ -252,9 +265,6 @@ Fourier
 Fourier
 Fourier
 Fourier
-Fourier
-Fourier
-Fourier
 Jean Baptiste Joseph Fourier
 Jean
 Fetter Walecka
@@ -262,7 +272,7 @@ Fourier
 Fourier
 Fourier
 Fourier
-Jean Baptiste Joseph Fourier Fourier
+Fourier
 Fourier
 Fourier
 Fourier
@@ -279,10 +289,7 @@ by Fourier
 Fourier
 Fourier
 Fourier
-Jean
 Fourier
-Fourier
-Joseph
 Fourier
 Fourier
 Fourier
@@ -295,8 +302,6 @@ by Fourier
 Fourier
 Folland
 Fourier
-Dirichlet
-Dirichlet
 Dirichlet
 Khare Butola Rajora
 Proakis Manolakis
@@ -314,12 +319,10 @@ Fourier
 Fourier
 Fourier
 Fourier
-Fourier
 Dirichlet
 Fourier
 Fourier
 Stade
-Fourier
 Fourier
 Fourier
 Fourier
@@ -350,7 +353,6 @@ Fourier
 Fourier
 Fourier
 Peter
-Fourier
 Fourier
 Fourier
 Fourier
@@ -409,7 +411,11 @@ Fourier
 Fourier
 
 NER NAMES:
+Budan
+Fourier
+Fourier
 Joseph Fourier
+Fourier
 Fourier
 Fourier
 Fourier
@@ -423,11 +429,12 @@ Fourier
 Jean-Baptiste Joseph Fourier
 Leonhard Euler
 Jean le Rond d'Alembert
-Daniel Bernoulli]].{{efn
+Daniel Bernoulli
+ua
 D'Alembert
 Euler
-Euler
 Bernoulli
+Fourier
 Fourier
 Fourier
 Fourier
@@ -439,6 +446,7 @@ Fourier
 Peter Gustav Lejeune Dirichlet
 Bernhard Riemann
 Fourier
+Fourier
 Joseph Fourier
 Fourier
 Fourier
@@ -448,29 +456,49 @@ Fourier
 Fourier
 Fourier
 Fourier
-Jean le Rond d'Alembert|d'Alembert
+Euler
+d'Alembert
 Daniel Bernoulli
-Carl Friedrich Gauss|Gauss
+Gauss
 Fourier
 Fourier
-Joseph Louis Lagrange|Lagrange
-Adrien-Marie Legendre|Legendre
+Lagrange
+Laplace
+Malus
+Legendre
 Fourier
 Fourier
 Fourier
 Fourier
-Basel
+Fourier
 Parseval
+Folland
+Proakis Manolakis
+Folland
 Fourier
 Basel
+Stade
+Riemann Lebesgue
+Parseval
 Parseval
 Plancherel
+Plancherel
+Peter Weyl
+Peter Weyl
+Laplace
 Fourier
+Fourier
+Bravais
 Bloch
-Hilbert
+frac
+Rudin
+Fourier
 Fourier
 Parseval
-Lennart Carleson
+Gibbs
+Hölder
+Fourier
+Lennart Carleson  
 Andrey Kolmogorov
 Lebesgue
 

@@ -3,10 +3,9 @@ TITLE: Cognitive behavioral therapy
 REVISION ID: 10917908, TIMESTAMP: 2004-12-22T04:58:17Z
 
 PARSER NAMES:
-Clinical
 National Association
 Albert Ellis
-Aaron T. Beck
+Aaron T Beck
 Steven
 Martin Keller
 Brown
@@ -16,6 +15,7 @@ NER NAMES:
 Albert Ellis
 Aaron T. Beck
 Steven Phillipson
+Martin Keller   MD
 
 
 REVISION ID: 641675359, TIMESTAMP: 2015-01-09T03:22:32Z
@@ -24,10 +24,9 @@ PARSER NAMES:
 Psychology
 Psychological
 by Hofmann
-Aaron T. Beck
+Aaron T Beck
 Albert Ellis
 John Stewart
-John B
 Mary Cover Jones
 Joseph Wolpe
 Wolpe
@@ -43,55 +42,43 @@ Hans Eysenck
 Eysenck
 Albert
 Albert Ellis
-Aaron T. Beck
+Aaron T Beck
 Beck
 Beck
 Albert Ellis
-Albert Ellis
-Aaron T. Beck
-David M. Clark
-David H. Barlow
+Aaron T Beck
+David M Clark
+David H Barlow
 Martinez Devesa
 Turner
 Smedslund
 Edwards
-Spinal
 United Kingdom
 National Institute
-Mowrer O
 Mowrer
 Schizophrenia
 American
 Association
-Aaron T. Beck
-Beck
+Aaron T Beck
 Beck
 Beck
 American
 Association
-Clinical
 They
 Evidence
 Cox
-Lyn Yvonne Abramson Abramson
-Patricia Devine Devine
+Abramson
+Devine
 Hollon
-Patricia Devine Devine
+Devine
 Low
-National Institute
-Clinical
 Learning
-National
 Group
-by David M. Rudd
+by David M Rudd
 Albert Ellis
-Spinal
 Evidence
 Cochrane
 Cochrane
-Cochrane
-Psychological
-American Psychological Association APA
 Psychological
 Fancher
 Fancher
@@ -102,26 +89,23 @@ They
 They
 Society
 National
-National
 Psychological
-National Institute
-Clinical
 Andrew Samuels
-National Institute
-Clinical
 
 NER NAMES:
+ofi
+ROBYN MASON
 Hofmann
-Aaron T. Beck]
+Aaron T. Beck  's
 Albert Ellis
 John Stewart Mill
-John B. Watson|Watson]
+Watson
 Rayner
-Mary Cover Jones]
-Joseph Wolpe]
+Mary Cover Jones  
+Joseph Wolpe  
 Wolpe
 Watson
-Ivan Pavlov]
+Ivan Pavlov  
 Hans Eysenck
 Arnold Lazarus
 Ivan Pavlov
@@ -139,27 +123,28 @@ Adler
 Albert Ellis
 Aaron T. Beck
 Beck
+Freud
 Beck
 Albert Ellis
 Aaron T. Beck
 David M. Clark
-[[David H. Barlow
+David H. Barlow
 Martinez
 Devesa
 Turner
 Smedslund
 Edwards
-Orval Hobart Mowrer|O. Hobart Mowrer
-Aaron T. Beck]
-Beck
+O. Hobart Mowrer
+Aaron T. Beck  's
 Beck
 Beck
 Cox
-Lyn Yvonne Abramson|Abramson
-Patricia Devine|Devine
+Abramson
+Devine
 Hollon
-Patricia Devine|Devine
+Devine
 David M. Rudd
+Albert Ellis  
 Fancher
 Fancher
 Slife
@@ -174,9 +159,8 @@ American
 American
 Association
 American Psychological Association
-National
 British National
-Aaron T. Beck
+Aaron T Beck
 Albert Ellis
 John
 John
@@ -201,34 +185,27 @@ Claire
 Abraham Low
 Low
 Albert Ellis
-Aaron T. Beck
+Aaron T Beck
 Beck
 Beck
 Beck
 Albert Ellis
-Albert Ellis
-Aaron T. Beck
-David M. Clark
-David H. Barlow
-Spinal
-Psychological
+Aaron T Beck
+David M Clark
+David H Barlow
 Evidence
 United Kingdom
 National Institute
 American
 Association
 A Cochrane
-Aaron T. Beck
+Aaron T Beck
 Beck
 Beck
 Beck
 Beck
-Beck
-Psychological
 Learning
-Mowrer O
 Mowrer
-National Institute
 National Institute
 Schizophrenia
 A Cochrane
@@ -241,7 +218,6 @@ Cochrane
 A Cochrane
 Evidence
 A Cochrane
-Cochrane
 Cochrane
 Cochrane
 Cochrane
@@ -268,18 +244,15 @@ Agras
 Prochaska
 Norcross
 Learning
-National Institute
-Clinical
 Learning
-National
 Group
 Rudd
 Beck
-M. David Rudd
+M David Rudd
 Albert Ellis
 Group
 Disorders
-David H. Barlow
+David H Barlow
 They
 Beck
 Slife
@@ -287,23 +260,24 @@ Williams
 They
 Society
 National
-National
 Psychological
-National Institute
-Clinical
 Andrew Samuels
 
 NER NAMES:
-Aaron T. Beck]
+Epictetus
+Aaron T. Beck  's
+Epictetus
 Albert Ellis
 John Stuart Mill
+John Broadus Watson
+John B. Watson
 John B. Watson
 Rosalie Rayner
-Mary Cover Jones]
-Joseph Wolpe]
+Mary Cover Jones  
+Joseph Wolpe  
 Wolpe
 Watson
-Ivan Pavlov]
+Ivan Pavlov  
 Hans Eysenck
 Arnold Lazarus
 Ivan Pavlov
@@ -325,21 +299,20 @@ Low
 Albert Ellis
 Aaron T. Beck
 Beck
+Freud
 Beck
 Beck
 Albert Ellis
 Aaron T. Beck
 David M. Clark
 David H. Barlow
-Cochrane
-Aaron T. Beck]
+Aaron T. Beck  's
 Beck
 Beck
 Beck
 Beck
-Beck
-Orval Hobart Mowrer|O. Hobart Mowrer
-Cochrane
+Julian Rotter's
+O. Hobart Mowrer
 Chaloult
 Ngo
 Cousineau
@@ -364,7 +337,7 @@ Saslow
 Rudd
 Beck
 M. David Rudd
-Albert Ellis
+Albert Ellis  
 David H. Barlow
 Beck
 Slife

@@ -1,99 +1,99 @@
-A statistical '''language model''' assigns a [[probability]] to a sequence of ''m'' words <math>P(w_1,\ldots,w_m)</math> by means of a [[probability distribution]]. Having a way to estimate the relative likelihood of different phrases is useful in many [[natural language processing]] applications. Language modeling is used in [[speech recognition]], [[machine translation]], [[part-of-speech tagging]], [[parsing]], [[handwriting recognition]], [[information retrieval]] and other applications.
+A statistical '''language model''' assigns a   probability   to a sequence of ''m'' words  math P w_1, ldots,w_m   math  by means of a   probability distribution  . Having a way to estimate the relative likelihood of different phrases is useful in many   natural language processing   applications. Language modeling is used in   speech recognition  ,   machine translation  ,   part-of-speech tagging  ,   parsing  ,   handwriting recognition  ,   information retrieval   and other applications.
 
-In speech recognition, the computer tries to match sounds with word sequences. The language model provides context to distinguish between words and phrases that sound similar. For example, in [[American English]], the phrases "recognize speech" and "wreck a nice beach" are pronounced the same but mean very different things. These ambiguities are easier to resolve when evidence from the language model is incorporated with the pronunciation model and the acoustic model.
+In speech recognition, the computer tries to match sounds with word sequences. The language model provides context to distinguish between words and phrases that sound similar. For example, in   American English  , the phrases  recognize speech  and  wreck a nice beach  are pronounced the same but mean very different things. These ambiguities are easier to resolve when evidence from the language model is incorporated with the pronunciation model and the acoustic model.
 
-Language models are used in information retrieval in the [[query likelihood model]]. Here a separate language model is associated with each [[document]] in a collection. Documents are ranked based on the probability of the query <math>Q</math> in the document's language model <math>P(Q|M_d)</math>. Commonly, the [[unigram]] language model is used for this purpose—otherwise known as the [[bag of words model]].
+Language models are used in information retrieval in the   query likelihood model  . Here a separate language model is associated with each   document   in a collection. Documents are ranked based on the probability of the query  math Q  math  in the document's language model  math P Q M_d   math . Commonly, the   unigram   language model is used for this purpose otherwise known as the   bag of words model  .
 
-Data sparsity is a major problem in building language models. Most possible word sequences will not be observed in training. One solution is to make the assumption that the probability of a word only depends on the previous <math>n</math> words. This is known as an [[N-gram]] model or unigram model when <math>n=1</math>.
+Data sparsity is a major problem in building language models. Most possible word sequences will not be observed in training. One solution is to make the assumption that the probability of a word only depends on the previous  math n  math  words. This is known as an   N-gram   model or unigram model when  math n 1  math .
 
-== Unigram models ==
-A unigram model used in information retrieval can be treated as the combination of several one-state [[Finite-state machine|finite automata]].                                                                                                                                                                  It splits the probabilities of different terms in a context, e.g. from <math>P(t_1t_2t_3)=P(t_1)P(t_2|t_1)P(t_3|t_1t_2)</math> to <math>P_{uni}(t_1t_2t_3)=P(t_1)P(t_2)P(t_3)</math>.
+   Unigram models   
+A unigram model used in information retrieval can be treated as the combination of several one-state                        finite automata  .                                                                                                                                                                  It splits the probabilities of different terms in a context, e.g. from  math P t_1t_2t_3  P t_1 P t_2 t_1 P t_3 t_1t_2   math  to  math P_ uni  t_1t_2t_3  P t_1 P t_2 P t_3   math .
 
 In this model, the probability to hit each word all depends on its own, so we only have one-state finite automata as units. For each automaton, we only have one way to hit its only state, assigned with one probability. Viewing from the whole model, the sum of all the one-state-hitting probabilities should be 1. Followed is an illustration of an unigram model of a document.
-{| class="wikitable"
-|-
+   class  wikitable 
+ -
 ! Terms !! Probability in doc
-|-
-| a || 0.1
-|-
-| world || 0.2
-|-
-| likes || 0.05
-|-
-| we || 0.05
-|-
-| share || 0.3
-|-
-| ... || ...
-|}
+ -
+  a    0.1
+ -
+  world    0.2
+ -
+  likes    0.05
+ -
+  we    0.05
+ -
+  share    0.3
+ -
+  ...    ...
+  
 
-<math>\sum_{term\ in\ doc} P(term) = 1</math>
+ math  sum_ term  in  doc  P term    1  math 
 
 The probability generated for a specific query is calculated as
 
-<math>P(query) = \prod_{term\ in\ query} P(term)</math>
+ math P query     prod_ term  in  query  P term   math 
 
 For different documents, we can build their own unigram models, with different hitting probabilities of words in it. And we use probabilities from different documents to generate different hitting probabilities for a query. Then we can rank documents for a query according to the generating probabilities. Next is an example of two unigram models of two documents.
-{| class="wikitable"
-|-
+   class  wikitable 
+ -
 ! Terms !! Probability in Doc1 !! Probability in Doc2
-|-
-| a || 0.1 || 0.3
-|-
-| world || 0.2 || 0.1
-|-
-| likes || 0.05 || 0.03
-|-
-| we || 0.05 || 0.02
-|-
-| share || 0.3 || 0.2
-|-
-| ... || ... || ...
-|}
+ -
+  a    0.1    0.3
+ -
+  world    0.2    0.1
+ -
+  likes    0.05    0.03
+ -
+  we    0.05    0.02
+ -
+  share    0.3    0.2
+ -
+  ...    ...    ...
+  
 
-In information retrieval contexts, unigram language models are often smoothed to avoid instances where <math>P(term) = 0</math>. A common approach is to generate a maximum-likelihood model for the entire collection and [[Linear interpolation|linearly interpolate]] the collection model with a maximum-likelihood model for each document to create a smoothed document model.                                                                                                                                    
+In information retrieval contexts, unigram language models are often smoothed to avoid instances where  math P term    0  math . A common approach is to generate a maximum-likelihood model for the entire collection and                        linearly interpolate   the collection model with a maximum-likelihood model for each document to create a smoothed document model.                                                                                                                                    
 
-== N-gram models ==
+   N-gram models   
 
-{{Main|N-gram}}
+  Main N-gram  
 
-In an n-gram model, the probability <math>P(w_1,\ldots,w_m)</math> of observing the sentence <math>w_1,\ldots,w_m</math> is approximated as
+In an n-gram model, the probability  math P w_1, ldots,w_m   math  of observing the sentence  math w_1, ldots,w_m  math  is approximated as
 
-<math>
-P(w_1,\ldots,w_m) = \prod^m_{i=1} P(w_i|w_1,\ldots,w_{i-1})
- \approx \prod^m_{i=1} P(w_i|w_{i-(n-1)},\ldots,w_{i-1})
-</math>
+ math 
+P w_1, ldots,w_m     prod m_ i 1  P w_i w_1, ldots,w_ i-1  
+  approx  prod m_ i 1  P w_i w_ i- n-1  , ldots,w_ i-1  
+  math 
 
-Here, it is assumed that the probability of observing the ''i<sup>th</sup>'' word ''w<sub>i</sub>'' in the context history of the preceding ''i-1'' words can be approximated by the probability of observing it in the shortened context history of the preceding ''n-1'' words (''n<sup>th</sup> order [[Markov property]]).
+Here, it is assumed that the probability of observing the ''i sup th  sup '' word ''w sub i  sub '' in the context history of the preceding ''i-1'' words can be approximated by the probability of observing it in the shortened context history of the preceding ''n-1'' words  ''n sup th  sup  order   Markov property   .
 
 The conditional probability can be calculated from n-gram frequency counts:
-<math>
-P(w_i|w_{i-(n-1)},\ldots,w_{i-1}) = \frac{count(w_{i-(n-1)},\ldots,w_{i-1},w_i)}{count(w_{i-(n-1)},\ldots,w_{i-1})}
-</math>
+ math 
+P w_i w_ i- n-1  , ldots,w_ i-1      frac count w_ i- n-1  , ldots,w_ i-1 ,w_i   count w_ i- n-1  , ldots,w_ i-1   
+  math 
 
-The words '''bigram''' and '''trigram''' language model denote n-gram language models with ''n=2'' and ''n=3'', respectively.                                                                                                                                       
+The words '''bigram''' and '''trigram''' language model denote n-gram language models with ''n 2'' and ''n 3'', respectively.                                                                                                                                       
 
-Typically, however, the n-gram probabilities are not derived directly from the frequency counts, because models derived this way have severe problems when confronted with any n-grams that have not explicitly been seen before.  Instead, some form of ''smoothing'' is necessary, assigning some of the total probability mass to unseen words or N-grams.  Various methods are used, from simple "add-one" smoothing (assign a count of 1 to unseen N-grams) to more sophisticated models, such as [[Good-Turing discounting]] or [[Katz's back-off model|back-off model]]s.
+Typically, however, the n-gram probabilities are not derived directly from the frequency counts, because models derived this way have severe problems when confronted with any n-grams that have not explicitly been seen before.  Instead, some form of ''smoothing'' is necessary, assigning some of the total probability mass to unseen words or N-grams.  Various methods are used, from simple  add-one  smoothing  assign a count of 1 to unseen N-grams  to more sophisticated models, such as   Good-Turing discounting   or                         back-off model  s.
 
-=== Example ===
-In a bigram (n=2) language model, the probability of the sentence ''I saw the red house'' is approximated as
+    Example    
+In a bigram  n 2  language model, the probability of the sentence ''I saw the red house'' is approximated as
 
-<math>
-P(I,saw,the,red,house) \approx P(I|<s>) P(saw|I) P(the|saw) P(red|the) P(house|red) P(</s>|house)
-</math>
+ math 
+P I,saw,the,red,house   approx P I  s   P saw I  P the saw  P red the  P house red  P   s  house 
+  math 
 
-whereas in a trigram (n=3) language model, the approximation is
+whereas in a trigram  n 3  language model, the approximation is
 
-<math>
-P(I,saw,the,red,house) \approx P(I|<s>,<s>) P(saw|<s>,I) P(the|I,saw) P(red|saw,the) P(house|the,red) P(</s>|red,house)
-</math>
+ math 
+P I,saw,the,red,house   approx P I  s , s   P saw  s ,I  P the I,saw  P red saw,the  P house the,red  P   s  red,house 
+  math 
 
-Note that the context of the first <math>n-1</math> N-grams is filled with start-of-sentence markers, typically denoted <nowiki><s></nowiki>.
+Note that the context of the first  math n-1  math  N-grams is filled with start-of-sentence markers, typically denoted  nowiki  s   nowiki .
 
-Additionally, without an end-of-sentence marker, the probability of an ungrammatical sequence ''*I saw the'' would always be higher than that of the longer sentence ''I saw the red house.''
+Additionally, without an end-of-sentence marker, the probability of an ungrammatical sequence '' I saw the'' would always be higher than that of the longer sentence ''I saw the red house.''
 
-==Other models==
+  Other models  
 
-A [[positional language model]]                                                                                                                                                                                                                                                                                            is one that describes the probability of given words occurring close to one another in a text, not necessarily immediately adjacent. Similarly, bag-of-concepts models                                                                                                                                                             leverage on the semantics associated with multi-word expressions such as ''buy_christmas_present'', even when they are used in information-rich sentences like "today I bought a lot of very nice Christmas presents".
+A   positional language model                                                                                                                                                                                                                                                                                              is one that describes the probability of given words occurring close to one another in a text, not necessarily immediately adjacent. Similarly, bag-of-concepts models                                                                                                                                                             leverage on the semantics associated with multi-word expressions such as ''buy_christmas_present'', even when they are used in information-rich sentences like  today I bought a lot of very nice Christmas presents .
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

@@ -6,19 +6,18 @@ PARSER NAMES:
 Mann
 
 NER NAMES:
-Steve Mann
+Steve Mann  's
 
 
 REVISION ID: 641507365, TIMESTAMP: 2015-01-08T01:10:25Z
 
 PARSER NAMES:
 Mann
-Mann
 Thorp
 Shannon
 Mann
 Mann
-Edward O. Thorp
+Edward O Thorp
 Shannon
 Thorp
 Thorp
@@ -35,15 +34,13 @@ H Thomas
 Piekarski
 
 NER NAMES:
-Steve Mann|Steve Mann
+Steve Mann's
 Breguet
 Thorp
 Shannon
 Steve Mann
-Mann
+Steve Mann
 Woodward Yang
-Breguet
-Girard-Perregaux
 Edward O. Thorp
 Claude Shannon
 Thorp
@@ -52,18 +49,18 @@ Steve Mann
 Mann
 Steve Roberts
 Steve Roberts'
-Gerald "Chip" Maguire's
+Gerald  Chip  Maguire's
 Doug Platt's
-Thad Starner]
-Doug Platt
+Thad Starner  
+Doug Platt  
 Devon Sean McCullough
 Starner
-Edgar Matias]
+Edgar Matias
 Mike Ruicci
 Mik Lamming
 Mike Flynn
 Mark
-Kevin Warwick]
+Kevin Warwick  
 Warwick
 Irena
 Warwick
@@ -76,18 +73,14 @@ REVISION ID: 1257964292, TIMESTAMP: 2024-11-17T12:12:18Z
 
 PARSER NAMES:
 Mann
-Mann
 Thorp
 Shannon
 Mann
 Mann
-Mann
-Edward O. Thorp
+Edward O Thorp
 Shannon
 Thorp
 Thorp
-Mann
-Mann
 Mann
 Mann
 Gerald
@@ -98,21 +91,18 @@ Thad Starner
 Starner
 Edgar Matias
 Mann
-H. Thomas
+H Thomas
 Piekarski
 Information
 
 NER NAMES:
-Steve Mann
-Mann
+Steve Mann  
 Elizabeth I
 Thorp
 Shannon
 Steve Mann
-Mann
-Mann
+Steve Mann
 Woodward Yang
-Elizabeth I
 Elizabeth I
 Robert Dudley
 Edward O. Thorp
@@ -121,15 +111,13 @@ Thorp
 Thorp
 Steve Mann
 Mann
-Steve Mann
-Seiko Epson
-Gerald "Chip" Maguire's
+Gerald  Chip  Maguire's
 Doug Platt's
-Thad Starner]
-Doug Platt]
+Thad Starner  
+Doug Platt  
 Devon Sean McCullough
 Starner
-Edgar Matias]
+Edgar Matias
 Mike Ruicci
 Mik Lamming
 Mike Flynn
@@ -137,13 +125,12 @@ Mark
 Steve Mann
 Bruce H. Thomas
 Wayne Piekarski
-Kevin Warwick
-Kevin Warwick#Project Cyborg|Project
+Kevin Warwick  
 Warwick
 Irena
 Warwick
 Warwick
+Samus Aran's
 Samus Aran
-Leela
 Zack Freedman
 

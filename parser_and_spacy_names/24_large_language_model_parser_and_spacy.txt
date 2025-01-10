@@ -13,7 +13,6 @@ Mistral
 Schaeffer
 Karel
 Karel
-Karel
 Ilya Sutskever
 Connor Leahy
 George Lakoff
@@ -46,6 +45,7 @@ Bahdanau
 Schaeffer
 Ilya Sutskever
 Connor Leahy
+Shoggoth
 Terrence Sejnowski
 George Lakoff
 Vyvyan Evans
@@ -55,16 +55,8 @@ Bob
 Alice
 Kevin Esvelt
 Yongge Wang
-Ernie Bot]
-Claude
-Chinchilla
-BLOOM
-Chinchilla
-Falcon
-Bard
-Llama
+Ernie Bot
 Claude
 Claude
-Grok
-Gemma
+Anthropic
 

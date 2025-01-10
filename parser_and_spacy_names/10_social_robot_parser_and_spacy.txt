@@ -6,7 +6,8 @@ PARSER NAMES:
 
 
 NER NAMES:
-
+Asimov
+Leonardo
 
 
 REVISION ID: 628829934, TIMESTAMP: 2014-10-08T19:38:53Z
@@ -20,19 +21,19 @@ Brian
 
 NER NAMES:
 William Grey Walter
+Cynthia Breazeal
 Tony Belpaeme
 Aude Billard
 Kerstin Dautenhahn
 Yiannis Demiris
 Maja Mataric
 Brian Scassellati
-Kansai
 Takayuki Kanda
 Hideki Kozima
 Hiroshi Ishiguro
 Tomio Watanabe
-Wizard of Oz
 L. Frank Baum
+Isaac Asimov  
 Asimov
 
 
@@ -47,8 +48,8 @@ United Nations
 NER NAMES:
 William Grey Walter
 L. Frank Baum
+Isaac Asimov  's
 Asimov
 Moro
 Moyle
-Nao
 

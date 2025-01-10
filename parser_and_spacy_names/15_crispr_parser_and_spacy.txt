@@ -30,12 +30,14 @@ Horvath
 Moineau
 Doudna
 Charpentier
+Jinek
 Gao Caixia
 Gao
 Feng Zhang
 Zhang
 Doudna
 Zhang
+Doudna
 Charpentier
 
 
@@ -68,11 +70,11 @@ Virginijus
 Barrangou
 Horvath
 Feng Zhang
-George M. Church George Church
-P. Liang
-Y. Xu
+George Church
+P Liang
+Y Xu
 Hui Yang
-Eugene Koonin Koonin
+Koonin
 
 NER NAMES:
 Emmanuelle Charpentier
@@ -101,21 +103,11 @@ Gasiūnas
 Barrangou
 Horvath
 Feng Zhang
-George M. Church|George Church
+George Church
 P. Liang
 Y. Xu
 Hui Yang
-Cas12c
-Cas12d
-Cas12e
-Cas12f
-Cas14
-Cas12
-g
-Cas12h
-Cas12i
-Cas13b
-Eugene Koonin|Koonin
+Koonin
 Lamarck
 Lamarckian
 

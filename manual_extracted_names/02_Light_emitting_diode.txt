@@ -34,6 +34,7 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Light-emitting_
     James R. Biard
     Nick Holonyak
     H. J. Round
+    H. J. Round
     Oleg Losev
     Kurt Lehovec
     Carl Accardo
@@ -42,7 +43,6 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Light-emitting_
     Braunstein 
     Braunstein
     Kroemer Braunstein
-    H. J. Round
     James R. Biard
     Gary Pittman
     Biard

@@ -19,10 +19,6 @@ Steven W.
 REVISION ID: 637221956, TIMESTAMP: 2014-12-08T20:59:46Z
 
 PARSER NAMES:
-Rudin
-Evans
-Knuth
-Conte de Boor
 Carl
 Carl
 
@@ -32,11 +28,6 @@ Fourier
 Joseph Fourier
 Parseval
 Pontryagin
-harv Rudin
-harv Evans
-Fourier
-harv Knuth
-harv Conte de Boor
 Fourier
 Fourier
 Alexis Clairaut
@@ -48,10 +39,13 @@ Euler
 Lagrange
 Fourier
 Lagrange
+Lagrange
 Jean le Rond d'Alembert
 Carl Friedrich Gauss
 Joseph Fourier
+Fourier
 Lagrange
+Fourier
 Daniel Bernoulli
 Leonhard Euler
 Lagrange

@@ -18,8 +18,7 @@ Since Fourier's time, many different approaches to defining and understanding th
   History  anchor Historical development    
   See also Fourier analysis History  
 
-The Fourier series is named in honor of   Jean-Baptiste Joseph Fourier    1768 1830 , who made important contributions to the study of   trigonometric series  , after preliminary investigations by   Leonhard Euler  ,   Jean le Rond d'Alembert  , and   Daniel Bernoulli  .  efn-ua 
-These three did some                       important early work on the wave equation  , especially D'Alembert. Euler's work in this area was mostly                               comtemporaneous  in collaboration with Bernoulli  , although the latter made some independent contributions to the theory of waves and vibrations.  See   harvnb Fetter Walecka 2003 pp 209 210   .
+The Fourier series is named in honor of   Jean-Baptiste Joseph Fourier    1768 1830 , who made important contributions to the study of   trigonometric series  , after preliminary investigations by   Leonhard Euler  ,   Jean le Rond d'Alembert  , and   Daniel Bernoulli  .                                                                                                                                                                                                                                                                                                                                                                                              .
    Fourier introduced the series for the purpose of solving the   heat equation   in a metal plate, publishing his initial results in his 1807 ''  Mémoire sur la propagation de la chaleur dans les corps solides  ''  ''Treatise on the propagation of heat in solid bodies'' , and publishing his ''Théorie analytique de la chaleur''  ''Analytical theory of heat''  in 1822. The ''Mémoire'' introduced Fourier analysis, specifically Fourier series. Through Fourier's research the fact was established that an arbitrary  at first, continuous                                                                                                                                                                                                                                                                                                                                                                                                                           and later generalized to any   piecewise  -smooth                        function can be represented by a trigonometric series. The first announcement of this great discovery was made by                                Fourier   in 1807, before the                      French Academy  .                                                                                                                                                                                                                                                                                                          Early ideas of decomposing a periodic function into the sum of simple oscillating functions date back to the 3rd century BC, when ancient astronomers proposed an empiric model of planetary motions, based on                         deferents and epicycles  .
 
 The   heat equation   is a   partial differential equation  . Prior to Fourier's work, no solution to the heat equation was known in the general case, although particular solutions were known if the heat source behaved in a simple way, in particular, if the heat source was a   sine   or   cosine   wave. These simple solutions are now sometimes called                                          eigensolutions  . Fourier's idea was to model a complicated heat source as a superposition  or   linear combination    of simple sine and cosine waves, and to write the                           solution as a superposition   of the corresponding                 eigensolutions  . This superposition or linear combination is called the Fourier series.
@@ -36,8 +35,7 @@ Joseph Fourier wrote:  dubious reason Did Fourier really write this in English? 
 Multiplying both sides by  math  cos 2k 1  frac  pi y  2   math , and then integrating from  math y -1  math  to  math y  1  math  yields:
 
  math a_k  int_ -1  1 varphi y  cos 2k 1  frac  pi y  2  ,dy.  math 
- Joseph Fourier   Mémoire sur la propagation de la chaleur dans les corps solides  .  1807                                                                                                                                                                                                                                                                                                                                                                efn-ua 
-These words are not strictly Fourier's. Whilst the cited article does list the author as Fourier, a footnote indicates that the article was actually written by Poisson  that it was not written by Fourier is also clear from the consistent use of the third person to refer to him  and that it is,  for reasons of historical interest , presented as though it were Fourier's original memoire.    
+ Joseph Fourier   Mémoire sur la propagation de la chaleur dans les corps solides  .  1807                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 
 This immediately gives any coefficient ''a sub k  sub '' of the   trigonometrical series   for φ ''y''  for any function which has such an expansion. It works because if φ has such an expansion, then  under suitable convergence assumptions  the integral
  math display  block   begin align 
@@ -60,11 +58,11 @@ Here, sinh is the   hyperbolic sine   function. This solution of the heat equati
 Another application is to solve the   Basel problem   by using   Parseval's theorem  . The example generalizes and one may compute                         ζ   2''n'' , for any positive integer ''n''.
 
   Definition  
-The Fourier series of a complex-valued function  math s x   math  defined on an interval of length  math P  math  is given by a   trigonometric series   of the form  sfn Folland 1992 pp 18-25  
+The Fourier series of a complex-valued function  math s x   math  defined on an interval of length  math P  math  is given by a   trigonometric series   of the form                             
  math display  block  s x     sum_ n - infty   infty c_ _n  e  i 2 pi  tfrac n  P  x  ,   math 
 such that the ''Fourier coefficients''  math c_ _n   math  are complex numbers defined by the integrals
  math display  block  c_ _n     frac 1  P  int_0 P s x   e  -i 2 pi  tfrac n  P  x   ,dx.  math 
-The existence of such an expansion is covered by the                                                                   Dirichlet sufficiency conditions  :  sfn Khare Butola Rajora 2023 p 9    sfn Proakis Manolakis 1996 p 234  
+The existence of such an expansion is covered by the                                                                   Dirichlet sufficiency conditions  :                                                                        
    math s x   math  must be   absolutely integrable   over  math  0,P   math .
    math s x   math  must be                                                                                      piecewise continuous  ; a finite number of finite discontinuities is allowed.
    math s x   math  must have a finite number of                       extrema   in  math  0,P   math .
@@ -95,8 +93,7 @@ The harmonics are indexed by an integer,  math n,  math  which is also the numbe
 These series can represent functions that are just a sum of one or more of the harmonic frequencies.  In the limit  math N to infty  math , a trigonometric series can also represent the intermediate frequencies and or non-sinusoidal functions because of the infinite number of terms.
 
     Analysis    
-The coefficients can be given assumed, such as a music synthesizer or time samples of a waveform.  In the latter case, the exponential form of Fourier series synthesizes a   discrete-time Fourier transform   where variable  math x  math  represents frequency instead of time. In general, the coefficients are determined by ''analysis'' of a given function  math s x   math  whose   domain of definition   is  an interval of length  math P  math .  efn-ua
- Typically  math  -P 2, P 2   math  or  math  0,P   math . Some authors define  math P  triangleq 2  pi  math  because it simplifies the arguments of the sinusoid functions, at the expense of generality.    sfn Stade 2005 p 6  
+The coefficients can be given assumed, such as a music synthesizer or time samples of a waveform.  In the latter case, the exponential form of Fourier series synthesizes a   discrete-time Fourier transform   where variable  math x  math  represents frequency instead of time. In general, the coefficients are determined by ''analysis'' of a given function  math s x   math  whose   domain of definition   is  an interval of length  math P  math .                                                                                                                                                                                                                                            
 
   Equation box 1 title Fourier coefficients
  indent : border border colour  0073CF background colour  F5FFFA cellpadding 6
@@ -121,7 +118,7 @@ resulting in:
 a_ _n     text if   n   0,  
  tfrac 1  2  a_ _ -n     i b_ _ -n       text if   n   0,  
  end cases   math   
-with  math c_ 0   math  being the                      mean value   of  math s  math  on the interval  math P  math .  sfn Folland 1992 pp 21   Conversely:
+with  math c_ 0   math  being the                      mean value   of  math s  math  on the interval  math P  math .                           Conversely:
   Equation box 1 title Inverse relationships
  indent : border border colour  0073CF background colour  F5FFFA cellpadding 6
  equation  math  begin aligned  a_ _0     c_ _0     
@@ -151,7 +148,7 @@ When  math x  pi  math , the Fourier series converges to 0, which is the half-su
 This example leads to a solution of the   Basel problem  .
 
    Amplitude-phase form   
-If the function  math s x   math  is real-valued then the Fourier series can also be represented as  sfn Stade 2005 pp 59-64  
+If the function  math s x   math  is real-valued then the Fourier series can also be represented as                           
   Equation box 1  title Amplitude-phase form
  indent : border border colour  0073CF background colour  F5FFFA cellpadding 6
  equation   NumBlk 
@@ -378,7 +375,7 @@ This table shows some mathematical operations in the time domain and the corresp
 
    Properties   
     Symmetry relations    
-When the real and imaginary parts of a complex function are decomposed into their                                                 even and odd parts  , there are four components, denoted below by the subscripts '''RE, RO, IE, and IO.'''  And there is a one-to-one mapping between the four components of a complex time function and the four components of its complex frequency transform:  sfn Proakis Manolakis 1996 p 291    sfn Oppenheim Schafer 2010 p 55  
+When the real and imaginary parts of a complex function are decomposed into their                                                 even and odd parts  , there are four components, denoted below by the subscripts '''RE, RO, IE, and IO.'''  And there is a one-to-one mapping between the four components of a complex time function and the four components of its complex frequency transform:                                                                       
 
 : math 
  begin array  rlcccccccc 
@@ -524,7 +521,7 @@ writing  math d mathbf r   math  for the volume element  math dx  , dy  , dz  ma
 
 In the language of   Hilbert space  s, the set of vectors  math  left  e_n e  inx : n  in  Z right    math  is an   orthonormal basis   for the space of   square-integrable functions   on  math  - pi, pi   math , denoted by  math L 2  - pi, pi    math . This space is a Hilbert space with an   inner product   given for any two elements  math f  math  and  math g  math  by:
  math display  block   langle f, g  rangle    frac 1  2 pi  int_ - pi    pi  f x  overline g x   ,dx.  math 
-Then the                               generalized  Fourier series   expansion of  math f  in L  2   - pi, pi    math  can be written as  sfn Rudin 1987 p 82  
+Then the                               generalized  Fourier series   expansion of  math f  in L  2   - pi, pi    math  can be written as                       
 : math f  sum_ n - infty   infty  langle f,e_n  rangle  , e_n.  math 
   File:Fourier series integral identities.gif thumb 400px right Sines and cosines form an orthogonal set, as illustrated above. The integral of sine, cosine and their product is zero  green and red areas are equal, and cancel out  when  math m  math ,  math n  math  or the functions are different, and π only if  math m  math  and  math n  math  are equal, and the function used is the same. They would form an orthonormal set, if the integral equaled 1  that is, each function would need to be scaled by  math 1  sqrt  pi   math  .  
 This corresponds exactly to the complex exponential formulation given above. The version with sines and cosines is also justified with the Hilbert space interpretation. Indeed, the sines and cosines form an                   orthogonal set  :

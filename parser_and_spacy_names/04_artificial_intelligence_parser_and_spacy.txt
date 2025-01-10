@@ -177,14 +177,12 @@ Defense
 Herbert Simon
 Marvin Minsky
 Sir James Lighthill
-Lighthill
 Congress
 Machine
 Artificial
 Moore
 Brad
 Ken
-Markoff
 D body
 Research
 John McCarthy
@@ -192,31 +190,18 @@ Research
 Learning
 Machine
 Machine
-Weng McClelland Pentland Sporns
-Lungarella Metta Pfeifer Sandini
-Asada Hosoda Kuniyoshi Ishiguro
-Oudeyer
 Machine
 Machine
 Intelligence
-Tecuci
 Long
 General
-Thro
-Edelson
-Tao Tan
-James
 Rosalind Picard
-Picard
 Artificial
 Artificial
 General
 Artificial
 John Haugeland
 Artificial Intelligence
-Haugeland
-Law
-Bach
 Walter
 University
 University
@@ -239,16 +224,11 @@ Rodney Brooks
 David Rumelhart
 Stuart Russell
 Peter Norvig
-Hutter
-Langley
 Peter Norvig
 Noam
-Katz
-Norvig
 AI at
 AI at
 Rodney Brooks
-Tecuci
 Machine
 Artificial
 Walter
@@ -257,20 +237,16 @@ Frank
 Paul Werbos
 John
 Geoffrey Hinton
-Hinton
 Alan Turing
 Turing
 Artificial
 Turing
-Rajani
 Turing
 Turing
 Turing
 A computer
-O Brien Marakas
 Artificial
 Rodney Brooks
-Brooks
 University
 University
 Hall
@@ -369,28 +345,13 @@ Herbert Simon
 Herbert Simon
 Marvin Minsky
 James Lighthill
-Lighthill
-Moore
 Garry Kasparov
 Brad Rutter
 Ken Jennings
-Markoff
 John McCarthy
-Weng McClelland
-Lungarella
-Asada Hosoda
-Kuniyoshi Ishiguro
-Oudeyer
-sfn Tecuci
-Thro
-Edelson
-Tao Tan
-James
+Kismet
 Rosalind Picard  
 John Haugeland
-Haugeland
-Law
-Bach
 W. Grey Walter  
 John Haugeland
 Herbert Simon
@@ -407,14 +368,9 @@ Rodney Brooks
 David Rumelhart
 Stuart Russell
 Peter Norvig
-Hutter
-Langley
 Peter Norvig
 Noam Chomsky
-Katz
-Norvig
 Rodney Brooks  '
-sfn Tecuci
 Kalman
 Walter Pitts
 Warren McCullough
@@ -424,16 +380,11 @@ John Hopfield
 Geoffrey Hinton
 Ruslan Salakhutdinov
 Boltzmann
-Hinton
 Alan Turing
 Turing
-Turing
-Rajani
 Kolmogorov
 Turing
 Turing
-O'Brien
-Marakas
 Rodney Brooks
 Toshitada Doi
 Masahiro Fujita
@@ -442,8 +393,10 @@ Hajime Sorayama
 Alan Turing
 Turing
 Dreyfus
+The Emperor's
 Turing
 Turing
+Dartmouth
 Newell
 Simon
 Newell
@@ -458,7 +411,6 @@ Kurt Gödel
 Gödel
 Turing
 Gödel
-Turing
 Roger Penrose
 Planck
 Roger Penrose
@@ -478,6 +430,8 @@ Joseph Weizenbaum
 Weizenbaum
 Weizenbaum
 Martin Ford
+Ford
+Searle
 John Searle
 Mary Shelley  
 Moore
@@ -493,7 +447,7 @@ Hajime Sorayama
 George Lucas
 Sorayama
 Edward Fredkin
-Samuel Butler  's
+Samuel Butler  
 Darwin
 George Dyson
 Karel Čapek
@@ -512,35 +466,20 @@ Artificial
 Artificial
 General
 Artificial
-Russell Norvig
-Luger Stubblefield
-Poole Mackworth Goebel
-Nilsson
 General
 Learning
 Machine
-Alan Turing
-Computing Machinery
-Intelligence
 Ray Solomonoff
 Machine
 Noam
-See
-Machine
 Margaret
 Machine
 General
-Russell Norvig
-Luger Stubblefield
-Poole Mackworth Goebel
-Nilsson
 Turing
 Artificial
 Artificial
 Learning
 Long
-Warren S
-Walter
 Alan Turing
 Karl
 Roger David Joseph
@@ -555,7 +494,6 @@ Arthur E Bryson
 Yu Chi Ho
 Seppo Linnainmaa
 Paul Werbos
-Geoffrey Hinton
 Claude
 Moore
 Gordon Moore
@@ -603,17 +541,7 @@ Geoffrey Hinton
 Machine
 Microsoft
 Julia Angwin
-Jon
-University
-University
-Chicago
-Sam
-Davis
-Stanford
 Moritz
-Moritz
-Max
-Institute
 Accountability
 Association
 Computing Machinery
@@ -623,15 +551,12 @@ Artificial Intelligence
 Artificial
 Artificial
 United
-United
 United States
 Machine
 Michael Osborne
 Carl Benedikt Frey
-See
 Joseph Weizenbaum
 Stephen
-Russell Norvig
 Nick Bostrom
 Stuart Russell
 Yuval Noah Harari
@@ -670,29 +595,15 @@ Fox News
 Park
 United States
 Alan Turing
-Russell Norvig
-Russell Norvig
 Turing
 Computing Machinery
 Intelligence
 Turing
-Daniel Crevier
 Russell
 Norvig
-Russell
-Norvig
-Russell
-Norvig
-Arthur Samuel
-Daniel
-Newell
-Simon
-Terry Winograd
 Artificial
 Herbert Simon
 Marvin Minsky
-Russell
-Norvig
 Sir James Lighthill
 U S Congress
 Minsky
@@ -702,9 +613,6 @@ Hans Moravec
 Rodney Brooks
 Geoffrey Hinton
 Yann LeCun
-Matteo Wong
-Jack Clark
-Bloomberg
 PhD
 See
 Turing
@@ -722,13 +630,10 @@ John McCarthy
 Artificial
 McCarthy
 Marvin Minsky
-Nils Nilsson
 Newell
 Simon
 Moravec
 Hubert Dreyfus
-Daniel Crevier
-Dreyfus
 Noam
 Artificial
 General
@@ -739,8 +644,6 @@ Norvig
 David Chalmers
 Dennett
 John Searle
-Searle
-Searle
 Searle
 Russell
 Norvig
@@ -760,17 +663,10 @@ A I Artificial Intelligence
 Philip K
 
 NER NAMES:
-Russell Norvig
-Luger Stubblefield
-Harvtxt Nilsson
 Markov
-Efn
-   Alan Turing
 Ray Solomonoff
 Noam Chomsky  
 Margaret Masterman
-Warren S. McCulloch
-Walter Pitts
 Alan Turing
 Karl Steinbuch
 Roger David Joseph
@@ -788,7 +684,6 @@ Arthur E. Bryson
 Yu-Chi Ho
 Seppo Linnainmaa
 Paul Werbos
-Efn   Geoffrey Hinton
 Moore
 Gordon Moore
 Garry Kasparov
@@ -813,17 +708,11 @@ Willie L. Phillips
 Geoffrey Hinton
 Jacky Alcine
 Julia Angwin
-Jon Kleinberg
-Sendhil Mullainathan
-Cynthia Chouldechova
-Sam Corbett-Davis
 Moritz Hardt
-Efn Moritz Hardt
 Michael Osborne
 Carl Benedikt Frey
 Joseph Weizenbaum
 Stephen Hawking
-Russell Norvig
 Nick Bostrom
 Stuart Russell
 Yuval Noah Harari
@@ -840,37 +729,20 @@ Andrew Ng
 Yann LeCun
 Eliezer Yudkowsky
 Wendell Wallach  
-Stuart J. Russell  
+Stuart J. Russell  's
 Harris
 Henry Kissinger
 Eric Schmidt
 Daniel Huttenlocher
 Alan Turing  
-Russell Norvig
-Russell Norvig
 McCullouch
 Pitts
 Turing
 Turing
-Efn 
-Daniel Crevier
 Russell
 Norvig
-Efn 
-                    Russell
-Norvig
-Efn 
-                    Russell
-Norvig
-Efn
-Arthur Samuel  
-Daniel Bobrow  's
-Simon
-Terry Winograd  
 Herbert Simon
 Marvin Minsky
-Efn                     Russell
-Norvig
 James Lighthill
 Minsky
 Papert
@@ -881,11 +753,8 @@ Judea Pearl
 Lofti Zadeh
 Geoffrey Hinton
 Yann LeCun
-Efn Matteo Wong
-Efn Jack Clark
 Turing
 Alan Turing
-Turing
 Turing
 Turing
 Turing
@@ -895,16 +764,12 @@ Turing
 John McCarthy
 McCarthy
 Marvin Minsky
-Efn
-                             Nils Nilsson
 Newell
 Simon
 Moravec
 Hubert Dreyfus
-Efn 
-Daniel Crevier
-Dreyfus
 Noam Chomsky
+Neats
 Russell
 Norvig
 David Chalmers
@@ -912,7 +777,6 @@ Dennett
 Jerry Fodor
 Hilary Putnam
 John Searle
-Searle
 Searle
 Russell
 Norvig

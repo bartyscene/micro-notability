@@ -165,7 +165,6 @@ Fourier
 Fourier
 Fourier
 Fourier
-Katznelson
 
 NER NAMES:
 Fourier
@@ -224,7 +223,6 @@ Lennart Carleson
 Fourier
 Andrey Kolmogorov
 Lebesgue
-harv Katznelson
 
 
 REVISION ID: 1263880062, TIMESTAMP: 2024-12-19T04:41:08Z
@@ -267,7 +265,6 @@ Fourier
 Fourier
 Jean Baptiste Joseph Fourier
 Jean
-Fetter Walecka
 Fourier
 Fourier
 Fourier
@@ -285,10 +282,6 @@ Fourier
 Joseph Fourier
 Fourier
 Fourier
-by Fourier
-Fourier
-Fourier
-Fourier
 Fourier
 Fourier
 Fourier
@@ -300,11 +293,8 @@ Fourier
 Fourier
 by Fourier
 Fourier
-Folland
 Fourier
 Dirichlet
-Khare Butola Rajora
-Proakis Manolakis
 Fourier
 A Fourier
 Fourier
@@ -312,9 +302,7 @@ Fourier
 Fourier
 Fourier
 Fourier
-Stade
 Fourier
-Folland
 Fourier
 Fourier
 Fourier
@@ -322,7 +310,6 @@ Fourier
 Dirichlet
 Fourier
 Fourier
-Stade
 Fourier
 Fourier
 Fourier
@@ -336,8 +323,6 @@ Fourier
 Fourier
 Fourier
 Fourier
-Proakis Manolakis
-Oppenheim Schafer
 Fourier
 Fourier
 Fourier
@@ -372,7 +357,6 @@ Fourier
 Fourier
 Fourier
 Fourier
-Rudin
 Fourier
 Fourier
 Fourier
@@ -426,15 +410,11 @@ Fourier
 Fourier
 Fourier
 Fourier
+Fourier
 Jean-Baptiste Joseph Fourier
 Leonhard Euler
 Jean le Rond d'Alembert
 Daniel Bernoulli
-ua
-D'Alembert
-Euler
-Bernoulli
-Fourier
 Fourier
 Fourier
 Fourier
@@ -446,13 +426,7 @@ Fourier
 Peter Gustav Lejeune Dirichlet
 Bernhard Riemann
 Fourier
-Fourier
 Joseph Fourier
-Fourier
-Fourier
-Fourier
-Poisson
-Fourier
 Fourier
 Fourier
 Fourier
@@ -470,14 +444,7 @@ Fourier
 Fourier
 Fourier
 Fourier
-Fourier
 Parseval
-Folland
-Proakis Manolakis
-Folland
-Fourier
-Basel
-Stade
 Riemann Lebesgue
 Parseval
 Parseval
@@ -487,11 +454,11 @@ Peter Weyl
 Peter Weyl
 Laplace
 Fourier
-Fourier
 Bravais
 Bloch
 frac
-Rudin
+frac
+Hilbert
 Fourier
 Fourier
 Parseval

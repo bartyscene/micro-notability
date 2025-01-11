@@ -1,4 +1,4 @@
-Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1263832280
+Permalink_2025_01_10: https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1268183823
 [
     Noam Chomsky
     Margaret Masterman
@@ -40,7 +40,7 @@ Permalink_2024_12_19: https://en.wikipedia.org/w/index.php?title=Artificial_inte
     Demis Hassabis
     Sam Altman
     Geoffrey Hinton
-    Juergen Schmidhuber
+    Jürgen  Schmidhuber
     Andrew Ng
     Yann LeCun
     Eliezer Yudkowsky

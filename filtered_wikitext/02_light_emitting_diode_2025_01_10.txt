@@ -33,7 +33,7 @@ The first LED was created by Soviet inventor   Oleg Losev                       
 
 Commercially viable LEDs only became available after   Texas Instruments   engineers patented efficient near-infrared emission from a diode based on                    GaAs   in 1962.
 
-From 1968, commercial LEDs were extremely costly and saw no practical use. Monstanto and Hewlett-Packard led the development of LEDs to the point where, in the 1970s, a unit cost less than five cents.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+From 1968, commercial LEDs were extremely costly and saw no practical use.   Monsanto   and   Hewlett-Packard   led the development of LEDs to the point where, in the 1970s, a unit cost less than five cents.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 
    Physics of light production and emission   
   main Light-emitting diode physics  
@@ -219,13 +219,13 @@ In a typical LED manufacturing process, encapsulation is performed after probing
 Flip chip circuit on board  COB  is a technique that can be used to manufacture LEDs.                                                                                                                                                                                                                                                        
 
    Colors and materials   
-Conventional LEDs are made from a variety of inorganic   semiconductor materials  , the following table shows the available colors with wavelength range, voltage drop and material:
+Conventional LEDs are made from a variety of inorganic   semiconductor materials  . The following table shows the available colors with wavelength range, voltage drop and material:
    class  wikitable  border  1 
 !
 !Color
 !  Wavelength    nm 
 !Voltage  V 
-!Semiconductor Material
+!Semiconductor material
  -
   bgcolor  white   
    Infrared  
@@ -297,7 +297,7 @@ or white with purple plastic
  3.1   Δ''V''   4.4
    Diamond    235 nbsp;nm                                                                                                                                                                                                                                                                                                                                                  
   Boron nitride    215 nbsp;nm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-  Aluminium nitride    AlN   210 nbsp;nm                                                                                                                                                                                                                                                                                                                                                                 
+  Aluminium nitride    AlN   210 nbsp;nm                  
 
   Aluminium gallium nitride    AlGaN 
   Aluminium gallium indium nitride    AlGaInN     down to 210 nbsp;nm                                                                                                                                                                                         
@@ -336,7 +336,7 @@ Due to the relative cheapness of low output LEDs, they are also used in many tem
 
    Lighting   
   main LED lamp  
-With the development of high-efficiency and high-power LEDs, it has become possible to use LEDs in lighting and illumination. To encourage the shift to   LED lamp  s and other high-efficiency lighting, in 2008 the   US Department of Energy   created the   L Prize   competition. The   Philips   Lighting North America LED bulb won the first competition on August 3, 2011, after successfully completing 18 months of intensive field, lab, and product testing.                                                                                                               
+With the development of high-efficiency and high-power LEDs, it has become possible to use LEDs in lighting and illumination. To encourage the shift to   LED lamp  s and other high-efficiency lighting, in 2008 the   US Department of Energy   created the   L Prize   competition. The   Philips   Lighting North America LED bulb won the first competition on August 3, 2011, after successfully completing 18 months of intensive field, lab, and product testing.                                                                                                                                                                        
 
 Efficient lighting is needed for   sustainable architecture  . As of 2011, some LED bulbs provide up to 150 nbsp;lm W and even inexpensive low-end models typically exceed 50 nbsp;lm W, so that a 6-watt LED could achieve the same results as a standard 40-watt incandescent bulb. The lower heat output of LEDs also reduces demand on   air conditioning   systems. Worldwide, LEDs are rapidly adopted to displace less effective sources such as                           incandescent lamps   and                            CFLs   and reduce electrical energy consumption and its associated emissions. Solar powered LEDs are used as   street light  s and in                                 architectural lighting  .
 

@@ -31,7 +31,7 @@ Processing of mRNA differs greatly among   eukaryote  s,   bacteria  , and   arc
 
      Splicing     
   main RNA splicing  
-The extensive processing of eukaryotic pre-mRNA that leads to the mature mRNA is the   RNA splicing  , a mechanism by which   intron  s or   outron  s  non-coding regions  are removed and   exon  s  coding regions  are joined.  cn date February 2024  
+The extensive processing of eukaryotic pre-mRNA that leads to the mature mRNA is the   RNA splicing  , a mechanism by which   intron  s or   outron  s  non-coding regions  are removed and   exon  s  coding regions  are joined.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 
      5' cap addition     
   main 5' cap  

@@ -134,6 +134,7 @@ Insulin
 History
 Opie
 Opie
+George
 University
 University
 University
@@ -220,6 +221,7 @@ Toronto
 Frederick Sanger
 He
 Hodgkin
+George
 Dr
 William Castle
 Banting
@@ -342,7 +344,7 @@ Tiselius
 Paulescu
 
 
-REVISION ID: 1257123824, TIMESTAMP: 2024-11-13T10:33:06Z
+REVISION ID: 1265304383, TIMESTAMP: 2024-12-26T07:04:05Z
 
 PARSER NAMES:
 Insulin
@@ -401,6 +403,7 @@ National Health
 History
 American
 Opie
+George
 University
 University
 He
@@ -465,6 +468,7 @@ Best
 Collip
 Collip
 Best
+George B
 Collip
 John G
 Macleod
@@ -522,6 +526,7 @@ James Collip
 University
 Toronto
 Frederick Sanger
+George
 William Castle
 Hodgkin
 Banting
@@ -661,6 +666,8 @@ Minot
 Dorothy Hodgkin
 Nicolae Paulescu
 Nicolae Paulescu
+Banting
+Best
 Collip
 Macleod
 Paulescu

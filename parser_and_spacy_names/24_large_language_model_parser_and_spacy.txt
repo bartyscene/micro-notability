@@ -1,6 +1,6 @@
 TITLE: Large language model
 
-REVISION ID: 1262992255, TIMESTAMP: 2024-12-14T01:56:03Z
+REVISION ID: 1267228912, TIMESTAMP: 2025-01-04T04:56:02Z
 
 PARSER NAMES:
 Bahdanau et al
@@ -26,23 +26,11 @@ Alice
 OpenAI
 Kevin
 Yongge Wang
-OpenAI
-OpenAI
-OpenAI
-Turing
-OpenAI
-Mistral
-Mistral AI
-Mistral AI
-Mistral AI
-Nova
-Nova
-Nova
-Nova
 
 NER NAMES:
 Bahdanau
 Schaeffer
+Karel
 Ilya Sutskever
 Connor Leahy
 Shoggoth
@@ -55,7 +43,4 @@ Bob
 Alice
 Kevin Esvelt
 Yongge Wang
-Ernie Bot
-Claude
-Claude
 

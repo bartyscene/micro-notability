@@ -53,7 +53,7 @@ Stumpe
 Frank Beck
 Stumpe
 Johnson
-Rainer Mallebrein
+Rainer Mallebrein de
 Frank Beck
 Bent Stumpe
 Stumpe
@@ -70,6 +70,7 @@ Simon
 Stumpe
 Beck
 Displays
+iPhone
 Touch
 Touch
 Brown

@@ -166,7 +166,7 @@ Artificial
 John McCarthy
 General
 Artificial
-Pamela
+Pamela McCorduck
 Alan Turing
 Turing
 John McCarthy
@@ -201,6 +201,7 @@ Artificial
 General
 Artificial
 John Haugeland
+Good
 Artificial Intelligence
 Walter
 University
@@ -226,8 +227,6 @@ Stuart Russell
 Peter Norvig
 Peter Norvig
 Noam
-AI at
-AI at
 Rodney Brooks
 Machine
 Artificial
@@ -292,8 +291,9 @@ Machine
 Machine
 Charles T Rubin
 He
-Stephen
+Stephen Hawking
 He
+AI researcher
 Rodney Brooks
 Power
 Joseph Weizenbaum
@@ -456,7 +456,7 @@ Isaac Asimov
 Arthur C. Clarke
 
 
-REVISION ID: 1263832280, TIMESTAMP: 2024-12-18T22:19:17Z
+REVISION ID: 1268183823, TIMESTAMP: 2025-01-08T14:22:39Z
 
 PARSER NAMES:
 Intelligence
@@ -464,6 +464,8 @@ Artificial
 Use
 Artificial
 Artificial
+Google
+Google
 General
 Artificial
 General
@@ -476,6 +478,7 @@ Margaret
 Machine
 General
 Turing
+Google
 Artificial
 Artificial
 Learning
@@ -488,24 +491,29 @@ Alexey Ivakhnenko
 Valentin
 John Joseph
 Henry J
-Arthur E Bryson
+Arthur E
 Stuart Dreyfus
-Arthur E Bryson
+Arthur E
 Yu Chi Ho
 Seppo Linnainmaa
 Paul Werbos
 Claude
 Moore
 Gordon Moore
+Google
 Microsoft
+Google
 Microsoft
+Google
 Artificial
 New AI
 Brad
 Ken
 March
 Lee
+Google
 Claude
+Google
 Research
 Vincent van
 Vincent van
@@ -515,6 +523,7 @@ Artificial
 Demis Hassabis
 Artificial
 Machine
+Cynthia
 Brian Christian
 John
 Jonathan
@@ -522,6 +531,8 @@ Microsoft
 Power
 See
 Microsoft
+Google
+Google
 Goldman Sachs
 Research
 AI Data
@@ -539,6 +550,9 @@ Bloomberg
 See
 Geoffrey Hinton
 Machine
+Google
+Google
+Google
 Microsoft
 Julia Angwin
 Moritz
@@ -556,27 +570,32 @@ Machine
 Michael Osborne
 Carl Benedikt Frey
 Joseph Weizenbaum
-Stephen
+Stephen Hawking
 Nick Bostrom
 Stuart Russell
 Yuval Noah Harari
-Stephen
+Stephen Hawking
 Yoshua Bengio
 Stuart Russell
 Demis Hassabis
 Sam Altman
 Geoffrey Hinton
+Google
+Google
 He
-Schmidhuber
+Jürgen Schmidhuber
 Andrew Ng
 Yann LeCun
 Machine
 Artificial
+Yudkowsky
 Wendell Wallach
 Stuart J Russell
+Google
 Artificial Intelligence
 Alan Turing Institute
 Institute
+Harris
 Stanford
 Canada
 United
@@ -630,6 +649,7 @@ John McCarthy
 Artificial
 McCarthy
 Marvin Minsky
+Google
 Newell
 Simon
 Moravec
@@ -648,6 +668,7 @@ Searle
 Russell
 Norvig
 Searle
+I J Good
 Vernor Vinge
 Hans Moravec
 Kevin Warwick
@@ -711,6 +732,7 @@ Julia Angwin
 Moritz Hardt
 Michael Osborne
 Carl Benedikt Frey
+''  The Economist  ''
 Joseph Weizenbaum
 Stephen Hawking
 Nick Bostrom
@@ -724,7 +746,7 @@ Stuart Russell
 Demis Hassabis
 Sam Altman
 Geoffrey Hinton
-Juergen Schmidhuber
+Jürgen Schmidhuber
 Andrew Ng
 Yann LeCun
 Eliezer Yudkowsky

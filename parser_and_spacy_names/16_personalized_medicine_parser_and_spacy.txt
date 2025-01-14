@@ -14,13 +14,14 @@ REVISION ID: 1260391448, TIMESTAMP: 2024-11-30T14:24:43Z
 
 PARSER NAMES:
 National
+United States
 President s Council
 Advisors
 Science
 Technology
 Disease
 U S President
-National
+United States National
 David
 Lazzari et al
 New

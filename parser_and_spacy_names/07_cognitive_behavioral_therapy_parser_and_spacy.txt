@@ -152,7 +152,7 @@ Williams
 Andrew Samuels
 
 
-REVISION ID: 1263874230, TIMESTAMP: 2024-12-19T03:49:26Z
+REVISION ID: 1266894642, TIMESTAMP: 2025-01-02T18:39:30Z
 
 PARSER NAMES:
 American
@@ -198,7 +198,7 @@ United Kingdom
 National Institute
 American
 Association
-A Cochrane
+Research
 Aaron T Beck
 Beck
 Beck
@@ -209,7 +209,7 @@ Mowrer
 National Institute
 Schizophrenia
 A Cochrane
-Mental
+Mental health
 Cochrane
 May
 Research
@@ -243,6 +243,7 @@ They
 Agras
 Prochaska
 Norcross
+Kirk
 Learning
 Learning
 Group

@@ -135,7 +135,7 @@ Shockley
 Beo Beyond.jpg
 
 
-REVISION ID: 1263288573, TIMESTAMP: 2024-12-15T20:18:56Z
+REVISION ID: 1266646693, TIMESTAMP: 2025-01-01T16:15:59Z
 
 PARSER NAMES:
 H J Round
@@ -177,7 +177,6 @@ Oleg Losev
 Haitz
 Shockley
 Beo Beyond.jpg
-Tsach Zimroni
 Cao
 Lin
 Cao

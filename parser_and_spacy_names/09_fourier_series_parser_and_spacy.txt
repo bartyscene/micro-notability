@@ -8,6 +8,7 @@ Joseph Fourier
 Fourier
 Fourier
 Dirichlet
+Riemann
 Fourier
 Fourier
 Fourier
@@ -70,6 +71,7 @@ Fourier
 Fourier
 Fourier
 Peter Gustav Lejeune Dirichlet
+Bernhard Riemann
 Fourier
 Fourier
 Fourier
@@ -128,6 +130,7 @@ Fourier
 Fourier
 Fourier
 Fourier
+Riemann
 Fourier
 Fourier
 Fourier
@@ -225,7 +228,7 @@ Andrey Kolmogorov
 Lebesgue
 
 
-REVISION ID: 1263880062, TIMESTAMP: 2024-12-19T04:41:08Z
+REVISION ID: 1268551801, TIMESTAMP: 2025-01-10T09:36:42Z
 
 PARSER NAMES:
 Fourier
@@ -275,10 +278,10 @@ Fourier
 Fourier
 Fourier
 Peter Gustav Lejeune Dirichlet
+Bernhard Riemann
 Fourier
 Fourier
 Joseph Fourier
-Fourier
 Joseph Fourier
 Fourier
 Fourier
@@ -294,7 +297,12 @@ Fourier
 by Fourier
 Fourier
 Fourier
+Fourier
 Dirichlet
+Fourier
+Fourier
+Fourier Schwartz
+Fourier
 Fourier
 A Fourier
 Fourier
@@ -307,6 +315,7 @@ Fourier
 Fourier
 Fourier
 Fourier
+Fourier
 Dirichlet
 Fourier
 Fourier
@@ -323,6 +332,8 @@ Fourier
 Fourier
 Fourier
 Fourier
+Riemann
+Riemann
 Fourier
 Fourier
 Fourier
@@ -338,6 +349,13 @@ Fourier
 Fourier
 Fourier
 Peter
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
+Fourier
 Fourier
 Fourier
 Fourier
@@ -410,7 +428,6 @@ Fourier
 Fourier
 Fourier
 Fourier
-Fourier
 Jean-Baptiste Joseph Fourier
 Leonhard Euler
 Jean le Rond d'Alembert
@@ -423,11 +440,11 @@ Fourier
 Fourier
 Fourier
 Fourier
+Fourier
 Peter Gustav Lejeune Dirichlet
 Bernhard Riemann
 Fourier
 Joseph Fourier
-Fourier
 Fourier
 Fourier
 Euler
@@ -445,15 +462,20 @@ Fourier
 Fourier
 Fourier
 Parseval
+Basel
+Riemann Lebesgue
 Riemann Lebesgue
 Parseval
 Parseval
 Plancherel
 Plancherel
 Peter Weyl
-Peter Weyl
 Laplace
 Fourier
+Bochner
+Wiener
+Fourier
+Bravais
 Bravais
 Bloch
 frac
@@ -463,9 +485,7 @@ Fourier
 Fourier
 Parseval
 Gibbs
-Hölder
-Fourier
-Lennart Carleson  
+Carleson
 Andrey Kolmogorov
 Lebesgue
 

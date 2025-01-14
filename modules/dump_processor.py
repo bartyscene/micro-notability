@@ -40,6 +40,10 @@ def _process_wikipedia_pages(input_path, output_path, revision_ids):
                 names = extract_names_from_citations(revision.text)
                 reference_list.update(names)
 
+            tokens_to_remove = {"and", "the", "of", "for", "in", "not", "on", "an", "a", "at", "with",
+                                "And", "The", "Of", "For", "In", "Not", "On", "An", "At", "With",} 
+            reference_list -= tokens_to_remove # manually remove tokens
+
             # 2) Process only the revisions in 'revision_ids'
             results_for_revisions = []
             for revision in tqdm(page_list, desc="Processing Targeted Revisions"):

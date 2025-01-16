@@ -2,6 +2,7 @@ Permalink_2025_01_10: https://en.wikipedia.org/w/index.php?title=Insulin_(medica
 [
     Becton-Dickinson
     Nicolae C. Paulescu
+    Paulescu
     James Collip
     Peter Sönksen
     Mark Fainaru-Wada
@@ -14,7 +15,8 @@ Permalink_2025_01_10: https://en.wikipedia.org/w/index.php?title=Insulin_(medica
     Frederick Banting
     Frederick Banting
     Charles Best
-    James Collip 
+    James Collip
+    Leonard Thompson 
     James D. Havens
     James S. Havens
     Elizabeth Hughes Gossett
@@ -51,12 +53,14 @@ Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Insulin_(medica
     Charles Best
     Frederick Banting
     Mark Fainaru-Wada
+    Lance Williams
     Barry Bonds
     Frederick Banting
     Charles Best
     James Collip
     Leonard Thompson
     Elizabeth Hughes Gossett
+    Banting
     Hagedorn    
     D.M. Scott
     A.M. Fisher

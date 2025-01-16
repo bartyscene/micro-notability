@@ -1,6 +1,7 @@
 Permalink_2025_01_10: https://en.wikipedia.org/w/index.php?title=Touchscreen&oldid=1262838270
 [
     Frank Beck
+    Stumpe
     Denk William E
     Harmon Leon D
     Graham Robert E
@@ -23,10 +24,15 @@ Permalink_2025_01_10: https://en.wikipedia.org/w/index.php?title=Touchscreen&old
     Beck
     Stumpe
     Bill Buxton
-    Bob Boie
+    Gene Mosher
+    Sears
     Bob Boie
     Stumpe
     Beck
+    Brewster
+    Chohan
+    Brown
+    Hogan
 
     /////Eponyms/////
     Bell (Labs)
@@ -34,19 +40,20 @@ Permalink_2025_01_10: https://en.wikipedia.org/w/index.php?title=Touchscreen&old
     Bell (Labs)
     Moire (interference)
     Taco Bell (restaurant)
-    McDonald's (reataurant)
-    
+    McDonald's (reataurant) 
 ]
 
 Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Touchscreen&oldid=641144269
 [
     Bent Stumpe
+    Stumpe
     E.A. Johnson
     Frank Beck
     Bent Stumpe
     Bent Stumpe
     G. Samuel Hurst
     Bill Buxton
+    Gene Mosher
     Sears 
     Brewster
     Chohan

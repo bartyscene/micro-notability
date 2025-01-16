@@ -34,10 +34,21 @@ LETTER_FILTER_PATTERN = re.compile(r"[^\w\s.,!?;:'-]", re.UNICODE)  # Matches no
 
 
 def filter_wikitext(wikitext):
+    """
+    Cleans and filters wikitext by removing or replacing certain patterns while preserving
+    the original length of the text for specific matches.
+
+    This function performs the following steps:
+    1. Replaces all matches of a precompiled combined pattern (e.g., citations, references, 
+       comments, and headings) with spaces of the same length as the match.
+    2. Replaces matches of the pipe pattern `[[...|...]]` with spaces in the segment before 
+       the pipe, preserving the structure of the text.
+    3. Removes all non-alphanumeric characters except for punctuation marks by replacing 
+       them with spaces.
+    """
     if wikitext is None:
         return ""
     
-    # Replace all matches with spaces preserving the original length
     processed_text = re.sub(
         COMBINED_PATTERN, 
         lambda m: ' ' * (m.end() - m.start()), 
@@ -54,40 +65,50 @@ def filter_wikitext(wikitext):
     
     return processed_text
 
-def process_results(results):
+def merge_adjacent_tokens_in_result_list(results):
+    """
+    Processes a list of tokenized results to merge adjacent or closely positioned tokens 
+    based on specific rules.
+
+    Rules:
+    1. Merge two tokens if the gap between the end position of the current token 
+       and the start position of the next token is exactly 2.
+    2. Merge two tokens if the gap is exactly 3 and the last word in the current token 
+       is a single uppercase character.
+    """
     i = 0
     while i < len(results) - 1:
         current = results[i]
         next_token = results[i + 1]
 
-        # Case 1: Merge if distance is 2
         if current["positionEnd"] + 2 == next_token["positionStart"]:
             current["word"] += " " + next_token["word"]
             current["positionEnd"] = next_token["positionEnd"]
             results.pop(i + 1)
-            continue  # Recheck this token for further merging
+            continue
 
-        # Case 2: Merge with a period if distance is 3 and last token is uppercase
         current_words = current["word"].split()
         if (
-            len(current_words[-1]) == 1 and  # Last token in current is a single character
-            current_words[-1].isupper() and  # It's an uppercase character
+            len(current_words[-1]) == 1 and
+            current_words[-1].isupper() and
             current["positionEnd"] + 3 == next_token["positionStart"]
         ):
             current["word"] += " " + next_token["word"]
             current["positionEnd"] = next_token["positionEnd"]
             results.pop(i + 1)
-            continue  # Recheck this token for further merging
-
-        i += 1  # Move to the next token only if no merging occurred
+            continue
+        i += 1
 
     return results
 
-def filter_results(results):
+def exclude_uniform_case_tokens(results):
+    """
+    Filters a list of results to exclude items where all tokens in the "word" field 
+    are either entirely lowercase or entirely uppercase.
+    """
     filtered_results = []
     for item in results:
         tokens = item["word"].split()
-        # Keep only if not all lowercase or not all uppercase
         if not (all(token.islower() for token in tokens) or all(token.isupper() for token in tokens)):
             filtered_results.append(item)
     return filtered_results

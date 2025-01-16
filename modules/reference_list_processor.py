@@ -1,5 +1,5 @@
 import re
-from modules.utils import  filter_wikitext, process_results, filter_results
+from modules.utils import  filter_wikitext, merge_adjacent_tokens_in_result_list, exclude_uniform_case_tokens
 
 AUTHOR_PATTERN = re.compile(
     r"\bauthor\d*\s*=\s*([^|}\n]+)|"   
@@ -52,6 +52,6 @@ def find_names_in_wikitext(wikitext, name_set):
                 "positionEnd": end
             })
 
-    results = filter_results(process_results(results))
+    results = exclude_uniform_case_tokens(merge_adjacent_tokens_in_result_list(results))
     return results
 

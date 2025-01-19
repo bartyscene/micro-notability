@@ -13,7 +13,7 @@ class RobertaNameEntityRecognizer:
 
     def split_into_sentences(self, text):
         """
-        Split text into sentences based on punctuation or newlines.
+        Split text into sentences based on newlines.
         
         Args:
             text (str): The input text to split.
@@ -22,7 +22,7 @@ class RobertaNameEntityRecognizer:
             list: A list of sentences.
         """
         text = re.sub(r'\n+', '\n', text.strip())
-        sentences = re.split(r'(?<=[.!?])\s+|\n', text)
+        sentences = text.split('\n')
         return [sentence.strip() for sentence in sentences if sentence.strip()]
 
     def extract_names(self, wikitext):

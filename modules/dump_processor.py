@@ -44,7 +44,7 @@ def _extract_names_with_reference_list(text, reference_list):
     ]
     return formatted_matches
 
-def _extract_names_with_spacy(text, name_entity_recognizer):
+def _extract_names_with_ner(text, name_entity_recognizer):
     """
     Extracts names from the given text using spacy named entity recognition (NER).
     
@@ -58,7 +58,7 @@ def _extract_names_with_spacy(text, name_entity_recognizer):
     ]
     return formatted_matches
 
-def _extract_names_from_revision(revision, reference_list, name_entity_recognizer):
+def _extract_names_from_revision(revision, reference_list, spacy_ner, roberta_ner):
     """
     Processes a single revision to extract names using reference list and spacy.
     
@@ -71,15 +71,17 @@ def _extract_names_from_revision(revision, reference_list, name_entity_recognize
         return None
 
     # Names found via reference list
-    wikitext_names = _extract_names_with_reference_list(revision.text, reference_list)
+    parser_names = _extract_names_with_reference_list(revision.text, reference_list)
     # Names found via NER
-    ner_names = _extract_names_with_spacy(revision.text, name_entity_recognizer)
+    spacy_ner_names = _extract_names_with_ner(revision.text, spacy_ner)
+    roberta_ner_names = _extract_names_with_ner(revision.text, roberta_ner)
 
     timestamp_str = str(revision.timestamp)
     return (
         f"REVISION ID: {revision.id}, TIMESTAMP: {timestamp_str}\n\n"
-        "PARSER NAMES:\n" + "\n".join(wikitext_names) + "\n\n"
-        "NER NAMES:\n" + "\n".join(ner_names) + "\n\n"
+        "PARSER NAMES:\n" + "\n".join(parser_names) + "\n\n"
+        "SPACY NER NAMES:\n" + "\n".join(spacy_ner_names) + "\n\n"
+        "ROBERTA NER NAMES:\n" + "\n".join(roberta_ner_names) + "\n\n"
     )
 
 def _process_wikipedia_pages(input_path, output_path, revision_ids):
@@ -88,7 +90,8 @@ def _process_wikipedia_pages(input_path, output_path, revision_ids):
     and writes the results for specific revisions to output_path.
     If 'revision_ids' is empty, processes all revisions.
     """
-    name_entity_recognizer = SpacyNameEntityRecognizer(use_gpu=False)
+    spacy = SpacyNameEntityRecognizer(use_gpu=False)
+    roberta = RobertaNameEntityRecognizer()
     open_method = bz2.open if input_path.endswith('.bz2') else open
     with open_method(input_path, 'rb') as dump_file, open(output_path, 'w', encoding='utf-8') as out_f:
         dump = mwxml.Dump.from_file(dump_file)
@@ -101,7 +104,7 @@ def _process_wikipedia_pages(input_path, output_path, revision_ids):
             results_for_revisions = []
             for revision in tqdm(page_list, desc="Processing Revisions"):
                 if not revision_ids or revision.id in revision_ids:
-                    revision_output = _extract_names_from_revision(revision, reference_list, name_entity_recognizer)
+                    revision_output = _extract_names_from_revision(revision, reference_list, spacy, roberta)
                     if revision_output:
                         results_for_revisions.append(revision_output)
 

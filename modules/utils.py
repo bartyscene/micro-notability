@@ -32,7 +32,6 @@ PIPE_PATTERN = re.compile(r"\[\[[^|\]]+\|([^|\]]+)\]\]")  # Matches [[...|...]] 
 
 LETTER_FILTER_PATTERN = re.compile(r"[^\w\s.,!?;:'-]", re.UNICODE)  # Matches non-letter characters
 
-
 def filter_wikitext(wikitext):
     """
     Cleans and filters wikitext by removing or replacing certain patterns while preserving
@@ -112,3 +111,26 @@ def exclude_uniform_case_tokens(results):
         if not (all(token.islower() for token in tokens) or all(token.isupper() for token in tokens)):
             filtered_results.append(item)
     return filtered_results
+
+def create_reference_set_from_file(file_path='dumps/person_name_list.txt'):
+    """
+    Reads a file line by line, splits each line by whitespace, 
+    and creates a set containing all parts from the file.
+    Defaults to 'dumps/person_name_list.txt'.
+
+    Args:
+        file_path (str): The path to the file. Defaults to 'dumps/person_name_list.txt'.
+
+    Returns:
+        set: A set containing each part from the file split by whitespace.
+    """
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            entries_set = {part for line in file for part in line.strip().split() if part}
+        return entries_set
+    except FileNotFoundError:
+        print(f"Error: The file at {file_path} was not found.")
+        return set()
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return set()

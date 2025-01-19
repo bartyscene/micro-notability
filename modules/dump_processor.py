@@ -2,79 +2,113 @@ import os
 import json
 import bz2
 import mwxml
-from modules.reference_list_processor import extract_names_from_citations, find_names_in_wikitext
-from modules.ner_processor import NameEntityRecognizer
-
 from tqdm import tqdm
+from modules.reference_list_processor import extract_names_from_citations, find_names_in_wikitext
+from modules.spacy_processor import SpacyNameEntityRecognizer
+from modules.roberta_processor import RobertaNameEntityRecognizer
+
+def _build_reference_list(page_list):
+    """
+    Builds a reference list from all revisions in the given page list.
+    
+    :param page_list: List of revisions for a Wikipedia page.
+    :return: Set of unique names extracted from all revisions' citations.
+    """
+    reference_list = set()
+    tokens_to_remove = {
+        "and", "the", "of", "for", "in", "not", "on", "an", "a", "at", "with",
+        "And", "The", "Of", "For", "In", "Not", "On", "An", "At", "With",
+    }
+
+    for revision in tqdm(page_list, desc="Building Reference List for Wikipedia Article"):
+        if not revision.text:
+            continue
+        names = extract_names_from_citations(revision.text)
+        reference_list.update(names)
+
+    # Remove undesired tokens
+    reference_list -= tokens_to_remove
+    return reference_list
+
+def _extract_names_with_reference_list(text, reference_list):
+    """
+    Finds names in the given text using a reference list.
+    
+    :param text: Text content to search.
+    :param reference_list: Set of reference names to match.
+    :return: List of matched names with positions (if applicable).
+    """
+    matches = find_names_in_wikitext(text, reference_list)
+    formatted_matches = [
+        f"{match['word']}" for match in matches
+    ]
+    return formatted_matches
+
+def _extract_names_with_spacy(text, name_entity_recognizer):
+    """
+    Extracts names from the given text using spacy named entity recognition (NER).
+    
+    :param text: Text content to process.
+    :param name_entity_recognizer: An instance of NameEntityRecognizer.
+    :return: List of matched names with positions (if applicable).
+    """
+    matches = name_entity_recognizer.extract_names(text)
+    formatted_matches = [
+        f"{match['word']}" for match in matches
+    ]
+    return formatted_matches
+
+def _extract_names_from_revision(revision, reference_list, name_entity_recognizer):
+    """
+    Processes a single revision to extract names using reference list and spacy.
+    
+    :param revision: The revision object to process.
+    :param reference_list: Set of names extracted from citations.
+    :param name_entity_recognizer: An instance of NameEntityRecognizer.
+    :return: A formatted string of the revision results.
+    """
+    if not revision.text:
+        return None
+
+    # Names found via reference list
+    wikitext_names = _extract_names_with_reference_list(revision.text, reference_list)
+    # Names found via NER
+    ner_names = _extract_names_with_spacy(revision.text, name_entity_recognizer)
+
+    timestamp_str = str(revision.timestamp)
+    return (
+        f"REVISION ID: {revision.id}, TIMESTAMP: {timestamp_str}\n\n"
+        "PARSER NAMES:\n" + "\n".join(wikitext_names) + "\n\n"
+        "NER NAMES:\n" + "\n".join(ner_names) + "\n\n"
+    )
 
 def _process_wikipedia_pages(input_path, output_path, revision_ids):
     """
     Internal helper that processes a single Wikipedia dump file (input_path)
     and writes the results for specific revisions to output_path.
-    
-    Steps:
-    1. Read the entire dump and for each page:
-       a) Build a reference_list from *all* revisions in the page.
-       b) For each revision whose ID is in 'revision_ids', extract:
-          - Names via wikitext (reference_list-based)
-          - Names via spaCy/NER
-       c) Write results to output_path.
+    If 'revision_ids' is empty, processes all revisions.
     """
-
-    name_entity_recognizer = NameEntityRecognizer(use_gpu=False)
-
-    # Determine if we need to open with bz2 or plain open
+    name_entity_recognizer = SpacyNameEntityRecognizer(use_gpu=False)
     open_method = bz2.open if input_path.endswith('.bz2') else open
-
     with open_method(input_path, 'rb') as dump_file, open(output_path, 'w', encoding='utf-8') as out_f:
         dump = mwxml.Dump.from_file(dump_file)
-
         for page in tqdm(dump, desc=f"Processing {input_path}"):
             page_list = list(page)
-            reference_list = set()
+            
+            reference_list = _build_reference_list(page_list) # Build the reference list from all revisions in the page
 
-            # 1) Build the reference_list from all revisions in the page
-            for revision in tqdm(page_list, desc="Building Candidate List for Wikipedia Article"):
-                if not revision.text:
-                    continue
-                names = extract_names_from_citations(revision.text)
-                reference_list.update(names)
-
-            tokens_to_remove = {"and", "the", "of", "for", "in", "not", "on", "an", "a", "at", "with",
-                                "And", "The", "Of", "For", "In", "Not", "On", "An", "At", "With",} 
-            reference_list -= tokens_to_remove # manually remove tokens
-
-            # 2) Process only the revisions in 'revision_ids'
+            # Process revisions
             results_for_revisions = []
-            for revision in tqdm(page_list, desc="Processing Targeted Revisions"):
-                if revision.id in revision_ids and revision.text:
-                    # Names found via reference list
-                    wikitext_names = find_names_in_wikitext(revision.text, reference_list)
-                    formatted_wikitext_names = [
-                        f"{match['word']}" #(positions: {match['positionStart']} - {match['positionEnd']})
-                        for match in wikitext_names
-                    ]
+            for revision in tqdm(page_list, desc="Processing Revisions"):
+                if not revision_ids or revision.id in revision_ids:
+                    revision_output = _extract_names_from_revision(revision, reference_list, name_entity_recognizer)
+                    if revision_output:
+                        results_for_revisions.append(revision_output)
 
-                    # Names found via NER
-                    ner_names = name_entity_recognizer.extract_names(revision.text)
-                    formatted_ner_names = [
-                        f"{match['word']}" #(positions: {match['positionStart']} - {match['positionEnd']})
-                        for match in ner_names
-                    ]
-
-                    timestamp_str = str(revision.timestamp)
-                    revision_output = (
-                        f"REVISION ID: {revision.id}, TIMESTAMP: {timestamp_str}\n\n"
-                        "PARSER NAMES:\n" + "\n".join(formatted_wikitext_names) + "\n\n"
-                        "NER NAMES:\n" + "\n".join(formatted_ner_names) + "\n\n"
-                    )
-                    results_for_revisions.append(revision_output)
-
-            # 3) Write to output file if there is any content
+            # Write to output file if there is any content
             if results_for_revisions:
                 out_f.write(f"TITLE: {page.title}\n\n")
                 out_f.write("\n".join(results_for_revisions))
-
 
 def process_revisions_from_json(json_path):
     """
@@ -84,10 +118,7 @@ def process_revisions_from_json(json_path):
     
     :param json_path: Path to the revisions JSON file.
     """
-    # Figure out the directory in which the JSON file resides
-    base_dir = os.path.dirname(json_path)
-    if not base_dir:  # If json_path is in the current directory, base_dir might be empty
-        base_dir = '.'
+    base_dir = os.path.dirname(json_path) or '.'
 
     with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
@@ -95,7 +126,7 @@ def process_revisions_from_json(json_path):
     for item in data:
         input_file_name = item["input_file_name"]
         output_file_name = item["output_file_name"]
-        revision_ids = item["ids"]
+        revision_ids = item.get("ids", [])  # Default to empty list if 'ids' is missing
 
         input_path = os.path.join("dumps", input_file_name)
         output_path = os.path.join(base_dir, output_file_name)

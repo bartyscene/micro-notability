@@ -1,7 +1,7 @@
 import spacy
 from modules.utils import filter_wikitext
 
-class NameEntityRecognizer:
+class SpacyNameEntityRecognizer:
     def __init__(self, use_gpu=True):
         """
         Initialize the SpaCy model with optional GPU support.

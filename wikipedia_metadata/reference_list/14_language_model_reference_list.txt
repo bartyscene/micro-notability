@@ -1,0 +1,184 @@
+Reference List:
+
+Or 
+Charles
+Haoyi 
+Corrado irst4=Greg S. 
+Reza Yazdani 
+Yuke 
+Greg 
+ChengXiang 
+Nan 
+Lv 
+Lee
+Ben 
+Patrick 
+Anima 
+Hastie 
+Hussain
+De-An 
+Norbert
+Zhu 
+Mocialov 
+Samyam 
+Chowdhery 
+W. Bruce 
+V.G.
+Amir
+Djoerd 
+Jonathan T. 
+Hendrycks
+Shrimai 
+Jeff 
+Hiemstra 
+Patwary 
+Ilya 
+Mildenhall 
+Sutskever 
+F Song 
+Cheng 
+Jack 
+J M Ponte 
+Yunfan 
+Guanzhi 
+Norick 
+W B Croft 
+Vydiswaran
+Vijay 
+J M Ponte and W B Croft 
+Litany 
+Yuanhua 
+Jeffrey 
+Ahmad
+Derrick 
+Kyle 
+Kristina
+Aminabadi 
+Derrick
+Martin 
+Xiaobo 
+Jiang 
+Xia 
+Korthikanti 
+Zhun 
+Boris 
+Manning
+Roth
+Yin 
+Shen 
+Huang 
+Andrew 
+Andrew M 
+Romal 
+Zan 
+Casper 
+Smith 
+Qu 
+Aghaebrahimian
+Fan 
+Zhang 
+Diaqing 
+Christopher D. Manning
+Corrado 
+Tang 
+Jussi
+Wiggers 
+Erik
+Lasnik
+Du 
+Wenzheng 
+Fidler 
+Chen 
+Hornstein
+Liu 
+George 
+Jain 
+Rewon 
+Mostofa 
+Aakanksha 
+Harris 
+Cambria
+Stanley 
+Mandlekar 
+Thoppilan 
+Feiyue 
+Shaden 
+Wu 
+Rajbhandari 
+Dan
+F Song and W B Croft 
+Rodriguez 
+Chang
+Patel-Grosz
+Dan 
+Karpathy 
+Elton 
+Rosenfeld 
+Pritty
+Linxi 
+Ponte 
+Jesus 
+Zerveas 
+Yang 
+Dai 
+Croft 
+Sammons, V.G.Vinod Vydiswaran, Dan Roth
+Dean 
+Zhai 
+Anandkumar 
+Jay M. 
+Devlin
+Kenton
+Helen 
+Ajay 
+Turner 
+Li 
+Poole 
+James H. 
+Mark
+Mikolov 
+Kai 
+Hendrycks 
+Julie 
+Toutanova
+Yuncong 
+Kangxue 
+Child 
+Howard
+LeGresley 
+Gao 
+Brandon 
+Heng-Tze 
+Sanja 
+Bengio
+Jun 
+Sharan 
+Bernauer 
+Zian 
+Graham 
+Tomas 
+Song 
+Hinrich
+Jurafsky 
+Christopher D.
+Andrej 
+Jacob
+Gojcic 
+Clark 
+Jared 
+Yoshua
+Yang
+Schutze
+Tianchang 
+Ming-Wei
+Barron 
+Fanyou 
+Prabhumoye 
+Wang 
+Zhiyuan 
+Harris
+Karlgren
+Ronald 
+Narang 
+Joshua Goodman 
+

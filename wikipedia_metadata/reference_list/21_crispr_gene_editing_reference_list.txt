@@ -17,6 +17,7 @@ Agrotis
 Agrotis A, Ketteler R 
 Ahmed E. 
 Ahmed H. 
+Ahsen 
 Ahuja 
 Ailong 
 Aimee A. 
@@ -65,6 +66,7 @@ Antonio
 Anzalone AV, Randolph PB, Davis JR, Sousa AA, Koblan LW, Levy JM, Chen PJ, Wilson C, Newby GA, Raguram A, Liu DR
 Anzalone AV, Randolph PB, Davis JR, Sousa AA, Koblan LW, Levy JM, Chen PJ, Wilson C, Newby GA, Raguram A, Liu DR 
 Apekshya
+Apolonia 
 Araki 
 Arazoe 
 Artero-Castro A, Long K, Bassett A, Ávila-Fernandez A, Cortón M, Vidal-Puig A, Jendelova P, Rodriguez-Jimenez FJ, Clemente E, Ayuso C, Erceg S 
@@ -141,6 +143,7 @@ Bravo JP, Liu MS, Hibshman GN, Dangerfield TL, Jung K, McCool RS, Johnson KA, Ta
 Brazelton
 Brazelton VA, Zarecor S, Wright DA, Wang Y, Liu J, Chen K, Yang B, Lawrence-Dill CJ 
 Brenda K.
+Brennan 
 Brian 
 Brigham
 Britt
@@ -307,6 +310,7 @@ Ed
 Ed 
 Edward S. 
 Eisenstein M 
+Eleonora 
 Eleonora I. 
 Elizabeth
 Elizabeth 
@@ -322,6 +326,7 @@ Erlend S.
 Esben
 Esra 
 Ethan 
+Eugene V. 
 Eustace
 Evan H.
 Evert 
@@ -367,6 +372,7 @@ Gane
 Gao 
 Gao X, Tao Y, Lamas V, Huang M, Yeh WH, Pan B, Hu YJ, Hu JH, Thompson DB, Shu Y, Li Y, Wang H, Yang S, Xu Q, Polley DB, Liberman MC, Kong WJ, Holt JR, Chen ZY, Liu DR
 Gao X, Tao Y, Lamas V, Huang M, Yeh WH, Pan B, Hu YJ, Hu JH, Thompson DB, Shu Y, Li Y, Wang H, Yang S, Xu Q, Polley DB, Liberman MC, Kong WJ, Holt JR, Chen ZY, Liu DR 
+Gardner 
 Garrett R.
 Garushyants 
 Gasiunas
@@ -652,6 +658,7 @@ Kim
 Kim YK, Refaeli I, Brooks CR, Jing P, Gulieva RE, Hughes MR, Cruz NM, Liu Y, Churchill AJ, Wang Y, Fu H, Pippin JW, Lin LY, Shankland SJ, Vogl AW, McNagny KM, Freedman BS 
 Kimberland ML, Hou W, Alfonso-Pecchio A, Wilson S, Rao Y, Zhang S, Lu Q 
 King A 
+Kira S. 
 Kitagawa
 Kiyotaka Y. 
 Klanseck 
@@ -668,6 +675,7 @@ Konermann
 Kong 
 Konwarh R 
 Kool 
+Koonin 
 Kosuke
 Kosuke 
 Koteliansky 
@@ -710,6 +718,7 @@ Lebwohl
 Ledford
 Ledford 
 Ledford H 
+Lee 
 Lei 
 Lei S. 
 Leiping 
@@ -772,6 +781,7 @@ Maggio I, Gonçalves MA
 Maitland
 Maitland 
 Mak 
+Makarova 
 Mali
 Mali 
 Mali P, Yang L, Esvelt KM, Aach J, Guell M, DiCarlo JE, Norville JE, Church GM 
@@ -1038,6 +1048,7 @@ Roberto H.
 Roberts 
 Robin
 Rodolphe
+Rohan 
 Rohan N. 
 Roman L. 
 Ronald 
@@ -1413,5 +1424,7 @@ de la Fuente
 del Amo 
 van Diemen FR, Kruse EM, Hooykaas MJ, Bruggeling CE, Schürch AC, van Ham PM, Imhof SM, Nijhuis M, Wiertz EJ, Lebbink RJ 
 van Erp PB, Bloomer G, Wilkinson R, Wiedenheft B 
+Özcan 
+Özcan A, Krajeski R, Ioannidi E, Lee B, Gardner A, Makarova KS, Koonin EV, Abudayyeh OO, Gootenberg JS 
 Šikšnys
 Šikšnys V 

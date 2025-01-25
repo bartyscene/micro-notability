@@ -1,8 +1,3 @@
- 
-A
-A.
-A. 
-A. A.
 Abel
 Abel JJ 
 Abigail Zuger 
@@ -57,7 +52,6 @@ Bill
 Bitar
 Bliss 
 Bliss M 
-Bliss, Michael, 1941-2017.
 Blundell TL, Cutfield JF, Cutfield SM, Dodson EJ, Dodson GG, Hodgkin DC, Mercola DA, Vijayan M
 Blundell TL, Cutfield JF, Cutfield SM, Dodson EJ, Dodson GG, Hodgkin DC, Mercola DA, Vijayan M 
 Bob
@@ -70,7 +64,6 @@ Bratanova-Tochkova TK, Cheng H, Daniel S, Gunawardana S, Liu YJ, Mulvaney-Musa J
 Brugués
 Brun 
 Bruno
-C. 
 C. Ronald Kahn 
 Cannone
 Cao
@@ -109,8 +102,6 @@ Creighton TE
 Cristina
 D'Eon
 D'Eon TM, Pierce KA, Roix JJ, Tyler A, Chen H, Teixeira SR 
-D.
-D. 
 Daniel
 Daoud
 David Oakes
@@ -128,14 +119,12 @@ Doisy
 Donald 
 Donald F.
 Dongmin
-Dr Robert I Misbin,INSULIN History from an FDA Insider, June 1 2020 published as ebook on Amazon
 Draznin 
 Draznin B, LeRoith D 
 Drury MI 
 Duckworth WC, Bennett RG, Hamel FG 
 Dunn MF 
 D’Ascia
-E. A.
 Editor
 Edward A.
 Edward Calvin
@@ -149,10 +138,7 @@ Elmarie
 Erin E
 Eulàlia
 Evans
-F.
-F. 
 F. Foufelle 
-F.G.
 Fadi G.
 Fang X, Yu SX, Lu Y, Bast RC, Woodgett JR, Mills GB 
 Farfari 
@@ -172,7 +158,6 @@ Fritz
 Fu
 Fu Z, Gilbert ER, Liu D 
 Fukuda
-G. W.G.
 Gaetano
 Gast
 Gast K, Schüler A, Wolff M, Thalhammer A, Berchtold H, Nagel N, Lenherr G, Hauck G, Seckler R 
@@ -196,9 +181,6 @@ Gupta
 Gupta AK, Clark RV, Kirchner KA 
 Gupta J, Felner EI, Prausnitz MR 
 Gustin N 
-H
-H.
-H. 
 Hamasaki
 Hamdar
 Han-Chow E.
@@ -213,18 +195,12 @@ Henri
 Hong
 Hua
 Hyrtsenko
-I. A.
 Ian Murray 
 Idevall-Hagren
 Ignazio
 Irish Medical Association 
 Ivanova MI, Sievers SA, Sawaya MR, Wall JS, Eisenberg D 
 Iwase H, Kobayashi M, Nakajima M, Takatori T 
-J.
-J. 
-J. J.
-J.B.
-J.J.R.
 Jack L. 
 Jain
 Jain PK, Karunakaran D, Friedman SH 
@@ -240,7 +216,6 @@ Judith G.
 Judith G. Voet 
 Jyoti
 K Garg
-K. 
 Kahn CR, Weir GC 
 Kalayya
 Kalra
@@ -302,7 +277,6 @@ Louis H.
 Lubert
 Lubert 
 Lynn
-M.  
 M. Arabi
 Macdonald
 Macdonald IA 
@@ -351,7 +325,6 @@ Moriyama
 Muhmmad
 Mulvaney-Musa
 Murray I 
-N.C.
 Nagel
 Najjar
 Najjar S 
@@ -371,8 +344,6 @@ Omar-Hmeadi M, Idevall-Hagren O
 Opie EL 
 Otieno
 Ozcan 
-P. 
-PG
 Pagano
 Painter PC, Mosher LE, Rhoads C 
 Palmer BF, Henrich WL 
@@ -396,8 +367,6 @@ Pohajdak
 Poitout V, Hagman D, Stein R, Artner I, Robertson RP, Harmon JS 
 Prausnitz
 Prentki 
-R
-R. 
 Ramaiya
 Reaven 
 Reiken
@@ -422,11 +391,6 @@ Rowlett R
 Rubinovitz 
 Rutter GA, Pullen TJ, Hodson DJ, Martinez-Sanchez A 
 Rutter GA, Tavaré JM, Palmer DG 
-S
-S.
-S. 
-S. G.
-SANGER F, TUPPY H 
 Sabire 
 Sabyasachi Sircar
 Safavi-Hemami H, Gajewiak J, Karanth S, Robinson SD, Ueberheide B, Douglass AD, Schlegel A, Imperial JS, Watkins M, Bandyopadhyay PK, Yandell M, Li Q, Purcell AW, Norton RS, Ellgaard L, Olivera BM 
@@ -496,9 +460,6 @@ Stryer L
 Sudhesh 
 Suzuki
 Swai Babu
-T
-T.
-T. K.
 Taluja
 Tanenbaum 
 Tara M.
@@ -527,7 +488,6 @@ Ulrich
 Ulrich H, Snyder B, Garg SK 
 Umpierrez GE, Palacio A, Smiley D 
 University of Toronto Board of Governors Insulin Committee
-V.
 Vanderford 
 Varman T
 Vaulont S, Vasseur-Cognet M, Kahn A
@@ -538,7 +498,6 @@ Voet
 Voet D, Voet JG 
 Voet D, Voet JG.
 Vos 
-W B
 W. Pratt 
 Wang W, Shi Q, Guo T, Yang Z, Jia Z, Chen P, Zhou C 
 Wang X, Wei X, Pang Q, Yi F 
@@ -563,8 +522,6 @@ Wright JR, Yang H, Hyrtsenko O, Xu BY, Yu W, Pohajdak B
 Xianjun Fang, Shuang Xing Yu, Yiling Lu, Robert C. Bast, Jr. James R. Woodgett, and Gordon B. Mills 
 Xie
 Xu
-Y.-J.
-YT
 Yajima
 Yanai
 Yanai H, Adachi H, Katsuyama H, Moriyama S, Hamasaki H, Sako A 
@@ -588,5 +545,4 @@ de Leiva A, Brugués E, de Leiva-Pérez A
 de Leiva-Pérez
 de Souza AM, López JA 
 de la Monte SM, Wands JR 
-et al.
 邹承鲁 ([[Zou Chenglu

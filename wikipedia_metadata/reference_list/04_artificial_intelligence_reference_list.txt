@@ -1,23 +1,6 @@
- 
 (Association of Computing Machinery) 
 (United States National Research Council) 
-1947-
-2024 3 Artificial 
-A
-A 
-A.
-A. 
 A. Courville 
-A. G.
-A. J. 
-A. L.
-A. R. 
-A. Y.
-A.R.
-A.R. 
-A.R.***!!***
-ACM 
-AI
 Aaron
 Aaron 
 Abdel-Raheem
@@ -93,7 +76,6 @@ Alhaidari
 Alharthi 
 Ali 
 Alice 
-Alistair Dabbs 22 Feb 2019
 Allen
 Allen 
 Allen  
@@ -184,7 +166,6 @@ Ashik Mahmud
 Ashish 
 Ashley 
 Ashley Stewart, Monica 
-Ashok83
 Ashwaq 
 Aslam 
 Association of Computing Machinery
@@ -203,9 +184,6 @@ Awni
 Axel 
 Aylett-Bullock 
 Aäron van den Oord 
-B.
-B. 
-B. M. 
 Babuschkin 
 Baccouche
 Bach 
@@ -365,14 +343,7 @@ Byford
 Byron 
 Bénichou 
 Bőthe 
-C 
-C.
-C. 
 C. West 
-C.***!!***
-CNA
-CNA 
-CNN 
 Cade
 Cade 
 Cadena
@@ -540,17 +511,11 @@ Cynthia Rudin
 Cynthia Rudin 
 Cédric 
 Céline
-D
 D L Dowe and A R Hajek 
 D'Onfro
-D.
-D. 
-D. L. 
 D. Moore 
 D. Preotiuc-Pietro 
 D. Tsarapatsanis 
-D.***!!***
-D.H. 
 Daan
 Daan 
 Dafflon 
@@ -685,14 +650,7 @@ Dyson
 Dyson 
 Döring 
 Düpjan 
-E
-E 
-E.
-E. 
 E. Forsythe 
-E.A.
-E.A. 
-EMK 
 Eapen
 Edelman 
 Edelson
@@ -768,7 +726,6 @@ Evers
 Evgeny 
 Ewa A. 
 Ewalds 
-F. 
 Fabio 
 Fahd A. 
 Fairhead 
@@ -844,13 +801,7 @@ Fuller
 Fumio Mizoguchi
 Fung 
 Fusco 
-G.
-G. 
 G. Buchanan 
-G. E.
-G. E. 
-G. J.
-G. J. 
 G. Jones 
 Ga-young 
 Gabriel
@@ -994,13 +945,6 @@ Guzmán
 Guérin 
 Gwynne 
 Gödel 
-H. 
-H. A.
-H. A. 
-H. K.
-H. P. 
-HP
-HP 
 HP Newquist
 HP Newquist 
 HP Newquist (writer) 
@@ -1034,7 +978,6 @@ Harmon
 Harri 
 Harris 
 Harry 
-Harry date=26 March 2011 
 Hart
 Hart 
 Harwell 
@@ -1139,12 +1082,7 @@ Hutson
 Hutter
 Hutter 
 Hyötyniemi
-I
 I-Chieh 
-I. 
-I. Ben-Gal, Y. Bukchin, O. Goldstain (2007)
-I. J.
-I. J. 
 I. J. Good
 I. J. Good 
 IGM Chicago
@@ -1184,15 +1122,9 @@ Ivakhnenko
 Ivano 
 Ivanov 
 Ivaskevics 
-J 
 J (Ed.)
 J Hernandez-Orallo and D L Dowe 
 J Werner
-J.
-J. 
-J. P.
-J. S.
-J. S. 
 Jack
 Jack 
 Jackie
@@ -1340,11 +1272,6 @@ Jürgen
 Jürgen 
 Jürgen Schmidhuber
 Jürgen Schmidhuber 
-K
-K.
-K. 
-K.***!!***
-KEN
 Kadlecová 
 Kahn 
 Kahneman
@@ -1472,11 +1399,6 @@ Kyle
 Kévin Kok
 Kévin Kok 
 Küchler
-L.
-L. 
-L.M. 
-LF 
-LOHR
 Lachlan 
 Lai
 Laird
@@ -1596,14 +1518,7 @@ Lyakhov
 Lyakhova 
 Lynley
 Lyon
-M
-M 
-M. 
-M. I.
-M. I. 
-M. Z. 
 M.Victoria
-MCGARRY
 Ma 
 Mackworth
 Mackworth 
@@ -1804,14 +1719,8 @@ Möller
 Möller 
 Müller
 Müller 
-N.
-N. 
 N. Aletras 
 N. Aletras, D. Tsarapatsanis, D. Preotiuc-Pietro, V. Lampos 
-N. F.
-N. F. 
-N.J
-NRC 
 NRC (United States National Research Council) 
 Nadia 
 Nagesh 
@@ -1901,7 +1810,6 @@ Nivedita
 Noam
 Noam 
 Nolfi
-Noopur (2019)
 Norvig
 Norvig 
 Norvig  
@@ -1920,11 +1828,6 @@ O'Connor, Kathleen Malone
 O'Donovan 
 O'Neill
 O'Neill,
-O.
-O. 
-O.***!!***
-OECD 
-October 28 
 Oda 
 Odile 
 Ogino 
@@ -1955,23 +1858,8 @@ Ouyang
 Oxenham
 Oyvind
 Ozair 
-P
-P H 
-P-Y. 
-P.
-P. 
 P. Bernt 
-P. C.
-P. C. 
-P. E.
-P. E. 
-P. J.
-P. J. 
-P. J.***!!***
-P. R. 
 P. Vincent 
-P.A. 
-P.R. 
 Pacholska 
 Padilla de la Torre 
 Pagallo 
@@ -2096,22 +1984,9 @@ Professor Sir James
 Pultarova 
 Pushmeet 
 Pym 
-Q. V.
 Quera-Bofarull 
 Quintais 
 Quoc V.
-R
-R 
-R.
-R. 
-R. A. 
-R. J. 
-R. M.
-R. M. 
-R. V.
-R. V. 
-R. V.***!!***
-R.***!!***
 Rachel R. R. 
 Radina Gigova 
 Rafael E. 
@@ -2263,14 +2138,8 @@ Rusu
 Ruth 
 Ryan
 Ryan 
-S.
-S. 
 S. Archer 
-S. E. 
 S. Sumathi 
-S. Y.
-STEVE 
-SU 
 Sabbagh 
 Sachs 
 Sack
@@ -2530,13 +2399,6 @@ Szu Ping
 Sánchez Sorondo 
 Söhnke M. 
 Søraker
-T 
-T.
-T. 
-T. C.
-T. C. 
-T. M.
-T. M. 
 Taddeo
 Tafjord
 Taha 
@@ -2634,9 +2496,6 @@ Turing
 Turney
 Tversky 
 Tyler 
-U.
-U. 
-U.A. 
 Ugo
 Ugo 
 Ulrich
@@ -2652,8 +2511,6 @@ Uriarte
 User:Drbogdan 
 Ustun 
 Uthemann 
-V.
-V. 
 V. Lampos 
 VOA News 
 Vadym
@@ -2697,11 +2554,6 @@ Volodymyr
 Volodymyr 
 Vowels 
 Véronique 
-W 
-W. B.
-W. B. 
-W. B. last3=McPhee 
-W. Y.
 Waddell
 Waddell 
 Wakefield, Jane
@@ -2786,8 +2638,6 @@ Xiangang
 Xihong
 Xilei 
 Xu
-Y.
-Y. 
 Y. Bengio 
 Yagnik 
 Yam 
@@ -2863,16 +2713,10 @@ Zsombor
 [[Stuart J. Russell
 [[Stuart J. Russell]]
 [[Terry Sejnowski
-admin 
-at 10:11
 da Costa 
 de Freitas
 de Garis
 de Garis 
-erson
-maschafilm
-maschafilm 
-sachin raju
 van Middelaar
 van den Driessche 
 van der Beek

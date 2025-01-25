@@ -1,12 +1,8 @@
- 
 '''Brown-Smith'''  
 '''Smith'''  
 '''Steven Michael'''  
-'''steve'''  
 , iPhone-news.eu
 :de:Rainer Mallebrein 
-A.
-A. 
 Ahn 
 Allvin
 Allvin, Rhian Evans
@@ -15,12 +11,6 @@ Andreas
 Andrei 
 Andrew
 Andrew 
-B.
-B. 
-BK
-BK 
-BS
-BS 
 Badal
 Badal 
 Baker 
@@ -41,10 +31,6 @@ Brasel
 Byeong-Kwon 
 Bérard
 Bérard 
-C.
-C. 
-CH
-CH 
 Carbonell
 Carrier 
 Catherine
@@ -54,14 +40,10 @@ Cheong
 Chi-Sun 
 Cho 
 Christine
-D.
-D. 
 David 
 David Pogue
 Du 
 Dustin
-E. A.
-E.A.
 Ebner 
 Emerson 
 Enrico
@@ -97,9 +79,6 @@ Hueter
 Hwang 
 Information
 Issa
-J. F. 
-JH
-JH 
 Jackie 
 Jaclyne
 Jaclyne 
@@ -118,8 +97,6 @@ Josh
 Ju
 Ju 
 Julia 
-KH
-KH 
 Kable
 Kang 
 Kent 
@@ -127,16 +104,12 @@ Keuling, Christopher
 Kim
 Kim 
 Kyung-Hyun 
-L.
-L. 
 Lee
 Lee 
 Leon D
 Lewis 
 Li 
 Lowe 
-M
-M.R.
 Mallebrein 
 Mark
 Mark 
@@ -151,11 +124,6 @@ Minsky,M.R.
 Mitchell 
 My animal book 
 Myunghee 
-N.
-N. W.
-N.W.
-NM
-NM 
 Nae-Man 
 Niels
 Orr
@@ -175,8 +143,6 @@ Pop
 Potter
 Potter 
 Priya 
-R.
-R. 
 Rainer 
 Reed Business
 Rhian Evans
@@ -219,14 +185,8 @@ Tim
 Touch Displays: A Programmed Man-Machine Interface
 Travis Fahs
 Tyrangiel
-USA 
-USPTO
-V. D.
-V.D.
 Very crazy chromebook 
 Vlad Savov
-WS
-WS 
 Walker
 Walker 
 Weldon
@@ -242,6 +202,3 @@ Zhu
 Zhu 
 [[Bent STUMPE]]
 [[Bent Stumpe]]
-gamer 
-josh 
-me

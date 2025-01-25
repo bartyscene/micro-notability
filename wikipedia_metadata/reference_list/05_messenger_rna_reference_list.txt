@@ -1,9 +1,3 @@
-A. 
-A. B. 
-A. D. 
-A.B. 
-A.H. 
-A.M 
 Aaron
 Abdalla
 Absalon
@@ -32,7 +26,6 @@ Artur
 Atilio 
 Avossa 
 Axel 
-B. 
 Bailey
 Baradaran 
 Barbarese 
@@ -56,9 +49,6 @@ Bradrick
 Brennecke J, Stark A, Russell RB, Cohen SM 
 Buck 
 Burdge 
-C. 
-C.Y. 
-C.Y.A. 
 Cameron P.
 Cameron P.
 Camila
@@ -96,12 +86,6 @@ Crawford
 Cristiano
 Cristofori 
 Crow
-D.
-D. 
-D.J. 
-DB
-DG
-DM
 Daniel
 Daniela 
 Daniella Y. 
@@ -124,8 +108,6 @@ Drapier D, Suzuki H, Levy H, Rimbault B, Kindle KL, Stern DB, Wollman FA
 Dray 
 Duijf 
 Dunagin 
-E. 
-E.L. 
 Eberwine 
 Ecker 
 Ed
@@ -140,7 +122,6 @@ Emanuel
 Eric
 Eulalio 
 Eulalio A, Huntzinger E, Nishihara T, Rehwinkel J, Fauser M, Izaurralde E 
-F.M. 
 Falsey
 Fauser 
 Fenger-Grøn M, Fillman C, Norrild B, Lykke-Andersen J 
@@ -158,10 +139,6 @@ Francesco
 Frederick P.
 Frenck
 Frenck 
-G 
-G. 
-G. J.
-G.J.M. 
 Gal 
 Gao 
 Gatfield 
@@ -206,18 +183,11 @@ Huntzinger
 Hurt
 Hüttelmaier
 Hüttelmaier S, Zenklusen D, Lederer M, Dictenberg J, Lorenz M, Meng X, Bassell GJ, Condeelis J, Singer RH 
-I. 
 Indrio 
 Isken 
 Isken O, Maquat LE 
 Izaurralde 
-J 
-J.
-J. 
-J. A. 
 J. Eric
-J.A.N. 
-JC
 James D.
 James Eberwine 
 James Watson 
@@ -245,8 +215,6 @@ John S.
 Josef 
 Judith
 Jun
-K.H.J. 
-KM
 Kaczmarek
 Kaczmarek JC, Kowalski PS, Anderson DG
 Kaczmarek JC, Kowalski PS, Anderson DG 
@@ -288,7 +256,6 @@ Kozlov
 Krause W 
 Krebs
 Kristin R.
-L.E. 
 Lai 
 Landthaler 
 Laura L. 
@@ -312,9 +279,6 @@ Luigi
 Lyke
 Lykke-andersen 
 López-Lastra M, Rivas A, Barría MI 
-M 
-M.
-M. 
 Maciej
 Mann 
 Maquat 
@@ -363,7 +327,6 @@ Nickerson
 Niehrs C, Pollet N 
 Nishihara 
 Norrild 
-O. 
 Obbard 
 Obbard DJ, Gordon KH, Buck AH, Jiggins FM 
 Olender 
@@ -373,9 +336,6 @@ Ong
 Oppizzi
 Oswald
 P. Polack
-P.E. 
-P.H.G. 
-PS
 Palazzo
 Pappenheimer 
 Pardee 
@@ -399,12 +359,8 @@ Priyabrata
 Pruijn 
 Przemyslaw
 Pérez Marc
-Q 
 Quaresma 
 Quaresma AJ, Sievert R, Nickerson JA 
-R. 
-R. H.
-R.D. 
 Raabe
 Rackham
 Raijmakers 
@@ -427,9 +383,6 @@ Russell
 Russo Spena 
 Ruta
 Ruth
-S.
-S.E. 
-SS
 Sachs 
 Salvatore Andrea 
 Samuli 
@@ -475,9 +428,6 @@ Susana
 Swanson
 Swen Malte 
 Szweykowska-Kulinska
-T 
-T. 
-TJ
 Tarnawsky
 Tasan
 Thess
@@ -489,7 +439,6 @@ Tresnan
 Tsviya 
 Türeci
 Türeci 
-U. 
 Urban
 Uğur
 Vale 
@@ -511,11 +460,8 @@ Whitehead
 William C.
 Wojtaszek
 Wyler 
-X 
-X.
 Xiaolong 
 Xing 
-YF
 Yoneda
 Yoshihiro
 Youssef

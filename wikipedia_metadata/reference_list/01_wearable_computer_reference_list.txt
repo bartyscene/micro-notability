@@ -3,7 +3,6 @@ Albanesius
 Amanda 
 Anna 
 Arif 
-B.
 Barfield
 Bilton
 Bilton 
@@ -19,7 +18,6 @@ Chris Davies
 Connexion
 Cornelius
 Corrina 
-D.
 D. C. Johnson 
 D. C. Johnson, D.C. Wong, J. D Flatt
 D.C. Wong 
@@ -29,7 +27,6 @@ Demczuk
 Djukic 
 Dorée
 Dvorak
-E. O.
 Edgar
 Edward
 Electronic Privacy Information
@@ -92,8 +89,6 @@ Rahn
 Research 
 Riddhi 
 Russell
-S.
-S. 
 Sakari
 Seligmann
 Shannon Y. 
@@ -111,9 +106,7 @@ Thad E.
 Thomas
 Thorp
 Todd R.
-V.
 VandeBunte 
-W.
 Weiss
 William
 Wolonick

@@ -19,7 +19,7 @@ AUTHOR_PATTERN = re.compile(
 )
 
 NAME_PATTERN = re.compile(r"[^\W\d_]+", re.UNICODE) # Regex to extract Unicode word characters
-
+FILTER_PATTERN = re.compile(r'^(?:[a-z\W]+|[A-Z\W]+|.*\d.*)$') # Regex to filter out lowercase, uppercase, and digit-containing strings
 COMMENT_PATTERN = re.compile(r'<!--.*?-->', re.DOTALL) # Regex to remove comments
 
 def extract_raw_names_from_citations(wikitext):
@@ -33,7 +33,7 @@ def extract_raw_names_from_citations(wikitext):
 
     for match in matches:
         for name_field in match:
-            if name_field:
+            if name_field and not FILTER_PATTERN.match(name_field):
                 name_parts.add(name_field)
     
     return name_parts
@@ -49,7 +49,7 @@ def extract_names_from_citations(wikitext):
 
     for match in matches:
         for name_field in match:
-            if name_field:
+            if name_field and not FILTER_PATTERN.match(name_field):
                 name_parts.update(NAME_PATTERN.findall(name_field))
                 
     return name_parts

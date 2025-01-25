@@ -1,17 +1,5 @@
 ((良艮創意,很好設計,李維宗設計))
-A
-A 
-A.
-A. 
-A. A 
-A. J.
-A. K.
-A. L 
 A. Wayne 
-AE 
-AF
-AM
-AQ
 Aadish
 Aaron
 Aaron J.
@@ -135,12 +123,6 @@ Ayaan
 Ayal
 Ayuso 
 Azangou-Khyavy M, Ghasemi M, Khanali J, Boroomand-Saboor M, Jamalkhah M, Soleimani M, Kiani J 
-B
-B 
-B. D.
-B.F 
-BA
-BS
 Baaske
 Babu M, Beloglazova N, Flick R, Graham C, Skarina T, Nocek B, Gagarinova A, Pogoutse O, Brown G, Binkowski A, Phanse S, Joachimiak A, Koonin EV, Savchenko A, Emili A, Greenblatt J, Edwards AM, Yakunin AF 
 Baccei
@@ -273,13 +255,7 @@ Bum Ju
 Burstein
 Burt 
 Béguin
-C
-C 
-C.
 C. Martin
-CB
-CL
-CR
 Cai
 Cai 
 Cailleret 
@@ -415,14 +391,8 @@ Cyranoski D
 Czerniecki 
 Cécile 
 Céline 
-D
-D 
 D van Soolingen, P E de Haas, P W Hermans, P M Groenen, and J D van Embden 
 D'Aniello
-D. 
-DA
-DG 
-DT
 Da Costa
 Da\vid
 Dabrowska
@@ -532,11 +502,6 @@ Dy
 Díez-Villaseñor
 Díez-Villaseñor C, Almendros C, García-Martínez J, Mojica FJ 
 Díez-Villaseñor C, Guzmán NM, Almendros C, García-Martínez J, Mojica FJ 
-E 
-E. D.
-E. S.
-EH
-EV 
 East-Seletsky
 East-Seletsky A, O'Connell MR, Knight SC, Burstein D, Cate JH, Tjian R, Doudna JA 
 Ebert
@@ -590,12 +555,9 @@ Eugene V.
 Eugenio G.
 Ewen 
 Ewen Callaway 
-F 
-F. 
 F. Ann
 F. Ann Ran 
 F. Grant
-FR
 Fagerlund
 Fagerlund RD, Wilkinson ME, Klykov O, Barendregt A, Pearce FG, Kieper SN, Maxwell HW, Capolupo A, Heck AJ, Krause KL, Bostina M, Scheltema RA, Staals RH, Fineran PC 
 Faghihi
@@ -656,13 +618,7 @@ Fuun
 Fye
 Fye 
 Fyodor 
-G
-G 
-G. M 
 G. Steven 
-GN 
-GRACE 
-GW
 Gabriel
 Gabriela Acevedo
 Gai-Xian
@@ -751,13 +707,6 @@ Guo Rong Daniel
 Guo X, Li XJ 
 Guo-Chang
 Gupta 
-H
-H 
-H.
-H. J 
-H. S 
-HF
-HUCKINS 
 Haas
 Habib
 Habib 
@@ -880,7 +829,6 @@ Huttenhofer
 Hwang WY, Fu Y, Reyon D, Maeder ML, Tsai SQ, Sander JD, Peterson RT, Yeh JR, Joung JK
 Hwang WY, Fu Y, Reyon D, Maeder ML, Tsai SQ, Sander JD, Peterson RT, Yeh JR, Joung JK 
 Hélène 
-I 
 I.-Hsiu
 Ian
 Ian M.
@@ -902,16 +850,7 @@ Israel
 Iván
 Iwasaki
 Iwasaki RS, Batey RT 
-J
-J 
-J.
-J. A 
 J. Joseph 
-J. L.
-J. P 
-J.-P.
-JS
-JV
 Jack E.
 Jacks
 Jackson 
@@ -1038,15 +977,6 @@ Junjiu
 Juzwa
 Jyoti
 Jérôme 
-K
-K 
-K. A 
-K. G 
-K. M 
-K. R 
-K. R. 
-KL
-KM
 Kadam US, Shelake RM, Chavhan RL, Suprasanna P 
 Kai
 Kai 
@@ -1164,11 +1094,6 @@ Kuruvilla
 Kwak 
 Kühn
 Kühner
-L 
-LA
-LG
-LK 
-LS
 Ladha
 Lai
 Lai 
@@ -1271,22 +1196,8 @@ Lundgren
 Lunstad
 Lv 
 Ly 
-M
-M 
 M Daniel
-M.
 M. Charles
-M. I.
-M. M 
-M. R.
-M.-L.
-MA
-MA 
-MEGAN 
-MK
-MOLTENI 
-MR
-MT
 Ma
 Ma 
 Ma D, Liu F 
@@ -1473,9 +1384,6 @@ Myhrvold
 Myhrvold 
 Mérien 
 Mérien A, Tahraoui-Bories J, Cailleret M, Dupont JB, Leteur C, Polentes J, Carteron A, Polvèche H, Concordet JP, Pinset C, Jarrige M, Furling D, Martinat C 
-N 
-N.
-N. 
 Nadler
 Nagano
 Nakajima
@@ -1557,12 +1465,9 @@ Nuñez JK, Harrington LB, Doudna JA
 Nuñez JK, Harrington LB, Kranzusch PJ, Engelman AN, Doudna JA 
 Nuñez JK, Kranzusch PJ, Noeske J, Wright AV, Davies CW, Doudna JA 
 Nuñez JK, Lee AS, Engelman A, Doudna JA 
-O 
 O'Connell
 O'Connor-Giles 
 O'Rourke
-O. R 
-O. S 
 Oakes
 Oakes BL, Nadler DC, Flamholz A, Fellmann C, Staahl BT, Doudna JA, Savage DF 
 Oki 
@@ -1587,10 +1492,6 @@ Oye
 Oye KA, Esvelt K, Appleton E, Catteruccia F, Church G, Kuiken T, Lightfoot SB, McNamara J, Smidler A, Collins JP 
 Ozuna 
 O’Donovan
-P
-P 
-P. 
-PH
 Palefsky
 Pan
 Panda
@@ -1698,14 +1599,8 @@ Qiwei
 Qu
 Quinquis
 Qyang
-R
-R 
-R.
 R. Alta
 R. Alta 
-RA 
-RP
-RV
 Rachel E.
 Rachele 
 Raj
@@ -1803,14 +1698,7 @@ Russell
 Ryan
 Ryan 
 Ryckbosch
-S
-S 
-S.
-S. B.-Y 
 S. Dusko
-S. J 
-S. L 
-SJ 
 Saad
 Saba 
 Sabo
@@ -2015,12 +1903,6 @@ Sánchez-León
 Sánchez-León S, Gil-Humanes J, Ozuna CV, Giménez MJ, Sousa C, Voytas DF, Barro F 
 Sánchez-Rivera
 Sánchez‐León 
-T
-T 
-T.
-T. C 
-T.-H.
-TI
 Tahraoui-Bories 
 Taishan 
 Takahashi
@@ -2092,7 +1974,6 @@ Turk
 Tyler
 Tyson GW, Banfield JF
 Tyson GW, Banfield JF 
-USDA
 Uchida
 Uchida 
 Udi
@@ -2101,10 +1982,6 @@ Urban
 Urlaub 
 Urnes
 Urnov 
-V
-V 
-V. J.
-V. M 
 Vakulskas
 Valerius
 Valinskyte 
@@ -2137,10 +2014,7 @@ Voytas
 Vyas
 Vyas VK, Barrasa MI, Fink GR 
 Vázquez-Vilar
-W
-W.
 W. Mark
-W.K.M 
 Wade 
 Walter
 Walter Isaacson
@@ -2252,9 +2126,6 @@ Xue
 Xue 
 Xuebing
 Xuewen 
-Y
-Y 
-Y.
 Yamaguchi
 Yamamoto
 Yamamoto 
@@ -2322,8 +2193,6 @@ Yuxi
 Yuyu N, Bin S, Yiqiang C, Yongchang C 
 Yuyu N, Bin S, Yiqiang C, Yongchang C, et al. 
 Yuyu Niu, Bin Shen, Yiqiang Cui, Yongchang Chen, et al. 
-Yuyu Niu1, Bin Shen, Yiqiang Cui3, Yongchang Chen, et al. 
-Z
 Zachary K. 
 Zengrong
 Zetsche

@@ -1,6 +1,3 @@
-A
-A 
-A.
 Aaron E. 
 Aarti 
 Aarvak
@@ -60,7 +57,6 @@ Attilio
 Attilio Bondanza
 Aude G.
 Axelgaard
-B. A.
 Bach
 Bachmann
 Bagg
@@ -141,11 +137,6 @@ Bupha-Intr
 Bupha-Intr O, Haeusler G, Chee L, Thursky K, Slavin M, Teh B 
 Bushman 
 Böltz
-C
-C.
-C. J.
-C. L.
-CJ
 Cabanov 
 Cachau 
 Cameron J.
@@ -234,10 +225,6 @@ Cummins
 Curran
 Curran 
 Curry 
-D R 
-D. G.
-D. R.
-DG
 Dai
 Dan
 Dan 
@@ -285,11 +272,6 @@ Dudley, M. E.
 Duong 
 Durgin 
 Duško 
-E 
-E K 
-E.
-E. K.
-E. P.
 Eder 
 Eder M 
 Edikan A. 
@@ -314,7 +296,6 @@ Essand
 European Medicines Agency
 Evbuomwan 
 Evgeniy
-F.
 Fabio 
 Faderl
 Fan 
@@ -357,8 +338,6 @@ Fu
 Fu 
 Fulton
 Funk 
-G 
-G.
 Gabriela 
 Gabriele 
 Gabrielle 
@@ -417,11 +396,6 @@ Grupp
 Guillermo
 Gulendran 
 Gust 
-H I 
-H S 
-H.
-H. I.
-H. S.
 Haeusler 
 Hagop M.
 Haiyan 
@@ -484,12 +458,7 @@ Isabelle
 Isabelle 
 Itoh
 Ivy P.
-J
-J M 
-J.
 J. Henri 
-J. M.
-JS
 Jacalyn 
 Jackson
 Jacobson
@@ -563,7 +532,6 @@ June
 June CH, Sadelain M 
 June Xu Hui 
 Junyun 
-K. M.
 Kalaitsidou
 Kalos
 Kantarjian
@@ -698,14 +666,7 @@ Lyh-Ping
 Lyman
 Lyman GH, Nguyen A, Snyder S, Gitlin M, Chung KC 
 Lynette 
-M
-M 
 M Travis 
-M Y 
-M.
-M. 
-M. R.
-M. Y.
 MacAry 
 MacKensen
 Maciej S
@@ -810,7 +771,6 @@ Muranski P, Boni A, Wrzesinski C, Citrin DE, Rosenberg SA, Childs R, Restifo NP
 Muranski P, Boni A, Wrzesinski C, Citrin DE, Rosenberg SA, Childs R, Restifo NP 
 MyLinh 
 Mythili
-N.
 Nabil
 Nagase
 Nagata
@@ -853,9 +813,6 @@ Orentas
 Ostrand-Rosenberg
 O’Connor 
 O’Doherty 
-P 
-P.
-P. S 
 Pamela A.
 Pan 
 Pantović-Žalig 
@@ -895,7 +852,6 @@ Pritha
 Pule
 Purdon
 Puré 
-Q.
 Qianru 
 Qin L, Lai Y, Zhao R, Wei X, Weng J, Lai P, Li B, Lin S, Wang S, Wu Q, Liang Q, Li Y, Zhang X, Wu Y, Liu P, Yao Y, Pei D, Du X, Li P 
 Qiu
@@ -985,9 +941,6 @@ Ruixue
 Ruppert-Seipp 
 Russotti 
 Ryan
-S H 
-S.
-S. H.
 S. Peter
 Saar
 Saar 
@@ -1109,10 +1062,6 @@ Suzanne
 Suzuki
 Swee Keong
 Syed Abbas 
-T 
-T G 
-T.
-T. G.
 Tai 
 Tan 
 Tan AH, Vinanica N, Campana D 
@@ -1158,8 +1107,6 @@ Tyrel T.
 Una 
 Urba
 Utsunomiya
-V F I 
-V. F. I.
 Van Bockstaele
 Van Bockstaele 
 Van Tendeloo
@@ -1177,7 +1124,6 @@ Virginia K.
 Vito Adrian 
 Vivian Jia Yi 
 Völkl
-W.
 Wagener
 Waks
 Waks 
@@ -1225,7 +1171,6 @@ Xu
 Xu-Yong
 Xue 
 Xueyu 
-Y.
 Yamaguchi
 Yang
 Yang 
@@ -1254,10 +1199,6 @@ Yu JX, Hubbard-Lucey VM, Tang J
 Yuan 
 Yucel 
 Yunxiao 
-Z 
-Z N 
-Z.
-Z. N.
 Zack 
 Zelig 
 Zhang
@@ -1280,7 +1221,5 @@ Ziller-Walter
 Zou
 Zuhaida Asra
 de Val 
-et al
-et al.
 von Bonin
 Špela 

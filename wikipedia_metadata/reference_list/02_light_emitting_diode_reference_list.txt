@@ -1,29 +1,6 @@
- 
-...
-... 
-2017
-2:00
-A B
-A R
-A.
-A. 
-A. A.
-A. A. 
 A. A. Efremov, N. I. Bochkareva, R. I. Gorbunov, D. A. Larinovich, Yu. T. Rebane, D. V. Tarkhin, and Yu. G. Shreter, 
-A. B.
-A. B. 
-A. B. C.
 A. E. Romanov 
 A. Gopal, M. Glaz, D.Vanden Bout, X.J. Zhang
-A. J.
-A. J. 
-A. M
-A. P. 
-A. R. 
-A. V.
-A. V. 
-A.D. 
-A.S. 
 AIXTRON, Inc 
 AND E. Jamgochian
 AND E. Jamgochian 
@@ -64,10 +41,6 @@ Arturas
 Arturas 
 Ashdown 
 Aubé
-B.
-B. 
-B. I.
-B. I. 
 Bachmann
 Bachmann 
 Bader
@@ -130,18 +103,8 @@ Burroughes
 Burroughes, JH and Bradley, DDC and Brown, AR and Marks, RN and Mackay, K. and Friend, RH and Burns, PL and Holmes, AB,
 Buzdugan
 Byung-Ki
-C
-C 
-C.
-C. 
-C. -J.
-C. -J. 
-C. A
 C. A. Accardo
 C. A. Accardo 
-C. C.
-C. C. 
-C.-J.
 Cabalo
 Cabalo 
 Cabrera 
@@ -156,7 +119,6 @@ Cappel
 Capper, Peter  
 Capper, Peter and Mauk, Michael  
 Carlesi 
-Carlessi, F., MO Oliveira2 HO Ando Junior, J. M. Neto, A. D. Spacek, V. L. Coelho, L. Schaeffer, H. Bordon, O. E. Perrone, and A. S. Bretas. 
 Carr, W. N. 
 Carr, W. N.  
 Carr, W. N. and G. E. Pittman 
@@ -216,20 +178,6 @@ Cortecchia
 Coxworth 
 Crawford
 Cui 
-D D C
-D.
-D. 
-D. -H.
-D. -H. 
-D. A.
-D. A. 
-D. D. C. 
-D. G
-D. H
-D. V.
-D. V. 
-D.-H.
-D.S. 
 Dadgar
 Dadgar 
 Dae-Young
@@ -278,17 +226,10 @@ Dror
 Dubinsky
 Ducati 
 Dutta
-E
-E.
-E. 
-E. A
-E. D.
-E. D. 
 E. Fred 
 E. Fred Schubert
 E. Fred Schubert and Jong Kyu Kim
 E. Hecht
-E. R
 Edmond
 Edwards 
 Efremov
@@ -309,8 +250,6 @@ Eun Kyung
 Eunjoo
 Evan
 Evan 
-F.
-F. 
 F. Pelayo García
 Fahlman 
 Fan 
@@ -339,13 +278,7 @@ Friend
 Friend 
 Fudin, M. S. 
 Fujita, S. 
-G.
-G. 
-G. A.
-G. A. 
 G. E. Pittman 
-G. M.
-G. M. 
 Gabriel J. 
 Galatanu
 Galia 
@@ -385,11 +318,6 @@ Guo
 Gustafsson
 Gustafsson 
 Gyu Weon
-H
-H 
-H.
-H. 
-H. A. 
 H. J. Round
 H. Lipsanen 
 H. Walter 
@@ -427,7 +355,6 @@ Hikosaka
 Hikosaka 
 Hin-Lap 
 Hiolski
-HiolskiFeb. 9
 Hisao
 Hisao 
 Hisashi
@@ -460,7 +387,6 @@ Hwang
 Hyosook
 Hyunduck
 Håkan 
-I. 
 I. Moreno 
 Ian E 
 Ian T
@@ -477,21 +403,7 @@ Ivan Moreno, and Ching-Cherng Sun
 Iveland 
 Iveland, Justin
 Izotov 
-J
-J H
-J N
-J.
-J. 
-J. A.
-J. A. 
-J. C.
-J. C. 
-J. H. 
 J. H. Wold and A. Valberg
-J. M. 
-J. N. 
-J. S
-J.M. 
 Jacques 
 Jaehee 
 Jaeheung
@@ -571,22 +483,11 @@ Junxi
 Justin 
 Justin Iveland, Lucio Martinelli, Jacques Peretti, James S. Speck, Claude Weisbuch.
 Justin Iveland, Lucio Martinelli, Jacques Peretti, James S. Speck, Claude Weisbuch. 
-K
-K 
-K.
-K. 
-K. -C.
-K. -C. 
-K. B.
 K. D. Mynbaev 
-K. E.
 K. E. Aifantis 
-K. J.
-K. J. 
 K. Lehovec
 K. Lehovec 
 K. Lehovec, C. A. Accardo, AND E. Jamgochian
-K. S.
 K.Hoshino
 Kai 
 Kanda
@@ -644,7 +545,6 @@ Kwak
 Kwon
 Kyu Hwan
 Kyung-Sang
-L. 
 Lacis
 Lacis 
 Lavrinovich
@@ -698,24 +598,9 @@ Lu
 Lu 
 Lucio 
 Luginbuhl
-M
-M 
-M.
-M. 
-M.  
-M. A. 
-M. C. 
-M. H.
-M. H. 
-M. K.-F.
-M. L
-M. L. 
-M. S.
-M. S. 
 M. S. Fudin 
 M. S. Fudin, K. D. Mynbaev, K. E. Aifantis, H. Lipsanen, V. E. Bougrov, A. E. Romanov
 M.C. Schlamp, and A.P. Alivisatos
-M.O. 
 Ma 
 MacKay
 MacKay 
@@ -800,12 +685,6 @@ Murphy
 Myeongjin
 Myers 
 Mynbaev, K. D. 
-N.
-N. 
-N. I. 
-N. J
-N. M. 
-N. N.
 Nadarajah
 Naeser, M.A. et al.
 Nakamura
@@ -843,14 +722,6 @@ Nosov
 Novikov 
 Nunoue
 Nunoue 
-O.
-O. 
-O. A. 
-O. V.
-O. V. 
-O.E. 
-O.H. 
-O.V. 
 Ogunseitan 
 Oh
 Ohno, Y.
@@ -864,11 +735,6 @@ Onomura
 Oskay 
 Oul
 Overbye 
-P
-P L
-P.
-P. 
-P. L. 
 Palese
 Pan
 Paola 
@@ -909,22 +775,6 @@ Qian
 Qiao 
 Qin 
 Quan
-R H
-R N
-R.
-R. 
-R. -H.
-R. -H. 
-R. G.
-R. H.
-R. H. 
-R. I.
-R. I. 
-R. J.
-R. J. 
-R. N. 
-R. W.
-R.-H.
 Raloff, Janet 
 Ranii
 Raoul E.
@@ -966,16 +816,7 @@ Round, H. J.
 Rowan 
 Run 
 Ruoxi 
-S.
-S. 
-S. -I.
-S. -I. 
-S. F. 
-S. M.
 S. Nakamura, T. Mukai, M. Senoh 
-S. R. 
-S.-I.
-SMAR ERA LIGTING SYSTEMS
 Sabina 
 Sabzalian
 Sagar 
@@ -1072,18 +913,8 @@ Sun
 Sun Young
 Supran
 Svilen
-T
-T.
-T. 
-T. P.
-T. P. 
-T. R.
-T. R. 
 T.&nbsp;S. 
 T.P. Pearsall, B.I. Miller, R.J. Capik, and K.J. Bachmann
-T.S.
-T. S. 
-T>. 
 Tachibana
 Tachibana 
 Tae-Ho
@@ -1149,14 +980,9 @@ Tsunemasa
 Tudor H.
 Tuev 
 Tullia
-U. 
-U. N.
 United States 
 Ute B. 
-V. A. 
 V. E. Bougrov 
-V. L. 
-V.L. 
 V.L. Colvin
 Valberg, A. 
 Valerie
@@ -1169,10 +995,6 @@ Veprek
 Villegas
 Vlad
 Vladimir
-W
-W. A.
-W. L
-W. L. 
 Wakikawa
 Wakikawa 
 Wan Ki
@@ -1213,9 +1035,6 @@ Wraback
 Wraback 
 Wu
 Wu 
-X
-X.
-X. 
 Xia 
 Xiangtian 
 Xianjie 
@@ -1240,11 +1059,7 @@ Xuan
 Xue
 Xue 
 Xuejun 
-Y.
-Y. 
-Y. G. 
 Y. Gu
-Y. T. 
 Ya-kun 
 Yamamoto, S.
 Yan
@@ -1298,8 +1113,6 @@ Yuan
 Yuanzhi 
 Yue Wang
 Yutaka
-Z.
-Z. 
 Zagrebnov 
 Zahra 
 Zang

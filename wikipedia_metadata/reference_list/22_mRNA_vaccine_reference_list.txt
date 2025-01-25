@@ -1,8 +1,3 @@
- 
-A
-A.
-A. F.
-AJ 
 Acsadi
 Agnes
 Agnes Jani
@@ -42,10 +37,6 @@ Armbruster
 Aude
 Aurelio
 Axel
-B
-B J
-B. 
-B. J. 
 Backert
 Bae 
 Bafaloukos 
@@ -93,8 +84,6 @@ Bull JJ, Nuismer SL, Antia R
 Burnett
 Busse
 Byk 
-C.
-C. M.
 Carlo
 Carlos E.
 Carlson
@@ -133,8 +122,6 @@ Cross R
 Cuiling
 Curiel
 D'Souza
-D.
-D. T.
 Daan J.A.
 Dahm
 Dam
@@ -213,7 +200,6 @@ Espinoza
 Esteban Ortiz
 Eugene 
 Eugene Gu 
-F.
 FDA Commissioner 
 Farid
 Feldmann
@@ -236,7 +222,6 @@ Frederick W.
 Frederick W. 
 Frédéric
 Fuchs
-G
 Garade 
 Garade D
 Garade D 
@@ -286,8 +271,6 @@ Gypsyamber
 Gyula
 Gyula Acsadi
 Günter
-H-G
-H.-G. 
 Haas
 Hajj KA, Whitehead KA 
 Halliday 
@@ -333,19 +316,12 @@ Huang TT, Parab S, Burnett R, Diago O, Ostertag D, Hofman FM, Espinoza FL, Marti
 Hubaud 
 Huber
 Hudson
-I
-I. 
-I. M.
 Ibañez
 Inder M. Verma
 Ine
 Ine 
 Ingmar
 Ip
-J
-J.
-J. 
-JB 
 Jackson
 Jackson NA, Kester KE, Casimiro D, Gurunathan S, DeRosa F 
 Jaffe-Hoffman 
@@ -458,8 +434,6 @@ Kwon D
 Kyounghwa 
 Kyriakidis
 Kyriakidis NC, López-Cortés A, González EV, Grimaldos AB, Prado EO 
-L.
-LA 
 Lallas
 Lambert
 Langer
@@ -494,8 +468,6 @@ Luo
 Lurie 
 Lévy
 López-Cortés
-M.
-M. J.
 Maayan 
 Magné
 Mahato 
@@ -575,7 +547,6 @@ Norbert
 Norbert 
 Noriyuki
 Nuismer
-O.
 Oberli
 Office of the 
 Office of the Commissioner
@@ -585,9 +556,6 @@ Oscar
 Ostertag
 Ostro
 Otten
-P
-P.
-P. L.
 PHG Foundation
 PHG Foundation 
 Palmer 
@@ -639,10 +607,6 @@ Probst
 Probst 
 Probst J, Weide B, Scheel B, Pichler BJ, Hoerr I, Rammensee HG, Pascolo S 
 Pulichino
-R.
-R. M.
-R. W.
-RP 
 Rabson 
 Rabson M
 Rabson M 
@@ -683,10 +647,6 @@ Rustom
 Ryan
 Ryan 
 Rémy
-S
-S 
-S.
-S. 
 Sago
 Sahin
 Sahin U, Karikó K, Türeci Ö
@@ -766,7 +726,6 @@ Tobi G.
 Tubulekas
 Tureci
 Türeci
-U.
 Ugur
 Ulmer
 Ulmer 
@@ -796,7 +755,6 @@ Vogel
 Vogel AB, Lambert L, Kinnear E, Busse D, Erbar S, Reuter KC, Wicke L, Perkovic M, Beissert T, Haas H, Reece ST, Sahin U, Tregoning JS
 Vogel AB, Lambert L, Kinnear E, Busse D, Erbar S, Reuter KC, Wicke L, Perkovic M, Beissert T, Haas H, Reece ST, Sahin U, Tregoning JS 
 Volkin
-W
 Wadman 
 Wadman M
 Wadman M 

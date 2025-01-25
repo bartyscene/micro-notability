@@ -1,12 +1,4 @@
-A
-A.
-A. 
-A. J. 
-A. M.
-A. P. 
-A. R.
 A.J. Morton 
-A.P. 
 Abe
 Abhilash 
 Adams 
@@ -28,11 +20,7 @@ Armstrong, G.
 Asadi
 Ashrafib, A. 
 Aïssa B, Therriault D, Haddad E, Jamroz W 
-B. 
-B. D.
 B. Kollbe
-B.-S.
-B.J.
 Barr 
 Bartlett
 Bauer G, Friedrich C, Gillig C, Vollrath F, Speck T, Holland C 
@@ -80,14 +68,6 @@ Busch S, Seidel R, Speck O, Speck T
 Busch, S. 
 Busch, S., Seidel, R., Speck, O., Speck, T.
 Busch, S., Seidel,R., Speck, O., Speck, T.
-C
-C-Y. 
-C.
-C. H. 
-C. J.
-C. J. 
-C.M.
-CNN
 Cabañero 
 Capelot
 Carmel
@@ -128,10 +108,6 @@ Cordier P, Tournilhac F, Soulié-Ziakovic C, Leibler L
 Cramer
 Cullinan JF, Wisnom M, Bond I 
 Curtis
-D
-D. 
-D.A.
-D.E.
 Dam
 Daniel A.
 Daniel C. 
@@ -169,15 +145,7 @@ Dubruel
 Duc Truong
 Duc Truong 
 Duong 
-E
-E. 
-E. D.
-E. N.
 E. N. Brown 
-E. T.
-E.N.
-E. T.
-EN
 Easterling
 Eberly
 Edvardsen
@@ -197,10 +165,6 @@ Erin
 Erin 
 Esser-Kahn 
 Esser-Kahn AP, Thakre PR, Dong H, Patrick JF, Vlasko-Vlasov VK, Sottos NR, Moore JS, White SR 
-F
-F.
-F.R.
-F.R. 
 Farle
 Farle AS, Kwakernaak C, van der Zwaag S, Sloof WG 
 Filip E.
@@ -210,12 +174,6 @@ Fortman DJ, Brutman JP, Cramer CJ, Hillmyer MA, Dichtel WR
 François
 Friedrich, C. 
 Fu 
-G
-G. 
-G. N. 
-G. Q. 
-G.M.
-GJ
 Garcia
 Georg M.
 Geubelle
@@ -233,16 +191,7 @@ Grubbs, R.
 Guan
 Guan, Z.
 Guiming
-H
-H R
-H.
-H. 
-H. J.
-H. J. 
 H., et al.
-H.L.
-H.M.
-H.R.
 Haddad 
 Haim
 Hamilton
@@ -279,32 +228,15 @@ Huang, M.
 Huang, M. and Yang, J
 Humberstone
 Hundiwale, D.G. 
-I P
-I. 
-I. P. 
 I.J. Polmear
-I.P.
-I.P. 
 III, Thomas H.
-IP
 Ian
 Ingraffea
 Israelachvili
-J
-J. 
-J. A.
-J. A. P. 
-J. C.
 J. Herbert
 J. Kyono 
-J. S.
 J. S. Moore 
-J. T. M.
-J.A.
-J.F. 
-J.S.
 J.Th.M.
-JS
 Jackson
 Jackson MD, Landis EN, Brune PF, Vitti M, Chen H, Li Q, Kunz M, Wenk HR, Monteiro PJ, Ingraffea AR 
 Jacob J
@@ -341,10 +273,6 @@ Jonkers
 Jonkers H 
 Jonkers HM, Thijssen A, Muyzer G, Copuroglu O, Schlangen E 
 Junna
-K
-K.
-K.M.
-K.S.
 Kalista
 Kalista Jr SJ, Ward TC, Oyetunji Z 
 Kang S, Jones AR, Moore JS, White SR, Sottos NR 
@@ -383,8 +311,6 @@ Kuzyk
 Kwakernaak
 Kwarkernaak
 Kyle C.
-L
-L.
 Laha K, Kyono J, Kishimoto S, Shinya N 
 Laha K, Kyono J, Shinya N 
 Laha, K.
@@ -427,23 +353,7 @@ Lumley, R.N., A.J. Morton, and I.J. Polmear
 Luo
 Luo X, Ou R, Eberly DE, Singhal A, Viratyaporn W, Mather PT 
 López-Manchado 
-M
-M R
-M.
-M. 
-M. A.
-M. J. 
-M. Q. 
-M. R.
-M. R. 
 M. R. Kessler 
-M. W.
-M. Z. 
-M.-C.
-M.M
-M.W.
-MA
-MR
 Madden
 Mahajan 
 Mahendra S. 
@@ -499,17 +409,10 @@ Munmaya K.
 Muyzer
 Mülhaupt 
 Mülhaupt, R.
-N
-N. 
-N. R.
-N. R. 
 N. R. Sottos 
 N. R. Sottos, P. H. Geubelle, J. S. Moore, M. R. Kessler, S. R. Sriram, E. N. Brown & S. Viswanathan
 N. R. Sottos, P. H. Geubelle, J. S. Moore, M. R. Kessler, S. R. Sriram, E. N. Brown & S. Viswanathan 
 N. Shinya
-N.R.
-N.R. 
-NR
 Naka
 Nakao
 Nakao W, Abe S 
@@ -537,8 +440,6 @@ Nosonovsky M, Rohatgi P
 Nosonovsky, M. and Rohatgi, P. 
 Nutt
 Nübling, F. 
-O
-O. 
 Odom
 Odriozola 
 Okamoto
@@ -549,16 +450,7 @@ Ono M, Nakao W, Takahashi K, Nakatani M, Ando K
 Or S.
 Ou
 Oyetunji
-P
-P.
-P. 
-P. H.
 P. H. Geubelle 
-P.M.
-P.R. 
-P.T.
-P.V.
-PH
 Pacheco J, Šavija B, Schlangen E, Polder RB
 Pang JW, Bond IP 
 Pang, J. W. C. 
@@ -581,13 +473,6 @@ Philip F.
 Qiangang 
 Qilong
 Qinfei
-R S
-R.
-R. 
-R. S. 
-R.S.
-R.S. 
-RS
 Ramini
 Ramini SK, Kuzyk MG 
 Rampf 
@@ -608,24 +493,9 @@ Rong, M.Z.
 Ruiz De Luzuriaga 
 Ryoji
 Rüggeberg, M. 
-S
-S.
-S. 
-S. C.
-S. R.
-S. R. 
 S. R. Sriram 
 S. Viswanathan
-S.A.
-S.B.
-S.C.
-S.H.
-S.J.
-S.L.B.
-S.R.
-S.R. 
 S.R. et.al.
-SR
 Sada
 Sada, K.
 Sada, K. 
@@ -711,10 +581,6 @@ Susan A.
 Swapan Kumar
 Swapan Kumar 
 Sybren K.
-T C
-T. 
-T.-W.
-T.C.
 Ta 
 Takahashi
 Takeda 
@@ -742,8 +608,6 @@ Tutika R, Haque AT, Bartlett, MD
 Unterlass
 Urban
 Utrera-Barrios 
-V.
-V.K. 
 Van Loo
 Van Tittelboom
 Van Tittelboom K, De Belie N, Van Loo D, Jacobs P 
@@ -764,11 +628,6 @@ Viswanathan
 Vitti
 Vlasko-Vlasov 
 Vollrath, F. 
-W
-W.
-W. 
-W. G.
-W.G.
 Waite
 Wang
 Wang 
@@ -805,16 +664,10 @@ Wu-jun
 Wudl
 Wudl, F.
 Wudl, F. 
-X.
 Xiaonan
 Xiaoning
 Xin
 Xu 
-Y.
-Y. 
-Y. C. 
-Y. T.
-Y.T.
 Yamaguchi
 Yamaguchi M, Ono S, Okamoto K 
 Yanfeng
@@ -838,7 +691,6 @@ Yuan YC, Yin T, Rong MZ, Zhang MQ
 Yuan, Y.C. 
 Yulin
 Yuzhan
-Z.
 Zachary 
 Zang, M.Q.
 Zang, M.Q. 
@@ -855,7 +707,6 @@ Zhu M, Rong MZ, Zhang MQ
 Zuilhof, Han
 Zwaag, S.V.D
 de Rooij
-et al 
 in het Panhuis 
 van der Zwaag
 von Tapavicza, M. 

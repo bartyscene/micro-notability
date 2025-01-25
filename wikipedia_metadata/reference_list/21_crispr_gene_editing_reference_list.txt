@@ -1,10 +1,4 @@
- 
 ((良艮創意,很好設計,李維宗設計))
-12:45
-2018
-2022 {{!
-A. 
-AFP
 Abrahimi P, Chang WG, Kluger MS, Qyang Y, Tellides G, Saltzman WM, Pober JS
 Abrahimi P, Chang WG, Kluger MS, Qyang Y, Tellides G, Saltzman WM, Pober JS 
 Abudayyeh
@@ -86,7 +80,6 @@ Avery E.
 Axelgaard
 Aya 
 Ayal
-B.F 
 Badran 
 Bae 
 Bak
@@ -163,7 +156,6 @@ Buchanan
 Buhr
 Buhr S 
 Byrne 
-C 
 Caccamo 
 Cai 
 Cai L, Fisher AL, Huang H, Xie Z 
@@ -226,7 +218,6 @@ Cleber A.
 Cohen
 Cohen 
 Cohen J 
-CohenJun. 4
 Colin R.
 Collingwood
 Colzato 
@@ -336,7 +327,6 @@ Evan H.
 Evert 
 Ewen-Campen
 Excision BioTherapeutics 
-F. 
 F. Ann
 Fan
 Fan 
@@ -370,7 +360,6 @@ Fu
 Fu Y, Sander JD, Reyon D, Cascio VM, Joung JK 
 Fye 
 Fye S 
-G. 
 Gadgil 
 Gallagher J 
 Gane
@@ -433,7 +422,6 @@ Gutstein
 Guy L.
 Götz
 Götz L, Svanidze M, Tissier A, Brand A 
-H. 
 Habib
 Haffner 
 Haiyan 
@@ -523,8 +511,6 @@ Itohara
 Iva 
 Iwasaki RS, Batey RT 
 J Keith 
-J. 
-J. A. 
 J. Keith
 J. Keith 
 JV Chamary
@@ -623,7 +609,6 @@ Kadam US, Shelake RM, Chavhan RL, Suprasanna P
 Kadina 
 Kaiser
 Kaiser J 
-KaiserJun. 26 
 Kaiyi 
 Kakimoto 
 Kalebic 
@@ -773,7 +758,6 @@ Luke A.
 Lunstad
 Ly 
 Ly J 
-M. 
 M. Domenica
 M. Kyle
 M. Rudin 
@@ -822,7 +806,6 @@ Max J.
 Maximillian 
 Maxmen 
 Max A.
-May 12 
 Mayura 
 Mazhar 
 McCool 
@@ -880,7 +863,6 @@ Muneaki
 Muotri 
 Murphy 
 Muñoz-Subirana 
-N. 
 Nakamura 
 Namba 
 Naomi
@@ -920,7 +902,6 @@ Norbert
 Nozomu 
 Nuphar
 Nuñez JK, Harrington LB, Doudna JA 
-O 
 Oakes BL, Nadler DC, Flamholz A, Fellmann C, Staahl BT, Doudna JA, Savage DF 
 Oddo 
 Odom
@@ -938,7 +919,6 @@ Owens R
 Oye KA, Esvelt K, Appleton E, Catteruccia F, Church G, Kuiken T, Lightfoot SB, McNamara J, Smidler A, Collins JP 
 O’Connell
 O’Connell 
-P. 
 Paa 
 Packer 
 Palczewski 
@@ -1006,7 +986,6 @@ Qi
 Qian 
 Qiongqiong 
 Qiurong 
-R. 
 R. David
 Radiloff 
 Rafał 
@@ -1075,9 +1054,6 @@ Ryan
 Ryan A. 
 Ryan S. 
 Ryosuke 
-S. 
-S. A. 
-S. J. 
 Sabrina 
 Sadr 
 Sae 
@@ -1257,13 +1233,11 @@ Trujillo CA, Rice ES, Schaefer NK, Chaim IA, Wheeler EC, Madrigal AA, Buchanan J
 Truong DJ, Kühner K, Kühn R, Werfel S, Engelhardt S, Wurst W, Ortiz O 
 Tsai 
 Tyler L. 
-USDA
 Uddin 
 Uddin F, Rudin CM, Sen T 
 Ueda 
 Ujita 
 Ulrich 
-V. 
 Vakulskas
 Vakulskas 
 Vakulskas CA*, Dever DP*, Rettig GR, Turk R, Jacobi AM, Collingwood MA, Bode NM, McNeill MS, Yan S, Camarena J, Lee CM, Park SH, Wiebking V, Bak RO, Gomez-Ospina N, Pavel-Dinu M, Sun W, Bao G, Porteus MH**, Behlke MA**.
@@ -1284,7 +1258,6 @@ Vipin
 Virginijus
 Viswanatha
 Vollmers 
-W.K.M 
 Wade 
 Wade N 
 Walker 
@@ -1438,8 +1411,6 @@ contact Vivian
 de Kleijn 
 de la Fuente
 del Amo 
-editor
-information 
 van Diemen FR, Kruse EM, Hooykaas MJ, Bruggeling CE, Schürch AC, van Ham PM, Imhof SM, Nijhuis M, Wiertz EJ, Lebbink RJ 
 van Erp PB, Bloomer G, Wilkinson R, Wiedenheft B 
 Šikšnys

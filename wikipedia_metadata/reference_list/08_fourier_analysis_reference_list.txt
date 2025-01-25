@@ -1,13 +1,6 @@
-1Brack-Bernsen
-A. D. 
-A. V. 
-A.D. 
-A.V. 
 Anthony W.
 Audrey
 Audrey Terras
-B. S. 
-B.S. 
 Bernard 
 Bowley 
 Bowley, Roger
@@ -18,29 +11,20 @@ Brack-Bernsen
 Brian 
 Briggs
 Burrus 
-C. S. 
-C.S. 
 Cafer Ibanoglu 
 Carl
 Carl 
 Conte 
-D. H. 
 D. Scott Birney 
-D.H. 
 David Oesper 
 Dimitri G. 
 Donald E.
 Donald E. 
-E. M. 
-E. W. 
-E.M. 
-E.W. 
 Elena
 Evans
 Evans 
 Fabrizio
 Forrest 
-G. 
 Gian-Carlo
 Gian-Carlo Rota
 Gold 
@@ -58,13 +42,9 @@ Kline
 Knapp
 Knuth
 Knuth 
-L.
-L. 
 Lawrence
 Lawrence R. 
 Lis
-M. T. 
-M.T. 
 Manolakis 
 Manzhirov 
 Matthias
@@ -98,10 +78,7 @@ Rota
 Routh 
 Rudin
 Rudin 
-S. D.
-S. D. 
 Saferstein 
-Shiv Dutt Joshi1
 Singh
 Singh 
 Smith 
@@ -109,8 +86,6 @@ Solovyev
 Stein 
 Steven W.
 Steven W. 
-T. N. 
-T.N. 
 Terras
 Van Emden
 Viktor

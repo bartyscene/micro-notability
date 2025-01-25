@@ -1,11 +1,3 @@
- 
-A
-A 
-A.
-A. 
-A. E.
-A. P.
-AD
 Abernethy
 Abhishek
 Adams 
@@ -69,7 +61,6 @@ Ashley EA
 Ashley EA, Butte AJ, Wheeler MT, Chen R, Klein TE, Dewey FE, Dudley JT, Ormond KE, Pavlovic A, Morgan AA, Pushkarev D, Neff NF, Hudgins L, Gong L, Hodges LM, Berlin DS, Thorn CF, Sangkuhl K, Hebert JM, Woon M, Sagreiya H, Whaley R, Knowles JW, Chou MF, Thakuria JV, Rosenbaum AM, Zaranek AW, Church GM, Greely HT, Quake SR, Altman RB 
 Asselbergs
 Asselbergs 
-BJ
 Bachi
 Bachi 
 Bacino 
@@ -137,9 +128,6 @@ Bulotta
 BusinessWire.com
 Byeon
 Byeon 
-C. 
-C.J. 
-CG
 Cai 
 Caitlin 
 Caleb 
@@ -229,9 +217,6 @@ Culibrk
 Cunningham
 Curtis 
 Cynthia J. 
-D 
-DB
-DS
 Damek
 Damek 
 Dan 
@@ -295,9 +280,6 @@ Duffy
 Duffy MJ 
 Dustin 
 D’Souza 
-E 
-E. 
-EA 
 Eby
 Eby 
 Edward 
@@ -372,12 +354,6 @@ Fu
 Fuchs 
 Fujii
 Fujii K, Nakamura H, Nishimura T 
-G
-G 
-G. 
-G. S.
-G.A. 
-GN
 Gage
 Gage 
 Gahl 
@@ -430,7 +406,6 @@ Gunnar
 Gupta 
 Guy Haskin
 Guy Haskin 
-H.
 Hagen 
 Haibe-Kains
 Haines
@@ -493,13 +468,6 @@ Irene
 Isaac S. 
 Ivan V. 
 Izumchenko 
-J
-J.
-J. J.
-J. L. 
-J.L.
-J.M.T. 
-JR 
 Jacob 
 Jacqueline 
 Jacqueline F. 
@@ -542,10 +510,6 @@ Julia
 Julia R.
 Julian C.
 Jurisica
-K
-K. 
-KJ
-KL 
 Kadija
 Kaiser
 Kaiser 
@@ -599,9 +563,6 @@ Kozumplik
 Krittanawong C, Zhang H, Wang Z, Aydar M, Kitai T 
 Kuppusamy
 Kwan 
-L. J.
-L.M. 
-LM 
 Landrum
 Langbein T, Weber WA, Eiber M 
 Larsimont
@@ -651,17 +612,6 @@ Luis M.
 Luis M. 
 Luka 
 Luo 
-M
-M 
-M.
-M. 
-M. J
-M. L.
-M.J 
-M.R. 
-MA 
-MJ
-MN
 Ma 
 MacArthur
 MacArthur 
@@ -747,8 +697,6 @@ Mungall
 My Linh 
 Mya 
 Myrna M. 
-N
-N 
 Nakamura
 National Research Council 
 National Research Council (US) Committee on A Framework for Developing a New Taxonomy of Disease 
@@ -768,7 +716,6 @@ Niko
 Niko 
 Nishimura
 Noureddine 
-O
 Ogino 
 Ogino S, Lochhead P, Chan AT, Nishihara R, Cho E, Wolpin BM, Meyerhardt JA, Meissner A, Schernhammer ES, Fuchs CS, Giovannucci E 
 Ogino S, Lochhead P, Giovannucci E, Meyerhardt JA, Fuchs CS, Chan AT 
@@ -779,7 +726,6 @@ Orme
 Ozdemir
 Ozerov 
 O’Leary 
-P 
 PGxNews.Org
 Paige Winfield 
 Palles 
@@ -818,11 +764,6 @@ Priyadharshini
 Priyadharshini VS, Teran LM 
 Provost 
 Pun 
-R
-R.
-R. J.
-R. W.
-RD
 Rachel 
 Radhakrishnan
 Rakesh
@@ -874,11 +815,6 @@ Rui
 Rundek 
 Russ B.
 Russ B. 
-S
-S 
-S. 
-S. A.
-SY 
 Sadeghi 
 Saglio 
 Saglio G
@@ -1021,10 +957,6 @@ Umar
 Undiagnosed Diseases Network 
 Urban 
 Uzun
-V
-V. 
-V. S.
-V.S. 
 Vandana 
 Vanesa 
 Vayena
@@ -1043,7 +975,6 @@ Volpe
 Vural
 W Jeffrey 
 W. Jeffrey
-WK 
 Waddell 
 Walley 
 Walter
@@ -1087,8 +1018,6 @@ Xiaoyuan
 Xie
 Xie 
 Xie J, Lee S, Chen X 
-Y. 
-YF
 Yahata
 Yahata N, Kasai K, Kawato M 
 Yamamoto 
@@ -1119,6 +1048,4 @@ Zusheng
 de Graaf 
 de Kleijn 
 den Ruijter 
-et al. 
-et. al.
 van't Veer LJ, Bernards R 

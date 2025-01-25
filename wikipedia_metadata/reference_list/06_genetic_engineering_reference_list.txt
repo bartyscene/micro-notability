@@ -1,13 +1,6 @@
- 
 '''Bold text'''
-)
--
 =Roque
 =Roque 
-A 
-A.M.
-AC
-AC 
 AND Arthur D. Riggs 
 Aaron
 Aaron 
@@ -70,9 +63,6 @@ Assad-Garcia
 Atom 
 Avise
 Avraham A 
-B T
-B T 
-B.
 Bai
 Bak
 Baltimore 
@@ -123,15 +113,8 @@ Bruce
 Bruening 
 Bruening G, Lyons JM 
 Brugliera 
-C. 
-C. A. 
-C. H. 
 C. Neal 
 C. Neal Stewart, J
-C.A. 
-C.H. 
-CR
-CR 
 Cain
 Caise, Heather 
 Calvey 
@@ -191,14 +174,6 @@ Crea
 Curran
 Cyranoski
 Cyrus
-D 
-D. G. 
-D. R.
-D.G. 
-D.R.
-DA
-DF.
-DF. 
 Dabrock
 Dabrock P 
 Dai
@@ -258,11 +233,6 @@ Dubois-Dauphin
 Dubois-Dauphin 
 During 
 Dyson 
-E 
-E.
-E. 
-E. A. 
-E.A. 
 Edward
 Edward 
 Ehud 
@@ -301,11 +271,7 @@ Esvelt KM, Wang HH
 European Commission. Directorate-General for Research
 Evans
 Evans 
-F 
-F.
-F. J.
 F. Nicholas
-F.J.
 Fabio
 Fahrenkrug
 Fahrenkrug 
@@ -336,12 +302,7 @@ Fukui
 Funk
 Funk 
 Fyodor 
-G
-G. 
-G. A. 
 G. Steven 
-G.A. 
-GK
 Galen P.
 Gao H, Smith J, Yang M, ''et al.'' 
 Gao H, Smith J, Yang M, Jones S, Djukanovic V, Nicholson MG, West A, Bidney D, Falco SC, Jantz D, Lyznik LA 
@@ -389,16 +350,8 @@ Grubman
 Grubman 
 Guo-Qing 
 Gutschi S, Hermann W, Stenzl W, Tscheliessnigg KH 
-H
-H. J. 
-H. O. 
-H.G. 
 H.G. Hughes, E. Porceddu, F. Nicholas
 H.G. Hughes, M. Strachan, F. Nicholas
-H.J. 
-H.O. 
-HH.
-HH. 
 Hacein-Bey-Abina 
 Hackett
 Hackett 
@@ -444,8 +397,6 @@ Hughes
 Huimin 
 Hull 
 Hutchison Ca 
-I 
-I.
 Ian 
 Ian M.
 Ian Sample
@@ -462,15 +413,6 @@ Ivan R.
 Ivan R. 
 Ivelise V.
 Iwahashi
-J 
-J. C. 
-J. E. 
-J. I. 
-J.C. 
-J.E. 
-J.I. 
-J.M. 
-JA 
 Jackson
 Jackson 
 Jackson DA, Symons RH, Berg P 
@@ -537,13 +479,6 @@ Julian
 Junichi 
 Junjiu
 Jurcic
-K 
-K.
-KM.
-KM. 
-KR
-KR 
-KS
 Kaphengst
 Kaphengst 
 Kaplitt 
@@ -599,8 +534,6 @@ Kurlan
 Kurnaz
 Kusumi 
 Kwon
-L.
-L. 
 Lanphier 
 Lartigue 
 Lavergne
@@ -648,20 +581,6 @@ Lv
 Lynch
 Lynch 
 Lyons 
-M 
-M.
-M. 
-M. A. 
-M. F.
-M. G. 
-M. M. 
-M.A. 
-M.G. 
-M.M. 
-MA.
-MF 
-MW.
-MW. 
 Ma
 Ma 
 MacKenzie 
@@ -726,7 +645,6 @@ Michelle Marvier
 Miller
 Minorsky
 Mirko 
-Monday, Nov. 15, 1982 
 Montague 
 Moodie 
 Moraga
@@ -737,8 +655,6 @@ Morris, Michael
 Morse
 Morse 
 Mustafa S 
-N 
-N. 
 Nadja
 Nadja 
 Nakamura 
@@ -773,13 +689,7 @@ Olszewska
 Oriana
 Oros
 Osborne 
-P
-P. 
 P. Dilip
-P. P. 
-P.P. 
-PB.
-PB. 
 Pamela
 Panchin
 Panchin AY, Tuzhikov AI 
@@ -822,15 +732,8 @@ Qi
 Qing
 Qiu
 Qu
-R
-R I
-R I 
 R I Kaufman and B T Nixon
-R. 
 R. Alta 
-R.-Y. 
-RH
-RO 
 Rachel
 Raff
 Raff 
@@ -889,19 +792,7 @@ Ross
 Rozin
 Rui
 Ryan 
-S 
-S.
-S. 
-S. B.
-S. B. 
-S.B.
-S.C.
-S.C. 
 S.C. Ekker
-S.C.S
-SA
-SC.
-SC. 
 Sabrina
 Sadelain
 Saeed 
@@ -989,9 +880,6 @@ Suter
 Suter DM, Dubois-Dauphin M, Krause KH 
 Sydney E.
 Symons
-T. H. 
-T.H. 
-TA 
 Tadaaki 
 Tadaaki Hirose 
 Taipa
@@ -1045,8 +933,6 @@ U.S. Office of Science and Technology Policy
 US Supreme Court Cases from Justia & Oyez
 Urnov 
 Urry
-V
-V. N. 
 Van And basically you don't have to read this whole article i mean why waste the time go watch an episode of Grey's Anatomy or whatever and chillax and rebel against all those teachers that are making you work as if it could end all the poverty in the world or whatever so okay then bye Eenennaam
 Van Eenennaam
 Van Eenennaam 
@@ -1059,8 +945,6 @@ Vert
 Vert M, Doi Y, Hellwich KH, Hess M, Hodge P, Kubisa P, Rinaudo
 Vert M, Doi Y, Hellwich KH, Hess M, Hodge P, Kubisa P, Rinaudo M, Schué F 
 Vogel
-WS.
-WS. 
 Wade 
 Walter
 Walter 
@@ -1088,9 +972,6 @@ Xie
 Xiuyan
 Xiya
 Xu
-Y
-Y 
-Y.T.
 Yamamoto 
 Yang
 Yang YT, Chen B 
@@ -1108,12 +989,10 @@ Young
 Yujing
 Yukihisa 
 Yukihisa Katsumoto ''et. al''
-Yukihisa Katsumoto1 ''et. al''
 Yuko 
 Yunzi 
 Yuxi
 Yvette
-Z.-Q. 
 Zaid 
 Zaid A, Hughes HG, Porceddu E, Nicholas F 
 Zakerbostanabad 
@@ -1124,5 +1003,4 @@ Zhou
 Zohary 
 [[David Baltimore
 de la Barca 
-genietic is something in your body
 zaJVLUJGCGFX VFHDRTYFGCGHJ(

@@ -28,7 +28,6 @@ Christopher D.
 Christopher D. Manning
 Clark 
 Corrado 
-Corrado irst4=Greg S. 
 Croft 
 Dai 
 Dan
@@ -152,7 +151,6 @@ Tianchang
 Tomas 
 Toutanova
 Turner 
-V.G.
 Vijay 
 Vydiswaran
 W B Croft 

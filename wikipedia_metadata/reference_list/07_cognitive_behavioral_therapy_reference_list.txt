@@ -1,28 +1,8 @@
- 
-((APA Div. 12 (Society of Clinical Psychology))) 
-A
-A 
-A.
-A. 
-A. A.
-A. C.
-A. E. 
 A. John
 A. John 
 A. Meade
 A. Meade 
-A. P.
-A. P. 
-A.-M.
-A.-M. 
-A.M. 
 A.P. Mannarino, J.M. Perel,  V. Staron
-AE
-AM
-AN 
-APA Div. 12 (Society of Clinical Psychology) 
-AR
-AT
 Aaron 
 Aaron T.
 Abere
@@ -180,11 +160,6 @@ Austin
 Ayllon T, Azrin N
 Ayllon T, Azrin N 
 Ayllon, T & Azrin, N 
-B
-B 
-B.
-B. 
-BJ 
 BMJ Publishing Group Ltd and RCN Publishing Company
 Baardseth
 Baardseth T. P. 
@@ -318,13 +293,6 @@ Butler AC, Chapman JE, Forman EM, Beck AT
 Butler G, Fennell M, Hackmann A 
 Byford 
 Byroads 
-C
-C 
-C.
-C. 
-C.W.
-C.W. 
-CA. 
 Caldwell
 Calhoun 
 Cameron
@@ -475,13 +443,7 @@ Curry J.
 Cwik M.F. 
 Cynthia
 Cynthia 
-D
-D.
-D. 
-D. Lyncha1, K. R. Lawsa2 and P. J. McKennaa3a4&nbsp;c1 
 D. Martin
-DH
-DJ
 Dale W. 
 Dalsbø
 Dalsbø 
@@ -534,7 +496,6 @@ Derek D.
 Derson 
 Derubeis
 Derubeis 
-DescriptionThe British North America Acts 1867–1975 are a series of Acts of Parliament at the core of the constitution of Canada. They were enacted by the Parliament of the United Kingdom and the Parliament of Canada. In Canada, some of the Acts were amended or repealed by the Constitution Act Millar
 Devine
 Devine 
 Devine PG, Forscher PS, Austin AJ, Cox WT 
@@ -579,12 +540,6 @@ Duggan
 Duggan GB 
 Dunlap 
 Dunn 
-E
-E 
-E.
-E. 
-E. B.
-EB 
 Eatock 
 Edited by Mark A. Reinecke, Frank M. Dattillo, Arthur Freeman; foreword by Aaron T. Beck
 Edmunds
@@ -646,10 +601,6 @@ Eysenck
 Eysenck HJ 
 Eysenck, H
 Eysenck, H 
-F
-F 
-F.
-F. 
 Fairburn
 Fairburn 
 Fancher RT 
@@ -724,14 +675,8 @@ Frost N. D.
 Furr
 Furr 
 Furukawa
-G
-G.
-G. 
-G. N.
-G. N. 
 G. Paul
 G. Paul 
-G.B.
 Gabrielle
 Gaelen P. 
 Galvin
@@ -842,19 +787,6 @@ Gutiérrez
 Gutiérrez M, Sánchez M, Trujillo A, Sánchez L 
 Guy
 Guy 
-H
-H 
-H.
-H. 
-H. J.
-H. J. 
-HE
-HE 
-HI 
-HP
-HP 
-HW
-HW 
 Ha
 Hacker
 Hacker 
@@ -981,9 +913,6 @@ Hussain
 Härter
 Høifødt RS, Strøm C, Kolstrup N, Eisemann M, Waterloo K
 Høifødt RS, Strøm C, Kolstrup N, Eisemann M, Waterloo K 
-I
-IM
-IM 
 INSERM Collective Expertise Centre
 INSERM Collective Expertise Centre 
 Iles-Caven 
@@ -1005,18 +934,9 @@ Iverach L, Menzies RG, O'Brian S, Packman A, Onslow M
 Iverach L, Menzies RG, O'Brian S, Packman A, Onslow M 
 Ivy-Marie Blackburn 
 Iván
-J
-J 
-J.
-J. 
-J. A.
-J. A. 
 J. Anthony
 J. Anthony 
 J. Cottraux, M. Cucherat, I. Blackburn
-J.A.
-JR
-JS
 Jaccard 
 Jackson
 Jackson 
@@ -1127,12 +1047,6 @@ Justine
 Justine 
 Jüni
 Jürgen
-K
-K.
-K. 
-K. R.
-K. R. 
-KARL E. MILLER, M.D. 
 Kaczkurkin 
 Kaczkurkin AN, Foa EB
 Kaczkurkin AN, Foa EB 
@@ -1261,16 +1175,6 @@ Kyle
 Kyle 
 Kyrios
 Kühne
-L
-L 
-L G 
-L.
-L. 
-L. R. 
-L. Y.
-L. Y. 
-L.B.
-LM
 Lackner 
 Lackner JM, Keefer L, Jaccard J, Firth R, Brenner D, Bratten J, Dunlap LJ, Ma C, Byroads M 
 Lambert 
@@ -1394,22 +1298,10 @@ Lynch D
 Lynch D, Laws KR, McKenna PJ
 Lynch D, Laws KR, McKenna PJ 
 Lyons
-M
-M 
 M Caroline
-M.
-M. 
-M. C.
-M. C. 
 M. David
 M. David 
 M. Dawn 
-M. J. 
-M. R.
-M. R. 
-MC 
-MD. 
-MG
 Ma 
 MacDonald
 MacDonald 
@@ -1615,12 +1507,6 @@ Mustafa M, Carson-Stevens A, Gillespie D, Edwards AG
 Mutsuhiro 
 Muñoz
 Muñoz 
-N
-N 
-N.
-N. 
-N.B.
-NEW
 Nagisa 
 Nakao 
 Nancy M.
@@ -1674,7 +1560,6 @@ Norrie
 Norris
 Nowicki 
 Nüesch
-O
 O'Brian
 O'Brian 
 O'Brian S, Onslow M
@@ -1684,9 +1569,6 @@ O'Brien
 O'Connell
 O'Doherty 
 O'Doherty L, Whelan M, Carter GJ, Brown K, Tarzia L, Hegarty K, Feder G, Brown SJ 
-OH 
-OI
-OI 
 Oatley K 
 Okuda
 Okuda M, Balán I, Petry NM, Oquendo M, Blanco C 
@@ -1714,17 +1596,7 @@ Otte
 Otte C 
 Otto
 Otto 
-P
-P 
 P Garety, D Fowler, G Dunn, P Bebbington, D Freeman and C Hadley
-P.
-P. 
-P. G.
-P. G. 
-P. J.
-P. J. 
-P. Musiata1&nbsp;c1 and N. Tarriera1
-P. Musiata1&nbsp;c1 and N. Tarriera1 
 Pablo
 Pablo 
 Pace
@@ -1836,21 +1708,8 @@ Prosser
 Puleo
 Qazi
 Qazi 
-R
-R 
-R.
-R. 
-R. G.
-R. G. 
-R. K.
 R. Kathryn
 R. Kathryn 
-R. S.
-R. S. 
-R.J.
-RA 
-RJ
-RM
 Rachel
 Rachel 
 Rachel L. 
@@ -1951,16 +1810,7 @@ Rush
 Rush 
 Ruth L 
 Rutherford 
-S
-S 
-S.
-S. 
-S. D.
-S. D. 
 S.D. Hollon, W.M. Grove, M.D. Evans, M.J. Garvery, V.P. Tuason
-SAMHSA
-SUE
-SUE 
 Saccuzzo
 Sachdev
 Sachdev 
@@ -2182,14 +2032,7 @@ Swati
 Sze
 Sánchez
 Sánchez 
-T
-T.
-T. 
 T. Flannaghan
-T. J.
-T. J. 
-TJ
-TM
 Tamminga 
 Tamminga SJ, Emal LM, Boschman JS, Levasseur A, Thota A, Ruotsalainen JH, Schelvis RM, Nieuwenhuijsen K, van der Molen HF 
 Tan 
@@ -2293,8 +2136,6 @@ Umscheid
 Uphoff 
 Usmar
 Usmar 
-V
-V 
 Valerie
 Valerie 
 Valérie
@@ -2335,15 +2176,8 @@ Vivien
 Vonk
 Votaw 
 Vowles
-W
-W.
-W. 
 W. Brad 
 W. Stewart 
-W. T. L.
-W. T. L. 
-WAJM, W
-WS 
 Waddell
 Waddell 
 Waddington 
@@ -2431,7 +2265,6 @@ Wykes
 Wykes 
 Wykes T, Steel C, Everitt B, Tarrier N 
 Wölfling K, Müller KW, Dreier M, Ruckes C, Deuster O, Batra A, et al.
-X
 Xia
 Xiao 
 Xochitl de la Piedad
@@ -2453,7 +2286,6 @@ Yung
 Yu‐Chen
 Yvonne
 Yvonne 
-Z
 Zafra
 Zafra 
 Zahradnik 
@@ -2470,16 +2302,12 @@ Zhu Z, Zhang L, Jiang J
 Zhu Z, Zhang L, Jiang J, Li W, Cao X, Zhou Z, Zhang T, Li C 
 Zhu Z, Zhang L, Jiang J, et al.
 Znoj
-al.
 da Costa RT, Rangé BP, Malagris LE, Sardinha A, de Carvalho MR, Nardi AE
 da Costa RT, Rangé BP, Malagris LE, Sardinha A, de Carvalho MR, Nardi AE 
 de Visser 
 de Wildt WA, Oudejans SC, Merkx MJ, Schippers GM, Koeter MW, van den Brink W 
 de Wildt, van den Brink
-et
-et al.
 o’Brian 
-pmhdev
 tea  Amanda
 time sheets ship ahoy gasAnderson
 van Straten A. 

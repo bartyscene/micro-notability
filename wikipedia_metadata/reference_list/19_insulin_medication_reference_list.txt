@@ -1,10 +1,5 @@
- 
-''et al.''
 ((American Diabetes Association)) 
-((American Geriatrics Society 2012 Beers Criteria Update Expert Panel)) 
 ((World Health Organization)) 
-A 
-A.
 AMDA – The Society for Post-Acute and Long-Term Care Medicine 
 Aaron S. 
 Abdullah 
@@ -27,7 +22,6 @@ Altman
 Altman LK
 Altman LK 
 American Diabetes Association 
-American Geriatrics Society 2012 Beers Criteria Update Expert Panel 
 American Medical Directors Association 
 American Society of Health-System Pharmacists
 American Society of Health-System Pharmacists 
@@ -47,9 +41,6 @@ Arora A, Hakim I, Baxter J, ''et al.''
 Arora A, Hakim I, Baxter J, Rathnasingham R, Srinivasan R, Fletcher DA, Mitragotri S 
 Ashish
 Avorn 
-B.
-BA
-BA 
 Baeshen 
 Baeshen NA, Baeshen MN, Sheikh A, Bora RS, Ahmed MM, Ramadan HA, Saini KS, Redwan EM 
 Bailey 
@@ -79,9 +70,6 @@ Brown P
 Bruce 
 Bruno 
 Buse 
-C 
-C. A. 
-CM
 Card JW, Magnuson BA 
 Cari 
 Carrie S. 
@@ -110,8 +98,6 @@ Cuijuan
 Cunningham 
 Cunningham AM, Freeman AM 
 Cunningham AM, Freeman AM  
-DS
-DS 
 David C. 
 David Oakes
 David R. 
@@ -138,7 +124,6 @@ Elbert S.
 Elrashdy M. 
 Evans 
 Evans PJ, Lynch RM 
-F 
 Fangman 
 Fatima 
 Feingold 
@@ -153,9 +138,6 @@ Forlenza
 Francisca 
 Frederick G.
 Freeman 
-G 
-G.
-GA
 Galdo 
 Galdo JA, Thurston MM, Bourg CA 
 Gangemi A, Salehi P, Hatipoglu B, Martellotto J, Barbaro B, Kuechle JB, Qi M, Wang Y, Pallan P, Owens C, Bui J, West D, Kaplan B, Benedetti E, Oberholzer J 
@@ -203,11 +185,7 @@ Irene
 Irl
 Isbister 
 Iyer H, Khedkar A, Verma M 
-J 
-J. A. 
-J. J.
 J. Scott 
-JM 
 Jack 
 Jan R. 
 Janet 
@@ -233,9 +211,6 @@ Jones K
 Joslin EP 
 Julien S. 
 Jyoti
-K
-K 
-KR 
 Kahkoska 
 Kakutani 
 Kakutani M
@@ -263,10 +238,8 @@ Korbonits
 Krzymien 
 Krzymien J, Ladyzynski P 
 Kulvinder Singh 
-L 
 L. Raymond Reynolds
 L. Raymond Reynolds,
-LJ 
 Ladyzynski 
 Lalej-Bennis D, Boillot J, Bardin C, ''et al''
 Lalej-Bennis D, Boillot J, Bardin C, ''et al.''
@@ -287,11 +260,6 @@ Luo
 Luo J, Avorn J, Kesselheim AS 
 Luo J, [[Jerry Avorn
 López 
-M
-M 
-M. 
-M. M. 
-MK
 Mahoney
 Mahoney 
 Mahoney BA, Smith WA, Lo DS, Tsoi K, Tonelli M, Clase CM 
@@ -331,8 +299,6 @@ Munguia C, Correa R
 Munshi 
 Munshi MN, Florez H, Huang ES, Kalyani RR, Mupanomunda M, Pandya N, Swift CS, Taveira TH, Haas LB 
 Mupanomunda 
-N
-NICE 
 Nabih A. 
 Nasrallah
 Nasrallah SN, Reynolds LR 
@@ -346,10 +312,6 @@ Nicola Luigi
 O'Connor
 Owens 
 Owens DR 
-P H 
-P J 
-P. 
-P.D.J.
 Pandya
 Pandya 
 Pandya N, Thompson S, Sambamoorthi U 
@@ -380,8 +342,6 @@ PubChem
 Purnell 
 Qi 
 Quang
-R 
-R I G 
 Rachel 
 Ramadan 
 Randy 
@@ -402,7 +362,6 @@ Robert M.
 Robert M. 
 Roop S. 
 Rudolfs 
-S
 Saini 
 Saleem 
 Saleem F, Sharma A 
@@ -462,7 +421,6 @@ Tornali
 Tracey H. 
 Tsoi
 Tsoi 
-U
 Umpierrez 
 Umpierrez GE, Palacio A, Smiley D 
 University of Toronto Libraries
@@ -475,8 +433,6 @@ Vickers
 Victoria S. 
 Vinik 
 Vishaaliny 
-WA
-WA 
 Wang 
 Weiss 
 Weiss M, Steiner DF, Philipson LH 

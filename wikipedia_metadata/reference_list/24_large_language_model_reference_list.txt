@@ -1,6 +1,3 @@
- 
-A.
-AI 
 Aakanksha 
 Aarohi 
 Abbeel 
@@ -249,8 +246,6 @@ Brynjolfsson
 Bubeck 
 Buchatskaya 
 Buonassisi 
-C. E. 
-C. L. 
 C. Lawrence 
 Caballero 
 Cabi 
@@ -339,8 +334,6 @@ Connor
 Constant 
 Corey 
 Cucurull 
-D 
-D. 
 Dabravolski
 Dabravolski 
 Dai 
@@ -437,7 +430,6 @@ Durmus
 Dustin 
 Dyer 
 Dzmitry 
-ES 
 Eamon 
 Ebtesam 
 Ece 
@@ -586,7 +578,6 @@ Gurpreet
 Gustavo Hernandez Abrego 
 Gutman-Solo 
 Guy 
-H. 
 Haase 
 Hadas 
 Hadsell 
@@ -791,7 +782,6 @@ Jurafsky
 Jyoti 
 Jürgen 
 Jürgen Schmidhuber 
-K.
 Kadavath 
 Kaddour 
 Kai 
@@ -976,8 +966,6 @@ Lynch
 Lyons 
 Lysandre 
 M Saiful 
-M. 
-M.F. 
 Ma
 Ma 
 Maarten
@@ -1107,7 +1095,6 @@ Mukund
 Munazza 
 Myle 
 Myra 
-N. 
 Nabeshima 
 Nadeen 
 Nagel 
@@ -1302,7 +1289,6 @@ Qun
 Quoc 
 Quoc V 
 Quoc V. 
-R. 
 Radev 
 Radford
 Radford 
@@ -1866,9 +1852,7 @@ Ziwei
 Zongwei 
 Zoph
 Zoph 
-goyal 
 van Merrienboer 
-vikash 
 von Rütte 
 Łukasz
 Łukasz 

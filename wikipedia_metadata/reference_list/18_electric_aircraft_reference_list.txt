@@ -1,12 +1,4 @@
- 
 'Tubby' 
-2021
-<!--staff byline, name not given
-A. 
-AIAA/SAE/ASME 20th Joint Propulsion Conference
-APAME
-APAME 
-APEV
 Abdullah H. 
 Achmed A. W.
 Adele 
@@ -35,7 +27,6 @@ Arthur
 Arthur 
 Arthur Fisher 
 Aya
-B. 
 Barnes
 Baroutaji 
 Barrett 
@@ -69,8 +60,6 @@ Buttler
 Button
 Button 
 Bínová
-C. C.
-C. K.
 Carrington
 Catlow
 Chandler
@@ -87,8 +76,6 @@ Cooper C.
 Cooper C. 
 Curry
 Curry 
-D. 
-D. J.
 Damian
 Dan
 Dave
@@ -115,7 +102,6 @@ Doulgeris, Georgios
 Doulgeris, Georgios; Singh, Riti
 Du
 Duffner 
-ELECTRAVIA
 Eadicicco
 Edwards  Huw;  Doulgeris, Georgios,  Singh Riti
 Edwards Huw;  Doulgeris, Georgios,  Singh Riti
@@ -123,7 +109,6 @@ Edwards Huw; Doulgeris, Georgios, Singh Riti
 Electric Aircraft Corporation
 Electric Aircraft Corporation 
 Experimental Aircraft Association, Inc.
-F. 
 Fisher
 Fisher 
 Fletcher 
@@ -154,7 +139,6 @@ Grosz
 Grosz, P. 
 Guy
 Guy Norris 
-H. 
 Han
 Haofeng
 Haofeng 
@@ -174,8 +158,6 @@ Hospodka
 Hu 
 Humphries
 Häggström 
-ICAO
-Icaro 2000 srl,
 Impulse
 Institut für Flugzeugbau
 Institut für Flugzeugbau 
@@ -207,7 +189,6 @@ Jonathan Charlton
 Joshua 
 Juan
 Juan Alonso 
-K. L.
 Kate
 Kate Sarsfield 
 Keith
@@ -233,7 +214,6 @@ Lnge Aviation
 Lockhart
 Lui 
 Luntz
-M. R.
 Marino
 Mark
 Mark R. 
@@ -255,7 +235,6 @@ Moores
 Morris
 Murmson
 Murphy
-N. 
 Nansi
 Naser
 Newcome
@@ -266,7 +245,6 @@ Niles
 Norris
 Noth
 O'Callaghan 
-October 13
 Pablo
 Paul
 Paul 
@@ -291,8 +269,6 @@ Politecnico di Torino
 Pradeep 
 Priyank 
 QinetiQ Group PLC
-R.
-R. 
 Ralon
 Ralph H.
 Ralph H. Jansen
@@ -309,9 +285,6 @@ Roland
 Ross
 Russ
 Russ 
-S. P.
-S. R. H.
-SHK
 Sarah 
 Sarah Young 
 Sarsfield
@@ -343,7 +316,6 @@ Strobel
 Strobel 
 Sunseeker
 Swopes
-T.
 Taylor
 Taylor 
 Thomas 
@@ -361,7 +333,6 @@ Van West
 Victoria
 Victoria Moores 
 Viktoria
-W. 
 Wallin 
 Warwick
 Wei
@@ -372,7 +343,6 @@ Woolston
 Xu
 Xu 
 Xue
-Y.
 Yefim
 Yifei 
 Yiou 

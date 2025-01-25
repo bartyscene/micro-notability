@@ -1,1339 +1,1334 @@
-Reference List:
-
-C 
-C. A
-Paolo 
-Ting 
-Jana 
-M. L
-Yutaka
-Peretti 
-Tsunemasa 
-Onomura 
-Artem 
-Byung-Ki
-Abdi Jalebi
-Windell 
-Margolin J 
-Mini, Banana, and Leigh
-Kobera 
-Di Lecce
-Cabalo 
-W. L. 
-Calin
-Moustakas 
-Taisuke
-Chaochao 
-Chua
-Lavrinovich
-Rogers 
-Hebner 
-Lester 
-HiolskiFeb. 9
-K
-Reed
-Goins, G. D. 
-Xiong
-Martinelli 
-Z.
-Olisovets 
-Nakaya
-Andaji‐Garmaroudi 
-Thomidis 
-A. B. C.
-Losev
-Braunstein, Rubin
-Jiri 
-Changjiu 
-Tennessen, D.J. and Singsaas, E.L. and Sharkey, T.D.
-J. H. 
-Cooke, Mike 
-Calvin H.
-H. J. Round
-Losev, O. V. 
-Alena Tugend 
-Mauk, Michael  
-Flagstaff Dark Skies Coalition
-Cho, H.K., Jang, J., Choi, J.H., Choi, J., Kim, J., Lee, J.S., Lee, B., Choe, Y.H., Lee, K.D., Kim, S.H. and others
-Burroughes 
-Galia 
-Rowan 
-Yizheng 
-Insun
-Yu. T.
-Yoon Hee 
-Ute B. 
-Riccò
-Liu
-Z. 
-B. I. 
-Gerald P. 
-Beverly Hills Lighting 
-Tanabe, S. and Fujita, S. and Yoshihara, S. and Sakamoto, A. and Yamamoto, S.
-Hujia
-Brus 
-Cabrera 
-Shi-Jian 
-M.
-So Young
-N. N.
-Sickenberger
-Srinivas 
-Roby
-Kosasih 
-K. D. Mynbaev 
-<!--Staff writer(s); no by-line.--> 
-Shen
-Carr, W. N. and G. E. Pittman 
-Bessho, M 
-Bo 
-Pighini 
-Tachibana
-Novikov 
-Yan-Qing 
-Contreras 
-Heuken 
-M. S. Fudin 
-Naoharu
-Marks
-Javed
-Emma
-Carter
-Sickenberger 
-Moe
-T.S.
-X. 
-Slater 
-Bevacqua 
-Heydarizadeh
-Tomonari 
-Sista 
-Ying-Yi 
-Narendran, N. and Y. Gu
-Pozina 
-Gary
-I. Moreno 
-Sjoerd 
-Ferguson
-Friend 
-Eisenberg
-Jonathan Webb
-Jinliang 
-Proppe 
-Lee, Thomas H. 
-Hisashi
-Bochmann
-Jaehee 
-Xiao-Ke 
-Yin 
-A. B. 
-Capper, Peter and Mauk, Michael  
-T. 
-Han
-M. K.-F.
-Ying
-Le
-T. R.
-Valerie 
-Benjamin S.
-Cabalo
-Maike Lorena 
-Heeger
-Carr, W. N.  
-Parisa
-Liao 
-Scherer
-Thomas 
-Liang
-Shimizu, K 
-W
-Kinouchi 
-Denbaars
-Neel V.
-Narayanan
-G. M.
-Ando Junior 
-Klavetter
-Sakamoto, A. 
-Fan 
-Kang 
-Zhanhua 
-Zhang 
-Takahashi 
-M 
-Sugiyama
-Bryant
-Destriau, G.
-Zang
-Zhenchao 
-A. J. 
-Heeje
-Yoshida
-Eun Kyung
-Hisashi 
-Chen-kai
-M.O. 
-Mynbaev, K. D. 
-Ha
-Kitamura
-David F. 
-Riemann 
-S. R. 
-Spacek 
-Thomas H. Lee, 
-Doherty 
-N. 
-A.S. 
-Long‐Xue 
-J. 
-Dayani
-Wakikawa 
-Hyosook
-Jingbi 
-Anne 
-Shur
-B. I.
-Kathy A.  
-H. A. 
-Koizumi 
-Sarney
-Narendran
-Joel 
-Mikko
-News
-Prathyusha Narra and Zinger, D.S. 
-Shuji Nakamura, Gerhard Fasol, Stephen J Pearton 
-Herbert
-Lehovec
-Zvy
-Sarma
-Efremov, A. A. ''et al.''
-Jaehoon
-R.
-Noriko
-Xinyi 
-Moreno
-Lim
-Luginbuhl
-Wu 
-Stuart 
-Laxmi Kishore 
-Dimitrov
-Jang
-Liqiang 
-Margolin J
-O.V. 
-Schubert, E. Fred 
-K. J. 
-Gorbunov
-Liwei
-Shuji
-A.
-N. J
-R H
-Kroemer
-Xu
-Soleyman
-Taehyung
-You 
-Wang
-V. L. 
-Paul
-Bai 
-David
-Theodore D.
-Dennis Overbye 
-L. 
-Stephen 
-George Rostky 
-E
-Shirasaki
-Felix U. 
-Fred Schubert 
-Abdullah 
-Ardalan
-Zhao
-Yerazunis, W. S. 
-Run 
-Lavrinovich 
-Neel V. 
-K. Lehovec, C. A. Accardo, AND E. Jamgochian
-Brown 
-Bennett
-Fredrik 
-C
-Aubé
-Rebane
-Xue 
-Howard C. 
-Jianchang 
-F. 
-Woon Jin 
-Gorbunov 
-Mike
-Li Na
-Park 
-E. Fred 
-Yu. G. 
-John 
-Jong-Suk
-Jiaping
-Taisuke 
-Joon-gu
-Wold, J. H. and Valberg, A. 
-Taseen
-Kathryn M.
-R. G.
-Jumpei 
-Mircea
-Akutagawa 
-Kubetz 
-Price 
-Kebin
-J. C.
-Mashford
-Jianxun
-Abdi‐Jalebi 
-Hongling 
-Schubert, E. Fred and Kim, Jong Kyu 
-Toshiki 
-Ivan Moreno, and Ching-Cherng Sun
-Le Ma
-Raoul E.
-Ma 
-Tachibana 
-Mohammad
-Kenji 
-Zhigang 
-Lim 
-Tanabe, S. 
-S. 
-Stern 
-M. 
-Poschenrieder 
-Treacy 
-Yoshitaka
-Arturas
-Hou 
-Kenji
-Gomez, Daniel 
-Edmond
-Ghimire
-Peng 
-Aime 
-Jasmine P. H.
-Marcy
-Hebner
-X.
-Readinger 
-Zhiqiang 
-Saisai 
-Xiaoyong
-Lighting Research Center 
-Kasu
-A B
-K. 
-P. L. 
-Chen
-Takashi 
-Hasegawa
-pureVLC 
-Kubota 
-Burroughes, JH and Bradley, DDC and Brown, AR and Marks, RN and Mackay, K. and Friend, RH and Burns, PL and Holmes, AB,
-Garrett 
-Reed 
-T>. 
-Richard 
-Hoogland 
-Diez 
-Kevin
-Nakamura
-T.
-V.L. 
-Neto 
-Jayesh
-H. Lipsanen 
-Bruno
-K. E.
-Dong-Sik
-Wakikawa
-Jumpei
-Xingliang
-Oskay 
-Cao 
-Distributing Inc,
-Treacy
-Kwak
-Prathyusha 
-Yan
-Sagar 
-Akiko
-Takahashi
-Burroughes
-Makimoto 
-C. -J.
-Arturas 
-Bernhard 
-M. C. 
-Mason
-Hua-Shuang
-Yuanzhi 
-Yue Wang
-Ohno, Y.,   
-Yoon 
-Rong‐Jun 
-John A.
-Moshe
-C. -J. 
-Abu-Ghosh
-Gustafsson
-Inman 
-Lin 
-W. A.
-Moe 
-Jong Hyuk
-Mori
-Ivan
-Kilper
-Cecie Starr 
-Nakamura 
-Buzdugan
-K. Lehovec 
-Eric A.
-J.M. 
-Robert Kelley 
-Tullia
-Jin 
-Tim Whitaker
-Senoh 
-James S. 
-Maher 
-He 
-Xie 
-Aifantis, K. E. 
-Y.
-Tim's Blog 
-Thomidis
-Polakovic 
-S.-I.
-Capik
-R N
-Paola 
-Sturm
-U. N.
-Nana
-Gopal 
-Bae
-Yarong
-DiDonato
-Nguyen
-John C. 
-Hu 
-Chung
-T. S. 
-Jianxun 
-Dennis 
-M. H. 
-Bachmann
-Lester
-Hui
-Hisao 
-Xing
-Bardsley
-Shauji Nakamura, Gerhard Fasol, Stephen J Pearton 
-Tudor H.
-Lacis
-C.-J.
-Haiyan 
-Rensmo 
-Hoerni, J.A. 
-Lim SR, Kang D, Ogunseitan OA, Schoenung JM
-J. H. Wold and A. Valberg
-Nakaya 
-D. V.
-De Lucia 
-Ching-Cherng
-Worthey, James A. 
-Klavetter 
-Bawendi
-Chuanzhong
-Oliveira 
-Feng-Ming 
-K. J.
-Dong-Ming
-Kookheon
-Tiarnan 
-E. D.
-Bowman 
-Mandrus
-Xia 
-Fiona 
-David L. Heiserman 
-D.S. 
-Nosov 
-Jensen 
-Joo
-Wenqiang 
-Zhen 
-Dawei
-Ferguson 
-Garcia-Santamaria 
-Williamson
-Oldford
-Green 
-Xie
-Witzigmann
-Sang Jin
-Lin
-Shin-ya
-Jan W.
-Paternò 
-Yoshida 
-Round, H. J. 
-Capper, Peter  
-Ross
-Håkan 
-Thomas M. Okon 
-Mu-Jeong 
-Meitl 
-Marco
-Sanwo, M. M. 
-Masatake
-Bougrov, V. E. 
-Nunoue
-Supran
-Cortecchia 
-Mills 
-H. 
-Bachmann 
-Dongho
-BläSing 
-Muramoto
-Rebane 
-T
-Schlamp 
-K. -C. 
-Chen 
-Lova 
-Liu 
-United States 
-Burns 
-Bausch, Jeffrey 
-Vanden Bout 
-Junli 
-Narra 
-Dadgar 
-Holmes
-Mori 
-James A. Worthey 
-Watanabe 
-Eiji 
-Mark 
-Mukai 
-J. C. 
-Fujita, S. 
-Macpherson 
-K 
-Oh
-N. I. 
-Muramoto 
-Carrano 
-Seungjin 
-Ferreira 
-Smith
-Iveland, Justin
-Akira
-J. N. 
-Strauch III
-Masayuki
-Jinmin 
-A. V. 
-Alstadt 
-Bessho, M and Shimizu, K 
-Ohno, Y.
-Cui 
-E. D. 
-Sampath
-Jamgochian
-Valberg, A. 
-Stokstad 
-J. A. 
-Jamie 
-Xiaoyang Li
-Jingshu
-Bart J. 
-Dong 
-Hecht, E. 
-Kubota
-J. S
-Bretas 
-Kesavan 
-Francesco Di 
-Johannes M.
-R. I.
-de Arquer
-Schubert 
-H.
-Wenhao 
-Armin
-Mingjian 
-Bader
-T. P. 
-Theodore D. 
-Hoque 
-Watanabe
-Raloff, Janet 
-Bulović
-Heeger 
-Bradley 
-Brown, C. S. 
-Yasuhiro
-Chih-Chung
-Sun 
-Shuji Nakamura 
-Tich-Lam
-Nick
-Tennessen, D.J. and Singsaas, E.L. and Sharkey, T.D. 
-Stephen J Pearton 
-Ikehara
-Kai 
-Vlad
-Gong
-V. E. Bougrov 
-Tarkhin
-Hua-Nong 
-Giuseppe
-Hailer
-Samuel D. 
-R. W.
-Dai
-Wolinsky, Howard
-Hasegawa 
-Mills, Evan 
-Yao 
-T. R. 
-Dong, Tianming et al.
-Hikosaka 
-Moustakas
-Kanda 
-Jian-Xin 
-Colaneri 
-Junxi 
-Ziming 
-Junbiao 
-Carlessi, F., MO Oliveira2 HO Ando Junior, J. M. Neto, A. D. Spacek, V. L. Coelho, L. Schaeffer, H. Bordon, O. E. Perrone, and A. S. Bretas. 
-Erik 
-Galatanu
-R. J.
-Cobden
-Kilper 
-Correa
-Choquette
-Ben-Ezra
-Campianu
-Sampath 
-Hamamoto 
-Whitaker, Tim
-Charles H. 
-Wei 
-Pearsall
-Hiolski
-Hikosaka
-Jung 
-Glaz 
-Niu
-Jerry
-Hendrickson
-Dadgar
-N.
-Zagrebnov 
-Nick 
-Man 
-Kanda
-Qian
-Koichi 
-G. 
-Tephly
-Nimz 
-Nakano
-Yang
-Dror
-Efremov 
-Van Zeghbroeck 
-Nakano 
-Yitao 
-Edwards 
-S. Nakamura, T. Mukai, M. Senoh 
-K.Hoshino
-G.
-Jerry 
-Mirei
-Maier
-K. B.
-R. -H. 
-Sato
-Dongxin 
-Lei
-Sabina 
-Dimmock 
-Miao
-Choquette 
-Soldatkin 
-A. M
-J H
-Dietz, P. H. 
-Xiangtian 
-Hao 
-Dimmock
-K. S.
-Pm
-S.
-Fanglong 
-Holonyak Nick 
-Eunjoo
-O. V. 
-Strauch III 
-M
-Ptolemy and A. Mark Smith 
-Morris 
-Zinger 
-Feng 
-A. A. Efremov, N. I. Bochkareva, R. I. Gorbunov, D. A. Larinovich, Yu. T. Rebane, D. V. Tarkhin, and Yu. G. Shreter, 
-Eiji
-Patel 
-N. M. 
-Giovanni 
-V. A. 
-Marla
-Birddog
-Comoretto 
-R. -H.
-Long-Xue 
-Whitaker, Tim 
-Yao
-Cappel 
-Goad 
-Rivett
-Dorin
-Shioda 
-Ben 
-Ogunseitan 
-K. E. Aifantis 
-Gyu Weon
-Ikehara 
-Pawson
-M. H.
-Cao
-Nimz
-Herbert 
-Markley 
-D. D. C. 
-Nakamura, S.; Mukai, T. and Senoh, M. 
-Veprek
-Biard, James R. 
-Zhangjun 
-Xuejun 
-Guo
-Hong
-Sarih 
-H 
-Burns
-Garrett
-D. H
-Alivisatos 
-Yu 
-Leigh, D. L. 
-Raymond L. 
-Schuellerman 
-Xuan 
-Marks 
-Herschkowitz
-Narayanan 
-Xinru 
-J. M. 
-Davide 
-Di
-Cooke, Mike
-Hua-Nong
-Huang
-Blaesing 
-Daniel Gomez, FAE Avnet
-Yi 
-Chua 
-G. E. Pittman 
-Zhenxing
-M. A. 
-Chih-Feng
-Mueller, Gerd 
-Paul H.
-Weijie
-Bordon 
-S. F. 
-Setlur 
-O. 
-Schellenberger 
-Yu. R. 
-Kasu 
-Beu
-Oul
-Ying‐Yi 
+ 
+...
 ... 
-Felix Utama 
-Bassett 
-Fahlman 
-Strassburg 
-Friend
-Stasio 
-Jennifer
-Kyung-Sang
-Tajima
-Wold, J. H. 
-Libor 
-Zou
-Nadarajah
-Woo
-Zhou 
-Coelho 
-B. 
-Roshdi 
-Jones
-Donggu
-Y. T. 
-Sturm 
-M. S. 
-Liqiang
-Chengbo 
-Rebecca 
-Tae-Ho
-Yingqiang
-Izotov 
-D. -H. 
-Gallina Toschi
-Long 
-Colvin 
-Hamamoto
-Svilen
-Steiger
-Thomas
-Kramer 
-Won-Jae
-D.
-Kimberly D. 
-Administrator
-Shen 
-<!--Staff writer(s); no by-line.-->
-Huang 
-P. 
-Qiao 
-Zukauskas 
-D. V. 
-Lu
-Romanov
-Young-Woo
-C. C. 
-A. A.
-Alstadt
-Xiao 
 2017
-Soci 
-Yip 
-Takashi
-Sun
-Tarkhin 
-Bharathan 
-Linghao 
-Dauler
-Taniyasu 
-Hsien-Yi 
-Alexander S.
-Zheng 
-Shin-ya 
-Kevin Jensen
-Marcy 
-Bascom
-Evan
-Pan
-Sun Young
-Kwon
-G. A.
-Tetsuo Tsutsui
-Sang-Hwan
-R. H.
-Giuseppe M. 
-Bin 
-J. A.
-Romanov, A. E. 
-Yuan 
-Hsu 
-Yan‐Qing 
-James R. Biard 
-Xianjie 
-A.D. 
-Vladimir
-Morris Nick
-Yizheng
-Losev, O. V.
-Hoshino 
-Naoharu 
-Grossi
-Bradley
-Jiangbin 
-Alam 
-DeLucia 
-Nam 
-Moreno 
-D D C
-Steven P
-Janeway 
-House 
-David 
-Xue
-Inman, Mason
-Feng‐Ming 
-D. G
-Partha S.
-Condliffe 
-C. A. Accardo 
-SMAR ERA LIGTING SYSTEMS
-Onomura
-G. A. 
-Toshiki
-Yan 
-D. A.
-Ren 
-Y. Gu
-Valerie
+2:00
+A B
+A R
+A.
+A. 
+A. A.
+A. A. 
+A. A. Efremov, N. I. Bochkareva, R. I. Gorbunov, D. A. Larinovich, Yu. T. Rebane, D. V. Tarkhin, and Yu. G. Shreter, 
 A. B.
-Rostky, George 
-Iveland 
-Hyunduck
-E. A
+A. B. 
+A. B. C.
+A. E. Romanov 
+A. Gopal, M. Glaz, D.Vanden Bout, X.J. Zhang
+A. J.
+A. J. 
+A. M
+A. P. 
+A. R. 
+A. V.
+A. V. 
+A.D. 
+A.S. 
 AIXTRON, Inc 
-Koichi
-Tian
-Zheludev, N. 
-Eisenberg 
-Lossev 
-Christen 
-Eui Hyuk 
-Miller
+AND E. Jamgochian
+AND E. Jamgochian 
+Abbrent 
+Abdi Jalebi
+Abdi‐Jalebi 
+Abdullah 
+Abu-Ghosh
+Accardo
+Administrator
+Aifantis, K. E. 
+Aime
+Aime 
+Akiko
+Akira
+Akutagawa
+Akutagawa 
+Alam 
+Alan R. 
+Alena Tugend 
+Alexander S.
+Alivisatos 
+Alstadt
+Alstadt 
+Anant A. 
+Andaji‐Garmaroudi 
+Ando Junior 
+Andrew 
+Angel
+Anne
+Anne 
+Anton 
+Ardalan
+Armin
+Arru
+Artem 
+Arturas
+Arturas 
+Ashdown 
+Aubé
+B.
+B. 
+B. I.
+B. I. 
+Bachmann
+Bachmann 
+Bader
+Bae
+Bai 
+Bao 
+Bardsley
+Bardsley 
+Bart J. 
+Bascom
+Bascom 
+Bassett 
+Bausch 
+Bausch, Jeffrey 
+Bawendi
+Ben 
+Ben-Ezra
+Benjamin S.
+Bennett
+Bernhard 
+Bessho, M 
+Bessho, M  
+Bessho, M and Shimizu, K 
+Beu
+Bevacqua 
+Beverly Hills Lighting 
+Bharathan
+Bharathan 
+Biard, James R. 
+Bin 
+Birddog
+Blaesing 
+BläSing 
+Bläsing 
+Bl�Sing 
+Bo 
+Bochkareva 
+Bochmann
+Borden 
+Bordon 
+Bose
+Bougrov, V. E. 
+Bowman 
+Bradley
+Bradley 
+Braunstein, Rubin
+Braunstein, Rubin 
+Bretas 
+Brown
+Brown 
+Brown, C. S. 
+Bruno
+Brus 
+Bryant
+Bulović
+Burns
+Burns 
+Burroughes
+Burroughes 
+Burroughes, JH and Bradley, DDC and Brown, AR and Marks, RN and Mackay, K. and Friend, RH and Burns, PL and Holmes, AB,
+Buzdugan
+Byung-Ki
+C
+C 
+C.
+C. 
+C. -J.
+C. -J. 
+C. A
+C. A. Accardo
+C. A. Accardo 
+C. C.
+C. C. 
+C.-J.
+Cabalo
+Cabalo 
+Cabrera 
+Calin
+Calvin H.
+Campianu
+Cao
+Cao 
+Capik
+Capik 
+Cappel 
+Capper, Peter  
+Capper, Peter and Mauk, Michael  
+Carlesi 
+Carlessi, F., MO Oliveira2 HO Ando Junior, J. M. Neto, A. D. Spacek, V. L. Coelho, L. Schaeffer, H. Bordon, O. E. Perrone, and A. S. Bretas. 
+Carr, W. N. 
+Carr, W. N.  
+Carr, W. N. and G. E. Pittman 
+Carrano
+Carrano 
+Carter
+Catalin Daniel
+Caterina 
+Cecie Starr 
 Cesare 
 Changhee
-Ji 
-Moungi G.
-C. C.
-Goad
-Mojtaba
-Narendran, N.  
-Yorio, N. C. 
-Char
-Jianpu
-A R
-F. Pelayo García
-C. 
-Kimura
-Mats 
-Myeongjin
-M. S. Fudin, K. D. Mynbaev, K. E. Aifantis, H. Lipsanen, V. E. Bougrov, A. E. Romanov
-Evan 
-Fredrik
-Accardo
-Song
-Manfred
-Bao 
-Li 
-Taniguchi 
-Won
-Lawler 
-Neidhardt 
-A. A. 
-B.
-Park
-Daniele 
-Jana
-M.C. Schlamp, and A.P. Alivisatos
-Lu 
-Mark
-A. 
-C. A. Accardo
-Losev 
-Bochkareva 
-Kim 
-Bessho, M  
-I. 
-Geoffrey J.
-Christos
-Anne
-Makar
-Chu 
-Tingwei 
-René A. J.
-Akutagawa
-Schaeffer 
-Borden 
-Stouwdam
-Ducati 
-Cho
-D. -H.
-Zheng
-Holloway
-Joel Brown 
-{Burroughes, JH and Bradley, DDC and Brown, AR and Marks, RN and Mackay, K. and Friend, RH and Burns, PL and Holmes, AB
-Kim
-Bharathan
-Ian T
-Kong
-P L
-Naeser, M.A. et al.
-Justin 
-Meredith
-Minghuan 
-Tongtong 
-K.
-W. L
-Ward
-Xiaoyan 
-Katherine W.
-P
-Okon, Thomas M. 
-Do Y.
-Jun
-Mike 
-Elvikis
-Tuev 
-Bausch 
-V.L. Colvin
-Gary 
-D. 
-Xingwang 
-McMartin
-Wenqiang
-Elvikis 
-Zou 
-Vasily 
-Rick 
-Le 
-Zema 
-R. 
-Haas
-Ian T 
-Yu-Ho
-E. Fred Schubert and Jong Kyu Kim
-Aime
-Fiona
-Seonghoon
-Jaeheung
-F.
-Crawford
-Zheludev N
-John C 
-K. -C.
-D.-H.
-Kyu Hwan
-E. Hecht
-Ciugudeanu
-S. -I. 
-De Lucia
-Ashdown 
-Palese
-Christos 
-Koizumi
-Wilson
-Speck 
-Klement
-Sabzalian
-Miller 
-Kho
-David Cassidy, Gerald Holton, James Rutherford 
-Li
-James A. Worthey
-Toshitaka
-R. I. 
-Patel
-Jong Kyu 
-Wilburn
-Claude 
-Lee
-...
-Yamamoto, S.
-Jingzhen 
-Xiwen
-Javed 
-M.  
-O.H. 
-Dae-Young
-Zhu 
-Mackay
-Taniyasu
-Chuanzhong 
-Hwang 
-Iluz
-Narra, Prathyusha  and Zinger, D.S. 
-Liao
-Nunoue 
-Wenjing 
-Lipsanen H. 
-Ross Knox 
-Xiaogang
-Mulvaney
-Shreter
-Emil 
-Capik 
-Kimura 
-Tong 
-Y. 
-Sarney 
-Murphy 
-Janssen
-Masaaki
-Marla 
-Wolinsky, Howard 
-Saul
-Cheng 
- 
-Dietz, Yerazunis, and Leigh
-Taniguchi
-Jiajie 
-T.P. Pearsall, B.I. Miller, R.J. Capik, and K.J. Bachmann
-Yanfeng
-Kao 
-Hin-Lap 
-Heejae
-Guangruixing 
-S. M.
-R. J. 
-Gaska
-M. L. 
-R.-H.
-Giusto 
-J.
-Wilhelm 
-Kao
-Jeffrey 
-Jacques 
-A. P. 
-Kesavan
-Y. G. 
-M. S.
-Gerhard Fasol 
-Masaaki 
-Wraback
-Caterina 
-Lojek 
-Justin Iveland, Lucio Martinelli, Jacques Peretti, James S. Speck, Claude Weisbuch.
-He
-Anton 
-Manfredi 
-Carrano
-Junho
-T. P.
-Martin 
-Poldmae
-Taguchi 
-Jiang 
-John C
-Anant A. 
-MacKay
-Rashed 
-O.E. 
-Shuji 
-Carlesi 
-D. A. 
+Changjiu 
 Chao 
-Myers 
-Richard H. 
-Yu
-Andrew 
-Catalin Daniel
-Peng
-AND E. Jamgochian 
-Mojtaba 
-Kebin 
-Wei
-Kang
-E. Fred Schubert
-R. H. 
-Tajima 
-Lucio 
-Tongbo 
-Schoenung 
-Bl�Sing 
-Holmes 
-Rong-Jun 
-A. Gopal, M. Glaz, D.Vanden Bout, X.J. Zhang
-P.
-Dutta
-Sugiyama 
-Richter
-Tang 
-Perry
-Bardsley 
-Weisbuch 
-Shioda
-DeLucia
-Brown
+Chaochao 
+Char
+Charles H. 
+Chen
+Chen 
+Chen-kai
+Chen-kai 
+Cheng 
+Chengbo 
 Chi-Feng
-Venere 
-Fixler
-E. 
-Wu
-Narra, Prathyusha and Zinger, D.S. 
-U. 
-Williamson 
-Jeffrey Bausch 
-Jai Yong
-Poldmae 
-Makimoto
-Colaneri
-Qin 
-Kimberly 
+Chih-Chung
+Chih-Feng
+Ching-Cherng
+Cho
+Cho 
+Cho, H.K., Jang, J., Choi, J.H., Choi, J., Kim, J., Lee, J.S., Lee, B., Choe, Y.H., Lee, K.D., Kim, S.H. and others
+Choquette
+Choquette 
+Christen 
+Christos
+Christos 
+Chu 
+Chua
+Chua 
+Chuanzhong
+Chuanzhong 
+Chung
+Chung 
 Chunxiong 
-Quan
+Ciugudeanu
+Claude 
+Cobden
+Coelho 
+Colaneri
+Colaneri 
+Colvin 
+Comoretto 
+Condliffe 
+Contreras 
+Cooke, Mike
+Cooke, Mike 
+Correa
+Cortecchia 
+Coxworth 
+Crawford
+Cui 
+D D C
+D.
+D. 
+D. -H.
+D. -H. 
+D. A.
+D. A. 
+D. D. C. 
+D. G
+D. H
+D. V.
+D. V. 
+D.-H.
+D.S. 
+Dadgar
+Dadgar 
+Dae-Young
+Dai
+Dan 
+Daniel Gomez, FAE Avnet
+Daniele 
+Dauler
+David
+David 
+David Cassidy, Gerald Holton, James Rutherford 
+David F. 
+David L. Heiserman 
+Davide 
+Dawei
+Dayani
+De Lucia
+De Lucia 
+DeLucia
+DeLucia 
+Denbaars
+Dennis 
+Dennis Overbye 
+Destriau, G.
+Di
+Di Lecce
+DiDonato
+Dietz, P. H. 
+Dietz, Yerazunis, and Leigh
+Diez 
+Dimitrov
+Dimmock
+Dimmock 
+Distributing Inc,
+Do Y.
+Doherty 
+Dong 
+Dong, Tianming et al.
+Dong-Ming
+Dong-Sik
+Donggu
+Dongho
+Dongxin 
+Dorin
+Dror
+Dubinsky
+Ducati 
+Dutta
+E
+E.
+E. 
+E. A
+E. D.
+E. D. 
+E. Fred 
+E. Fred Schubert
+E. Fred Schubert and Jong Kyu Kim
+E. Hecht
+E. R
+Edmond
+Edwards 
+Efremov
+Efremov 
+Efremov, A. A. ''et al.''
+Eiji
+Eiji 
+Eisenberg
+Eisenberg 
+Elvikis
+Elvikis 
+Emil 
+Emma
+Eric A.
+Erik 
+Eui Hyuk 
+Eun Kyung
+Eunjoo
+Evan
+Evan 
+F.
+F. 
+F. Pelayo García
+Fahlman 
+Fan 
+Fanglong 
+Fehse 
+Felix U. 
+Felix Utama 
+Feng 
+Feng-Ming 
+Feng‐Ming 
+Ferguson
+Ferguson 
+Ferreira
+Ferreira 
+Fiona
+Fiona 
+Fixler
+Flagstaff Dark Skies Coalition
+Florencio 
+Francesco Di 
+Fred Schubert 
+Fredrik
+Fredrik 
+Fredrik Hailer 
+Friend
+Friend 
+Fudin, M. S. 
+Fujita, S. 
+G.
+G. 
+G. A.
+G. A. 
+G. E. Pittman 
+G. M.
+G. M. 
+Gabriel J. 
+Galatanu
+Galia 
+Gallina Toschi
+Gao 
+Garcia-Santamaria 
+Garrett
+Garrett 
+Gary
+Gary 
+Gaska
+Geoffrey J.
+George Rostky 
+Gerald P. 
+Gerard J.
+Gerhard Fasol 
+Ghimire
+Giovanni 
+Giuseppe
+Giuseppe M. 
+Giusto 
+Glaz 
+Goad
+Goad 
+Goins, G. D. 
+Goins, GD and Yorio, NC and Sanwo, MM and Brown, CS
+Gomez, Daniel 
+Gong
+Gopal 
+Gorbunov
+Gorbunov 
+Green 
+Grossi
+Guangruixing 
+Guanhaojie 
+Guo
+Gustafsson
+Gustafsson 
+Gyu Weon
+H
+H 
+H.
+H. 
+H. A. 
+H. J. Round
+H. Lipsanen 
+H. Walter 
+Ha
+Haas
+Hailer
+Hailer 
+Haiyan 
+Hamamoto
+Hamamoto 
+Han
+Hank 
+Hao 
+Haorui 
+Harald
+Hasegawa
+Hasegawa 
+He
+He 
+Hebner
+Hebner 
+Hecht, E. 
+Heeger
+Heeger 
+Heejae
+Heeje
+Hendrickson
+Herbert
+Herbert 
+Herschkowitz
+Heuken 
+Heydarizadeh
+Heyong 
+Hikosaka
+Hikosaka 
+Hin-Lap 
+Hiolski
+HiolskiFeb. 9
+Hisao
+Hisao 
+Hisashi
+Hisashi 
+Hoerni, J.A. 
+Holloway
+Holmes
+Holmes 
+Holonyak Nick 
+Hong
+Hongling 
+Hoogland 
+Hoque 
+Hoshino 
+Hou 
+House 
+Howard C. 
+Hsien-Yi 
+Hsu 
+Hu 
+Hua-Nong
+Hua-Nong 
+Hua-Shuang
+Huang
+Huang 
+Hui
+Hujia
 Hwang
-Yong 
-Peter Capper, Michael Mauk 
-J N
-Sergey 
-Makoto
+Hwang 
+Hyosook
+Hyunduck
+Håkan 
+I. 
+I. Moreno 
+Ian E 
+Ian T
+Ian T 
+Ikehara
+Ikehara 
+Iluz
+Inman 
+Inman, Mason
+Insun
+Ivan
+Ivan Moreno, Ulises Contreras
+Ivan Moreno, and Ching-Cherng Sun
+Iveland 
+Iveland, Justin
+Izotov 
 J
-Yingguo 
-Meitl
+J H
+J N
+J.
+J. 
+J. A.
+J. A. 
+J. C.
+J. C. 
+J. H. 
+J. H. Wold and A. Valberg
+J. M. 
+J. N. 
+J. S
+J.M. 
+Jacques 
+Jaehee 
+Jaeheung
+Jaehoon
+Jai Yong
+James A. Worthey
+James A. Worthey 
+James E. 
+James R. Biard 
+James S. 
+Jamgochian
+Jamie 
+Jan W.
+Jana
+Jana 
+Janeway 
+Jang
+Janssen
+Jasmine P. H.
+Javed
+Javed 
+Jayesh
+Jeffrey 
+Jeffrey Bausch 
+Jennifer
+Jensen
+Jensen 
+Jeonghun
+Jerry
+Jerry 
+Ji 
+Jiajie 
+Jian-Xin 
+Jianchang 
+Jiang 
+Jiangbin 
+Jiangeng
+Jianpu
+Jianxun
+Jianxun 
+Jian‐Xin 
+Jiaping
+Jin
+Jin 
+Jingbi 
+Jingren 
+Jingshu
+Jingzhen 
+Jinliang 
+Jinmin 
+Jiri 
+Joel 
+Joel Brown 
+Johannes M.
 John
-Overbye 
+John 
+John A.
+John C
+John C 
+John C. 
+Jonathan Webb
+Jones
+Jong Hyuk
+Jong Kyu 
+Jong-Suk
+Joo
+Joon-gu
+Jumpei
+Jumpei 
+Jun
+Jun Hyuk 
+Junbiao 
+Jung 
+Junho
+Junli 
+Junxi 
+Justin 
+Justin Iveland, Lucio Martinelli, Jacques Peretti, James S. Speck, Claude Weisbuch.
+Justin Iveland, Lucio Martinelli, Jacques Peretti, James S. Speck, Claude Weisbuch. 
+K
+K 
+K.
+K. 
+K. -C.
+K. -C. 
+K. B.
+K. D. Mynbaev 
+K. E.
+K. E. Aifantis 
+K. J.
+K. J. 
+K. Lehovec
+K. Lehovec 
+K. Lehovec, C. A. Accardo, AND E. Jamgochian
+K. S.
+K.Hoshino
+Kai 
+Kanda
+Kanda 
+Kang
+Kang 
+Kao
+Kao 
+Kasu
+Kasu 
+Katherine W.
+Kathryn M.
+Kathy A.  
+Kebin
+Kebin 
+Kenji
+Kenji 
+Kesavan
+Kesavan 
+Kevin
+Kevin 
+Kevin Jensen
+Kho
+Kho 
+Kilper
+Kilper 
+Kim
+Kim 
+Kimberly 
+Kimberly D. 
+Kimura
+Kimura 
+Kinouchi 
+Kitamura
+Klavetter
+Klavetter 
+Klement
+Kobera 
+Kocifaj
+Koichi
+Koichi 
+Koizumi
+Koizumi 
+Kong
+Kookheon
+Kosasih 
+Kramer 
+Kroemer
+Kroemer 
+Krost 
+Kubetz 
+Kubota
+Kubota 
+Kwak
+Kwon
+Kyu Hwan
+Kyung-Sang
+L. 
+Lacis
+Lacis 
+Lavrinovich
+Lavrinovich 
+Lawler 
+Laxmi Kishore 
+Le
+Le 
+Le Ma
+Lee
+Lee 
+Lee, Thomas H. 
+Lehovec
+Lei
+Leigh, D. L. 
+Lester
+Lester 
+Li
+Li 
+Li Na
+Liang
+Liao
+Liao 
+Libor 
+Lighting Research Center 
+Lim
+Lim 
+Lim SR, Kang D, Ogunseitan OA, Schoenung JM
+Lin
+Lin 
+Linghao 
+Linnolahti
+Liotta
+Lipsanen H. 
+Liqiang
+Liqiang 
+Liu
+Liu 
+Liwei
+Lojek 
+Long 
+Long-Xue 
+Long‐Xue 
+Losev
+Losev 
+Losev, O. V.
+Losev, O. V. 
+Lossev 
+Lova 
+Lu
+Lu 
+Lucio 
+Luginbuhl
+M
+M 
+M.
+M. 
+M.  
+M. A. 
+M. C. 
+M. H.
+M. H. 
+M. K.-F.
+M. L
+M. L. 
+M. S.
+M. S. 
+M. S. Fudin 
+M. S. Fudin, K. D. Mynbaev, K. E. Aifantis, H. Lipsanen, V. E. Bougrov, A. E. Romanov
+M.C. Schlamp, and A.P. Alivisatos
+M.O. 
+Ma 
+MacKay
+MacKay 
+Mackay
+Macpherson 
+Maher 
+Maier
+Maier 
+Maike Lorena 
+Makar
+Makimoto
+Makimoto 
+Makoto
+Makoto 
+Man 
+Mandrus
+Manfred
+Manfredi 
+Marco
+Marcy
+Marcy 
+Margolin J
+Margolin J 
+Mark
+Mark 
+Markley 
+Marks
+Marks 
+Marla
+Marla 
+Martin 
+Martinelli 
+Masaaki
+Masaaki 
+Masatake
+Masayuki
+Mashford
+Mason
+Mats 
+Mauk, Michael  
+McMartin
+Md Ashraful 
+Meitl
+Meitl 
+Meredith
+Miao
+Mike
+Mike 
+Mikko
+Miller
+Miller 
+Mills 
+Mills, Evan 
+Minghuan 
+Mingjian 
+Mini, Banana, and Leigh
+Mircea
+Mirei
+Moe
+Moe 
+Mohammad
+Mojtaba
+Mojtaba 
+Moreno
+Moreno 
+Mori
+Mori 
+Morris 
+Morris Nick
+Moshe
+Moungi G.
+Moustakas
+Moustakas 
+Mu-Jeong
+Mu-Jeong 
+Mueller, Gerd 
+Mukai 
+Mulvaney
+Muramoto
+Muramoto 
+Murphy 
+Myeongjin
+Myers 
+Mynbaev, K. D. 
+N.
+N. 
+N. I. 
+N. J
+N. M. 
+N. N.
+Nadarajah
+Naeser, M.A. et al.
+Nakamura
+Nakamura 
+Nakamura, S.; Mukai, T. and Senoh, M. 
+Nakano
+Nakano 
+Nakaya
+Nakaya 
+Nam 
+Nana
+Naoharu
+Naoharu 
+Narayanan
+Narayanan 
+Narendran
+Narendran, N.  
+Narendran, N. and Y. Gu
+Narra 
+Narra, Prathyusha  and Zinger, D.S. 
+Narra, Prathyusha and Zinger, D.S. 
+Neel V.
+Neel V. 
+Neidhardt 
+Neto 
+News
+Nguyen
+Nick
+Nick 
+Nimz
+Nimz 
+Niu
+Noriko
+Nosov 
+Novikov 
+Nunoue
+Nunoue 
+O.
+O. 
 O. A. 
 O. V.
-Said
-G. M. 
-Tian 
-Angel
-Zahra 
-Kho 
-Hailer 
-Ranii
-Satoko
-Fehse 
-Tomonari
+O. V. 
+O.E. 
+O.H. 
+O.V. 
+Ogunseitan 
+Oh
+Ohno, Y.
+Ohno, Y.,   
+Okon, Thomas M. 
+Oldford
+Olisovets 
+Oliveira 
+Onomura
+Onomura 
+Oskay 
+Oul
+Overbye 
+P
+P L
+P.
+P. 
+P. L. 
+Palese
+Pan
+Paola 
+Paolo 
+Parisa
+Park
+Park 
+Partha S.
+Patel
+Patel 
+Paternò 
+Paul
+Paul H.
+Pawson
+Pearsall
 Pearsall 
-Maier 
-E. R
-Xiong 
-Zheludev, N.
-Round, H. J.
-Haorui 
-Dan 
-Linnolahti
-A. R. 
-James E. 
-Tsuda 
-Fredrik Hailer 
-Yitong 
-Yang 
-Kocifaj
-Thomas Nimz, 
-Yoshitaka 
-Heyong 
-Shigeya 
-K. Lehovec
-Wan Ki
-Arru
-S. -I.
-Ian E 
-Su 
-Soon-Jae
-Tajuddin 
-Md Ashraful 
-Goins, GD and Yorio, NC and Sanwo, MM and Brown, CS
-Zhang
-Yeh
-Bläsing 
-Rebecca
-Thomas . Okon 
-Gustafsson 
-Ya-kun 
-Ting
-Zhao 
-Sato 
-Harald
-R. N. 
-Wold, J. H.  
-Jingren 
-Wraback 
-Jian‐Xin 
-Kroemer 
-Carr, W. N. 
-Gao 
-Yoon-Chang
-Cho 
-Villegas
-Abbrent 
-Salisbury 
-Taehee
-Jiangeng
-Perrone 
-Kevin 
-Perry 
-Readinger
-Liotta
-Yanmin 
-C.
-Chen-kai 
-Zukauskas
-O.
-A. J.
-A. V.
-Stranks 
-Yuan
-Efremov
-Lacis 
-T.&nbsp;S. 
-Jin
-Richard H.
-X
-Hisao
 Peláez
-Alan R. 
-Ruoxi 
-MacKay 
-Yoshihara, S. 
-Wiesmann
-Sitdikov 
-Gerard J.
-Ivan Moreno, Ulises Contreras
-Braunstein, Rubin 
-Thomas Nimz, Fredrik Hailer and Kevin Jensen
-Krost 
-H. Walter 
-Society of Photo-optical Instrumentation Engineers
-Justin Iveland, Lucio Martinelli, Jacques Peretti, James S. Speck, Claude Weisbuch. 
-Steve 
-H
-Guanhaojie 
-Gabriel J. 
-Makoto 
+Peng
+Peng 
+Peretti 
+Perrone 
+Perry
+Perry 
+Peter Capper, Michael Mauk 
+Pighini 
+Pm
+Polakovic 
+Poldmae
+Poldmae 
+Poschenrieder 
+Pozina 
+Prathyusha 
+Prathyusha Narra and Zinger, D.S. 
+Price 
+Proppe 
+Ptolemy and A. Mark Smith 
+Qian
+Qiao 
+Qin 
+Quan
+R H
+R N
+R.
+R. 
+R. -H.
+R. -H. 
+R. G.
+R. H.
+R. H. 
+R. I.
+R. I. 
+R. J.
+R. J. 
+R. N. 
+R. W.
+R.-H.
+Raloff, Janet 
+Ranii
+Raoul E.
+Rashed 
+Raymond L. 
+Readinger
+Readinger 
+Rebane
+Rebane 
+Rebecca
+Rebecca 
+Reed
+Reed 
+Ren 
+Rensmo 
+René A. J.
+Riccò
+Richard 
+Richard H.
+Richard H. 
+Richter
+Rick 
+Riemann 
+Rivett
+Robert Kelley 
+Roby
 Rogers
-Yitao
-Jun Hyuk 
-Shreter 
-A. E. Romanov 
-Tsuda
-Bose
-Jeonghun
-Jensen
-AND E. Jamgochian
-Yoon
-Dubinsky
-Fudin, M. S. 
-Chung 
-E.
-Ferreira
-2:00
+Rogers 
+Romanov
+Romanov, A. E. 
+Rong-Jun 
+Rong‐Jun 
+Roshdi 
+Ross
+Ross Knox 
+Rostky, George 
+Round, H. J.
+Round, H. J. 
+Rowan 
+Run 
+Ruoxi 
+S.
+S. 
+S. -I.
+S. -I. 
+S. F. 
+S. M.
+S. Nakamura, T. Mukai, M. Senoh 
+S. R. 
+S.-I.
+SMAR ERA LIGTING SYSTEMS
+Sabina 
+Sabzalian
+Sagar 
+Said
+Saisai 
+Sakamoto, A. 
+Salisbury 
+Sampath
+Sampath 
+Samuel D. 
+Sang Jin
+Sang-Hwan
+Sanwo, M. M. 
+Sarih 
+Sarma
+Sarney
+Sarney 
+Sato
+Sato 
+Satoko
+Saul
 Savov
-Wang 
-Bascom 
-Coxworth 
-Hank 
-Lee 
-Florencio 
-Mu-Jeong
+Schaeffer 
+Schellenberger 
+Scherer
+Schlamp 
+Schoenung 
+Schubert 
+Schubert, E. Fred 
+Schubert, E. Fred and Kim, Jong Kyu 
+Schuellerman 
+Senoh 
+Seonghoon
+Sergey 
+Setlur 
+Seungjin 
+Shauji Nakamura, Gerhard Fasol, Stephen J Pearton 
+Shen
+Shen 
+Shi-Jian 
 Shigeya
-
+Shigeya 
+Shimizu, K 
+Shin-ya
+Shin-ya 
+Shioda
+Shioda 
+Shirasaki
+Shreter
+Shreter 
+Shuji
+Shuji 
+Shuji Nakamura 
+Shuji Nakamura, Gerhard Fasol, Stephen J Pearton 
+Shur
+Sickenberger
+Sickenberger 
+Sista 
+Sitdikov 
+Sjoerd 
+Slater 
+Smith
+So Young
+Soci 
+Society of Photo-optical Instrumentation Engineers
+Soldatkin 
+Soleyman
+Song
+Soon-Jae
+Spacek 
+Speck 
+Srinivas 
+Stasio 
+Steiger
+Stephen 
+Stephen J Pearton 
+Stern 
+Steve 
+Steven P
+Stokstad 
+Stouwdam
+Stranks 
+Strassburg 
+Strauch III
+Strauch III 
+Stuart 
+Sturm
+Sturm 
+Su 
+Sugiyama
+Sugiyama 
+Sun
+Sun 
+Sun Young
+Supran
+Svilen
+T
+T.
+T. 
+T. P.
+T. P. 
+T. R.
+T. R. 
+T.&nbsp;S. 
+T.P. Pearsall, B.I. Miller, R.J. Capik, and K.J. Bachmann
+T.S.
+T. S. 
+T>. 
+Tachibana
+Tachibana 
+Tae-Ho
+Taehee
+Taehyung
+Taguchi 
+Taisuke
+Taisuke 
+Tajima
+Tajima 
+Tajuddin 
+Takahashi
+Takahashi 
+Takashi
+Takashi 
+Tanabe, S. 
+Tanabe, S. and Fujita, S. and Yoshihara, S. and Sakamoto, A. and Yamamoto, S.
+Tang 
+Taniguchi
+Taniguchi 
+Taniyasu
+Taniyasu 
+Tarkhin
+Tarkhin 
+Taseen
+Tennessen, D.J. and Singsaas, E.L. and Sharkey, T.D.
+Tennessen, D.J. and Singsaas, E.L. and Sharkey, T.D. 
+Tephly
+Tetsuo Tsutsui
+Theodore D.
+Theodore D. 
+Thomas
+Thomas 
+Thomas . Okon 
+Thomas H. Lee, 
+Thomas M. Okon 
+Thomas Nimz, 
+Thomas Nimz, Fredrik Hailer and Kevin Jensen
+Thomidis
+Thomidis 
+Tian
+Tian 
+Tiarnan 
+Tich-Lam
+Tim Whitaker
+Tim's Blog 
+Ting
+Ting 
+Tingwei 
+Tomonari
+Tomonari 
+Tong 
+Tongbo 
+Tongtong 
+Toshiki
+Toshiki 
+Toshitaka
+Treacy
+Treacy 
+Tsuda
+Tsuda 
+Tsunemasa 
+Tudor H.
+Tuev 
+Tullia
+U. 
+U. N.
+United States 
+Ute B. 
+V. A. 
+V. E. Bougrov 
+V. L. 
+V.L. 
+V.L. Colvin
+Valberg, A. 
+Valerie
+Valerie 
+Van Zeghbroeck 
+Vanden Bout 
+Vasily 
+Venere 
+Veprek
+Villegas
+Vlad
+Vladimir
+W
+W. A.
+W. L
+W. L. 
+Wakikawa
+Wakikawa 
+Wan Ki
+Wang
+Wang 
+Ward
+Watanabe
+Watanabe 
+Wei
+Wei 
+Weijie
+Weisbuch 
+Wenhao 
+Wenjing 
+Wenqiang
+Wenqiang 
+Whitaker, Tim
+Whitaker, Tim 
+Wiesmann
+Wilburn
+Wilhelm 
+Williamson
+Williamson 
+Wilson
+Windell 
+Witzigmann
+Wold, J. H. 
+Wold, J. H.  
+Wold, J. H. and Valberg, A. 
+Wolinsky, Howard
+Wolinsky, Howard 
+Won
+Won-Jae
+Woo
+Woon Jin 
+Worthey, James A. 
+Wraback
+Wraback 
+Wu
+Wu 
+X
+X.
+X. 
+Xia 
+Xiangtian 
+Xianjie 
+Xiao 
+Xiao-Ke 
+Xiaogang
+Xiaoyan 
+Xiaoyang Li
+Xiaoyong
+Xie
+Xie 
+Xing
+Xingliang
+Xingwang 
+Xinru 
+Xinyi 
+Xiong
+Xiong 
+Xiwen
+Xu
+Xuan 
+Xue
+Xue 
+Xuejun 
+Y.
+Y. 
+Y. G. 
+Y. Gu
+Y. T. 
+Ya-kun 
+Yamamoto, S.
+Yan
+Yan 
+Yan-Qing 
+Yanfeng
+Yang
+Yang 
+Yanmin 
+Yan‐Qing 
+Yao
+Yao 
+Yarong
+Yasuhiro
+Yeh
+Yerazunis, W. S. 
+Yi 
+Yin 
+Ying
+Ying-Yi 
+Yingguo 
+Yingqiang
+Ying‐Yi 
+Yip 
+Yitao
+Yitao 
+Yitong 
+Yizheng
+Yizheng 
+Yong 
+Yoon
+Yoon 
+Yoon Hee 
+Yoon-Chang
+Yorio, N. C. 
+Yoshida
+Yoshida 
+Yoshihara, S. 
+Yoshitaka
+Yoshitaka 
+You 
+Young-Woo
+Yu
+Yu 
+Yu-Ho
+Yu. G. 
+Yu. R. 
+Yu. T.
+Yuan
+Yuan 
+Yuanzhi 
+Yue Wang
+Yutaka
+Z.
+Z. 
+Zagrebnov 
+Zahra 
+Zang
+Zema 
+Zhang
+Zhang 
+Zhangjun 
+Zhanhua 
+Zhao
+Zhao 
+Zheludev N
+Zheludev, N.
+Zheludev, N. 
+Zhen 
+Zhenchao 
+Zheng
+Zheng 
+Zhenxing
+Zhigang 
+Zhiqiang 
+Zhou 
+Zhu 
+Ziming 
+Zinger 
+Zou
+Zou 
+Zukauskas
+Zukauskas 
+Zvy
+de Arquer
+pureVLC 
+{Burroughes, JH and Bradley, DDC and Brown, AR and Marks, RN and Mackay, K. and Friend, RH and Burns, PL and Holmes, AB

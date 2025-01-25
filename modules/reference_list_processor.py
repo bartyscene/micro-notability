@@ -20,12 +20,33 @@ AUTHOR_PATTERN = re.compile(
 
 NAME_PATTERN = re.compile(r"[^\W\d_]+", re.UNICODE) # Regex to extract Unicode word characters
 
+COMMENT_PATTERN = re.compile(r'<!--.*?-->', re.DOTALL) # Regex to remove comments
+
+def extract_raw_names_from_citations(wikitext):
+    if wikitext is None:
+        return set()
+    
+    wikitext = COMMENT_PATTERN.sub('', wikitext)
+
+    name_parts = set()
+    matches = AUTHOR_PATTERN.findall(wikitext)
+
+    for match in matches:
+        for name_field in match:
+            if name_field:
+                name_parts.add(name_field)
+    
+    return name_parts
 
 def extract_names_from_citations(wikitext):
     if wikitext is None:
         return set()
+    
+    wikitext = COMMENT_PATTERN.sub('', wikitext)
+
     name_parts = set()
     matches = AUTHOR_PATTERN.findall(wikitext)
+
     for match in matches:
         for name_field in match:
             if name_field:

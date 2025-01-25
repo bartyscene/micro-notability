@@ -1,125 +1,122 @@
-Reference List:
-
-Gerald
-Chen 
-Matthew J.
-Pierini 
-Burns 
-Research 
-John E. Brozek 
-S.
-Simson Garfinkel
-Thorp
-Matthew Cox 
-John
-Herbert
-Miller 
-Todd R.
-D.C. Wong 
-Blair
-David 
-Dvorak
-Kyle
-Fonseca 
-MacKenzie
-Tara Kieffner
-Lynch
-Klonoff
 Abhimanyu
-Nancy duvergne 
-France
-Wolonick
-Chloe
-J. D Flatt
-Emily W. 
-Globaldata Thematic 
-Arif 
-Edward
-Joel H. 
-Riddhi 
-Bilton 
-Russell
-Matt 
-Weiss
-Jared
-Anna 
-Tamminen
-VandeBunte 
-Corrina 
-Buxton
 Albanesius
+Amanda 
+Anna 
+Arif 
+B.
+Barfield
+Bilton
+Bilton 
+Blair
 Brian X. 
-Peter Clarke 
+Burns 
+Buxton
+Casaletto 
+Center
+Chen 
+Chloe
+Chris Davies 
+Connexion
+Cornelius
+Corrina 
+D.
+D. C. Johnson 
+D. C. Johnson, D.C. Wong, J. D Flatt
+D.C. Wong 
+David 
+David C.
+Demczuk
+Djukic 
+Dorée
+Dvorak
 E. O.
+Edgar
+Edward
+Electronic Privacy Information
+Elisabet
+Emily W. 
+Feiner
+Fonseca 
+France
+Gerald
+Ghebrezgi
+Ghoshal
+Globaldata Thematic 
+Gunther
+Hepworth
+Herbert
+Holmgren
+Hubert Upton 
+I. Scott
+Islam 
+J. D Flatt
+Jared
+Joel H. 
+John
+John E. Brozek 
+Joseph L.
+Josh
+Kaitlin B. 
+Kanetkar 
+Katherine Watier 
+Klonoff
+Kooser 
+Kramer 
+Kyle
+Lee 
+Lynch
+MacIntyre
+MacKenzie
+Mann
+Mann 
+Matias
+Matt 
+Matthew Cox 
+Matthew J.
+Matthew J. 
+Michael Friedberg 
+Miller 
+Nabil
+Nancy duvergne 
+Newman
+Nick
+Nick 
+Nina 
+O'Donoghue
 Paolillo 
 Paul 
-Nick
-B.
-Joseph L.
-Statt 
-Seligmann
-D. C. Johnson, D.C. Wong, J. D Flatt
-W.
-Electronic Privacy Information
+Peter Clarke 
 Piekarski
-Steven
-Elisabet
-Cornelius
-Amanda 
-Djukic 
-Casaletto 
-Michael Friedberg 
-Kaitlin B. 
-Hubert Upton 
-Kanetkar 
-O'Donoghue
-Connexion
-Starner
-Gunther
-Thad E.
-Matias
-D. C. Johnson 
-Nabil
-Ghoshal
-I. Scott
+Pierini 
 Rahn
-MacIntyre
-Shannon Y. 
-Matthew J. 
-Thad
-Ghebrezgi
-Barfield
-William
-Nina 
-Thomas
+Research 
+Riddhi 
+Russell
+S.
 S. 
-Kramer 
-Katherine Watier 
-D.
-Josh
-Mann
-Newman
-Bilton
-Tara Kieffner 
-Woodrow
-Smith 
-Zieniewicz
-Sultan
-Nick 
-Mann 
-Yonathan
-Chris Davies 
-David C.
-Center
-Dorée
-V.
-Kooser 
-Demczuk
-Feiner
-Islam 
-Lee 
-Hepworth
-Edgar
 Sakari
-Holmgren
-
+Seligmann
+Shannon Y. 
+Simson Garfinkel
+Smith 
+Starner
+Statt 
+Steven
+Sultan
+Tamminen
+Tara Kieffner
+Tara Kieffner 
+Thad
+Thad E.
+Thomas
+Thorp
+Todd R.
+V.
+VandeBunte 
+W.
+Weiss
+William
+Wolonick
+Woodrow
+Yonathan
+Zieniewicz

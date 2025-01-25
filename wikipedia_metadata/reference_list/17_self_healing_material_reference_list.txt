@@ -1,864 +1,861 @@
-Reference List:
-
-Gorb, S. 
-Rao, K.C. 
-J. A. P. 
-Williams
-Dry, C.
-Eberly
-Gillig, C. 
-Saul 
-Laha, K., et al.
-Shuai
-Speck, T., Bauer, G., Flues, F., Oelker,K., Rampf, M., Schüssele, A.C.,  Tapavicza, M.v., Bertling, J., Luchsinger, R., Nellesen, A., Schmidt, A.M.,  Mülhaupt, R., Speck, O.
-Flues, F. 
-S.
-Jonkers
-Chujo, Y.
-Ian
-M
-Tumas
-Jamroz 
-Moore
-S. C.
-Nakatani
-Diesendruck
-Grubbs RH, Tumas W 
-Wetzel
-Hao
-Nielsen
-Wolfgang H. 
-Wudl
-Holland, C.
-Unterlass
-Markvicka EJ, Bartlett MD, Huang X, Majidi C 
-Laha, K., J. Kyono, and N. Shinya
-Blaiszik
-Patrick 
-Bauer, G. 
-I.J. Polmear
-Saegusa T , Sada K, Naka A, Nomura R, Saegusa T 
-K
-Speck T, Mülhaupt R, Speck O 
-Wudl, F.
-Z.
-Ehrlich
-Caruso, M. 
-Embaye NB, Ramini SK, Kuzyk MG 
-Thijssen
-Christopher M. 
-Nosonovsky M, Rohatgi P 
-S.R. 
-Waite
-Abe
-Sims
-Arencibia
-Norris CJ, White JA, McCombe G, Chatterjee P, Bond IP, Trask RS 
-Hanze
-Zhang, S.
-Blaiszik BJ, Kramer SL, Grady ME, McIlroy DA, Moore JS, Sottos NR, White SR 
-S.H.
-Hartnett
-Dubruel
-Yang HJ, Pei YT, Rao JC, De Hosson JT 
-Kathleen S.
-Sia
-Dong Woog
-Viratyaporn
-Ludwik
-S.B.
-Huang
-Muyzer
-Thostenson ET, Chou TW 
-P. H.
-Wu-jun
-Zhang S, Kohlbrecher J, Tichelaar FD, Langelaan G, Brück E, Van Der Zwaag S, Van Dijk NH 
-Saegusa, T.
-Van Loo
-Rincon
-Hassan
-Schoustra
-P.V.
-Dawson
-O. 
-J. Herbert
-Hans-Rudolf
-Mauldin TC, Kessler MR
-Bergman, S.D. 
-G
-Liu
-Trask RS, Bond IP 
-Xiaoning
-Paul 
-Markvicka
-Filip E.
-de Rooij
-Trask
-De Belie
-Mohamed 
-Olugebefola SC, Aragón AM, Hansen CJ, Hamilton AR, Kozola BD, Wu W, Geubelle PH, Lewis JA, Sottos NR 
-Varley RJ, Zwaag SV 
-Wenk
-Charles L.
-Sottos
-M.
-Khalid 
-Kang, S.
-Hayes SA, Jones FR, Marshiya K, Zhang W 
-Meng, L.M., Yuan, Y.C., Rong, M.Z. and Zhang, M.Q
-N. R. 
-Moore, J.S. 
-Pang, J. W. C.; Bond, I. P.
-Peikaria, M. 
-Yulin
-Li S, Song G, Kwakernaak K, van der Zwaag S, Sloof WG 
-Smulders, Maarten M. J.
-Shen
-Mark G. 
-David P. 
-J.A.
-Klein, M.C. 
-Varadan 
-B. 
-Tutika R, Haque AT, Bartlett, MD  
-Braun
-Ta 
-Sloof
-Mooney 
-Jones
-Konrad, W., Flues, F., Schmich,F., Speck, T., Speck, O. 
-Daniel C. 
-William R.
-Rüggeberg, M. 
-Henk M. Jonkers 
-Song GM, Pei YT, Sloof WG, Li SB, De Hosson JT, Van der Zwaag S 
-Armstrong G, Buggy M 
-Xiaonan
-Van Tittelboom K, De Belie N, Van Loo D, Jacobs P 
-T C
-P.R. 
-Lumley, R.N., A.J. Morton, and I.J. Polmear
-Denissen W, Winne JM, Du Prez FE 
-Urban
-Takeo
-Yuan YC, Yin T, Rong MZ, Zhang MQ 
-Jin, H., et al
-Asadi
-Swapan Kumar
-Madden
-Chunqian
-Mohamed
-Mishra 
-Yin 
-Zwaag, S.V.D
-Chunqian 
-T. 
-Chatterjee 
-Paulo J. M.
-Huang 
-P. 
-Michael D.
-Humberstone
-Guiming
-Han
-He SM, Van Dijk NH, Schut H, Peekstok ER, van der Zwaag S 
-Saegusa
-Ying
-Menno 
 A
-NR
-Wayman
-R S
-Mauldin TC, Kessler MR 
-Speck O, Schlechtendahl M, Borm F, Kampowski T, Speck T 
-N. Shinya
-Somayeh
-He, S.M.
-Brune
-W
-B.J.
-Raquel 
-Bergman, S.D.
-I.P.
-Guan, Z.
-E.N.
-A. R.
-Junna
-Laha K, Kyono J, Shinya N 
-Brown, E. N., Sottos, N. R. and White, S. R
-Meng LM, Yuan YC, Rong MZ, Zhang MQ 
-Bentz
-Zhu M, Rong MZ, Zhang MQ
-Marc A.
-H R
-Mark G.
-Duc Truong
-Tuan
-Zhang 
-Hattar 
-Marshiya
-Speck, T.
-SR
-Kayla A
-Caruso MM, Davis DA, Shen Q, Odom SA, Sottos NR, White SR, Moore JS 
-F.R. 
-Dam
-A. J. 
-Jin, H.H., Mangun, C.L., Stradley, D.S., Moore, J.S., Sottos, N.R., White, S.R
-Demkowicz 
-Schmich, F. 
-Kieron Monks and Andrew Stewart, for
-H.M.
-Ando K, Kim BS, Chu MC, Saito S, Takahashi K 
-Moore, J.F. 
-Victor
-Schüssele, A.C., Nübling, F., Thomann,  Y., Carstensen,  O., Bauer, G., Speck, T., Mülhaupt, R.
-M.W.
-Jones, F.R. 
-S. R. 
-N. 
-Sada
-S.C.
-J. A.
-Mülhaupt 
-J. 
-Speck,O.,  Luchsinger, R., Rampf, M., Speck, T. 
-Yuan 
-Olugebefola
-Zhang S, Kwakernaak C, Sloof W, Brück E, van der Zwaag S, van Dijk N 
-Taylor 
-Johan M.
-JS
-Yamaguchi
-Sottos, N. R. 
-Mahulikar, P.P
-Dry C 
-Savin
-Vollrath, F. 
-GJ
-Sung
-Tapavicza, M. v. 
-Anthony R.
-Luchsinger, R. 
-Jin, H.H. 
-Schüssele, A.C. 
-I. P. 
-D.A.
-Schlangen
-Chen, X.
-Pang JW, Bond IP 
-Van Tittelboom
-M. R. 
-J. S.
-H. J. 
-R.
-Rong 
-Vitti
-A.P. 
-Akio
-Yuzhan
-Mal
-Kessler 
-Vijay K. 
-in het Panhuis 
-Ahn
-Varley, R.J., Zwaag, S.V.D
-Wudl, F. 
-J. T. M.
-Schmidt, A. 
-Monks 
-Adams 
-Liwei
-Lantz
-Henk M. 
-Aissa 
-Jonkers 
 A.
-Ghosh 
-Utrera-Barrios 
-Eric N.
-Christian
-N. R. Sottos, P. H. Geubelle, J. S. Moore, M. R. Kessler, S. R. Sriram, E. N. Brown & S. Viswanathan
-Bond
-Majidi
-Pascal 
-Katherine 
-Viswanathan
-Verstraete
-Wang
-Jin HH, Mangun CL, Stradley DS, Moore JS, Sottos NR, White SR 
-Ramini
-Katherine
-Haim
-Luchsinger 
-Schüssele AC, Nübling F, Thomann Y, Carstensen O, Bauer G, Speck T, Mülhaupt R 
-Snoeck
-Kang, S., et al
-Kalista Jr SJ, Ward TC, Oyetunji Z 
-Ji 
-M. A.
-Ingraffea
-Suryanarayana C, Rao KC, Kumar  
-E
-J.F. 
-Bejan
-Marianella 
-M. J. 
-Sottos, N.R. 
-Zhao
-Kessler
-Bauer, G., Friedrich, C., Gillig, C., Vollrath, F., Speck, T., Holland, C.
-Jonkers HM, Thijssen A, Muyzer G, Copuroglu O, Schlangen E 
-Konrad, W. 
-C. J. 
-Marc 
-Hayes SA, Zhang W, Branthwaite M, Jones FR 
-C
-Song
-Yamaguchi M, Ono S, Okamoto K 
-Lewis
-RS
-Jacob N.
-R.S. 
-Massimo
-Odom
-Grubbs, R.
-III, Thomas H.
-Li 
-Bond, I. P. 
-Pang, J. W. C.; Bond, I. P. 
-Christopher J.
-Zhibin
-Lu 
 A. 
-Cordier
-Jacobs
-Thirumalini, P.; Ravi, R.; Sekar, S. K. and Nambirajan, M. 
-Liua, Y.L., Chuoa, T.W
-Alansari
-David A.
-Hundiwale, D.G. 
-White, S. R 
-Michael B.
-I. 
-Pang, J. W. C. 
-Georg M.
-Ho
-J.S.
-Schiraldi DA, Liotta CL, Collard DM, Schiraldi DA 
-Jeffrey S.
-Pel
-Ji
-Samadzadeha M, Bouraa SH, Peikaria M, Ashrafib A, Kasirihac M 
-Jin, H.H., Mangun, C.L., Stradley, D.S., Moore, J.S., Sottos, N.R., White,  S.R
-Nakao W, Takahashi K, Ando K 
-Hayes
-Wolfgang H.
-J. C.
-Minakuchi S, Sun D, Takeda N 
-Y.T.
-Nübling, F. 
-Yuan, Y.C. 
-Stewart 
-Busch, S. 
-Easterling
-Laha K, Kyono J, Kishimoto S, Shinya N 
-K.S.
-R.S.
-C. H. 
-Ono M, Nakao W, Takahashi K, Nakatani M, Ando K 
-Kesslera, M.R., Sottos, N.R. and White, S.R
-I.P. 
-Nathan
-Bufford 
-Milne 
-Cho
-Nemat-Nasser
-David J. 
-Kim
-Dry, C. 
-Okamoto
-Rohatgi 
-S. 
-Luis F.
-Jiarui
-Chujo Y, Sada K, Saegusa T 
-MR
-Hamilton
-Grubbs, R. 
-M. 
-Busch S, Seidel R, Speck O, Speck T 
-W. G.
-Rekondo 
-White
-C-Y. 
-Heckman 
-Toohey
-Ando
-Daniel A.
-B. Kollbe
-Laha, K.
-B. D.
-Caruso MM, Delafuente DA, Ho V, Sottos NR, Moore JS, White SR 
-White, S. R. 
-IP
-Takeda 
-Zhang, M.Q 
-D.E.
-K.
-X.
-P. H. Geubelle 
-Kuzyk
-Ward
-White, S. R.
-Natnael B.
-Norris 
-M. R. Kessler 
-Nosonovsky, M. and Rohatgi, P. 
-S.J.
-P
-Jackson
-G.M.
-David M.
-G. Q. 
-Yang J, Keller MW, Moore JF, White SR, Sottos NR 
-Schiraldi, D.A 
-Leeuwenburgh 
-Chen
-Bauer, G., Gorb, S., Klein, M.C., Nellesen, A., Tapavicza, M. v., Speck, T. 
-Ying 
-D. 
-Boyce 
-T.-W.
-Le-ping
-M R
-H.R.
-Yongjing 
-Zachary 
-Nosonovsky 
-Ankit 
-Mathieu
-Hernández Santana 
-Ryoji
-R. 
-Richard 
-Kevin
-Duong 
-Kalista
-Huang, M. and Yang, J
-Mauldin
-Wang J, Van Tittelboom K, De Belie N, Verstraete W 
-Busch, S., Seidel,R., Speck, O., Speck, T.
-F.
-Geubelle
-Soulié-Ziakovic
-David J.
-David A. 
-Bouraa, S.H. 
-Liua YL, Chuoa TW 
-Nele
-Speck 
-Davis
-Van der Zwaag
-Kwakernaak
-Steuperaert
-M.-C.
-Takahashi
-Zang, M.Q. 
-Landis
-Liua, Y.L. 
-Li
-Patel AJ, Sottos NR, Wetzel ED, White SR 
-J.Th.M.
-Susan A.
-L.
-Qinfei
-Keller
-Bauer G, Friedrich C, Gillig C, Vollrath F, Speck T, Holland C 
-Erin 
-Patel
-Brad L. 
-Lee
-Toohey KS, Sottos NR, Lewis JA, Moore JS, White SR 
-Thomann, Y. 
-Collard
-Nellesen, A., von Tapavicza, M., Bertling, J., Schmidt, A., Bauer, G., Speck, T.
-Ehsan
-Kozola
-S. R.
-Hawyes
-Busch, S., Seidel, R., Speck, O., Speck, T.
-Xin
-Peter
-Scott R.
-K.M.
-Edvardsen
-Richard Green
-Green
-Sybren K.
-Fortman
-D
-Yang Y, Urban MW 
-Liao
-Capelot
-Y.
-H. J.
-Jackson MD, Landis EN, Brune PF, Vitti M, Chen H, Li Q, Kunz M, Wenk HR, Monteiro PJ, Ingraffea AR 
-M. R.
-Speck, T., Luchsinger, R., Busch, S., Rüggeberg, M., Speck, O.
-Nakao W, Abe S 
-Oyetunji
-Nellesen, A. 
-Bleay SM, Loader CB, Hawyes VJ, Humberstone L, Curtis PT 
-Trask 
-J. Kyono 
-Cheng
-Ono
-Schiraldi
-I P
-Yang, J
-Speck O, Luchsinger R, Rampf M, Speck T 
-Or S.
-N.R. 
-Sia 
-He, S.M., et al
-Sander C. G. 
-Mangun, C.L. 
-C. J.
-Bergman SD, Wudl F 
-Y. 
-G. N. 
-Rampf 
-Friedrich, C. 
-Speck, T., Luchsinger, R., Busch,S., Rüggeberg, M., Speck, O.
-Cheng 
-Nosonovsky M 
-Zhang, S., et al
-Chen Y, Guan Z
-Carstensen, O. 
-Brown, E. N. 
-White, S.R.
-Yanfeng
-Chen Y, Guan Z 
-W. 
-Didier
-White 
-Speck, T., Mülhaupt, R., Speck, O. 
-Wang KM, [[Sylvie Lorente
-Rong, M.Z. 
-Yongjing
-Barr 
-Edvardsen C 
-Shiva K.
-A. P. 
-Carmel
-Chena, Y.
-Pham
-Thostenson
-Jin, H.
-Kang S, Jones AR, Moore JS, White SR, Sottos NR 
-White, S.R., et al
-Monteiro
-Leibler
-Y. T.
-S.R. et.al.
-PH
-Ludwik 
-Farle
-Erik Schlangen" 
-E. D.
-Blaiszik, B.J.
-Israelachvili
-De Hosson
-Jianjun
-Martin 
-S. R. Sriram 
-MA
-S. Viswanathan
-Ramini SK, Kuzyk MG 
-Charles P.
-Luo X, Ou R, Eberly DE, Singhal A, Viratyaporn W, Mather PT 
-N. R. Sottos 
-Brutman
-J. S. Moore 
-Hillmyer
-Guan
-Nosonovsky
-Buggy
-Sada, K.
-Ghosh
-von Tapavicza, M. 
-Laha, K. 
-Epps
-Jeffrey S. 
-M. Z. 
-Gite 
-Takeo 
-Kumar, D
-Green 
-Andrew 
-Diba 
-Zang, M.Q.
-Copuroglu
-V.K. 
-H.L.
-N.R.
-Thakre 
-Fu 
-Wei
-Bartlett
-Branthwaite
-Bleay
-Nellesen, A., von Tapavicza,M., Bertling, J., Schmidt,  A.,  Bauer, G., Speck, T.
-Seung Hyun
-Molkeri 
-Weizman
-Huang, M. 
-Suryanarayana, C. 
-Meng, L.M. 
-EN
-White SR, Sottos NR, Geubelle PH, Moore JS, Kessler MR, Sriram SR, Brown EN, Viswanathan S 
-Sriram
-P.
-E. T.
-Kwarkernaak
-S.R.
-Speck, T. 
-Luchsinger, R. H.
-Jones, F.R.
-V.
-Miguel A. 
-Zuilhof, Han
-Kessler MR, White SR 
-Bauer, G., Speck, T.
-Ruiz De Luzuriaga 
-Nellesen A, Von Tapavicza M, Bertling J, Schmidt AM, Bauer G, Speck T 
-Brown
-Williams HR, Trask RS, Bond IP 
-Cabañero 
-Mostavi
-Erik
-CNN
-Nancy R.
-Stradley, D.S. 
-Wim
-W.G.
-H. 
-Keller MW, White SR, Sottos NR 
-Abhilash 
-Michael J. 
-Delafuente
-E. 
-Wu
-Nathan M. 
-Lessard JJ, Scheutz GM, Sung SH, Lantz KA, Epps Iii TH, Sumerlin BS 
-N. R.
-Kyle C.
-Andersson
-Paul Rincon
-Therriault 
-Tournilhac
-F.R.
-Jadhav RS, Hundiwale DG, Mahulikar PP 
-P.T.
-Embaye
-Mülhaupt, R.
-Esser-Kahn 
-Speck T 
-Philip F.
-Kasirihac, M 
-J
-Wang KM, Lorente S, Bejan A 
-N. R. Sottos, P. H. Geubelle, J. S. Moore, M. R. Kessler, S. R. Sriram, E. N. Brown & S. Viswanathan 
-A.J. Morton 
-Marwa
-Samadzadeha, M. 
-P.M.
-Pham 
-Rao
-Chuoa, T.W
-Seidel, R. 
-He SM, Van Dijk NH, Paladugu M, Schut H, Kohlbrecher J, Tichelaar FD, Van der Zwaag S 
-Shibo
-Cullinan JF, Wisnom M, Bond I 
-White, S.R. 
-Stijn
-B.-S.
-Dry CM, Sottos NR 
-Chou
-Armstrong, G.
-S
-Scheutz GM, Lessard JJ, Sims MB, Sumerlin BS 
-Kramer
-L
-Samadzadeha, M., Bouraa, S.H., Peikaria, M., Ashrafib, A. and Kasirihac, M
-François
-Srivastava 
-Brent S.
-Yang, J. 
-Sottos, N.R 
-Sada, K. 
-Binder
-Jadhav, R.S., Hundiwale, D.G. and Mahulikar, P.P
-Ying H, Zhang Y, Cheng J 
-Kieron 
-Miriam M.
-Yang, J., Keller, M.W., Moore, J.F., White, S.R., Sottos, N.R
-Singhal
-Bertling, J. 
-Danielle Lynne 
-Bond 
-Jonkers H 
-Dong 
-Garcia
-Jacob J.
-Kazuki
-E. N. Brown 
-C.M.
-R. S. 
-Martin
-Yang 
+A. J. 
 A. M.
-Rampf, M. 
-McCombe 
-Konrad, W., Flues, F., Schmich,F., Speck, T., Speck, O.  
-Winne
-Bauer G, Gorb SN, Klein MC, Nellesen A, von Tapavicza M, Speck T 
-H.
-Sheran
-Brown EN, Sottos NR, White SR 
-Chujo, Y. 
-Leo
-M. W.
-O
-Kessler MR, Sottos NR, White SR 
-Ehrlich NL 
-Keller, M.W. 
-Rampf, M., Speck, O., Speck, T., Luchsinger, R. H.
-Vlasko-Vlasov 
-Kunz
-Saito
-Du Prez
-Minakuchi 
-Heng
-Saegusa, T. 
-Sottos 
-Yang T, Zhang J, Mouritz AP, Wang CH 
-Sun 
-Zhang
-Erin
-Naka
-W.
-S.A.
-Huang M, Yang J 
-Verdejo 
-Hansen
-Huang CY, Trask RS, Bond IP 
-Duc Truong 
-S.L.B.
-Dry
-Ashrafib, A. 
-Dichtel
-Douglas A.
-Sumerlin
-Qilong
-Pacheco J, Šavija B, Schlangen E, Polder RB
-Konrad, W., Flues, F., Schmich, F., Speck, T., Speck, O. 
-Jinwen
-Mahendra S. 
-Schlangen 
-Denissen
-Weiyan 
-Jadhav, R.S. 
-Luo
-van der Zwaag
-Armstrong, G. 
-Chu
-Konrad W, Flues F, Schmich F, Speck T, Speck O 
-Mouritz 
-Jadhav, R.S., Hundiwale,D.G. and Mahulikar, P.P
-Nutt
-Vikas V. 
-Jacob J
-Odriozola 
-Fortman DJ, Brutman JP, Cramer CJ, Hillmyer MA, Dichtel WR 
-Liotta
-Pei
-Speck, O.
-Xu 
-C.
-Mahajan 
-E. N.
-Mani 
-Luijten
-Munmaya K. 
-Swapan Kumar 
-Eric J.
-Cramer
-Grande 
-Jennifer A.
-Weaver
-Blaiszik BJ, Kramer SL, Olugebefola SC, Moore JS, Sottos NR, White SR 
-T.C.
-Scott R. 
-White, S.R 
-Cho SH, Andersson HM, White SR, Sottos NR, Braun PV 
-López-Manchado 
-N
-Erik 
-Scarlett
-Nomura
-Y. C. 
-Blaiszik, B.J., et al
-Mather
-Loader
-Bourzac
-Speck, O. 
-et al 
-Ou
-Nakao
-Farle AS, Kwakernaak C, van der Zwaag S, Sloof WG 
-Chen X, Dam MA, Ono K, Mal A, Shen H, Nutt SR, Sheran K, Wudl F 
-Aïssa B, Therriault D, Haddad E, Jamroz W 
-Scheutz
+A. P. 
+A. R.
+A.J. Morton 
+A.P. 
+Abe
+Abhilash 
+Adams 
+Ahn
+Aissa 
+Akio
+Alansari
+Andersson
+Ando
+Ando K, Kim BS, Chu MC, Saito S, Takahashi K 
+Andrew 
+Ankit 
+Anthony R.
 Aragon
-Trask RS, Williams HR, Bond IP 
-Schiraldi, D.A
-Demmenie 
-M. Q. 
+Arencibia
+Armstrong G, Buggy M 
+Armstrong, G.
+Armstrong, G. 
+Asadi
+Ashrafib, A. 
+Aïssa B, Therriault D, Haddad E, Jamroz W 
+B. 
+B. D.
+B. Kollbe
+B.-S.
+B.J.
+Barr 
+Bartlett
+Bauer G, Friedrich C, Gillig C, Vollrath F, Speck T, Holland C 
+Bauer G, Gorb SN, Klein MC, Nellesen A, von Tapavicza M, Speck T 
 Bauer G, Speck T 
-M.M
-Varleya, R.J., Zwaag, S.V.D
-Jin H, Miller GM, Pety SJ, Griffin AS, Stradley DS, Roach D, Sottos NR, White SR 
-Marie D.
-Dijksman, Joshua A.
-H
-Rampf M, Speck O, Speck T, Luchsinger RH 
-Jacob P.
-Lumley RN, Morton AJ, Polmear IJ 
-Hong-mei
-Cordier P, Tournilhac F, Soulié-Ziakovic C, Leibler L 
-G. 
-Charles E.
-Caruso
-Qiangang 
-Yang
-Bertsch 
+Bauer, G. 
+Bauer, G., Friedrich, C., Gillig, C., Vollrath, F., Speck, T., Holland, C.
 Bauer, G., Gorb,  S., Klein, M.C., Nellesen, A., Tapavicza, M. v., Speck, T. 
-Varley, R.J. 
-Lorente
-Rincon 
-Haddad 
-E. T.
-H., et al.
-Van Tittelboom,
-Lessard
-Esser-Kahn AP, Thakre PR, Dong H, Patrick JF, Vlasko-Vlasov VK, Sottos NR, Moore JS, White SR 
-Suryanarayana, C., Rao, K.C. and Kumar, D
-Schüssele, A.C., Nübling, F., Thomann, Y., Carstensen, O., Bauer, G., Speck, T., Mülhaupt, R.
-Wang 
-Nellesen, A., von Tapavicza,M., Bertling, J., Schmidt, A., Bauer, G., Speck, T.
+Bauer, G., Gorb, S., Klein, M.C., Nellesen, A., Tapavicza, M. v., Speck, T. 
+Bauer, G., Speck, T.
+Bejan
+Bentz
+Bergman SD, Wudl F 
+Bergman, S.D.
+Bergman, S.D. 
+Bertling, J. 
+Bertsch 
+Binder
+Blaiszik
+Blaiszik BJ, Kramer SL, Grady ME, McIlroy DA, Moore JS, Sottos NR, White SR 
+Blaiszik BJ, Kramer SL, Olugebefola SC, Moore JS, Sottos NR, White SR 
+Blaiszik, B.J.
+Blaiszik, B.J., et al
+Bleay
+Bleay SM, Loader CB, Hawyes VJ, Humberstone L, Curtis PT 
+Bond
+Bond 
+Bond, I. P. 
+Bouraa, S.H. 
+Bourzac
+Boyce 
+Brad L. 
+Branthwaite
+Braun
+Brent S.
+Brown
+Brown EN, Sottos NR, White SR 
+Brown, E. N. 
+Brown, E. N., Sottos, N. R. and White, S. R
+Brune
+Brutman
+Bufford 
+Buggy
+Busch S, Seidel R, Speck O, Speck T 
+Busch, S. 
+Busch, S., Seidel, R., Speck, O., Speck, T.
+Busch, S., Seidel,R., Speck, O., Speck, T.
+C
+C-Y. 
+C.
+C. H. 
+C. J.
+C. J. 
+C.M.
+CNN
+Cabañero 
+Capelot
+Carmel
+Carstensen, O. 
+Caruso
+Caruso MM, Davis DA, Shen Q, Odom SA, Sottos NR, White SR, Moore JS 
+Caruso MM, Delafuente DA, Ho V, Sottos NR, Moore JS, White SR 
+Caruso, M. 
+Charles E.
+Charles L.
+Charles P.
+Chatterjee 
+Chen
+Chen X, Dam MA, Ono K, Mal A, Shen H, Nutt SR, Sheran K, Wudl F 
+Chen Y, Guan Z
+Chen Y, Guan Z 
+Chen, X.
+Chena, Y.
+Cheng
+Cheng 
+Cho
+Cho SH, Andersson HM, White SR, Sottos NR, Braun PV 
+Chou
+Christian
+Christopher J.
+Christopher M. 
+Chu
+Chujo Y, Sada K, Saegusa T 
+Chujo, Y.
+Chujo, Y. 
+Chunqian
+Chunqian 
+Chuoa, T.W
+Collard
+Copuroglu
+Cordier
+Cordier P, Tournilhac F, Soulié-Ziakovic C, Leibler L 
+Cramer
+Cullinan JF, Wisnom M, Bond I 
 Curtis
+D
+D. 
+D.A.
+D.E.
+Dam
+Daniel A.
+Daniel C. 
+Danielle Lynne 
+David A.
+David A. 
+David J.
+David J. 
+David M.
+David P. 
+Davis
+Dawson
+De Belie
+De Hosson
+Delafuente
+Demkowicz 
+Demmenie 
+Denissen
+Denissen W, Winne JM, Du Prez FE 
+Diba 
+Dichtel
+Didier
+Diesendruck
+Dijksman, Joshua A.
+Dong 
+Dong Woog
+Douglas A.
+Dry
+Dry C 
+Dry CM, Sottos NR 
+Dry, C.
+Dry, C. 
+Du Prez
+Dubruel
+Duc Truong
+Duc Truong 
+Duong 
+E
+E. 
+E. D.
+E. N.
+E. N. Brown 
+E. T.
+E.N.
+E. T.
+EN
+Easterling
+Eberly
+Edvardsen
+Edvardsen C 
+Ehrlich
+Ehrlich NL 
+Ehsan
+Embaye
+Embaye NB, Ramini SK, Kuzyk MG 
+Epps
+Eric J.
+Eric N.
+Erik
+Erik 
+Erik Schlangen" 
+Erin
+Erin 
+Esser-Kahn 
+Esser-Kahn AP, Thakre PR, Dong H, Patrick JF, Vlasko-Vlasov VK, Sottos NR, Moore JS, White SR 
 F
+F.
+F.R.
+F.R. 
+Farle
+Farle AS, Kwakernaak C, van der Zwaag S, Sloof WG 
+Filip E.
+Flues, F. 
+Fortman
+Fortman DJ, Brutman JP, Cramer CJ, Hillmyer MA, Dichtel WR 
+François
+Friedrich, C. 
+Fu 
+G
+G. 
+G. N. 
+G. Q. 
+G.M.
+GJ
+Garcia
+Georg M.
+Geubelle
+Ghosh
+Ghosh 
+Gillig, C. 
+Gite 
+Gorb, S. 
+Grande 
+Green
+Green 
+Grubbs RH, Tumas W 
+Grubbs, R.
+Grubbs, R. 
+Guan
+Guan, Z.
+Guiming
+H
+H R
+H.
+H. 
+H. J.
+H. J. 
+H., et al.
+H.L.
+H.M.
+H.R.
+Haddad 
+Haim
+Hamilton
+Han
+Hans-Rudolf
+Hansen
+Hanze
+Hao
+Hartnett
+Hassan
+Hattar 
+Hawyes
+Hayes
+Hayes SA, Jones FR, Marshiya K, Zhang W 
+Hayes SA, Zhang W, Branthwaite M, Jones FR 
+He SM, Van Dijk NH, Paladugu M, Schut H, Kohlbrecher J, Tichelaar FD, Van der Zwaag S 
+He SM, Van Dijk NH, Schut H, Peekstok ER, van der Zwaag S 
+He, S.M.
+He, S.M., et al
+Heckman 
+Heng
+Henk M. 
+Henk M. Jonkers 
+Hernández Santana 
+Hillmyer
+Ho
+Holland, C.
+Hong-mei
+Huang
+Huang 
+Huang CY, Trask RS, Bond IP 
+Huang M, Yang J 
+Huang, M. 
+Huang, M. and Yang, J
+Humberstone
+Hundiwale, D.G. 
+I P
+I. 
+I. P. 
+I.J. Polmear
+I.P.
+I.P. 
+III, Thomas H.
+IP
+Ian
+Ingraffea
+Israelachvili
+J
+J. 
+J. A.
+J. A. P. 
+J. C.
+J. Herbert
+J. Kyono 
+J. S.
+J. S. Moore 
+J. T. M.
+J.A.
+J.F. 
+J.S.
+J.Th.M.
+JS
+Jackson
+Jackson MD, Landis EN, Brune PF, Vitti M, Chen H, Li Q, Kunz M, Wenk HR, Monteiro PJ, Ingraffea AR 
+Jacob J
+Jacob J.
+Jacob N.
+Jacob P.
+Jacobs
+Jadhav RS, Hundiwale DG, Mahulikar PP 
+Jadhav, R.S. 
+Jadhav, R.S., Hundiwale, D.G. and Mahulikar, P.P
+Jadhav, R.S., Hundiwale,D.G. and Mahulikar, P.P
+Jamroz 
+Jeffrey S.
+Jeffrey S. 
+Jennifer A.
+Ji
+Ji 
+Jianjun
+Jiarui
+Jin H, Miller GM, Pety SJ, Griffin AS, Stradley DS, Roach D, Sottos NR, White SR 
+Jin HH, Mangun CL, Stradley DS, Moore JS, Sottos NR, White SR 
+Jin, H.
+Jin, H., et al
+Jin, H.H. 
+Jin, H.H., Mangun, C.L., Stradley, D.S., Moore, J.S., Sottos, N.R., White,  S.R
+Jin, H.H., Mangun, C.L., Stradley, D.S., Moore, J.S., Sottos, N.R., White, S.R
+Jinwen
+Johan M.
+Jones
+Jones, F.R.
+Jones, F.R. 
+Jonkers
+Jonkers 
+Jonkers H 
+Jonkers HM, Thijssen A, Muyzer G, Copuroglu O, Schlangen E 
+Junna
+K
+K.
+K.M.
+K.S.
+Kalista
+Kalista Jr SJ, Ward TC, Oyetunji Z 
+Kang S, Jones AR, Moore JS, White SR, Sottos NR 
+Kang, S.
+Kang, S., et al
+Kasirihac, M 
+Katherine
+Katherine 
+Kathleen S.
+Kayla A
+Kazuki
+Keller
+Keller MW, White SR, Sottos NR 
+Keller, M.W. 
+Kessler
+Kessler 
+Kessler MR, Sottos NR, White SR 
+Kessler MR, White SR 
+Kesslera, M.R., Sottos, N.R. and White, S.R
+Kevin
+Khalid 
+Kieron 
+Kieron Monks and Andrew Stewart, for
+Kim
+Klein, M.C. 
+Konrad W, Flues F, Schmich F, Speck T, Speck O 
+Konrad, W. 
+Konrad, W., Flues, F., Schmich, F., Speck, T., Speck, O. 
+Konrad, W., Flues, F., Schmich,F., Speck, T., Speck, O. 
+Konrad, W., Flues, F., Schmich,F., Speck, T., Speck, O.  
+Kozola
+Kramer
+Kumar, D
+Kunz
+Kuzyk
+Kwakernaak
+Kwarkernaak
+Kyle C.
+L
+L.
+Laha K, Kyono J, Kishimoto S, Shinya N 
+Laha K, Kyono J, Shinya N 
+Laha, K.
+Laha, K. 
+Laha, K., J. Kyono, and N. Shinya
+Laha, K., et al.
+Landis
+Lantz
+Le-ping
+Lee
+Leeuwenburgh 
+Leibler
+Leo
+Lessard
+Lessard JJ, Scheutz GM, Sung SH, Lantz KA, Epps Iii TH, Sumerlin BS 
+Lewis
+Li
+Li 
+Li S, Song G, Kwakernaak K, van der Zwaag S, Sloof WG 
+Liao
+Liotta
+Liu
+Liua YL, Chuoa TW 
+Liua, Y.L. 
+Liua, Y.L., Chuoa, T.W
+Liwei
+Loader
+Lorente
+Lu 
+Luchsinger 
+Luchsinger, R. 
+Luchsinger, R. H.
+Ludwik
+Ludwik 
+Luijten
+Luis F.
+Lumley RN, Morton AJ, Polmear IJ 
 Lumley, R.N. 
-
+Lumley, R.N., A.J. Morton, and I.J. Polmear
+Luo
+Luo X, Ou R, Eberly DE, Singhal A, Viratyaporn W, Mather PT 
+López-Manchado 
+M
+M R
+M.
+M. 
+M. A.
+M. J. 
+M. Q. 
+M. R.
+M. R. 
+M. R. Kessler 
+M. W.
+M. Z. 
+M.-C.
+M.M
+M.W.
+MA
+MR
+Madden
+Mahajan 
+Mahendra S. 
+Mahulikar, P.P
+Majidi
+Mal
+Mangun, C.L. 
+Mani 
+Marc 
+Marc A.
+Marianella 
+Marie D.
+Mark G.
+Mark G. 
+Markvicka
+Markvicka EJ, Bartlett MD, Huang X, Majidi C 
+Marshiya
+Martin
+Martin 
+Marwa
+Massimo
+Mather
+Mathieu
+Mauldin
+Mauldin TC, Kessler MR
+Mauldin TC, Kessler MR 
+McCombe 
+Meng LM, Yuan YC, Rong MZ, Zhang MQ 
+Meng, L.M. 
+Meng, L.M., Yuan, Y.C., Rong, M.Z. and Zhang, M.Q
+Menno 
+Michael B.
+Michael D.
+Michael J. 
+Miguel A. 
+Milne 
+Minakuchi 
+Minakuchi S, Sun D, Takeda N 
+Miriam M.
+Mishra 
+Mohamed
+Mohamed 
+Molkeri 
+Monks 
+Monteiro
+Mooney 
+Moore
+Moore, J.F. 
+Moore, J.S. 
+Mostavi
+Mouritz 
+Munmaya K. 
+Muyzer
+Mülhaupt 
+Mülhaupt, R.
+N
+N. 
+N. R.
+N. R. 
+N. R. Sottos 
+N. R. Sottos, P. H. Geubelle, J. S. Moore, M. R. Kessler, S. R. Sriram, E. N. Brown & S. Viswanathan
+N. R. Sottos, P. H. Geubelle, J. S. Moore, M. R. Kessler, S. R. Sriram, E. N. Brown & S. Viswanathan 
+N. Shinya
+N.R.
+N.R. 
+NR
+Naka
+Nakao
+Nakao W, Abe S 
+Nakao W, Takahashi K, Ando K 
+Nakatani
+Nancy R.
+Nathan
+Nathan M. 
+Natnael B.
+Nele
+Nellesen A, Von Tapavicza M, Bertling J, Schmidt AM, Bauer G, Speck T 
+Nellesen, A. 
+Nellesen, A., von Tapavicza, M., Bertling, J., Schmidt, A., Bauer, G., Speck, T.
+Nellesen, A., von Tapavicza,M., Bertling, J., Schmidt,  A.,  Bauer, G., Speck, T.
+Nellesen, A., von Tapavicza,M., Bertling, J., Schmidt, A., Bauer, G., Speck, T.
+Nemat-Nasser
+Nielsen
+Nomura
+Norris 
+Norris CJ, White JA, McCombe G, Chatterjee P, Bond IP, Trask RS 
+Nosonovsky
+Nosonovsky 
+Nosonovsky M 
+Nosonovsky M, Rohatgi P 
+Nosonovsky, M. and Rohatgi, P. 
+Nutt
+Nübling, F. 
+O
+O. 
+Odom
+Odriozola 
+Okamoto
+Olugebefola
+Olugebefola SC, Aragón AM, Hansen CJ, Hamilton AR, Kozola BD, Wu W, Geubelle PH, Lewis JA, Sottos NR 
+Ono
+Ono M, Nakao W, Takahashi K, Nakatani M, Ando K 
+Or S.
+Ou
+Oyetunji
+P
+P.
+P. 
+P. H.
+P. H. Geubelle 
+P.M.
+P.R. 
+P.T.
+P.V.
+PH
+Pacheco J, Šavija B, Schlangen E, Polder RB
+Pang JW, Bond IP 
+Pang, J. W. C. 
+Pang, J. W. C.; Bond, I. P.
+Pang, J. W. C.; Bond, I. P. 
+Pascal 
+Patel
+Patel AJ, Sottos NR, Wetzel ED, White SR 
+Patrick 
+Paul 
+Paul Rincon
+Paulo J. M.
+Pei
+Peikaria, M. 
+Pel
+Peter
+Pham
+Pham 
+Philip F.
+Qiangang 
+Qilong
+Qinfei
+R S
+R.
+R. 
+R. S. 
+R.S.
+R.S. 
+RS
+Ramini
+Ramini SK, Kuzyk MG 
+Rampf 
+Rampf M, Speck O, Speck T, Luchsinger RH 
+Rampf, M. 
+Rampf, M., Speck, O., Speck, T., Luchsinger, R. H.
+Rao
+Rao, K.C. 
+Raquel 
+Rekondo 
+Richard 
+Richard Green
+Rincon
+Rincon 
+Rohatgi 
+Rong 
+Rong, M.Z. 
+Ruiz De Luzuriaga 
+Ryoji
+Rüggeberg, M. 
+S
+S.
+S. 
+S. C.
+S. R.
+S. R. 
+S. R. Sriram 
+S. Viswanathan
+S.A.
+S.B.
+S.C.
+S.H.
+S.J.
+S.L.B.
+S.R.
+S.R. 
+S.R. et.al.
+SR
+Sada
+Sada, K.
+Sada, K. 
+Saegusa
+Saegusa T , Sada K, Naka A, Nomura R, Saegusa T 
+Saegusa, T.
+Saegusa, T. 
+Saito
+Samadzadeha M, Bouraa SH, Peikaria M, Ashrafib A, Kasirihac M 
+Samadzadeha, M. 
+Samadzadeha, M., Bouraa, S.H., Peikaria, M., Ashrafib, A. and Kasirihac, M
+Sander C. G. 
+Saul 
+Savin
+Scarlett
+Scheutz
+Scheutz GM, Lessard JJ, Sims MB, Sumerlin BS 
+Schiraldi
+Schiraldi DA, Liotta CL, Collard DM, Schiraldi DA 
+Schiraldi, D.A
+Schiraldi, D.A 
+Schlangen
+Schlangen 
+Schmich, F. 
+Schmidt, A. 
+Schoustra
+Schüssele AC, Nübling F, Thomann Y, Carstensen O, Bauer G, Speck T, Mülhaupt R 
+Schüssele, A.C. 
+Schüssele, A.C., Nübling, F., Thomann,  Y., Carstensen,  O., Bauer, G., Speck, T., Mülhaupt, R.
+Schüssele, A.C., Nübling, F., Thomann, Y., Carstensen, O., Bauer, G., Speck, T., Mülhaupt, R.
+Scott R.
+Scott R. 
+Seidel, R. 
+Seung Hyun
+Shen
+Sheran
+Shibo
+Shiva K.
+Shuai
+Sia
+Sia 
+Sims
+Singhal
+Sloof
+Smulders, Maarten M. J.
+Snoeck
+Somayeh
+Song
+Song GM, Pei YT, Sloof WG, Li SB, De Hosson JT, Van der Zwaag S 
+Sottos
+Sottos 
+Sottos, N. R. 
+Sottos, N.R 
+Sottos, N.R. 
+Soulié-Ziakovic
+Speck 
+Speck O, Luchsinger R, Rampf M, Speck T 
+Speck O, Schlechtendahl M, Borm F, Kampowski T, Speck T 
+Speck T 
+Speck T, Mülhaupt R, Speck O 
+Speck, O.
+Speck, O. 
+Speck, T.
+Speck, T. 
+Speck, T., Bauer, G., Flues, F., Oelker,K., Rampf, M., Schüssele, A.C.,  Tapavicza, M.v., Bertling, J., Luchsinger, R., Nellesen, A., Schmidt, A.M.,  Mülhaupt, R., Speck, O.
+Speck, T., Luchsinger, R., Busch, S., Rüggeberg, M., Speck, O.
+Speck, T., Luchsinger, R., Busch,S., Rüggeberg, M., Speck, O.
+Speck, T., Mülhaupt, R., Speck, O. 
+Speck,O.,  Luchsinger, R., Rampf, M., Speck, T. 
+Sriram
+Srivastava 
+Steuperaert
+Stewart 
+Stijn
+Stradley, D.S. 
+Sumerlin
+Sun 
+Sung
+Suryanarayana C, Rao KC, Kumar  
+Suryanarayana, C. 
+Suryanarayana, C., Rao, K.C. and Kumar, D
+Susan A.
+Swapan Kumar
+Swapan Kumar 
+Sybren K.
+T C
+T. 
+T.-W.
+T.C.
+Ta 
+Takahashi
+Takeda 
+Takeo
+Takeo 
+Tapavicza, M. v. 
+Taylor 
+Thakre 
+Therriault 
+Thijssen
+Thirumalini, P.; Ravi, R.; Sekar, S. K. and Nambirajan, M. 
+Thomann, Y. 
+Thostenson
+Thostenson ET, Chou TW 
+Toohey
+Toohey KS, Sottos NR, Lewis JA, Moore JS, White SR 
+Tournilhac
+Trask
+Trask 
+Trask RS, Bond IP 
+Trask RS, Williams HR, Bond IP 
+Tuan
+Tumas
+Tutika R, Haque AT, Bartlett, MD  
+Unterlass
+Urban
+Utrera-Barrios 
+V.
+V.K. 
+Van Loo
+Van Tittelboom
+Van Tittelboom K, De Belie N, Van Loo D, Jacobs P 
+Van Tittelboom,
+Van der Zwaag
+Varadan 
+Varley RJ, Zwaag SV 
+Varley, R.J. 
+Varley, R.J., Zwaag, S.V.D
+Varleya, R.J., Zwaag, S.V.D
+Verdejo 
+Verstraete
+Victor
+Vijay K. 
+Vikas V. 
+Viratyaporn
+Viswanathan
+Vitti
+Vlasko-Vlasov 
+Vollrath, F. 
+W
+W.
+W. 
+W. G.
+W.G.
+Waite
+Wang
+Wang 
+Wang J, Van Tittelboom K, De Belie N, Verstraete W 
+Wang KM, Lorente S, Bejan A 
+Wang KM, [[Sylvie Lorente
+Ward
+Wayman
+Weaver
+Wei
+Weiyan 
+Weizman
+Wenk
+Wetzel
+White
+White 
+White SR, Sottos NR, Geubelle PH, Moore JS, Kessler MR, Sriram SR, Brown EN, Viswanathan S 
+White, S. R 
+White, S. R.
+White, S. R. 
+White, S.R 
+White, S.R.
+White, S.R. 
+White, S.R., et al
+William R.
+Williams
+Williams HR, Trask RS, Bond IP 
+Wim
+Winne
+Wolfgang H.
+Wolfgang H. 
+Wu
+Wu-jun
+Wudl
+Wudl, F.
+Wudl, F. 
+X.
+Xiaonan
+Xiaoning
+Xin
+Xu 
+Y.
+Y. 
+Y. C. 
+Y. T.
+Y.T.
+Yamaguchi
+Yamaguchi M, Ono S, Okamoto K 
+Yanfeng
+Yang
+Yang 
+Yang HJ, Pei YT, Rao JC, De Hosson JT 
+Yang J, Keller MW, Moore JF, White SR, Sottos NR 
+Yang T, Zhang J, Mouritz AP, Wang CH 
+Yang Y, Urban MW 
+Yang, J
+Yang, J. 
+Yang, J., Keller, M.W., Moore, J.F., White, S.R., Sottos, N.R
+Yin 
+Ying
+Ying 
+Ying H, Zhang Y, Cheng J 
+Yongjing
+Yongjing 
+Yuan 
+Yuan YC, Yin T, Rong MZ, Zhang MQ 
+Yuan, Y.C. 
+Yulin
+Yuzhan
+Z.
+Zachary 
+Zang, M.Q.
+Zang, M.Q. 
+Zhang
+Zhang 
+Zhang S, Kohlbrecher J, Tichelaar FD, Langelaan G, Brück E, Van Der Zwaag S, Van Dijk NH 
+Zhang S, Kwakernaak C, Sloof W, Brück E, van der Zwaag S, van Dijk N 
+Zhang, M.Q 
+Zhang, S.
+Zhang, S., et al
+Zhao
+Zhibin
+Zhu M, Rong MZ, Zhang MQ
+Zuilhof, Han
+Zwaag, S.V.D
+de Rooij
+et al 
+in het Panhuis 
+van der Zwaag
+von Tapavicza, M. 

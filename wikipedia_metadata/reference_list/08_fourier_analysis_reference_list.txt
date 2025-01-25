@@ -1,125 +1,122 @@
-Reference List:
-
-E.W. 
-Rakesh Kumar Patney
-Knuth 
-Evans 
-A.D. 
-Bowley, Roger
-Evans
-Meinard
-Pushpendra et al.
-E. W. 
-D.H. 
-L.
-Steven W.
-Donald E.
-Otto E. Neugebauer 
+1Brack-Bernsen
+A. D. 
 A. V. 
-Gold 
-Johnson 
-D. H. 
-Moriarty
-Conte 
-Weiss 
-Forrest 
-Proakis 
-Howell 
-S. D.
-Rota
-David Oesper 
-L. 
-Donald E. 
-Steven W. 
-Viktor
-Roger 
-Lis
-Audrey
-Pushpendra et al. 
-Terras
-Palombi
-Polyanin 
-Singh 
-Bowley 
-John G. 
-Brian 
-Henson
-Dimitri G. 
-Kamen 
-Rabiner 
-Knuth
-Heideman 
-Stein 
-Walter 
-Solovyev
-Morris
-C.S. 
-Matthias
-Audrey Terras
-Shiv Dutt Joshi1
-Ong U. 
-Brack
-Lawrence
-Heck 
-Van Emden
-Neugebauer 
-Rudin
-Yuri
-E. M. 
+A.D. 
 A.V. 
 Anthony W.
-S. D. 
-Gian-Carlo Rota
-T. N. 
-Prestini
-Prasolov
-Kline
-T.N. 
-Meinard 
-Müller
-Bowley, Roger 
-1Brack-Bernsen
-Saferstein 
-Manzhirov 
-M.T. 
-Burrus 
-Guillermo Gonzalez 
-Carl
-Bernard 
-Otto
-Pushpendra Singh
+Audrey
+Audrey Terras
 B. S. 
-Neugebauer
 B.S. 
-Elena
-Manolakis 
-Walter
-Smith 
-C. S. 
-Briggs
-Kenneth B. 
-Routh 
-A. D. 
-Gian-Carlo
-William L.
-G. 
-Press 
-Lawrence R. 
-Fabrizio
+Bernard 
+Bowley 
+Bowley, Roger
+Bowley, Roger 
+Brack
 Brack-Bernsen
-de Boor 
-Knapp
-D. Scott Birney 
-Otto 
-Philip
-Cafer Ibanoglu 
-Richard 
-Narasimhan 
-Singh
-Kaushik Saha
-Carl 
 Brack-Bernsen 
-Rudin 
+Brian 
+Briggs
+Burrus 
+C. S. 
+C.S. 
+Cafer Ibanoglu 
+Carl
+Carl 
+Conte 
+D. H. 
+D. Scott Birney 
+D.H. 
+David Oesper 
+Dimitri G. 
+Donald E.
+Donald E. 
+E. M. 
+E. W. 
 E.M. 
+E.W. 
+Elena
+Evans
+Evans 
+Fabrizio
+Forrest 
+G. 
+Gian-Carlo
+Gian-Carlo Rota
+Gold 
+Guillermo Gonzalez 
+Heck 
+Heideman 
+Henson
+Howell 
+John G. 
+Johnson 
+Kamen 
+Kaushik Saha
+Kenneth B. 
+Kline
+Knapp
+Knuth
+Knuth 
+L.
+L. 
+Lawrence
+Lawrence R. 
+Lis
 M. T. 
-
+M.T. 
+Manolakis 
+Manzhirov 
+Matthias
+Meinard
+Meinard 
+Moriarty
+Morris
+Müller
+Narasimhan 
+Neugebauer
+Neugebauer 
+Ong U. 
+Otto
+Otto 
+Otto E. Neugebauer 
+Palombi
+Philip
+Polyanin 
+Prasolov
+Press 
+Prestini
+Proakis 
+Pushpendra Singh
+Pushpendra et al.
+Pushpendra et al. 
+Rabiner 
+Rakesh Kumar Patney
+Richard 
+Roger 
+Rota
+Routh 
+Rudin
+Rudin 
+S. D.
+S. D. 
+Saferstein 
+Shiv Dutt Joshi1
+Singh
+Singh 
+Smith 
+Solovyev
+Stein 
+Steven W.
+Steven W. 
+T. N. 
+T.N. 
+Terras
+Van Emden
+Viktor
+Walter
+Walter 
+Weiss 
+William L.
+Yuri
+de Boor 

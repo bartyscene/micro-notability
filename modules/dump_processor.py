@@ -3,7 +3,7 @@ import json
 import bz2
 import mwxml
 from tqdm import tqdm
-from modules.reference_list_processor import extract_names_from_citations, find_names_in_wikitext
+from modules.reference_list_processor import extract_names_from_citations, extract_raw_names_from_citations, find_names_in_wikitext
 from modules.spacy_processor import SpacyNameEntityRecognizer
 from modules.roberta_processor import RobertaNameEntityRecognizer
 
@@ -99,6 +99,9 @@ def _process_wikipedia_pages(input_path, output_path, revision_ids):
             page_list = list(page)
             
             reference_list = _build_reference_list(page_list) # Build the reference list from all revisions in the page
+            #sorted_references = sorted(reference_list)
+            #for reference in sorted_references:
+            #    out_f.write(reference + '\n')
 
             # Process revisions
             results_for_revisions = []
@@ -107,6 +110,7 @@ def _process_wikipedia_pages(input_path, output_path, revision_ids):
                     revision_output = _extract_names_from_revision(revision, reference_list, spacy, roberta)
                     if revision_output:
                         results_for_revisions.append(revision_output)
+            
 
             # Write to output file if there is any content
             if results_for_revisions:

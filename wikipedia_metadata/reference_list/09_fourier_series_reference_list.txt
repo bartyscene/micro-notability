@@ -1,210 +1,207 @@
-Reference List:
-
+A. 
+A. Zygmund 
+Akhiezer 
+Alan S. Willsky
+Alan V. 
+Alan V. Oppenheim
+Alexander L. 
+Allan 
+Amit 
+Antoni 
+Antoni Zygmund 
+Anubha 
+Bernhard
+Binish 
+Boyce 
+Butola 
+C. L.
+C. L. 
+Cajori
+Cajori 
+Carvalho
+Carvalho 
+Cheever 
+Claire 
+Claire Marton
+D.
+D. 
+David M.
+David M. 
+DiPrima 
+Dimitri G. 
+Dimitris G.
+Dorf
+E. W. Hobson
+Edwards 
+Enrique A. 
+Enrique A. Gonzalez-Velasco 
+Eric 
+Eric W. 
+Erik 
+Ernest 
+Fasshauer 
+Fatimah 
+Felix Klein
+Fetter
+Florian
+Florian 
+Florian Cajori
+Florian Cajori 
+Flugge 
+Folland 
+Fourier
+Félix 
+G 
+G. H. 
+G.H. Hardy
+Georges A. 
+Georgi P.
+Georgi P. 
+Georgi P. Tolstov 
+Gerald B. 
+Gilbert 
+Gilbert Strang
+Gonzalez-Velasco 
+Gourdon 
+Grattan-Guinness
+Greg 
+Grether
+Grether 
+Gupta 
+Haberman
+Hans 
+Hans Kuzmany
+Hardy 
+Hesham 
+Hobson 
+Ivor
+Ivor 
+Jean-Baptiste-Joseph
+Jean-Baptiste-Joseph Fourier 
+Jibu
+Jibu 
+John
+John 
+John Dirk 
+John G. 
+John Stillwell
+Jose L.
+Jose L. 
+Joseph 
+Joseph Fourier 
+Joseph Fourier, translated by Alexander Freeman 
+Joshi 
+Karl H. 
+Karl H. Pribram 
+Karl H. Pribram, Kunio Yasue, and Mari Jibu
+Kassam
+Katznelson
+Katznelson 
+Kazimierczuk
+Kedar 
+Khare 
+Klein 
+Kunio 
+Kunio Yasue 
+Kuzmany
+Kuzmany 
+L. 
+L. Marton 
+L. Marton and Claire Marton
+Laurent 
+Laurent Schwartz 
+Lejeune-Dirichlet
+Lejeune-Dirichlet 
+Lion 
+Lothar
+Lothar 
+Manolakis
+Manolakis 
+Mansi 
+Marc
+Marc 
+Mari 
+Mari Jibu
+Marian K.
+Marks II
+Marton
+Marton 
+Mascre
+N. I. 
+Naum Akhiezer
+Nerlove
+Nerlove 
+Oppenheim 
+P. 
+Papula
+Papula 
+Papula, Lothar
+Peter Gustav
+Peter Gustav 
+Peter Gustav Lejeune Dirichlet
+Peter Gustav Lejeune Dirichlet 
+Pinkus
+Pinkus 
+Pribram 
+Proakis
+Proakis 
+Pushpendra 
+R. E. 
+Rajora 
+Reinhold
+Reinhold 
+Remmert
+Richard 
+Richard C.
+Richard C. 
+Richard C. DiPrima 
+Riemann
+Robert J.
+Rogosinski 
+Ronald J. 
+Ronald W. 
+Rudin 
+Saleem A.
+Samy 
+Samy  
+Schafer 
+Schwartz 
+Sepesi 
+Sharkas 
 Shiv Dutt 
 Shmaliy, Y.S.
-Carvalho 
-Reinhold 
-DiPrima 
-Greg 
-Joshi 
-Marian K.
-Tallarida
-Haberman
-Grattan-Guinness
-C. L. 
-Hesham 
-Hardy 
-E. W. Hobson
-G. H. 
-Rogosinski 
-Werner 
-Manolakis
-Yitzhak Katznelson
-Jibu
-Laurent 
-Sunaina 
-Marton
-Florian
-William McC. Siebert
-Fetter
-Khare 
-Georgi P.
-Ernest 
-Carvalho
-Tallarida 
-Proakis 
-Amit 
-Katznelson 
-Ten
-Ronald W. 
-Strang      
-Singh 
-A. Zygmund 
-Nerlove
-Dimitri G. 
-Bernhard
-Kedar 
-Peter Gustav
-Florian Cajori 
-Walter 
-Marks II
-William McC. 
-Saleem A.
-Singhal 
-Lothar
 Siebert
-Grether
-Fasshauer 
-Mari Jibu
-Wilhelm 
-Papula, Lothar
-Hans 
-Lion 
-Lejeune-Dirichlet
-Yitzhak
-Cajori
-Tolstov 
-Antoni 
-Butola 
-Ronald J. 
 Siebert 
-Stillwell
-Laurent Schwartz 
-D.
-Joseph Fourier, translated by Alexander Freeman 
-P. 
-Werner_Wolfgang_Rogosinski
-G.H. Hardy
-Zygmund
-Gilbert Strang
-Dorf
-Lothar 
-Karl H. Pribram 
-Manolakis 
-Kunio 
-William E. Boyce and Richard C. DiPrima 
-Akhiezer 
-L. Marton and Claire Marton
-Grether 
-Fatimah 
-John Stillwell
-Jean-Baptiste-Joseph Fourier 
-Florian 
-Georgi P. Tolstov 
-Mansi 
-Papula 
-Enrique A. Gonzalez-Velasco 
-Zafrany 
-Richard C.
-Oppenheim 
-Walter Rudin 
-Alan S. Willsky
-Klein 
-Rudin 
-Lejeune-Dirichlet 
-Enrique A. 
-Samy  
-Antoni Zygmund 
-Felix Klein
-John
-N. I. 
-Pinkus 
-Tolstov
-Joseph Fourier 
-Reinhold
-Zygmund 
-Kassam
-Allan 
-Rajora 
-Schafer 
-Proakis
-Pushpendra 
-Robert J.
-Walecka
-Papula
-Alexander L. 
-Richard C. 
-Kunio Yasue 
-Florian Cajori
-Naum Akhiezer
-Gilbert 
-Pinkus
-Joseph 
-L. 
-John Dirk 
-Hans Kuzmany
-Eric 
-Marc
-Cajori 
-Ivor 
-Kuzmany
-Folland 
-Katznelson
-Nerlove 
-G 
-Marc 
-John G. 
-William McC.
-Anubha 
-Yitzhak 
-Ivor
-Sharkas 
-Samy 
-Jibu 
-Remmert
-Eric W. 
-Gonzalez-Velasco 
-A. 
-Peter Gustav Lejeune Dirichlet 
-Karl H. 
-Kazimierczuk
-Yasue 
-John 
-David M. 
-C. L.
-Peter Gustav Lejeune Dirichlet
-Jose L. 
-Gerald B. 
-Georges A. 
-Wolfram 
-Gourdon 
-Alan V. 
-Jean-Baptiste-Joseph
-Binish 
-Alan V. Oppenheim
-Karl H. Pribram, Kunio Yasue, and Mari Jibu
-Félix 
-Erik 
-Xavier
-L. Marton 
-Mascre
-Peter Gustav 
+Singh 
+Singhal 
 Stade 
-Kuzmany 
-Dimitris G.
-Fourier
-Jose L.
-R. E. 
-William E. Boyce 
-Gupta 
-Georgi P. 
-Richard C. DiPrima 
-Hobson 
-Sepesi 
+Stillwell
+Strang      
+Sunaina 
 Syed Hamish Nawab
-Schwartz 
-David M.
-Claire Marton
-Riemann
-Claire 
-Cheever 
-D. 
-Boyce 
-Edwards 
-Marton 
-Pribram 
-Mari 
-Flugge 
+Tallarida
+Tallarida 
+Ten
+Tolstov
+Tolstov 
+Walecka
+Walter 
+Walter Rudin 
+Werner 
+Werner_Wolfgang_Rogosinski
+Wilhelm 
 William E.
-Richard 
-
+William E. Boyce 
+William E. Boyce and Richard C. DiPrima 
+William McC.
+William McC. 
+William McC. Siebert
+Wolfram 
+Xavier
+Yasue 
+Yitzhak
+Yitzhak 
+Yitzhak Katznelson
+Zafrany 
+Zygmund
+Zygmund 

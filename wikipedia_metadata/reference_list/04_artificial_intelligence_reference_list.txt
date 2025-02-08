@@ -1,2703 +1,2086 @@
-(Association of Computing Machinery) 
-(United States National Research Council) 
-A. Courville 
+
+A. Courville
 Aaron
-Aaron 
 Abdel-Raheem
-Abdullah M. 
-Abe 
+Abdullah M.
+Abe
 Abigail
-Abuzour 
+Abuzour
 Adam
-Adam 
 Adel
-Adelman 
+Adelman
 Adelman,
-Adelzadeh 
-Aditya 
-Aditya Wirya 
-Adler 
+Adelzadeh
+Aditya
+Aditya Wirya
+Adler
 Administrator
 Adrian
-Afsaneh 
-Ageing Data Research Collaborative (Geridata) AI group 
-Aghdam 
+Afsaneh
+Ageing Data Research Collaborative AI group
+Aghdam
 Aghdam, Hamed
 Ahmed
 Ahmed Saâdeddine
-Aidan 
-Aiolli 
+Aidan
+Aiolli
 Aizenberg
 Aja
-Aja 
 Aja Huang
 Akira Yoshizawa
-Akshaya 
-Alain 
-Alalharith 
-Alam 
+Akshaya
+Alain
+Alalharith
+Alam
 Alan
-Alan 
 Alan Bundy
-Alan Bundy 
-Alan K. 
-Alan Mackworth 
-Alan Turing 
+Alan K.
+Alan Mackworth
+Alan Turing
 Alan Turing Institute
-Alan Turing Institute 
 Albert Ali
-Albertazzi 
+Albertazzi
 Alberto
-Alberto 
 Alberto Ciaramella
-Alberto Ciaramella 
 Albus
-Albus 
-Alderman 
+Alderman
 Aleksander
-Aleksander 
 Alessandro
-Alessandro 
 Aletras
-Aletras 
 Alex
-Alex 
 Alex J.
 Alexander
-Alexander 
 Alexandra
-Alexandra 
 Alexey
 Alexis C.
-Alexis C. 
 Alfred
-Alghamdi 
-Alhaidari 
-Alharthi 
-Ali 
-Alice 
+Alghamdi
+Alhaidari
+Alharthi
+Ali
+Alice
 Allen
-Allen 
-Allen  
 Allen Newell
-Allen Newell 
-Almuhaideb 
-Alqudaihi 
-Alsenbel 
-Alshahrani 
-Alsoubai 
-Alsunaidi 
-Alter 
+Almuhaideb
+Alqudaihi
+Alsenbel
+Alshahrani
+Alsoubai
+Alsunaidi
+Alter
 Alterman
-Althoefer 
-Altman 
+Althoefer
+Altman
 Amarnag
 Amgoud
 Amir
-Amir 
 Amitai
-Amitai 
-Amjad 
+Amjad
 Amnon
-Amos 
-Amos Tversky 
-Amy 
-Anadiotis 
-Anand 
+Amos
+Amos Tversky
+Amy
+Anadiotis
+Anand
 Anderson
-Anderson 
-Andrea 
+Andrea
 Andreas
-Andreas 
 Andreas K.
-Andreas K. 
 Andrei A.
-Andrei A. 
 Andrew
-Andrew 
-Andrew J. 
-Andrew M. 
-Andrew W. 
+Andrew J.
+Andrew M.
+Andrew W.
 Andrew Y.
-Andrew Y. 
-Andrzejewska 
-Angela Hung 
-Angelo 
+Andrzejewska
+Angela Hung
+Angelo
 Angwin
-Angwin 
 Anita
-Anjali 
-Ankit 
-Ankrah 
+Anjali
+Ankit
+Ankrah
 Anmar
-Anna 
+Anna
 Anne
-Anne 
 Anthony
-Anthony 
 Antonio
 Antonoglou
-Antonoglou 
 Arash
-Arcaniolo 
-Arda 
+Arcaniolo
+Arda
 Arel
-Arel 
-Arianna 
-Arjun 
-Armus 
-Arnau 
-Arntz 
+Arianna
+Arjun
+Armus
+Arnau
+Arntz
 Arthur
-Arthur 
-Arthur L. 
-Arthur Samuel 
-Arts 
+Arthur L.
+Arthur Samuel
+Arts
 Arwa
-Arwa 
-Asada 
-Aseel 
+Asada
+Aseel
 Aseyev
 Ashay
-Ashay 
 Ashik
-Ashik 
 Ashik Mahmud
-Ashish 
-Ashley 
-Ashley Stewart, Monica 
-Ashwaq 
-Aslam 
+Ashish
+Ashley
+Ashley Stewart, Monica
+Ashwaq
+Aslam
 Association of Computing Machinery
 Atilla
-Atul 
-Aubert 
+Atul
+Aubert
 Auffarth
-Augustin 
+Augustin
 Augusto
-Augusto, Luis M. 
+Augusto, Luis M.
 Australian National University
 Autor
 Avashia
-Avery 
+Avery
 Awni
-Axel 
-Aylett-Bullock 
-Aäron van den Oord 
-Babuschkin 
+Axel
+Aylett-Bullock
+Aäron van den Oord
+Babuschkin
 Baccouche
-Bach 
-Back 
+Bach
+Back
 Badri
 Bailey
-Bailey 
 Bajpai
-Bajpai 
 Baker
-Baker 
-Ball 
-Ballard 
+Ball
+Ballard
 Baltaxe
 Banafa
-Banks 
-Banu 
-Barattero 
-Barfield 
-Barone 
-Barrett 
+Banks
+Banu
+Barattero
+Barfield
+Barone
+Barrett
 Barteld
-Bartram 
+Bartram
 Basen
 Baskurt
-Bass 
-Bates 
+Bass
+Bates
 Battiti
 Bax
-Bax 
-Beal 
+Beal
 Beattie
-Beattie 
 Beaufays
 Bebo
-Bebo 
 Behnke
-Behnke 
 Bellemare
-Bellemare 
 Ben
-Ben 
 Bengio
-Bengio 
 Benj
-Benj 
-Benjamin 
-Berdahl 
-Bergeron 
-Berghammer 
+Benjamin
+Berdahl
+Bergeron
+Berghammer
 Berlinski
-Berlinski 
-Berna 
+Berna
 Bernard
-Bernard 
-Bernardino 
+Bernardino
 Bernd
-Bernd 
 Bernd W.
-Bernd W. 
 Berryhill
-Berryhill 
-Bertini 
-Bertram 
-Bertram Raphael 
+Bertini
+Bertram
+Bertram Raphael
 Bessen
-Bethan 
-Beáta 
+Bethan
+Beáta
 Bhanu
-Bhanu 
 Bhardwaj
 Bhatt
-Biagio 
-Biever 
-Bilal N. 
+Biagio
+Biever
+Bilal N.
 Blakeslee
-Blakeslee 
-Blakesley, Sandra 
-Bloomberg 
+Blakesley, Sandra
+Bloomberg
 Blunsom
-Bodenstein 
-Boehm 
-Bogdan 
+Bodenstein
+Boehm
+Bogdan
 Bohannon
-Boissy 
+Boissy
 Bolter
-Bolthouse 
+Bolthouse
 Bolton
-Bordbar 
+Bordbar
 Borowiec
 Bostrom
-Bostrom 
 Bottou
 Boudreau-Trudel
-Bowen 
+Bowen
 Bowling
 Boyd
-Brad 
+Brad
 Brandon
-Brandon 
-Branke, Jürgen 
+Branke, Jürgen
 Brian
-Brian 
 Brian Christian
-Brian Christian 
-Bridgland 
-Briefer 
-Bringsjord 
-Brockman 
-Brodsky 
+Bridgland
+Briefer
+Bringsjord
+Brockman
+Brodsky
 Brooks
-Brooks 
-Brotzakis 
+Brotzakis
 Brown
-Brown 
-Browne 
-Bruce 
+Browne
+Bruce
 Bruce G.
-Bruce G. 
 Brunk
-Brunk 
-Brunner 
+Brunner
 Bruno
 Bryan
 Bryce
-Bryce 
 Brynjolfsson
 Buchanan
-Buchanan 
 Buckley
-Buckley 
-Bughin 
+Bughin
 Buiten
-Buiten 
 Bundy
-Bundy 
-Bunn 
+Bunn
 Burch
-Burda 
+Burda
 Burgess
-Burgess 
 Burke
-Burke 
 Burns
-Burton 
-Buruk 
-Busby 
+Burton
+Buruk
+Busby
 Bushwick
-Bushwick 
 Butler
-Butler 
 Buttazzo
-Buttazzo 
 Byers
-Byers 
-Byford 
-Byron 
-Bénichou 
-Bőthe 
-C. West 
+Byford
+Byron
+Bénichou
+Bőthe
+C. West
 Cade
-Cade 
 Cadena
-Cadena 
-Caglar 
-Caitlin 
-Calvert 
+Caglar
+Caitlin
+Calvert
 Cambria
-Cambria 
-Cameron Domenico 
-Cameron F. 
+Cameron Domenico
+Cameron F.
 Campbell
-Canada 
+Canada
 Cangelosi
 Cao
-Cao 
-Capece 
-Cardinal 
-Carenini 
+Capece
+Cardinal
+Carenini
 Carina
 Carissa
 Carl
 Carl Benedikt
-Carl Benedikt 
-Carl Thomas 
+Carl Thomas
 Carlone
-Carlone 
-Carly 
-Carol 
-Carole 
+Carly
+Carol
+Carole
 Carolin
-Carolin 
-Carolina 
-Caroline 
+Carolina
+Caroline
 Carrillo
-Carrillo 
-Carter 
-Carvalko, Joseph 
+Carter
+Carvalko, Joseph
 Carver A.
 Case
-Case 
-Casey Ross, Bob 
+Casey Ross, Bob
 Casper
-Casper 
 Catanzaro
-Catanzaro 
 Catherine
-Caughey 
+Caughey
 Cebrian
-Celeste 
+Celeste
 Cellan-Jones
-Cellan-Jones 
 Cesar
-Cesar 
-Challa 
-Chalmers 
-Champandard 
+Challa
+Chalmers
+Champandard
 Chan
 Chanda SS, Banerjee DN
 Chang
 Chapman
 Charles
-Charles 
 Charles A.
 Charles T. Rubin
-Charles T. Rubin 
-Chase 
+Chase
 Chen
-Chen 
 Chen Yutian
-Chia 
-Chloé 
-Choi 
-Chollet 
+Chia
+Chloé
+Choi
+Chollet
 Chris
-Chris 
-Chris G. 
-Chris J. 
+Chris G.
+Chris J.
 Christ
-Christ 
 Christiaan
-Christiaan 
-Christiaan  
 Christian
-Christian 
-Christiano 
+Christiano
 Christophe
 Christopher D.
-Christopher J. 
+Christopher J.
 Christy
-Chui 
+Chui
 Chun
-Chunyun 
+Chunyun
 Churchill
-Churchland, Patricia S. 
-Churchman 
+Churchland, Patricia S.
+Churchman
 Churm
-Ciara C.-R. 
+Ciara C.-R.
 Ciaramella
-Ciaramella 
 Cindy
-Cini 
+Cini
 Ciresan
-Ciresan 
-Clancy 
+Clancy
 Clark
-Clark 
-Claude 
+Claude
 Claude Shannon
-Claude Shannon 
 Claude Shannon***!!***
-Clauset 
-Clegg 
-Clemens 
+Clauset
+Clegg
+Clemens
 Cliff
 Clifford
 Clogher
-Clogher 
 Coates
-Coates 
-Cobbe 
-Cocosila 
+Cobbe
+Cocosila
 Coletti
-Colin 
-Colleen 
-Collins 
+Colin
+Colleen
+Collins
 Collobert
 Colton
-Colton 
 Colvin
-Colvin 
 Congressional Research Service
-Congressional Research Service 
-Conor J. 
+Conor J.
 Copeland
-Copeland 
-Cornish 
-Correspondent 
-Cos 
+Cornish
+Correspondent
+Cos
 Costantino
 Courville
-Courville 
-Cowie 
-Cowls 
-Craig S. 
-Creavier 
+Cowie
+Cowls
+Craig S.
+Creavier
 Cremers
-Crevier 
+Crevier
 Crevier, Daniel,
-Crocetto 
+Crocetto
 Croft
-Cuddy 
+Cuddy
 Cuelogic Technologies
-Cuesta-Lazaro 
-Culture 
-Cummins, Denise 
-Cummins, Robert 
-Curtis 
+Cuesta-Lazaro
+Culture
+Cummins, Denise
+Cummins, Robert
+Curtis
 Curtis, Matthew
-Cutillo 
+Cutillo
 Cybenko
-Cybenko 
-Cycleback 
+Cycleback
 Cynthia Rudin
-Cynthia Rudin 
-Cédric 
+Cédric
 Céline
-D L Dowe and A R Hajek 
+D L Dowe and A R Hajek
 D'Onfro
-D. Moore 
-D. Preotiuc-Pietro 
-D. Tsarapatsanis 
+D. Moore
+D. Preotiuc-Pietro
+D. Tsarapatsanis
 Daan
-Daan 
-Dafflon 
+Dafflon
 Dahl
-Dahl 
 Dan
-Dan 
-Dana 
+Dana
 Daniel
-Daniel 
-Daniel A. 
-Daniel Crevier 
+Daniel A.
+Daniel Crevier
 Daniel Dennett
-Daniel Dennett 
 Daniel Dennett***!!***
-Daniel J. 
+Daniel J.
 Daniel Kahneman
-Daniel Kahneman 
 Daniel Kahneman***!!***
-Daniel M. 
+Daniel M.
 Daniel Merkle
 Danny
-Daníelsson 
-Darko 
-Darma 
+Daníelsson
+Darko
+Darma
 Darshan
-Darwiche 
+Darwiche
 Dashun
-Davalos 
+Davalos
 Davenport
-Davenport 
 David
-David 
-David Berlinski 
+David Berlinski
 David Chalmers
-David Chalmers 
 David E.
 David J.
 David L.
-David L. 
-David M. 
-David Poole 
-David Poole (researcher)
-David Poole (researcher) 
-David Poole (researcher)***!!***
-David Silver (programmer)
+David M.
+David Poole
+David Poole***!!***
+David Silver
 Davide
-Davide 
 Davies
-Davies 
 Davis
-Davis 
-De Choudhury 
-De Sio 
-Dechter 
-Deiss 
-Del Bimbo 
+De Choudhury
+De Sio
+Dechter
+Deiss
+Del Bimbo
 Del Prado
-Delamere 
+Delamere
 Demey
 Deming
 Demis
-Demis 
 Demis Hassabis
-Demis Hassabis 
 Dempsey
-Demyda 
+Demyda
 Deng
-Deng 
 Denis
-Denis 
-Dennett 
+Dennett
 Dennis
-Dennis 
 Derek
-Derek 
-Detlor 
+Detlor
 Devin Coldewey
-Dhaigude 
-Dhara 
+Dhaigude
+Dhara
 Dharshan
-Dharshan 
-DiFeliciantonio 
+DiFeliciantonio
 Diamond
-Diamond 
 Diamos
-Diamos 
-Diana 
-Diane 
-Diane  
+Diana
+Diane
 Dickson
-Dickson 
-Dieleman 
-Dima M. 
-Dina 
-Dina Bass 
-Dion 
+Dieleman
+Dima M.
+Dina
+Dina Bass
+Dion
 Dion Forster
-Dion Forster 
-Diresta 
+Diresta
 Divy
-Dixon 
-Dobbs 
-Dockrill 
+Dixon
+Dobbs
+Dockrill
 Dolf
-Domingos 
-Dominik 
-Don 
-Donna 
+Domingos
+Dominik
+Don
+Donna
 Dorin
-Douglas 
+Douglas
 Douglas Hofstadter
-Douglas Hofstadter 
 Douglas Hofstadter***!!***
-Douglas Leant 
+Douglas Leant
 Douglas Lenat
-Douglas Lenat 
 Douglas Lenat***!!***
-Dovey 
+Dovey
 Dowe
-Dowe 
-Dragicevic 
-Drew 
+Dragicevic
+Drew
 Dreyfus
-Dreyfus 
 Driessche
-Duch 
+Duch
 Dumitru
-Duncan J. 
-Duong 
+Duncan J.
+Duong
 Dyson
-Dyson 
-Döring 
-Düpjan 
-E. Forsythe 
+Döring
+Düpjan
+E. Forsythe
 Eapen
-Edelman 
+Edelman
 Edelson
-Edelson 
 Eden
 Edmund K.
-Edmund K. 
-Edna 
+Edna
 Edward
-Edward 
 Edward Moore
-Edward Moore 
-Edwards 
-Egmond Samir 
-Ehab 
+Edwards
+Egmond Samir
+Ehab
 Eileen
 Ekenel
-Ekins 
-Ekmekci 
-Elad 
+Ekins
+Ekmekci
+Elad
 Elaine
-Elaine 
 Elaine Rich
-Elaine Rich 
 Eleanor
-Elizabeth 
+Elizabeth
 Elizabeth A.
-Elizabeth A. 
 Elkan
 Elkin
 Ellen
-Ellen 
 Elman
-Elodie F. 
-Elsagan 
+Elodie F.
+Elsagan
 Elsen
-Elsen 
 Emily A.
-Emily A. 
 Emma
-Emma 
-Enamul Hafiz 
-Epstein 
+Enamul Hafiz
+Epstein
 Erhan
-Erhan 
 Eric
-Eric 
 Erica
-Erica 
 Erich
 Erik
-Erik 
 Erik Cambria
 Erin
-Erin 
 Ernest
-Ernest 
 Ertel
-Ertel 
-Esaú 
+Esaú
 Esteban
-Esther 
+Esther
 Etienne
-Etienne 
 Etienne***!!***
 Etzioni
-Etzioni 
-Eugene F. 
-Eva R. 
-Evan 
-Evans 
-Evers 
-Evgeny 
-Ewa A. 
-Ewalds 
-Fabio 
-Fahd A. 
-Fairhead 
+Eugene F.
+Eva R.
+Evan
+Evans
+Evers
+Evgeny
+Ewa A.
+Ewalds
+Fabio
+Fahd A.
+Fairhead
 Fallside
 Fan
 Fan Hui
 FastCompany
-Fatema S. 
-Faustino 
+Fatema S.
+Faustino
 Fearn
-Fearn 
 Fearn***!!***
-Federico 
-Feferman 
-Feigenbaum 
+Federico
+Feferman
+Feigenbaum
 Feldman
-Feldman 
-Feldstein 
-Felice 
+Feldstein
+Felice
 Felix
-Felix A. 
-Ferdinando 
+Felix A.
+Ferdinando
 Ferguson
-Ferguson 
 Fernandez
-Fernandez 
-Fernández-Pascual 
+Fernández-Pascual
 Ferris
-Ferucci 
+Ferucci
 Fidjeland
-Fidjeland 
-Figueiredo 
-Figurnov 
-Filippa 
+Figueiredo
+Figurnov
+Filippa
 Finkenstadt
-Fivos 
+Fivos
 Flaxman
-Flaxman 
 Florian
 Floridi
-Floridi 
-Fluke 
+Fluke
 Folk
-Folk 
 Ford
-Ford 
-Forster 
-Foss 
-Foss, B. M. 
+Forster
+Foss
+Foss, B. M.
 Fox News
-Fox News 
-Francesco 
+Francesco
 Franck
-Francois 
-Francois-Walcott 
-Francoise 
+Francois
+Francois-Walcott
+Francoise
 Frangoul
 Frank
-Frank 
-Frank D. W. 
+Frank D. W.
 Frank Xing
 Frankenfield
-Franklin 
-Françoise 
+Franklin
+Françoise
 Frederick
-Frederick 
 Frey
-Frey 
 Fukushima
-Fukushima 
 Fuller
-Fuller 
 Fumio Mizoguchi
-Fung 
-Fusco 
-G. Buchanan 
-G. Jones 
-Ga-young 
+Fung
+Fusco
+G. Buchanan
+G. Jones
+Ga-young
 Gabriel
-Gail 
+Gail
 Gallagher
 Galvan
-Galvan 
-Gambhire 
+Gambhire
 Garcia
-García-Rojo 
+García-Rojo
 Garibyan
 Gary
-Gary 
 Gayle
 Geist
-Geist 
 Geoff
-Geoff 
-Geoffrey 
+Geoffrey
 Geoffrey Hinton
 Georg
-Georg 
 George
-George 
-George  
 George Cybenko
-George Cybenko 
-George Dyson (science historian)
-George Dyson (science historian) 
-George F. 
+George Dyson
+George F.
 George Lakoff
-George Lakoff 
 George Lakoff***!!***
 George Luger
-George Luger 
 George Luger***!!***
 George van den
-Georgiev 
-Gerald 
+Georgiev
+Gerald
 Gerald Edelman
-Gerald Edelman 
 Gerbert
-Gerbert 
 Gerhard
 Gerhart
-Gerhart 
-Gers 
-Gertner 
+Gers
+Gertner
 Geyer
-Geyer 
-Ghasemian 
+Ghasemian
 Gheorghe
-Gheorghe 
 Gheorghe Tecuci
-Ghetti 
+Ghetti
 Gianatti
-Gianluca 
+Gianluca
 Gibbs
-Gibbs 
 Gil
 Giles
-Gillespie 
+Gillespie
 Gillick
-Gillick 
-Giordano 
-Giorgia 
-Girosi 
-Giuseppe 
-Gladwell 
-Global Affairs 
+Giordano
+Giorgia
+Girosi
+Giuseppe
+Gladwell
+Global Affairs
 Goebel
-Goebel 
 Goertzel
-Goertzel 
 Goffrey
-Goffrey 
 Goldbaum
-Goldberg 
+Goldberg
 Goldhill, Olivia
 Goldman
-Goldman 
-Goldstein 
+Goldstein
 Goller
-Gomaa 
+Gomaa
 Gomez
 Good
-Good 
 Goodfellow
-Goodfellow 
 Goodman
-Goodman 
 Google
 Gordon
-Gordon 
-Gorichanaz 
-Goswami 
-Gracie 
+Gorichanaz
+Goswami
+Gracie
 Graepel
-Graepel 
 Graham
-Graham 
 Graham Oppy
 Grande
-Grande 
-Grant 
+Grant
 Graves
-Graves 
-Grayling 
-Green 
+Grayling
+Green
 Greenberg A
 Grefenstette
 Greg
-Greg 
-Greg Brockman 
+Greg Brockman
 Gregory
-Gregory 
-Gregory M. 
+Gregory M.
 Gretel
-Gretel 
-Grewe 
-Griewank 
+Grewe
+Griewank
 Griffith
-Griffith 
 Groh
-Grubbs 
+Grubbs
 Guanrong
 Guez
-Guez 
-Guglielmi 
-Guha 
+Guglielmi
+Guha
 Guia Marie
-Guia Marie 
-Gulcehre 
+Gulcehre
 Gulshan
 Gulshan***!!***
-Gunarso 
+Gunarso
 Gunderson
-Gunderson 
-Gurney 
-Guzmán 
-Guérin 
-Gwynne 
-Gödel 
+Gurney
+Guzmán
+Guérin
+Gwynne
+Gödel
 HP Newquist
-HP Newquist 
-HP Newquist (writer) 
 Habibi
 Haenlein
-Haenlein 
-Hajar M. 
-Hajek 
+Hajar M.
+Hajek
 Halbert
-Halbert 
-Hall 
-Halper 
+Hall
+Halper
 Hamed Habibi
-Hammond 
-Hannah 
+Hammond
+Hannah
 Hannes
-Hannes 
 Hannun
-Hannun 
 Hans
-Hans 
 Hans Moravec
-Hans Moravec 
 Hans Moravec***!!***
-Hanson 
-Haocheng 
+Hanson
+Haocheng
 Harari
-Harari 
-Harco Leslie Hendric Spits 
-Harmon 
-Harri 
-Harris 
-Harry 
+Harco Leslie Hendric Spits
+Harmon
+Harri
+Harris
+Harry
 Hart
-Hart 
-Harwell 
-Hasim 
+Harwell
+Hasim
 Hassabis
-Hassabis 
-Hassan 
-Haugeland 
+Hassan
+Haugeland
 Hawkins
-Hawkins 
-Hawkins, Jeff 
-Hayes 
-Hayes-Roth 
+Hawkins, Jeff
+Hayes
+Hayes-Roth
 Hayes-Roth,
-He (Helen) 
+He
 Heang
-Heang 
-Heath 
-Heaven 
+Heath
+Heaven
 Heikki
 Helen
-Helen 
 Henderson
-Henderson 
-Hendrik 
+Hendrik
 Henley
 Henri
 Henry
-Henry 
 Henry Kissinger
-Henry Kissinger 
 Herbert A. Simon
-Herbert A. Simon 
 Herbert A. Simon***!!***
 Herbert Simon
-Herbert Simon 
-Herman 
+Herman
 Hermann
-Hermann 
-Hern 
-Hernandez-Orallo 
+Hern
+Hernandez-Orallo
 Hernández-Lloreda
 Hernández-Orallo
 Hess
 Hessie
-Hessie 
 Heydarian Pashakhanlou
-Hill 
-Hiller 
-Hillmann 
+Hill
+Hiller
+Hillmann
 Hinton
-Hinton 
 Hinton, Geoffrey E.
 Hirotoshi Iwasaki
-Hiteshri 
+Hiteshri
 Hochreiter
-Hochreiter 
-Hofstadter 
+Hofstadter
 Holland
-Holland 
 Holley
-Holley 
 Holton
-Homa 
+Homa
 HongJiang
-HongJiang 
-Hoover 
-Horne 
+Hoover
+Horne
 Hornik
-Hornik 
 Hornyak
 Horst
-Horst 
-Hosoda 
-Hosseinmardi 
+Hosoda
+Hosseinmardi
 How
-How 
 Howard
 Howe
-Howe 
 Howe***!!***
 Hsihui
 Huang
-Huang 
 Hubert
-Hubert 
-Hubert  
 Hubert Dreyfus
-Hubert Dreyfus 
 Hubert Dreyfus***!!***
-Hubert L. 
-Hugenholtz 
+Hubert L.
+Hugenholtz
 Hugo
-Hugo 
 Hui
-Hunter 
-Hurst 
-Hurwitz 
+Hunter
+Hurst
+Hurwitz
 Hussain
-Hussain 
 Hutson
 Hutter
-Hutter 
 Hyötyniemi
-I-Chieh 
+I-Chieh
+I. Ben-Gal, Y. Bukchin, O. Goldstain
 I. J. Good
-I. J. Good 
 IGM Chicago
-IGM Chicago 
 Ian
-Ian 
 Ian J.
-Ibrahim 
+Ibrahim
 Ignatov, A.D.
 Ignatov, D.Yu.
 Igor
-Igor 
 Igor Aleksander
-Igor Aleksander 
 Igor Aleksander***!!***
 Ilya
-Ilya 
-Ilya Sutskever 
-Inkster 
-Intelligence 
-Inui 
-Invernizzi 
+Ilya Sutskever
+Inkster
+Intelligence
+Inui
+Invernizzi
 Ioannis
-Ioannis 
 Iphofen
-Iphofen 
-Iqbal, M. A. M. 
+Iqbal, M. A. M.
 Ira
-Iraqi 
-Irfan Ullah 
-Ishiguro 
-Islam 
+Iraqi
+Irfan Ullah
+Ishiguro
+Islam
 Ismail
 Itamar
-Itamar 
 Ivakhnenko
-Ivano 
-Ivanov 
-Ivaskevics 
-J (Ed.)
-J Hernandez-Orallo and D L Dowe 
+Ivano
+Ivanov
+Ivaskevics
+J Hernandez-Orallo and D L Dowe
 J Werner
 Jack
-Jack 
 Jackie
-Jackie 
 Jackson
-Jackson 
 Jacob
-Jacob 
-Jacobs 
-Jacquelyn E. 
-Jain 
+Jacobs
+Jacquelyn E.
+Jain
 Jain {{!
-Jair Minoro 
+Jair Minoro
 Jaitly
-Jaitly 
 Jake
 James
-James 
 James E.
 James Lighthill
-James Lighthill 
 Jamie
-Jamie 
-Jan 
+Jan
 Jan C.
-Jan C. 
-Janczak 
+Janczak
 Jane
 Janet
 Janna
 Jansen
-Jaques 
+Jaques
 Jared
-Jaron 
-Jaron Lanier 
-Jarow 
+Jaron
+Jaron Lanier
+Jarow
 Jason
-Jasrotia 
+Jasrotia
 Jay
-Jay Robert 
-Jaya Preethi 
+Jay Robert
+Jaya Preethi
 Jeff
-Jeff 
 Jeff Hawkins
-Jeff Hawkins 
 Jeff Hawkins***!!***
 Jeff Larson
 Jeffrey S.
-Jemima 
+Jemima
 Jenkins
-Jennifer 
-Jeppe H. 
+Jennifer
+Jeppe H.
 Jeremy
-Jessica 
+Jessica
 Ji
 Jiang
-Jiang 
-Jianhua 
+Jianhua
 Jill
-Jill 
 Jillian
-Jimenez 
-Jin 
-Joachim 
+Jimenez
+Jin
+Joachim
 Joanna
-Joanna 
 Joanna Goodman
 Joel
-Joel 
 Johan
-Johanna 
+Johanna
 Johanson
 John
-John 
 John H.
-John H. 
 John Haugeland
-John Haugeland 
 John Haugeland***!!***
 John J.
-John Lucas (philosopher)
-John Lucas (philosopher) 
-John Lucas (philosopher)***!!***
-John McCarthy (computer scientist)
-John McCarthy (computer scientist) 
-John McCarthy (computer scientist)***!!***
-John R. 
+John Lucas
+John Lucas***!!***
+John McCarthy
+John McCarthy***!!***
+John R.
 John Searle
-John Searle 
 John Searle***!!***
 Johnny
-Johnson 
-Johnston 
-Jon 
-Jon Gartner 
-Jonas 
+Johnson
+Johnston
+Jon
+Jon Gartner
+Jonas
 Jonathan
-Jonathan 
 Jonathan P.
-Jonathan P. 
 Jonathan***!!***
 Jonathon
 Jones
-Jones 
-Jonny 
-Joos P.L. 
+Jonny
+Joos P.L.
 Jordan
-Jordan 
-Joscha 
+Joscha
 Jose
-Jose 
-Jose Hernandez-Orallo 
-Joseph 
-Joseph  
+Jose Hernandez-Orallo
+Joseph
 Joseph Needham
-Joseph Needham 
 Joseph Needham***!!***
 Joseph Weizenbaum
-Joseph Weizenbaum 
 Joseph Weizenbaum***!!***
-Joseph Weizenbaumu  
+Joseph Weizenbaumu
 Josh
-Josh 
 Joshua
-Joshua B. 
-Joshua Conrad 
+Joshua B.
+Joshua Conrad
 José
 Jozefowicz
-Jozefowicz 
-João Pedro 
-Joëlle 
+João Pedro
+Joëlle
 Juan Carlos
 Julia
-Julia 
 Julia Angwin
-Julia Angwin 
 Julian
-Julian 
 Jumper
-Jumper 
-Justin 
-Justin D. 
-Jón 
+Justin
+Justin D.
+Jón
 Jürgen
-Jürgen 
 Jürgen Schmidhuber
-Jürgen Schmidhuber 
-Kadlecová 
-Kahn 
+Kadlecová
+Kahn
 Kahneman
-Kahneman 
 Kai
-Kai Chi 
+Kai Chi
 Kaj
-Kalakota 
+Kalakota
 Kalchbrenner
-Kalchbrenner 
-Kale 
-Kamarck 
-Kamila 
+Kale
+Kamarck
+Kamila
 Kang
 Kao
 Kaplan
-Kaplan 
 Karen
-Karen 
-Karl 
+Karl
 Karl Moritz
 Karlen
-Karolina 
+Karolina
 Kashmir
-Kashmir 
-Kaspar 
-Kasperowicz 
-Kateman 
-Katherine Hoffmann 
+Kaspar
+Kasperowicz
+Kateman
+Katherine Hoffmann
 Kathleen Malone
-Kathleen Malone 
-Kathryn 
-Katta 
+Kathryn
+Katta
 Katz
-Katz 
 Kaveh
-Kaveh 
 Kavukcuoglu
-Kavukcuoglu 
-Kawamoto 
-Kawther S. 
-Kazumi 
+Kawamoto
+Kawther S.
+Kazumi
 Keegan
-Keegan 
-Keeter 
-Kelly 
-Kelsey 
+Keeter
+Kelly
+Kelsey
 Ken
-Ken 
 Kendall
-Kendall 
-Kennedy 
+Kennedy
 Kenneth
-Kenneth 
-Kenneth R. 
-Kerfoot 
+Kenneth R.
+Kerfoot
 Kermany
-Kerry 
+Kerry
 Kevin
-Kevin 
-Kevin  
 Khalafallah
-Khan 
-Kharpal 
+Khan
+Kharpal
 Kim
-Kim 
-Kinateder 
+Kinateder
 King
-King 
 Kingsbury
-Kingsbury 
-Kirk-Giannini 
+Kirk-Giannini
 Kiron
-Kiron 
 Kissinger
-Kissinger 
 Kleine-Cosack
-Kleine-Cosack 
 Knight
-Knight 
-Knowles 
-Ko 
-Kobielus 
-Kohl 
-Kohli 
+Knowles
+Ko
+Kobielus
+Kohl
+Kohli
 Kolata
-Kolata 
 Kolata***!!***
-Kolirin 
-Konrad 
+Kolirin
+Konrad
 Kooi
 Kopec
-Kopel 
+Kopel
 Koray
-Koray 
-Kosaraju 
+Kosaraju
 Koza
-Koza 
-Kraus 
-Krieger 
+Kraus
+Krieger
 Krishan
 Krishan Kumar
 Krishan***!!***
-Kristo 
-Krisztián 
-Krithika 
+Kristo
+Krisztián
+Krithika
 Kritikos
-Kritikos 
 Krumwiede
 Kuksa
-Kuligowski 
+Kuligowski
 Kumar
-Kumar 
 Kumaran
-Kumaran 
-Kumba 
-Kuniyoshi 
+Kumba
+Kuniyoshi
 Kuperman
-Kuperman 
 Kurt
-Kurt 
-Kurt Gödel 
-Kurzweil 
-Kyle 
+Kurt Gödel
+Kurzweil
+Kyle
 Kévin Kok
-Kévin Kok 
 Küchler
-Lachlan 
+Lachlan
 Lai
 Laird
 Lakoff
-Lakoff 
 Lampos
-Lampos 
 Lanctot
-Lanctot 
 Langdon
-Langdon 
 Langen
-Langley 
-Lanier 
-Lanxon 
-Lardner 
+Langley
+Lanier
+Lanxon
+Lardner
 Larson
-Larson 
-Laskowski 
+Laskowski
 Latif
-Latif 
-Latifee 
-Laura M. 
+Latifee
+Laura M.
 Laurent
-Laurent 
-Lauriola 
-Lavelli 
-Law 
-Law Library of Congress (U.S.). Global Legal Research Directorate, issuing body.
-Law Library of Congress (U.S.). Global Legal Research Directorate, issuing body. 
-Lawande 
-Lawrence 
+Lauriola
+Lavelli
+Law
+Law Library of Congress. Global Legal Research Directorate, issuing body.
+Lawande
+Lawrence
 Le
-Le 
-LeCun 
-Leach 
-Leant 
+LeCun
+Leach
+Leant
 Lebiere
 Lee
-Lee 
 Legg
-Legg 
-Leike 
+Leike
 Leila
-Leith 
-Leliveld 
-Lemmons, Phil 
-Lenat 
-Lentzos 
+Leith
+Leliveld
+Lemmons, Phil
+Lenat
+Lentzos
 Leon
 Leonard
-Leonard 
-Leone 
+Leone
 Lepri
 Leslie F.
-Leslie F. 
 Levy
-Levy 
-Lewandowsky 
-Lewoniewski 
+Lewandowsky
+Lewoniewski
 Li
-Li 
 Liam
 Lian
-Lian 
-Lianne 
+Lianne
 Lieto
-Lighthill 
-Lightman 
+Lighthill
+Lightman
 Lilit
 Lillicrap
-Lillicrap 
 Lin
-Lin 
-Linhart 
-Linnainmaa 
-Lins 
+Linhart
+Linnainmaa
+Lins
 Lipartito
-Lipartito 
-Lisette M. C. 
-Liundi 
+Lisette M. C.
+Liundi
 Lizette
 Lobo
-Lockey 
+Lockey
 Lockhart
 Lohr
-Lohr 
-Lokesh 
+Lokesh
 Lombardo
-Lombardo P, Boehm I, Nairz K 
-Long 
-Longbing 
+Lombardo P, Boehm I, Nairz K
+Long
+Longbing
 Lorenz
-Lorenzo 
+Lorenzo
 Lorica
-Lorica 
-Lovis 
-Lovreglio 
-Lowe 
-Lu 
+Lovis
+Lovreglio
+Lowe
+Lu
 Luca
-Luca 
 Lucas
-Lucas 
 Luciano
-Luciano 
-Lucie 
+Lucie
 Luders
-Luders 
 Luger
-Luger 
-Luigi 
-Luisa 
-Luke 
-Lungarella 
-Lyakhov 
-Lyakhova 
+Luigi
+Luisa
+Luke
+Lungarella
+Lyakhov
+Lyakhova
 Lynley
 Lyon
 M.Victoria
-Ma 
+Ma
 Mackworth
-Mackworth 
-Macrae 
-Maddison 
+Macrae
+Maddison
 Maddocks
-Madeleine 
+Madeleine
 Madrigal
-Madrigal 
-Magdalena 
+Magdalena
 Mahdawi
-Mahdawi 
 Mahmud
-Mahmud 
-Mahyar 
+Mahyar
 Maker
-Maker 
-Malcolm 
+Malcolm
 Malcolm Gladwell
-Malcolm Gladwell 
-Malcolm Gladwell***!!*** 
+Malcolm Gladwell***!!***
 Maloof
 Mamalet
-Manan 
-Mandziuk 
-Manfredi 
-Mania 
-Mann 
+Manan
+Mandziuk
+Manfredi
+Mania
+Mann
 Manning
-Manoj Kumar 
+Manoj Kumar
 Manuel
 Manyika
-Manyika 
-Marakas 
-Marand 
-Marc 
+Marakas
+Marand
+Marc
 Marc G.
-Marc G. 
-Marcantonio 
-Marcelline 
-Marcelo 
+Marcantonio
+Marcelline
+Marcelo
 Marco
-Marco 
 Marcus
-Marcus 
 Marcus Hutter
-Marcus Hutter 
-Marek 
-Margaret 
+Marek
+Margaret
 Mariarosaria
-Marie-Pier 
+Marie-Pier
 Mark
-Mark 
-Mark R. 
-Mark Robert 
-Mark S. 
+Mark R.
+Mark Robert
+Mark S.
 Markoff
-Markoff 
-Markus 
-Marlous 
-Marmouyet 
+Markus
+Marlous
+Marmouyet
 Marocco
-Marquis 
+Marquis
 Marr
-Marshall 
+Marshall
 Marti
 Martin
-Martin 
 Martin Middendorf
 Marvin
-Marvin 
 Marvin Minsky
-Marvin Minsky 
 Marvin Minsky***!!***
-Marwala 
+Marwala
 Maryann
 Maschafilm
-Maschafilm 
 Mashruwala
-Masoud 
-Mathieu 
+Masoud
+Mathieu
 Matt
-Matt 
 Matteo
-Matteo 
-Mattha 
+Mattha
 Matthew
-Matthew 
-Matthew J. 
+Matthew J.
 Matti
 Mauro Brunato
-Max 
+Max
 Maxwell
-Maxwell 
-Mayara Costa 
+Mayara Costa
 McBride
-McBride 
 McCarthy
-McCarthy 
-McCauley 
+McCauley
 McClelland
-McClelland 
-McCorduck 
+McCorduck
 McGarry
-McGarry 
 McGaughey
-McGaughey 
-McKernan 
+McKernan
 McMorrow
-McMorrow 
 McPhee
-McPhee 
 Mead
 Meg Houston
-Meg Houston 
 Meg Houston***!!***
 Mehul
 Meier
-Meier 
 Meilan
 Melanie
-Melanie 
-Melton 
-Menciassi 
-Merkle 
-Meserole 
-Metta 
+Melton
+Menciassi
+Merkle
+Meserole
+Metta
 Metz
-Metz 
-Meyer 
-Mian 
+Meyer
+Mian
 Michael
-Michael 
 Michael A
-Michael A 
 Michael A.
-Michael Dohan 
+Michael Dohan
 Michael Negnevitsky
-Michal 
-Michalina 
-Michaël 
+Michal
+Michalina
+Michaël
 Michele
-Michele 
-Microsoft 
-Middendorf 
+Microsoft
+Middendorf
 Mihail
-Mihail 
 Mihalis
-Mihalis 
 Mike
 Miller
-Millán M. 
-Milmo 
+Millán M.
+Milmo
 Ming
 Minsky
-Minsky 
 Miriam C
-Miriam C 
 Mitchell
-Mitchell 
 Mnih
-Mnih 
-Mobius 
-Mochizuki 
-Mochizuki  
+Mobius
+Mochizuki
 Moez
 Mohamed
-Mohamed 
 Mohammed
-Mohammed S. 
-Mohan 
-Monestier 
-Monica 
-Monique 
-Monty 
+Mohammed S.
+Mohan
+Monestier
+Monica
+Monique
+Monty
 Moor
 Moore
 Moravec
-Moravec 
-Moreland 
-Moreno 
-Moretti 
+Moreland
+Moreno
+Moretti
 Morgan
 Morgan R.
 Morgenstern
-Morgenstern 
 Moro
-Morozov 
-Motahari, Mehrshad 
+Morozov
+Motahari, Mehrshad
 Mozur
-Mozur 
-Muhsin 
-Munmun 
-Murray 
+Muhsin
+Munmun
+Murray
 Murray,
-Mušicki 
+Mušicki
 Möller
-Möller 
 Müller
-Müller 
-N. Aletras 
-N. Aletras, D. Tsarapatsanis, D. Preotiuc-Pietro, V. Lampos 
-NRC (United States National Research Council) 
-Nadia 
-Nagesh 
+N. Aletras
+N. Aletras, D. Tsarapatsanis, D. Preotiuc-Pietro, V. Lampos
+Nadia
+Nagesh
 Nair
-Nair 
 Nairz
-Nakamatsu 
+Nakamatsu
 Nal
-Nal 
-Nambiar 
+Nambiar
 Nando
-Nando de Freitas 
-Napolitano 
-Naser 
-Natalie 
-Nate 
+Nando de Freitas
+Napolitano
+Naser
+Natalie
+Nate
 Nathalie Fernandez
-Nathan 
+Nathan
 Nathan Rochester
-Nathan Rochester 
 Nathan Rochester***!!***
-National Research Council 
-Naum N. 
-Naureen S Malik and Will Wade 
-Naval 
+National Research Council
+Naum N.
+Naureen S Malik and Will Wade
+Naval
 Neapolitan
-Neapolitan 
-Needham 
+Needham
 Neerincx
-Negnevitsky 
-Nehad M. Abdel Rahman 
+Negnevitsky
+Nehad M. Abdel Rahman
 Nehaniv
 Neil
 Neira
-Neira 
-Nemitz 
+Nemitz
 Neumann
-Neumann 
-New 
+New
 NewPoisk
-Newborn 
-Newell 
+Newborn
+Newell
 Newquist
-Newquist 
-Newsom, Gavin 
+Newsom, Gavin
 Ng
-Ng 
 Nguyen
-Nguyen 
-Nham 
-Nicas 
+Nham
+Nicas
 Nicholas
-Nicholas 
-Nicholas M. 
+Nicholas M.
 Nicholas***!!***
 Nick
-Nick 
 Nick Bostrom
-Nick Bostrom 
-Nick***!!*** 
+Nick***!!***
 Nico
-Nico 
-Nicol N. 
-Nicola 
+Nicol N.
+Nicola
 Nicole
-Nicole 
-Nida 
+Nida
 Nidhi
 Nielsen
-Nigel 
-Nikitha Sattiraju / 
+Nigel
+Nikitha Sattiraju /
 Nikolay
-Nikolov 
+Nikolov
 Nils
-Nils 
-Nils J. 
+Nils J.
 Nils John Nilsson
 Nils Nilsson
-Nils Nilsson (researcher)
-Nils Nilsson (researcher) 
 Nilsson
-Nilsson 
 Nilsson, N. J.
-Nisan 
-Niva Yadav 
-Nivedita 
+Nisan
+Niva Yadav
+Nivedita
 Noam
-Noam 
 Nolfi
+Noopur
 Norvig
-Norvig 
-Norvig  
 Norvig ***!!***
-Norvig, Peter 
-Nour 
-Noureddine 
-Novak 
-Nowinska 
-Núñez 
+Norvig, Peter
+Nour
+Noureddine
+Novak
+Nowinska
+Núñez
 O' Neill,
-O'Brien 
+O'Brien
 O'Connor
-O'Connor 
-O'Connor, Kathleen Malone 
-O'Donovan 
+O'Connor, Kathleen Malone
+O'Donovan
 O'Neill
 O'Neill,
-Oda 
-Odile 
-Ogino 
-Ohlsson 
-Olaf 
-Olick 
+Oda
+Odile
+Ogino
+Ohlsson
+Olaf
+Olick
 Oltramari
 Omohundro
-Omohundro 
 Ontanon
-Opfermann 
-Oremus 
+Opfermann
+Oremus
 Oren
-Oren 
 Oriol
-Oriol 
 Osborne
-Osborne 
-Oshan 
-Osindero 
+Oshan
+Osindero
 Oskari
-Osoba 
-Osonde 
+Osoba
+Osonde
 Ostrovski
-Ostrovski 
-Oudeyer 
-Ouyang 
+Oudeyer
+Ouyang
 Oxenham
 Oyvind
-Ozair 
-P. Bernt 
-P. Vincent 
-Pacholska 
-Padilla de la Torre 
-Pagallo 
+Ozair
+P. Bernt
+P. Vincent
+Pacholska
+Padilla de la Torre
+Pagallo
 Pamela
-Pamela 
-Pamela J. 
+Pamela J.
 Pamela McCorduck
-Pandolfo 
+Pandolfo
 Pandya
-Panneershelvam 
+Panneershelvam
 Paolo
-Papadimitriou 
-Papini 
-Park 
-Parsons 
-Parvez 
+Papadimitriou
+Papini
+Park
+Parsons
+Parvez
 Pat
-Pat 
-Patel 
+Patel
 Patrick
-Patrick 
 Patrick Henry
-Patrick Henry 
 Patrick Winston
-Patrick Winston 
 Paul
-Paul 
-Paul  
 Paul Werbos
-Pauline 
+Pauline
 Pauline A.
 Pavel
-Pavel 
-Pedro 
+Pedro
 Pedro Domingos
-Pedro Domingos 
-Pedro F. 
-Pei 
+Pedro F.
+Pei
 Pei Wang
-Pei Wang 
-Peng 
+Peng
 Pennachin
-Pennachin 
-Penrose 
-Pentland 
-Pereira 
-Perihan Elif 
-Perrin 
+Penrose
+Pentland
+Pereira
+Perihan Elif
+Perrin
 Pescetelli
 Peter
-Peter 
-Peter     
 Peter ***!!***
-Peter A 
-Peter Belohlavek 
-Peter Biles 
-Peter C. 
+Peter A
+Peter Belohlavek
+Peter Biles
+Peter C.
 Peter Cathcart Wason
-Peter Cathcart Wason 
 Peter Cathcart Wason***!!***
 Peter Norvig
-Peter Norvig 
-Peter.    
+Peter.
 Peters
 Petersen
-Petersen 
-Petko 
-Petru-Daniel 
-Pfeifer 
-PhD 
+Petko
+Petru-Daniel
+Pfeifer
+PhD
 Pham
-Pham 
 Phil
 Philip
-Philip 
 Philip Andrew
 Philip C. Jackson, Jr.
-Philip C. Jackson, Jr. 
 Philipp
-Philipp 
-Philippe Pionchon 
+Philippe Pionchon
 Phoebe V.
-Picard 
-Pierre 
-Pietro 
-Pinaya 
-Pinker 
-Piper 
-Pittis 
-Plumb 
-Poisk 
-Pok Man 
+Picard
+Pierre
+Pietro
+Pinaya
+Pinker
+Piper
+Pittis
+Plumb
+Poisk
+Pok Man
 Poli
-Poli 
-Poli, R., Langdon, W. B., McPhee, N. F. 
+Poli, R., Langdon, W. B., McPhee, N. F.
 Poole
-Poole 
 Poria
-Poria 
-Possenti 
+Possenti
 Post
-Potapenko 
-Powell 
-Power 
+Potapenko
+Powell
+Power
 Prachi
-Prachi 
 Prade
-Prade 
-Pragya 
+Pragya
 Prakken
 Pranjal
-Pranshu 
+Pranshu
 Prenger
-Prenger 
 Preotiuc-Pietro
-Preotiuc-Pietro 
 Press
 Preuss
-Pritzel 
-Problematic Pornography Use Machine Learning Study Consortium 
-Professor Sir James 
-Pultarova 
-Pushmeet 
-Pym 
-Quera-Bofarull 
-Quintais 
+Pritzel
+Problematic Pornography Use Machine Learning Study Consortium
+Professor Sir James
+Pultarova
+Pushmeet
+Pym
+Quera-Bofarull
+Quintais
 Quoc V.
-Rachel R. R. 
-Radina Gigova 
-Rafael E. 
+Rachel R. R.
+Radina Gigova
+Rafael E.
 Rafal
-Rafaël 
-Rahul 
+Rafaël
+Rahul
 Rainie
-Rainie 
 Raj
 Rajani
-Rajani 
 Rajiv
-Rajiv 
 Ralf
-Ralf 
-Ram 
+Ram
 Randy
-Randy 
-Randy Goebel 
+Randy Goebel
 Ransbotham
-Ransbotham 
-Raphael 
+Raphael
 Raphael, B.
-Raphael, B. 
-Rasmussen 
+Rasmussen
 Raval
-Ravi 
-Ravinet 
+Ravi
+Ravinet
 Rawlinson
-Rawlinson 
 Ray
-Ray 
 Ray Kurzweil
-Ray Kurzweil 
 Ray Kurzweil***!!***
 Ray Solomonoff
-Ray Solomonoff 
-Razi 
-Read 
-Rebeca Moreno 
-Rebecca C. 
-Rees 
+Razi
+Read
+Rebeca Moreno
+Rebecca C.
+Rees
 Reeves
-Reeves 
-Reichberg 
+Reichberg
 Reichley
-Reichley 
 Reid
-Reiman 
-Reisner 
-Relton 
+Reiman
+Reisner
+Relton
 Ren
 Rene
 Renee
 Research
-Rex 
-Reza 
+Rex
+Reza
 Rhiannon
-Rhiannon 
 Rich
-Rich 
 Richard
-Richard 
 Richard Neapolitan
-Richard Neapolitan 
 Richmond
 Richoux
 Riedmiller
-Riedmiller 
-Rina 
-Rina  
+Rina
 Rina Dechter
-Ring 
-Rishub 
-Rivaldi 
+Ring
+Rishub
+Rivaldi
 Rob
-Rob 
 Robert
-Robert 
 Robert C.
-Robert C. 
-Robert I. 
+Robert I.
 Robert J.
-Robert J. 
 Roberto
 Roberto Battiti
 Roberts
-Roberts 
-Robin J. 
+Robin J.
 Robinson
 Robitzski
-Robitzski 
-Rochester 
+Rochester
 Rodney
-Rodney 
 Rodney Brooks
-Rodney Brooks 
-Roger 
+Roger
 Roger C.
-Roger C. 
-Roger C.  
 Roger Penrose
-Roger Penrose 
-Roger See? 
-Rohan 
-Roman 
+Roger See?
+Rohan
+Roman
 Roman V
-Roman V 
-Romanov 
-Romera-Paredes 
+Romanov
+Romera-Paredes
 Ron
-Ron 
 Ronan
-Ronneberger 
-Ropek 
+Ronneberger
+Ropek
 Rory
-Rory 
-Rosalind 
-Rosalind Picard 
-Rose 
+Rosalind
+Rosalind Picard
+Rose
 Rosenberg
 Ross
 Rothman
-Rothman 
-Rothschild 
+Rothschild
 Rowena
 Rowinski
 Rowinski, Dan
 Rowinski,cancer Dan
-Roxburgh 
-Roxine 
+Roxburgh
+Roxine
 Roy Welsch
 Rubin
-Rubin 
-Rudin 
-Ruggiero 
-Ruhi 
+Rudin
+Ruggiero
+Ruhi
 Ruiting
-Ruiting 
 Rumelhart
-Ruschelle M. 
-Russ 
+Ruschelle M.
+Russ
 Russell
-Russell 
 Russell***!!***
-Russell, Stuart J. 
+Russell, Stuart J.
 Rusu
-Rusu 
-Ruth 
+Ruth
 Ryan
-Ryan 
-S. Archer 
-S. Sumathi 
-Sabbagh 
-Sachs 
+S. Archer
+S. Sumathi
+Sabbagh
+Sachs
 Sack
 Sadik
-Sadik 
-Sagar 
-Sahil Singh 
+Sagar
+Sahil Singh
 Sainath
-Sainath 
 Sainato
-Sainato 
-Sak 
+Sak
 Salah
-Salcudean 
+Salcudean
 Sam
-Sam 
-Sam Altman 
-Samantha 
+Sam Altman
+Samantha
 Sample
-Sample 
 Samuel
-Samuel 
-Samuel Butler (novelist)
-Samuel Butler (novelist) 
+Samuel Butler
 Samy
-Sanchez 
+Sanchez
 Sandeep
-Sandeep 
-Sander 
+Sander
 Sandholm
-Sandholm 
-Sandini 
+Sandini
 Sandra
-Sandra 
 Sandra***!!***
 Sanjeev
 Santiago
-Santiago 
 Sarah
-Sarah 
-Sascha 
+Sascha
 Satheesh
-Satheesh 
-Saurabh 
-Savio Domenico 
-Sawyer 
+Saurabh
+Savio Domenico
+Sawyer
 Saxena
 Scaramuzza
-Scaramuzza 
 Scassellati
-Scassellati 
 Schaeffer
-Schank 
-Schaul 
+Schank
+Schaul
 Schmidhuber
-Schmidhuber 
 Schmitt
-Schneegans, S., T. Straza and J. Lewis (eds)
+Schneegans, S., T. Straza and J. Lewis
 Schoenick
-Schraudolph 
+Schraudolph
 Schrittwieser
-Schrittwieser 
-Schulman 
+Schulman
 Schulz
-Schulz 
 Schuster
-Schuster 
-Scott 
-Sean 
+Scott
+Sean
 Searle
-Searle 
-Sebastian 
-Sedgewick 
-Segev 
-Sejnowksi, Terrence J. 
-Selmer 
-Selmer A. 
-Selmer Bringsjord 
+Sebastian
+Sedgewick
+Segev
+Sejnowksi, Terrence J.
+Selmer
+Selmer A.
+Selmer Bringsjord
 Sengupta
-Sengupta 
 Senior
-Senior 
-Sennaar 
+Sennaar
 Senthilingam, Meera
 Sepp
-Sepp 
 Sepp Hochreiter
-Sepp Hochreiter 
-Seppo 
+Seppo
 Seppo Linnainmaa
-Seppo Linnainmaa 
-Septimiu 
-Serenko 
-Sergio Gómez Colmenarejo 
+Septimiu
+Serenko
+Sergio Gómez Colmenarejo
 Seth
-Seth 
-Seunghyun 
-Sevilla E. 
-Shah 
-Shaikh 
-Shaikh Mohammad 
+Seunghyun
+Sevilla E.
+Shah
+Shaikh
+Shaikh Mohammad
 Shane
-Shane 
-Shane Legg and Marcus Hutter 
-Shane W. 
-Shangtong 
-Shannon 
+Shane Legg and Marcus Hutter
+Shane W.
+Shangtong
+Shannon
 Shapiro
-Shapiro 
-Shapiro  
 Shapiro***!!***
-Shapiro, D. 
-Sharma 
+Shapiro, D.
+Sharma
 Sharon
-Sharon 
-Sharon L. 
+Sharon L.
 Shazeer
-Shazeer 
-Shekhtman 
+Shekhtman
 Sherisse
-Sherjil 
-Shikah J. 
-Shivashankar B 
-Shiwani 
+Sherjil
+Shikah J.
+Shivashankar B
+Shiwani
 Shlens
 Shoemaker
-Shoemaker 
-Shoko 
+Shoko
 Shubho
 Shuiwang
-Shum 
+Shum
 Shuo
-Shuo 
 Shweta
-Shweta 
-Sibley 
+Sibley
 Sifre
-Sifre 
-Sigal 
-Sikos 
+Sigal
+Sikos
 Silver
-Silver 
 Simon
-Simon 
-Simon A. A. 
-Simonite 
+Simon A. A.
+Simonite
 Simonyan
-Simonyan 
-Singh 
-Singh Chauhan 
-Siobhan 
+Singh
+Singh Chauhan
+Siobhan
 Skillings
-Skillings 
-Slava Polonski 
-Sloman, Aaron 
-Slovic 
+Slava Polonski
+Sloman, Aaron
+Slovic
 Slyusar
-Slyusar 
 Smith
-Smith 
 Smith, Mark
 Smoliar
-Smoliar 
 Socher
-Soenke 
+Soenke
 Solly
-Solomon 
+Solomon
 Solomonoff
-Solomonoff 
-Solorio 
+Solorio
 Sophie
-Sophie 
 Sorensen
-Sormanni 
+Sormanni
 Sotala
 Souissi
 Soujanya
-Soujanya 
 Spadafora
-Spadafora 
-Spencer 
-Spirito 
-Sporns 
-Srinivasan 
+Spencer
+Spirito
+Sporns
+Srinivasan
 Srivastav
-Srivastava 
-Srivatsan 
-Staats 
+Srivastava
+Srivatsan
+Staats
 Stan
-Stan 
 Stan***!!***
 Stanford
 Stanford University
-Stanford University 
-Stanislav 
+Stanislav
 Stefano
 Stefano Nolfi
-Steinegger 
+Steinegger
 Steinhart
-Stellan 
+Stellan
 Stephan
-Stephen 
+Stephen
 Stephen W.
-Stephen W. 
 Steve
-Steve 
-Steve  Omohundro 
-Steve Omohundro 
+Steve  Omohundro
+Steve Omohundro
 Steven
-Steven 
 Steven Borowiec
-Steven Pinker 
-Stewart 
-Stiennon 
+Steven Pinker
+Stewart
+Stiennon
 Stig
-Stig 
 Stinchcombe
-Stinchcombe 
-Stockman 
-Stringhini 
-Strobelt 
+Stockman
+Stringhini
+Strobelt
 Stuart
-Stuart 
 Stuart C.
-Stuart C. 
-Stuart C.  
-Stuart E. 
+Stuart E.
 Stuart J.
-Stuart J. 
 Stuart J. Russell
-Stuart J. Russell 
 Stuart J. Russell ***!!***
 Stuart J.***!!***
 Stuart***!!***
 Stubblefield
-Stubblefield 
-Subhash 
+Subhash
 Subramanya
-Subramanya 
-Sun 
-Sunyaev 
-Sur 
+Sun
+Sunyaev
+Sur
 Susan Leigh
-Susan Leigh 
 Susan M.
 Sutskever
-Sutskever 
-Suyesha 
+Suyesha
 Sven
-Sven 
-Svetlana 
-Swaminathan 
+Svetlana
+Swaminathan
 Synnaeve
-Sypherd 
+Sypherd
 Szegedy
 Szu Ping
-Sánchez Sorondo 
-Söhnke M. 
+Sánchez Sorondo
+Söhnke M.
 Søraker
 Taddeo
 Tafjord
-Taha 
-Takashi 
-Talaviya 
-Tallet 
-Tamas 
+Taha
+Takashi
+Talaviya
+Tallet
+Tamas
 Tammelin
-Tan 
-Tang 
-Tanha 
-Tao 
-Tapsell 
-Tara Sainath 
-Tarnoff 
-Taryn 
+Tan
+Tang
+Tanha
+Tao
+Tapsell
+Tara Sainath
+Tarnoff
+Taryn
 Taylor
-Taylor 
 Tecuci
-Tecuci 
-Teddy 
-Tegler 
-Teh 
-Tejaswi 
-Teo 
-Tereza 
+Teddy
+Tegler
+Teh
+Tejaswi
+Teo
+Tereza
 Terry
-Terry 
 Thagard
-Thamar 
+Thamar
 TheRisingWasabi
-Thelen 
+Thelen
 Thibodeau
-Thibodeau 
-Thiebes 
+Thiebes
 Thiran
 Thomas
-Thomas 
 Thomas A.
-Thomason 
+Thomason
 Thompson
-Thompson 
-Thomson 
+Thomson
 Thore
-Thore 
-Thorpe 
-Thrash 
+Thorpe
+Thrash
 Thro
-Thro 
-Thuy Dung 
-Tieniu 
-Tieniu Tan 
-Tiernan 
-Tiffany L. 
+Thuy Dung
+Tieniu
+Tieniu Tan
+Tiernan
+Tiffany L.
 Tim
-Tim 
-Timo 
+Timo
 Timothy
-Timothy 
 Timothy B.
-Timothy B. 
-Tinonee 
+Tinonee
 Toews
-Toews 
-Tojin T. 
+Tojin T.
 Tom
-Tom 
-Tom Le Paine 
+Tom Le Paine
 Tom M. Mitchell
 Tom Simonite
-Tom Simonite 
 Tom Simonite***!!***
-Tomislav 
+Tomislav
 Toni-Louise
 Torniai
-Torniai 
 Toshev
-Toshev 
-Toyama 
+Toyama
 Tracey Lien
 Tracey Lien, Steven
 Tracy
-Trama 
-Trevor 
+Trama
+Trevor
 Tsarapatsanis
-Tsarapatsanis 
 Tshilidzi
-Tudosiu 
+Tudosiu
 Tung
-Tunyasuvunakool 
+Tunyasuvunakool
 Tuomas
-Tuomas 
-Tuomas P. J. 
-Turing 
+Tuomas P. J.
+Turing
 Turney
-Tversky 
-Tyler 
+Tversky
+Tyler
 Ugo
-Ugo 
 Ulrich
 Umar
-Umar 
 United States National Research Council
-United States National Research Council 
 United States National Research Council***!!***
 United States. Defense Innovation Board.
 University
-Urbina 
+Urbina
 Uriarte
-User:Drbogdan 
-Ustun 
-Uthemann 
-V. Lampos 
-VOA News 
+User:Drbogdan
+Ustun
+Uthemann
+V. Lampos
+VOA News
 Vadym
-Vadym 
-Vaillancourt-Morel 
-Vaishnavi 
-Valance 
-Valentin 
-Valinsky 
-VanLehn 
+Vaillancourt-Morel
+Vaishnavi
+Valance
+Valentin
+Valinsky
+VanLehn
 Vandewalle
 Vanhoucke
-Vanhoucke 
-Veda 
-Vendruscolo 
+Veda
+Vendruscolo
 Veness
-Veness 
 Venkataswamy
 Verma
-Verma 
 Vernon
 Vernor
-Vernor 
 Vernor Vinge
-Vernor Vinge 
 Vernor Vinge***!!***
 Villaseca
-Vincent 
+Vincent
 Vincent C.
-Vincent C. 
-Vincent C.***!!*** 
-Vineet 
+Vincent C.***!!***
+Vineet
 Vinge
-Vinge 
 Vinyals
-Vinyals 
-Viola 
-Virginia 
-Vogels 
+Viola
+Virginia
+Vogels
 Volodymyr
-Volodymyr 
-Vowels 
-Véronique 
+Vowels
+Véronique
 Waddell
-Waddell 
 Wakefield, Jane
-Waling 
+Waling
 Walker
-Wallach 
-Walsh 
-Walter H. L. 
-Walton 
+Wallach
+Walsh
+Walter H. L.
+Walton
 Wang
-Wang 
-Warnars 
-Warren 
-Warwick 
+Warnars
+Warren
+Warwick
 Washington
 Wason
-Wason 
 Wattles
-Watts 
-Waytz 
-Weber, Shirley N. 
+Watts
+Waytz
+Weber, Shirley N.
 Wei
-Wei 
 Weinreich
 Weiss
-Weizenbaum 
-Wejdan M. 
-Wendell 
-Weng 
+Weizenbaum
+Wejdan M.
+Wendell
+Weng
 Wenwu
-Wenwu 
 Werbos
-Werbos 
 Weston
 Weyerer
-Weyerer 
 White
-White 
 Wierstra
-Wierstra 
-Wiggers 
-Wilkins 
+Wiggers
+Wilkins
 Will
-Will 
-Will Douglas 
+Will Douglas
 William
-William 
-William A. 
-William Stubblefield 
+William A.
+William Stubblefield
 Williams
-Williams 
 Williams, Ronald J.
-Wing 
-Wing-Ho 
+Wing
+Wing-Ho
 Wing-Ho SHUM
 Winograd
 Winston
-Winston 
 Wirtz
-Wirtz 
-Wisniewski 
-Witmer 
-Wlodzislaw 
-Wodecki 
-Wojciech Marian Czarnecki 
+Wisniewski
+Witmer
+Wlodzislaw
+Wodecki
+Wojciech Marian Czarnecki
 Wolf
 Wolfgang
-Wolfgang 
-Wolleb 
+Wolleb
 Wong
-Wong 
-Woodrow 
-Woody 
-Woody Evans 
+Woodrow
+Woody
+Woody Evans
 Wu
-Wu 
-Wurman 
-Włodzimierz 
+Wurman
+Włodzimierz
 Xia
-Xia 
 Xiangang
 Xihong
-Xilei 
+Xilei
 Xu
-Y. Bengio 
-Yagnik 
-Yam 
+Y. Bengio
+Yagnik
+Yam
 Yampolskiy
-Yampolskiy 
 Yang
-Yann 
+Yann
 Yann LeCun
 Yarden
-Yarden 
 Yasir
-Yasir 
-Yasmine M. 
-Yesilada 
+Yasmine M.
+Yesilada
 Yeung
 Yi-Ching
-Yingyezhe 
-Yip 
+Yingyezhe
+Yip
 Yongcan
 Yonghui
 Yoon
-Yoon 
-Yoshida 
-Yoshikawa 
+Yoshida
+Yoshikawa
 Yoshua
-Yoshua 
 Yu
-Yu 
 Yudkowsky
-Yudkowsky 
 Yugesh
-Yugesh 
-Yunan 
-Yura 
-Yuran 
+Yunan
+Yura
+Yuran
 Yutian
 Yuval Noah
-Yuval Noah 
 Yuval Noah Harari
-Yuval Noah Harari 
-Z. Faidon 
-Zalok 
-Zedah 
+Z. Faidon
+Zalok
+Zedah
 Zhang
-Zhang 
-Zhao 
-Zhou 
-Ziegler 
-Zielinski 
-Zierahn 
-Ziesche 
+Zhao
+Zhou
+Ziegler
+Zielinski
+Zierahn
+Ziesche
 Zipser
 Zisserman
-Zola 
+Zola
 Zou
-Zsombor 
+Zsombor
 [[General Accounting Office
-[[George Dyson (science historian)
+[[George Dyson
 [[Government Accountability Office]]
-[[Government Accountability Office]] 
 [[Graham Oppy]]
 [[Jeff Hawkins
 [[Kevin Warwick
@@ -2713,16 +2096,14 @@ Zsombor
 [[Stuart J. Russell
 [[Stuart J. Russell]]
 [[Terry Sejnowski
-da Costa 
+da Costa
 de Freitas
 de Garis
-de Garis 
 van Middelaar
-van den Driessche 
+van den Driessche
 van der Beek
 van der Walt
-van der Walt 
-von Braun 
-Špinka 
-Żołna 
-Žídek 
+von Braun
+Špinka
+Żołna
+Žídek

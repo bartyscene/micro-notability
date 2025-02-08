@@ -1,1146 +1,930 @@
-A. A. Efremov, N. I. Bochkareva, R. I. Gorbunov, D. A. Larinovich, Yu. T. Rebane, D. V. Tarkhin, and Yu. G. Shreter, 
-A. E. Romanov 
+
+A. A. Efremov, N. I. Bochkareva, R. I. Gorbunov, D. A. Larinovich, Yu. T. Rebane, D. V. Tarkhin, and Yu. G. Shreter,
+A. E. Romanov
 A. Gopal, M. Glaz, D.Vanden Bout, X.J. Zhang
-AIXTRON, Inc 
+AIXTRON, Inc
 AND E. Jamgochian
-AND E. Jamgochian 
-Abbrent 
+Abbrent
 Abdi Jalebi
-Abdi‐Jalebi 
-Abdullah 
+Abdi‐Jalebi
+Abdullah
 Abu-Ghosh
 Accardo
 Administrator
-Aifantis, K. E. 
+Aifantis, K. E.
 Aime
-Aime 
 Akiko
 Akira
 Akutagawa
-Akutagawa 
-Alam 
-Alan R. 
-Alena Tugend 
+Alam
+Alan R.
+Alena Tugend
 Alexander S.
-Alivisatos 
+Alivisatos
 Alstadt
-Alstadt 
-Anant A. 
-Andaji‐Garmaroudi 
-Ando Junior 
-Andrew 
+Anant A.
+Andaji‐Garmaroudi
+Ando Junior
+Andrew
 Angel
 Anne
-Anne 
-Anton 
+Anton
 Ardalan
 Armin
 Arru
-Artem 
+Artem
 Arturas
-Arturas 
-Ashdown 
+Ashdown
 Aubé
 Bachmann
-Bachmann 
 Bader
 Bae
-Bai 
-Bao 
+Bai
+Bao
 Bardsley
-Bardsley 
-Bart J. 
+Bart J.
 Bascom
-Bascom 
-Bassett 
-Bausch 
-Bausch, Jeffrey 
+Bassett
+Bausch
+Bausch, Jeffrey
 Bawendi
-Ben 
+Ben
 Ben-Ezra
 Benjamin S.
 Bennett
-Bernhard 
-Bessho, M 
-Bessho, M  
-Bessho, M and Shimizu, K 
+Bernhard
+Bessho, M
+Bessho, M and Shimizu, K
 Beu
-Bevacqua 
-Beverly Hills Lighting 
+Bevacqua
+Beverly Hills Lighting
 Bharathan
-Bharathan 
-Biard, James R. 
-Bin 
+Biard, James R.
+Bin
 Birddog
-Blaesing 
-BläSing 
-Bläsing 
-Bl�Sing 
-Bo 
-Bochkareva 
+Blaesing
+BläSing
+Bläsing
+Bl�Sing
+Bo
+Bochkareva
 Bochmann
-Borden 
-Bordon 
+Borden
+Bordon
 Bose
-Bougrov, V. E. 
-Bowman 
+Bougrov, V. E.
+Bowman
 Bradley
-Bradley 
 Braunstein, Rubin
-Braunstein, Rubin 
-Bretas 
+Bretas
 Brown
-Brown 
-Brown, C. S. 
+Brown, C. S.
 Bruno
-Brus 
+Brus
 Bryant
 Bulović
 Burns
-Burns 
 Burroughes
-Burroughes 
 Burroughes, JH and Bradley, DDC and Brown, AR and Marks, RN and Mackay, K. and Friend, RH and Burns, PL and Holmes, AB,
 Buzdugan
 Byung-Ki
 C. A. Accardo
-C. A. Accardo 
 Cabalo
-Cabalo 
-Cabrera 
+Cabrera
 Calin
 Calvin H.
 Campianu
 Cao
-Cao 
 Capik
-Capik 
-Cappel 
-Capper, Peter  
-Capper, Peter and Mauk, Michael  
-Carlesi 
-Carr, W. N. 
-Carr, W. N.  
-Carr, W. N. and G. E. Pittman 
+Cappel
+Capper, Peter
+Capper, Peter and Mauk, Michael
+Carlesi
+Carr, W. N.
+Carr, W. N. and G. E. Pittman
 Carrano
-Carrano 
 Carter
 Catalin Daniel
-Caterina 
-Cecie Starr 
-Cesare 
+Caterina
+Cecie Starr
+Cesare
 Changhee
-Changjiu 
-Chao 
-Chaochao 
+Changjiu
+Chao
+Chaochao
 Char
-Charles H. 
+Charles H.
 Chen
-Chen 
 Chen-kai
-Chen-kai 
-Cheng 
-Chengbo 
+Cheng
+Chengbo
 Chi-Feng
 Chih-Chung
 Chih-Feng
 Ching-Cherng
 Cho
-Cho 
 Cho, H.K., Jang, J., Choi, J.H., Choi, J., Kim, J., Lee, J.S., Lee, B., Choe, Y.H., Lee, K.D., Kim, S.H. and others
 Choquette
-Choquette 
-Christen 
+Christen
 Christos
-Christos 
-Chu 
+Chu
 Chua
-Chua 
 Chuanzhong
-Chuanzhong 
 Chung
-Chung 
-Chunxiong 
+Chunxiong
 Ciugudeanu
-Claude 
+Claude
 Cobden
-Coelho 
+Coelho
 Colaneri
-Colaneri 
-Colvin 
-Comoretto 
-Condliffe 
-Contreras 
+Colvin
+Comoretto
+Condliffe
+Contreras
 Cooke, Mike
-Cooke, Mike 
 Correa
-Cortecchia 
-Coxworth 
+Cortecchia
+Coxworth
 Crawford
-Cui 
+Cui
 Dadgar
-Dadgar 
 Dae-Young
 Dai
-Dan 
+Dan
 Daniel Gomez, FAE Avnet
-Daniele 
+Daniele
 Dauler
 David
-David 
-David Cassidy, Gerald Holton, James Rutherford 
-David F. 
-David L. Heiserman 
-Davide 
+David Cassidy, Gerald Holton, James Rutherford
+David F.
+David L. Heiserman
+Davide
 Dawei
 Dayani
 De Lucia
-De Lucia 
 DeLucia
-DeLucia 
 Denbaars
-Dennis 
-Dennis Overbye 
+Dennis
+Dennis Overbye
 Destriau, G.
 Di
 Di Lecce
 DiDonato
-Dietz, P. H. 
+Dietz, P. H.
 Dietz, Yerazunis, and Leigh
-Diez 
+Diez
 Dimitrov
 Dimmock
-Dimmock 
 Distributing Inc,
 Do Y.
-Doherty 
-Dong 
+Doherty
+Dong
 Dong, Tianming et al.
 Dong-Ming
 Dong-Sik
 Donggu
 Dongho
-Dongxin 
+Dongxin
 Dorin
 Dror
 Dubinsky
-Ducati 
+Ducati
 Dutta
-E. Fred 
+E. Fred
 E. Fred Schubert
 E. Fred Schubert and Jong Kyu Kim
 E. Hecht
 Edmond
-Edwards 
+Edwards
 Efremov
-Efremov 
 Efremov, A. A. ''et al.''
 Eiji
-Eiji 
 Eisenberg
-Eisenberg 
 Elvikis
-Elvikis 
-Emil 
+Emil
 Emma
 Eric A.
-Erik 
-Eui Hyuk 
+Erik
+Eui Hyuk
 Eun Kyung
 Eunjoo
 Evan
-Evan 
 F. Pelayo García
-Fahlman 
-Fan 
-Fanglong 
-Fehse 
-Felix U. 
-Felix Utama 
-Feng 
-Feng-Ming 
-Feng‐Ming 
+Fahlman
+Fan
+Fanglong
+Fehse
+Felix U.
+Felix Utama
+Feng
+Feng-Ming
+Feng‐Ming
 Ferguson
-Ferguson 
 Ferreira
-Ferreira 
 Fiona
-Fiona 
 Fixler
 Flagstaff Dark Skies Coalition
-Florencio 
-Francesco Di 
-Fred Schubert 
+Florencio
+Francesco Di
+Fred Schubert
 Fredrik
-Fredrik 
-Fredrik Hailer 
+Fredrik Hailer
 Friend
-Friend 
-Fudin, M. S. 
-Fujita, S. 
-G. E. Pittman 
-Gabriel J. 
+Fudin, M. S.
+Fujita, S.
+G. E. Pittman
+Gabriel J.
 Galatanu
-Galia 
+Galia
 Gallina Toschi
-Gao 
-Garcia-Santamaria 
+Gao
+Garcia-Santamaria
 Garrett
-Garrett 
 Gary
-Gary 
 Gaska
 Geoffrey J.
-George Rostky 
-Gerald P. 
+George Rostky
+Gerald P.
 Gerard J.
-Gerhard Fasol 
+Gerhard Fasol
 Ghimire
-Giovanni 
+Giovanni
 Giuseppe
-Giuseppe M. 
-Giusto 
-Glaz 
+Giuseppe M.
+Giusto
+Glaz
 Goad
-Goad 
-Goins, G. D. 
+Goins, G. D.
 Goins, GD and Yorio, NC and Sanwo, MM and Brown, CS
-Gomez, Daniel 
+Gomez, Daniel
 Gong
-Gopal 
+Gopal
 Gorbunov
-Gorbunov 
-Green 
+Green
 Grossi
-Guangruixing 
-Guanhaojie 
+Guangruixing
+Guanhaojie
 Guo
 Gustafsson
-Gustafsson 
 Gyu Weon
 H. J. Round
-H. Lipsanen 
-H. Walter 
+H. Lipsanen
+H. Walter
 Ha
 Haas
 Hailer
-Hailer 
-Haiyan 
+Haiyan
 Hamamoto
-Hamamoto 
 Han
-Hank 
-Hao 
-Haorui 
+Hank
+Hao
+Haorui
 Harald
 Hasegawa
-Hasegawa 
 He
-He 
 Hebner
-Hebner 
-Hecht, E. 
+Hecht, E.
 Heeger
-Heeger 
 Heejae
 Heeje
 Hendrickson
 Herbert
-Herbert 
 Herschkowitz
-Heuken 
+Heuken
 Heydarizadeh
-Heyong 
+Heyong
 Hikosaka
-Hikosaka 
-Hin-Lap 
+Hin-Lap
 Hiolski
 Hisao
-Hisao 
 Hisashi
-Hisashi 
-Hoerni, J.A. 
+Hoerni, J.A.
 Holloway
 Holmes
-Holmes 
-Holonyak Nick 
+Holonyak Nick
 Hong
-Hongling 
-Hoogland 
-Hoque 
-Hoshino 
-Hou 
-House 
-Howard C. 
-Hsien-Yi 
-Hsu 
-Hu 
+Hongling
+Hoogland
+Hoque
+Hoshino
+Hou
+House
+Howard C.
+Hsien-Yi
+Hsu
+Hu
 Hua-Nong
-Hua-Nong 
 Hua-Shuang
 Huang
-Huang 
 Hui
 Hujia
 Hwang
-Hwang 
 Hyosook
 Hyunduck
-Håkan 
-I. Moreno 
-Ian E 
+Håkan
+I. Moreno
+Ian E
 Ian T
-Ian T 
 Ikehara
-Ikehara 
 Iluz
-Inman 
+Inman
 Inman, Mason
 Insun
 Ivan
 Ivan Moreno, Ulises Contreras
 Ivan Moreno, and Ching-Cherng Sun
-Iveland 
+Iveland
 Iveland, Justin
-Izotov 
+Izotov
 J. H. Wold and A. Valberg
-Jacques 
-Jaehee 
+Jacques
+Jaehee
 Jaeheung
 Jaehoon
 Jai Yong
 James A. Worthey
-James A. Worthey 
-James E. 
-James R. Biard 
-James S. 
+James E.
+James R. Biard
+James S.
 Jamgochian
-Jamie 
+Jamie
 Jan W.
 Jana
-Jana 
-Janeway 
+Janeway
 Jang
 Janssen
 Jasmine P. H.
 Javed
-Javed 
 Jayesh
-Jeffrey 
-Jeffrey Bausch 
+Jeffrey
+Jeffrey Bausch
 Jennifer
 Jensen
-Jensen 
 Jeonghun
 Jerry
-Jerry 
-Ji 
-Jiajie 
-Jian-Xin 
-Jianchang 
-Jiang 
-Jiangbin 
+Ji
+Jiajie
+Jian-Xin
+Jianchang
+Jiang
+Jiangbin
 Jiangeng
 Jianpu
 Jianxun
-Jianxun 
-Jian‐Xin 
+Jian‐Xin
 Jiaping
 Jin
-Jin 
-Jingbi 
-Jingren 
+Jingbi
+Jingren
 Jingshu
-Jingzhen 
-Jinliang 
-Jinmin 
-Jiri 
-Joel 
-Joel Brown 
+Jingzhen
+Jinliang
+Jinmin
+Jiri
+Joel
+Joel Brown
 Johannes M.
 John
-John 
 John A.
 John C
-John C 
-John C. 
+John C.
 Jonathan Webb
 Jones
 Jong Hyuk
-Jong Kyu 
+Jong Kyu
 Jong-Suk
 Joo
 Joon-gu
 Jumpei
-Jumpei 
 Jun
-Jun Hyuk 
-Junbiao 
-Jung 
+Jun Hyuk
+Junbiao
+Jung
 Junho
-Junli 
-Junxi 
-Justin 
+Junli
+Junxi
+Justin
 Justin Iveland, Lucio Martinelli, Jacques Peretti, James S. Speck, Claude Weisbuch.
-Justin Iveland, Lucio Martinelli, Jacques Peretti, James S. Speck, Claude Weisbuch. 
-K. D. Mynbaev 
-K. E. Aifantis 
+K. D. Mynbaev
+K. E. Aifantis
 K. Lehovec
-K. Lehovec 
 K. Lehovec, C. A. Accardo, AND E. Jamgochian
 K.Hoshino
-Kai 
+Kai
 Kanda
-Kanda 
 Kang
-Kang 
 Kao
-Kao 
 Kasu
-Kasu 
 Katherine W.
 Kathryn M.
-Kathy A.  
+Kathy A.
 Kebin
-Kebin 
 Kenji
-Kenji 
 Kesavan
-Kesavan 
 Kevin
-Kevin 
 Kevin Jensen
 Kho
-Kho 
 Kilper
-Kilper 
 Kim
-Kim 
-Kimberly 
-Kimberly D. 
+Kimberly
+Kimberly D.
 Kimura
-Kimura 
-Kinouchi 
+Kinouchi
 Kitamura
 Klavetter
-Klavetter 
 Klement
-Kobera 
+Kobera
 Kocifaj
 Koichi
-Koichi 
 Koizumi
-Koizumi 
 Kong
 Kookheon
-Kosasih 
-Kramer 
+Kosasih
+Kramer
 Kroemer
-Kroemer 
-Krost 
-Kubetz 
+Krost
+Kubetz
 Kubota
-Kubota 
 Kwak
 Kwon
 Kyu Hwan
 Kyung-Sang
 Lacis
-Lacis 
 Lavrinovich
-Lavrinovich 
-Lawler 
-Laxmi Kishore 
+Lawler
+Laxmi Kishore
 Le
-Le 
 Le Ma
 Lee
-Lee 
-Lee, Thomas H. 
+Lee, Thomas H.
 Lehovec
 Lei
-Leigh, D. L. 
+Leigh, D. L.
 Lester
-Lester 
 Li
-Li 
 Li Na
 Liang
 Liao
-Liao 
-Libor 
-Lighting Research Center 
+Libor
+Lighting Research Center
 Lim
-Lim 
 Lim SR, Kang D, Ogunseitan OA, Schoenung JM
 Lin
-Lin 
-Linghao 
+Linghao
 Linnolahti
 Liotta
-Lipsanen H. 
+Lipsanen H.
 Liqiang
-Liqiang 
 Liu
-Liu 
 Liwei
-Lojek 
-Long 
-Long-Xue 
-Long‐Xue 
+Lojek
+Long
+Long-Xue
+Long‐Xue
 Losev
-Losev 
 Losev, O. V.
-Losev, O. V. 
-Lossev 
-Lova 
+Lossev
+Lova
 Lu
-Lu 
-Lucio 
+Lucio
 Luginbuhl
-M. S. Fudin 
+M. S. Fudin
 M. S. Fudin, K. D. Mynbaev, K. E. Aifantis, H. Lipsanen, V. E. Bougrov, A. E. Romanov
 M.C. Schlamp, and A.P. Alivisatos
-Ma 
+Ma
 MacKay
-MacKay 
 Mackay
-Macpherson 
-Maher 
+Macpherson
+Maher
 Maier
-Maier 
-Maike Lorena 
+Maike Lorena
 Makar
 Makimoto
-Makimoto 
 Makoto
-Makoto 
-Man 
+Man
 Mandrus
 Manfred
-Manfredi 
+Manfredi
 Marco
 Marcy
-Marcy 
 Margolin J
-Margolin J 
 Mark
-Mark 
-Markley 
+Markley
 Marks
-Marks 
 Marla
-Marla 
-Martin 
-Martinelli 
+Martin
+Martinelli
 Masaaki
-Masaaki 
 Masatake
 Masayuki
 Mashford
 Mason
-Mats 
-Mauk, Michael  
+Mats
+Mauk, Michael
 McMartin
-Md Ashraful 
+Md Ashraful
 Meitl
-Meitl 
 Meredith
 Miao
 Mike
-Mike 
 Mikko
 Miller
-Miller 
-Mills 
-Mills, Evan 
-Minghuan 
-Mingjian 
+Mills
+Mills, Evan
+Minghuan
+Mingjian
 Mini, Banana, and Leigh
 Mircea
 Mirei
 Moe
-Moe 
 Mohammad
 Mojtaba
-Mojtaba 
 Moreno
-Moreno 
 Mori
-Mori 
-Morris 
+Morris
 Morris Nick
 Moshe
 Moungi G.
 Moustakas
-Moustakas 
 Mu-Jeong
-Mu-Jeong 
-Mueller, Gerd 
-Mukai 
+Mueller, Gerd
+Mukai
 Mulvaney
 Muramoto
-Muramoto 
-Murphy 
+Murphy
 Myeongjin
-Myers 
-Mynbaev, K. D. 
+Myers
+Mynbaev, K. D.
 Nadarajah
 Naeser, M.A. et al.
 Nakamura
-Nakamura 
-Nakamura, S.; Mukai, T. and Senoh, M. 
+Nakamura, S.; Mukai, T. and Senoh, M.
 Nakano
-Nakano 
 Nakaya
-Nakaya 
-Nam 
+Nam
 Nana
 Naoharu
-Naoharu 
 Narayanan
-Narayanan 
 Narendran
-Narendran, N.  
+Narendran, N.
 Narendran, N. and Y. Gu
-Narra 
-Narra, Prathyusha  and Zinger, D.S. 
-Narra, Prathyusha and Zinger, D.S. 
+Narra
+Narra, Prathyusha  and Zinger, D.S.
+Narra, Prathyusha and Zinger, D.S.
 Neel V.
-Neel V. 
-Neidhardt 
-Neto 
+Neidhardt
+Neto
 News
 Nguyen
 Nick
-Nick 
 Nimz
-Nimz 
 Niu
 Noriko
-Nosov 
-Novikov 
+Nosov
+Novikov
 Nunoue
-Nunoue 
-Ogunseitan 
+Ogunseitan
 Oh
 Ohno, Y.
-Ohno, Y.,   
-Okon, Thomas M. 
+Ohno, Y.,
+Okon, Thomas M.
 Oldford
-Olisovets 
-Oliveira 
+Olisovets
+Oliveira
 Onomura
-Onomura 
-Oskay 
+Oskay
 Oul
-Overbye 
+Overbye
 Palese
 Pan
-Paola 
-Paolo 
+Paola
+Paolo
 Parisa
 Park
-Park 
 Partha S.
 Patel
-Patel 
-Paternò 
+Paternò
 Paul
 Paul H.
 Pawson
 Pearsall
-Pearsall 
 Peláez
 Peng
-Peng 
-Peretti 
-Perrone 
+Peretti
+Perrone
 Perry
-Perry 
-Peter Capper, Michael Mauk 
-Pighini 
+Peter Capper, Michael Mauk
+Pighini
 Pm
-Polakovic 
+Polakovic
 Poldmae
-Poldmae 
-Poschenrieder 
-Pozina 
-Prathyusha 
-Prathyusha Narra and Zinger, D.S. 
-Price 
-Proppe 
-Ptolemy and A. Mark Smith 
+Poschenrieder
+Pozina
+Prathyusha
+Prathyusha Narra and Zinger, D.S.
+Price
+Proppe
+Ptolemy and A. Mark Smith
 Qian
-Qiao 
-Qin 
+Qiao
+Qin
 Quan
-Raloff, Janet 
+Raloff, Janet
 Ranii
 Raoul E.
-Rashed 
-Raymond L. 
+Rashed
+Raymond L.
 Readinger
-Readinger 
 Rebane
-Rebane 
 Rebecca
-Rebecca 
 Reed
-Reed 
-Ren 
-Rensmo 
+Ren
+Rensmo
 René A. J.
 Riccò
-Richard 
+Richard
 Richard H.
-Richard H. 
 Richter
-Rick 
-Riemann 
+Rick
+Riemann
 Rivett
-Robert Kelley 
+Robert Kelley
 Roby
 Rogers
-Rogers 
 Romanov
-Romanov, A. E. 
-Rong-Jun 
-Rong‐Jun 
-Roshdi 
+Romanov, A. E.
+Rong-Jun
+Rong‐Jun
+Roshdi
 Ross
-Ross Knox 
-Rostky, George 
+Ross Knox
+Rostky, George
 Round, H. J.
-Round, H. J. 
-Rowan 
-Run 
-Ruoxi 
-S. Nakamura, T. Mukai, M. Senoh 
-Sabina 
+Rowan
+Run
+Ruoxi
+S. Nakamura, T. Mukai, M. Senoh
+Sabina
 Sabzalian
-Sagar 
+Sagar
 Said
-Saisai 
-Sakamoto, A. 
-Salisbury 
+Saisai
+Sakamoto, A.
+Salisbury
 Sampath
-Sampath 
-Samuel D. 
+Samuel D.
 Sang Jin
 Sang-Hwan
-Sanwo, M. M. 
-Sarih 
+Sanwo, M. M.
+Sarih
 Sarma
 Sarney
-Sarney 
 Sato
-Sato 
 Satoko
 Saul
 Savov
-Schaeffer 
-Schellenberger 
+Schaeffer
+Schellenberger
 Scherer
-Schlamp 
-Schoenung 
-Schubert 
-Schubert, E. Fred 
-Schubert, E. Fred and Kim, Jong Kyu 
-Schuellerman 
-Senoh 
+Schlamp
+Schoenung
+Schubert
+Schubert, E. Fred
+Schubert, E. Fred and Kim, Jong Kyu
+Schuellerman
+Senoh
 Seonghoon
-Sergey 
-Setlur 
-Seungjin 
-Shauji Nakamura, Gerhard Fasol, Stephen J Pearton 
+Sergey
+Setlur
+Seungjin
+Shauji Nakamura, Gerhard Fasol, Stephen J Pearton
 Shen
-Shen 
-Shi-Jian 
+Shi-Jian
 Shigeya
-Shigeya 
-Shimizu, K 
+Shimizu, K
 Shin-ya
-Shin-ya 
 Shioda
-Shioda 
 Shirasaki
 Shreter
-Shreter 
 Shuji
-Shuji 
-Shuji Nakamura 
-Shuji Nakamura, Gerhard Fasol, Stephen J Pearton 
+Shuji Nakamura
+Shuji Nakamura, Gerhard Fasol, Stephen J Pearton
 Shur
 Sickenberger
-Sickenberger 
-Sista 
-Sitdikov 
-Sjoerd 
-Slater 
+Sista
+Sitdikov
+Sjoerd
+Slater
 Smith
 So Young
-Soci 
+Soci
 Society of Photo-optical Instrumentation Engineers
-Soldatkin 
+Soldatkin
 Soleyman
 Song
 Soon-Jae
-Spacek 
-Speck 
-Srinivas 
-Stasio 
+Spacek
+Speck
+Srinivas
+Stasio
 Steiger
-Stephen 
-Stephen J Pearton 
-Stern 
-Steve 
+Stephen
+Stephen J Pearton
+Stern
+Steve
 Steven P
-Stokstad 
+Stokstad
 Stouwdam
-Stranks 
-Strassburg 
+Stranks
+Strassburg
 Strauch III
-Strauch III 
-Stuart 
+Stuart
 Sturm
-Sturm 
-Su 
+Su
 Sugiyama
-Sugiyama 
 Sun
-Sun 
 Sun Young
 Supran
 Svilen
 T.P. Pearsall, B.I. Miller, R.J. Capik, and K.J. Bachmann
 Tachibana
-Tachibana 
 Tae-Ho
 Taehee
 Taehyung
-Taguchi 
+Taguchi
 Taisuke
-Taisuke 
 Tajima
-Tajima 
-Tajuddin 
+Tajuddin
 Takahashi
-Takahashi 
 Takashi
-Takashi 
-Tanabe, S. 
+Tanabe, S.
 Tanabe, S. and Fujita, S. and Yoshihara, S. and Sakamoto, A. and Yamamoto, S.
-Tang 
+Tang
 Taniguchi
-Taniguchi 
 Taniyasu
-Taniyasu 
 Tarkhin
-Tarkhin 
 Taseen
 Tennessen, D.J. and Singsaas, E.L. and Sharkey, T.D.
-Tennessen, D.J. and Singsaas, E.L. and Sharkey, T.D. 
 Tephly
 Tetsuo Tsutsui
 Theodore D.
-Theodore D. 
 Thomas
-Thomas 
-Thomas . Okon 
-Thomas H. Lee, 
-Thomas M. Okon 
-Thomas Nimz, 
+Thomas . Okon
+Thomas H. Lee,
+Thomas M. Okon
+Thomas Nimz,
 Thomas Nimz, Fredrik Hailer and Kevin Jensen
 Thomidis
-Thomidis 
 Tian
-Tian 
-Tiarnan 
+Tiarnan
 Tich-Lam
 Tim Whitaker
-Tim's Blog 
+Tim's Blog
 Ting
-Ting 
-Tingwei 
+Tingwei
 Tomonari
-Tomonari 
-Tong 
-Tongbo 
-Tongtong 
+Tong
+Tongbo
+Tongtong
 Toshiki
-Toshiki 
 Toshitaka
 Treacy
-Treacy 
 Tsuda
-Tsuda 
-Tsunemasa 
+Tsunemasa
 Tudor H.
-Tuev 
+Tuev
 Tullia
-United States 
-Ute B. 
-V. E. Bougrov 
+United States
+Ute B.
+V. E. Bougrov
 V.L. Colvin
-Valberg, A. 
+Valberg, A.
 Valerie
-Valerie 
-Van Zeghbroeck 
-Vanden Bout 
-Vasily 
-Venere 
+Van Zeghbroeck
+Vanden Bout
+Vasily
+Venere
 Veprek
 Villegas
 Vlad
 Vladimir
 Wakikawa
-Wakikawa 
 Wan Ki
 Wang
-Wang 
 Ward
 Watanabe
-Watanabe 
 Wei
-Wei 
 Weijie
-Weisbuch 
-Wenhao 
-Wenjing 
+Weisbuch
+Wenhao
+Wenjing
 Wenqiang
-Wenqiang 
 Whitaker, Tim
-Whitaker, Tim 
 Wiesmann
 Wilburn
-Wilhelm 
+Wilhelm
 Williamson
-Williamson 
 Wilson
-Windell 
+Windell
 Witzigmann
-Wold, J. H. 
-Wold, J. H.  
-Wold, J. H. and Valberg, A. 
+Wold, J. H.
+Wold, J. H. and Valberg, A.
 Wolinsky, Howard
-Wolinsky, Howard 
 Won
 Won-Jae
 Woo
-Woon Jin 
-Worthey, James A. 
+Woon Jin
+Worthey, James A.
 Wraback
-Wraback 
 Wu
-Wu 
-Xia 
-Xiangtian 
-Xianjie 
-Xiao 
-Xiao-Ke 
+Xia
+Xiangtian
+Xianjie
+Xiao
+Xiao-Ke
 Xiaogang
-Xiaoyan 
+Xiaoyan
 Xiaoyang Li
 Xiaoyong
 Xie
-Xie 
 Xing
 Xingliang
-Xingwang 
-Xinru 
-Xinyi 
+Xingwang
+Xinru
+Xinyi
 Xiong
-Xiong 
 Xiwen
 Xu
-Xuan 
+Xuan
 Xue
-Xue 
-Xuejun 
+Xuejun
 Y. Gu
-Ya-kun 
+Ya-kun
 Yamamoto, S.
 Yan
-Yan 
-Yan-Qing 
+Yan-Qing
 Yanfeng
 Yang
-Yang 
-Yanmin 
-Yan‐Qing 
+Yanmin
+Yan‐Qing
 Yao
-Yao 
 Yarong
 Yasuhiro
 Yeh
-Yerazunis, W. S. 
-Yi 
-Yin 
+Yerazunis, W. S.
+Yi
+Yin
 Ying
-Ying-Yi 
-Yingguo 
+Ying-Yi
+Yingguo
 Yingqiang
-Ying‐Yi 
-Yip 
+Ying‐Yi
+Yip
 Yitao
-Yitao 
-Yitong 
+Yitong
 Yizheng
-Yizheng 
-Yong 
+Yong
 Yoon
-Yoon 
-Yoon Hee 
+Yoon Hee
 Yoon-Chang
-Yorio, N. C. 
+Yorio, N. C.
 Yoshida
-Yoshida 
-Yoshihara, S. 
+Yoshihara, S.
 Yoshitaka
-Yoshitaka 
-You 
+You
 Young-Woo
 Yu
-Yu 
 Yu-Ho
-Yu. G. 
-Yu. R. 
+Yu. G.
+Yu. R.
 Yu. T.
 Yuan
-Yuan 
-Yuanzhi 
+Yuanzhi
 Yue Wang
 Yutaka
-Zagrebnov 
-Zahra 
+Zagrebnov
+Zahra
 Zang
-Zema 
+Zema
 Zhang
-Zhang 
-Zhangjun 
-Zhanhua 
+Zhangjun
+Zhanhua
 Zhao
-Zhao 
 Zheludev N
 Zheludev, N.
-Zheludev, N. 
-Zhen 
-Zhenchao 
+Zhen
+Zhenchao
 Zheng
-Zheng 
 Zhenxing
-Zhigang 
-Zhiqiang 
-Zhou 
-Zhu 
-Ziming 
-Zinger 
+Zhigang
+Zhiqiang
+Zhou
+Zhu
+Ziming
+Zinger
 Zou
-Zou 
 Zukauskas
-Zukauskas 
 Zvy
 de Arquer
-pureVLC 
+pureVLC
 {Burroughes, JH and Bradley, DDC and Brown, AR and Marks, RN and Mackay, K. and Friend, RH and Burns, PL and Holmes, AB

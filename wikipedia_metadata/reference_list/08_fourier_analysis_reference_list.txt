@@ -1,97 +1,83 @@
 Anthony W.
 Audrey
 Audrey Terras
-Bernard 
-Bowley 
+Bernard
+Bowley
 Bowley, Roger
-Bowley, Roger 
 Brack
 Brack-Bernsen
-Brack-Bernsen 
-Brian 
+Brian
 Briggs
-Burrus 
-Cafer Ibanoglu 
+Burrus
+Cafer Ibanoglu
 Carl
-Carl 
-Conte 
-D. Scott Birney 
-David Oesper 
-Dimitri G. 
+Conte
+D. Scott Birney
+David Oesper
+Dimitri G.
 Donald E.
-Donald E. 
 Elena
 Evans
-Evans 
 Fabrizio
-Forrest 
+Forrest
 Gian-Carlo
 Gian-Carlo Rota
-Gold 
-Guillermo Gonzalez 
-Heck 
-Heideman 
+Gold
+Guillermo Gonzalez
+Heck
+Heideman
 Henson
-Howell 
-John G. 
-Johnson 
-Kamen 
+Howell
+John G.
+Johnson
+Kamen
 Kaushik Saha
-Kenneth B. 
+Kenneth B.
 Kline
 Knapp
 Knuth
-Knuth 
 Lawrence
-Lawrence R. 
+Lawrence R.
 Lis
-Manolakis 
-Manzhirov 
+Manolakis
+Manzhirov
 Matthias
 Meinard
-Meinard 
 Moriarty
 Morris
 Müller
-Narasimhan 
+Narasimhan
 Neugebauer
-Neugebauer 
-Ong U. 
+Ong U.
 Otto
-Otto 
-Otto E. Neugebauer 
+Otto E. Neugebauer
 Palombi
 Philip
-Polyanin 
+Polyanin
 Prasolov
-Press 
+Press
 Prestini
-Proakis 
+Proakis
 Pushpendra Singh
 Pushpendra et al.
-Pushpendra et al. 
-Rabiner 
+Rabiner
 Rakesh Kumar Patney
-Richard 
-Roger 
+Richard
+Roger
 Rota
-Routh 
+Routh
 Rudin
-Rudin 
-Saferstein 
+Saferstein
 Singh
-Singh 
-Smith 
+Smith
 Solovyev
-Stein 
+Stein
 Steven W.
-Steven W. 
 Terras
 Van Emden
 Viktor
 Walter
-Walter 
-Weiss 
+Weiss
 William L.
 Yuri
-de Boor 
+de Boor

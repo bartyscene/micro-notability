@@ -1,161 +1,141 @@
-Abraham 
+Abraham
 Agol
-Aidan 
+Aidan
 Akiyama
-Akiyama 
-Alexander 
+Alexander
 Andrew
-Andrew 
-Avery 
-Balick 
+Avery
+Balick
 Baloković
-Bardeen 
-Bartelmann 
+Bardeen
+Bartelmann
 Benjamin C.
 Blackburn
-Blackburn 
-Blandford 
-Bo 
+Blandford
+Bo
 Bouman
 Bouman, Katherine L
-Broderick 
+Broderick
 Bromley
-Brown 
-Bruce 
+Brown
+Bruce
 Catherine
 Chael
-Chael 
 Chan
-Chan 
 Chi-kwan
-Chi-kwan 
 Chun
 Corum
-Corum 
 Davide Castelvecchi
 Davies
-Della Valle 
+Della Valle
 Denise C.
 Dennis
-Dennis 
-Dennis Overbye 
+Dennis Overbye
 Dennis Overbye, Jonathan
-Dimitrios 
-Doeleman 
-Dominic W. 
-Donna 
+Dimitrios
+Doeleman
+Dominic W.
+Donna
 Drakeford
-Drakeford 
 Eduardo
-Elizabeth 
+Elizabeth
 Eric
-Fabrizio 
+Fabrizio
 Falcke
-Feryal 
+Feryal
 Frederick B.
 Fulvio
 Gabuzda
-Gardiner 
-Ghosh 
-Gough, Evan 
-Gómez 
+Gardiner
+Ghosh
+Gough, Evan
+Gómez
 Hardee
 Heino
 Högbom
-Ian 
-Issaoun 
-Iván 
-Jae-Young 
+Ian
+Issaoun
+Iván
+Jae-Young
 Jake Parks
-James 
+James
 Jan A.
 Janssen
-Janssen 
 Jason
-Jason 
-Jean-Pierre 
-Johnson, Michael D. 
-Jonathan 
-Jorstad 
-José L. 
-Jun 
+Jean-Pierre
+Johnson, Michael D.
+Jonathan
+Jorstad
+José L.
+Jun
 Junor
 Kadler
 Katherine L.
 Kazunori
-Kazunori 
-Kim  
-Krichbaum 
-Landau 
-Lauer 
-Lia 
-Lico 
+Kim
+Krichbaum
+Landau
+Lauer
+Lia
+Lico
 Lindy
-Lindy 
 Lisa Grossman, Emily Conover
 Liu
-Liu 
-Loeb 
-Lu 
-Lucas 
-Luminet 
+Loeb
+Lu
+Lucas
+Luminet
 Ly
 Maciek
-Maciek 
-Martí-Vidal 
-Massimo 
+Martí-Vidal
+Massimo
 Matthias
-Matthias 
-Mearian 
-Medeiros 
+Mearian
+Medeiros
 Melia
 Michael
-Michael 
 Mislav
-Monika 
-Mościbrodzka 
-Narayan 
-Nityananda 
-O'Neill 
+Monika
+Mościbrodzka
+Narayan
+Nityananda
+O'Neill
 Overbye
-Overbye 
-Pallab 
-Pesce 
-Peter 
+Pallab
+Pesce
+Peter
 Philip E.
-Psaltis 
+Psaltis
 R. Craig
-Rajaram 
-Ramesh 
-Raymond 
-Raymond et al. 
-Robert Lea 
-Rocco 
+Rajaram
+Ramesh
+Raymond
+Raymond et al.
+Robert Lea
+Rocco
 Ros
-Sara 
-Schneider 
-Seitz 
-Shep Doeleman, on behalf of the EHT Collaboration 
-Sheperd 
+Sara
+Schneider
+Seitz
+Shep Doeleman, on behalf of the EHT Collaboration
+Sheperd
 Shu
 Siming
-Stella 
+Stella
 Susanna Kohler
-Svetlana 
-Tamburini 
+Svetlana
+Tamburini
 The Event Horizon Telescope Collaboration
-The Event Horizon Telescope Collaboration 
-Thidé 
-Thomas P. 
-Tod R. 
+Thidé
+Thomas P.
+Tod R.
 Tracy
 Walker
-Webb 
+Webb
 Wielgus
-Wielgus 
 William
-Znajek 
+Znajek
 [[Event Horizon Telescope
 and Johnson, Michael D. and Zoran, Daniel and Fish, Vincent L. and Doeleman, Sheperd S. and Freeman, William T.
-dennis Overbye 
-Özel 
+dennis Overbye
+Özel

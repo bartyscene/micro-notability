@@ -1,204 +1,165 @@
-'''Brown-Smith'''  
-'''Smith'''  
-'''Steven Michael'''  
+
+'''Brown-Smith'''
+'''Smith'''
+'''Steven Michael'''
 , iPhone-news.eu
-:de:Rainer Mallebrein 
-Ahn 
+:de:Rainer Mallebrein
+Ahn
 Allvin
 Allvin, Rhian Evans
 Andi
-Andreas 
-Andrei 
+Andreas
+Andrei
 Andrew
-Andrew 
 Badal
-Badal 
-Baker 
+Baker
 Beck
 Ben
-Ben 
 Bent
-Bent 
 Bent STUMPE
 Bent Stumpe
 Beyers
 Beyers, Tim
-Beyers, Tim 
-Binstead 
-Bo-Sul 
+Binstead
+Bo-Sul
 Boll
 Brasel
-Byeong-Kwon 
+Byeong-Kwon
 Bérard
-Bérard 
 Carbonell
-Carrier 
+Carrier
 Catherine
-Chan-Hwa 
+Chan-Hwa
 Cheong
-Cheong 
-Chi-Sun 
-Cho 
+Chi-Sun
+Cho
 Christine
-David 
+David
 David Pogue
-Du 
+Du
 Dustin
-Ebner 
-Emerson 
+Ebner
+Emerson
 Enrico
 Frank
-Frank 
 Frank BECH & Bent STUMPE
 Frank BECK & Bent STUMPE
 François
-François 
-Ganapati 
+Ganapati
 Geoff
-Geoff 
 Gips
-Günter 
+Günter
 Han
 Hartson
-Hartson 
 Henze
 Hix
-Hix 
-Ho-Sik 
-Holly 
+Ho-Sik
+Holly
 Holzinger
-Holzinger 
 Hong
-Hong 
 Hoober
-Hoober 
 Hopkins
 Hopkins, V.D.
-Hopkins, V.D. 
-Hueter 
-Hwang 
+Hueter
+Hwang
 Information
 Issa
-Jackie 
+Jackie
 Jaclyne
-Jaclyne 
-Jae-Eun 
-Jae-Heon 
+Jae-Eun
+Jae-Heon
 James
-Jason and a school 
+Jason and a school
 Jeff
 Jeffrey
-Jeffrey 
-Jeon 
-Joel 
+Jeon
+Joel
 Johnson
-Jong-Uk 
+Jong-Uk
 Josh
 Ju
-Ju 
-Julia 
+Julia
 Kable
-Kang 
-Kent 
+Kang
+Kent
 Keuling, Christopher
 Kim
-Kim 
-Kyung-Hyun 
+Kyung-Hyun
 Lee
-Lee 
 Leon D
-Lewis 
-Li 
-Lowe 
-Mallebrein 
+Lewis
+Li
+Lowe
+Mallebrein
 Mark
-Mark 
-Mark  
 Mary Bellisn
-Mary Bellisn 
 Meyer
-Meyer 
-Michael 
+Michael
 Minsky
-Minsky,M.R. 
-Mitchell 
-My animal book 
-Myunghee 
-Nae-Man 
+Minsky,M.R.
+Mitchell
+My animal book
+Myunghee
+Nae-Man
 Niels
 Orr
 Parhi
-Parhi 
 Park
-Park 
 Patschon
 Patti
 Pekka
-Pekka 
-Pi 
+Pi
 Plaisant
-Plaisant 
-Pogue, David 
-Pop 
+Pogue, David
+Pop
 Potter
-Potter 
-Priya 
-Rainer 
+Priya
+Rainer
 Reed Business
 Rhian Evans
-Robert 
+Robert
 Robert E
 Robert G.
-Ronald Peter 
-Rosie 
-Rouse 
+Ronald Peter
+Rosie
+Rouse
 Rukzio
 S. Adam
 Sears
-Sears 
 Seetoo
-Seo 
-Seong-Deok 
-Seung-Youl 
+Seo
+Seong-Deok
+Seung-Youl
 Seungyons
 Shank
 Shin
-Shin 
 Shneiderman
-Shneiderman 
 Shumin
-Simon 
-Sonya 
-Steinbach 
+Simon
+Sonya
+Steinbach
 Stephanidis
 Steven
-Steven 
 Stumpe
-Stumpe 
-Stumpe, Bent 
-Sung Haeung 
+Stumpe, Bent
+Sung Haeung
 Susanne
-Susanne 
-Sutton 
-Swart 
+Sutton
+Swart
 Tim
 Touch Displays: A Programmed Man-Machine Interface
 Travis Fahs
 Tyrangiel
-Very crazy chromebook 
+Very crazy chromebook
 Vlad Savov
 Walker
-Walker 
 Weldon
-Weldon 
-William 
+William
 William E
-Wonkuk 
-Woo-Seok 
+Wonkuk
+Woo-Seok
 Ying
-Ying 
 Zhai
 Zhu
-Zhu 
 [[Bent STUMPE]]
 [[Bent Stumpe]]

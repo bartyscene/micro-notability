@@ -1,196 +1,163 @@
-A. Zygmund 
-Akhiezer 
+A. Zygmund
+Akhiezer
 Alan S. Willsky
-Alan V. 
+Alan V.
 Alan V. Oppenheim
-Alexander L. 
-Allan 
-Amit 
-Antoni 
-Antoni Zygmund 
-Anubha 
+Alexander L.
+Allan
+Amit
+Antoni
+Antoni Zygmund
+Anubha
 Bernhard
-Binish 
-Boyce 
-Butola 
+Binish
+Boyce
+Butola
 Cajori
-Cajori 
 Carvalho
-Carvalho 
-Cheever 
-Claire 
+Cheever
+Claire
 Claire Marton
 David M.
-David M. 
-DiPrima 
-Dimitri G. 
+DiPrima
+Dimitri G.
 Dimitris G.
 Dorf
 E. W. Hobson
-Edwards 
-Enrique A. 
-Enrique A. Gonzalez-Velasco 
-Eric 
-Eric W. 
-Erik 
-Ernest 
-Fasshauer 
-Fatimah 
+Edwards
+Enrique A.
+Enrique A. Gonzalez-Velasco
+Eric
+Eric W.
+Erik
+Ernest
+Fasshauer
+Fatimah
 Felix Klein
 Fetter
 Florian
-Florian 
 Florian Cajori
-Florian Cajori 
-Flugge 
-Folland 
+Flugge
+Folland
 Fourier
-Félix 
+Félix
 G.H. Hardy
-Georges A. 
+Georges A.
 Georgi P.
-Georgi P. 
-Georgi P. Tolstov 
-Gerald B. 
-Gilbert 
+Georgi P. Tolstov
+Gerald B.
+Gilbert
 Gilbert Strang
-Gonzalez-Velasco 
-Gourdon 
+Gonzalez-Velasco
+Gourdon
 Grattan-Guinness
-Greg 
+Greg
 Grether
-Grether 
-Gupta 
+Gupta
 Haberman
-Hans 
+Hans
 Hans Kuzmany
-Hardy 
-Hesham 
-Hobson 
+Hardy
+Hesham
+Hobson
 Ivor
-Ivor 
 Jean-Baptiste-Joseph
-Jean-Baptiste-Joseph Fourier 
+Jean-Baptiste-Joseph Fourier
 Jibu
-Jibu 
 John
-John 
-John Dirk 
-John G. 
+John Dirk
+John G.
 John Stillwell
 Jose L.
-Jose L. 
-Joseph 
-Joseph Fourier 
-Joseph Fourier, translated by Alexander Freeman 
-Joshi 
-Karl H. 
-Karl H. Pribram 
+Joseph
+Joseph Fourier
+Joseph Fourier, translated by Alexander Freeman
+Joshi
+Karl H.
+Karl H. Pribram
 Karl H. Pribram, Kunio Yasue, and Mari Jibu
 Kassam
 Katznelson
-Katznelson 
 Kazimierczuk
-Kedar 
-Khare 
-Klein 
-Kunio 
-Kunio Yasue 
+Kedar
+Khare
+Klein
+Kunio
+Kunio Yasue
 Kuzmany
-Kuzmany 
-L. Marton 
+L. Marton
 L. Marton and Claire Marton
-Laurent 
-Laurent Schwartz 
+Laurent
+Laurent Schwartz
 Lejeune-Dirichlet
-Lejeune-Dirichlet 
-Lion 
+Lion
 Lothar
-Lothar 
 Manolakis
-Manolakis 
-Mansi 
+Mansi
 Marc
-Marc 
-Mari 
+Mari
 Mari Jibu
 Marian K.
 Marks II
 Marton
-Marton 
 Mascre
 Naum Akhiezer
 Nerlove
-Nerlove 
-Oppenheim 
+Oppenheim
 Papula
-Papula 
 Papula, Lothar
 Peter Gustav
-Peter Gustav 
 Peter Gustav Lejeune Dirichlet
-Peter Gustav Lejeune Dirichlet 
 Pinkus
-Pinkus 
-Pribram 
+Pribram
 Proakis
-Proakis 
-Pushpendra 
-Rajora 
+Pushpendra
+Rajora
 Reinhold
-Reinhold 
 Remmert
-Richard 
+Richard
 Richard C.
-Richard C. 
-Richard C. DiPrima 
+Richard C. DiPrima
 Riemann
 Robert J.
-Rogosinski 
-Ronald J. 
-Ronald W. 
-Rudin 
+Rogosinski
+Ronald J.
+Ronald W.
+Rudin
 Saleem A.
-Samy 
-Samy  
-Schafer 
-Schwartz 
-Sepesi 
-Sharkas 
-Shiv Dutt 
+Samy
+Schafer
+Schwartz
+Sepesi
+Sharkas
+Shiv Dutt
 Shmaliy, Y.S.
 Siebert
-Siebert 
-Singh 
-Singhal 
-Stade 
+Singh
+Singhal
+Stade
 Stillwell
-Strang      
-Sunaina 
+Strang
+Sunaina
 Syed Hamish Nawab
 Tallarida
-Tallarida 
 Ten
 Tolstov
-Tolstov 
 Walecka
-Walter 
-Walter Rudin 
-Werner 
+Walter
+Walter Rudin
+Werner
 Werner_Wolfgang_Rogosinski
-Wilhelm 
+Wilhelm
 William E.
-William E. Boyce 
-William E. Boyce and Richard C. DiPrima 
+William E. Boyce
+William E. Boyce and Richard C. DiPrima
 William McC.
-William McC. 
 William McC. Siebert
-Wolfram 
+Wolfram
 Xavier
-Yasue 
+Yasue
 Yitzhak
-Yitzhak 
 Yitzhak Katznelson
-Zafrany 
+Zafrany
 Zygmund
-Zygmund 

@@ -1,241 +1,230 @@
-Abramson 
-Adrian 
-Agata 
+Abramson
+Adrian
+Agata
 Alex
-Alghowinem 
-Alicia V. 
+Alghowinem
+Alicia V.
 Alistair A.
 Alnajjar
 Ana
-Ana 
-Andreia 
+Andreia
 Andrew D.
 André
 Anna
-Anna 
-Anzalone 
-Archambault 
-Arias 
+Anzalone
+Archambault
+Arias
 Arnautovska
-Arvid 
+Arvid
 Autumn
-Axelsson 
-Aymerich-Franch 
-Azizi 
-Banks 
-Baraka 
-Boccanfuso 
-Brad A. 
+Axelsson
+Aymerich-Franch
+Azizi
+Banks
+Baraka
+Boccanfuso
+Brad A.
 Brady
 Bramble
-Breazeal 
-Brian R. 
-Byrne 
+Breazeal
+Brian R.
+Byrne
 Carlos
-Carros 
+Carros
 Castellano
-Celine 
+Celine
 Chad
-Chandra 
+Chandra
 Chaolan
-Charpiot 
-Chauveau 
+Charpiot
+Chauveau
 Christina
 Cindy
 Cindy J
 Clara J
-Cohen 
-Costa 
-Couto 
+Cohen
+Costa
+Couto
 Cross
-Cross 
-Cynthia 
-Cynthia L. 
-Daryl 
+Cynthia
+Cynthia L.
+Daryl
 Dautenhahn
-Dautenhahn 
-Dave 
+Dave
 David
-David 
-Diana 
+Diana
 Diana K.
 Dombrowski
-Dominique 
-Duffy 
+Dominique
+Duffy
 Edwards
 Emily S.
-Emily S. 
 Erin
 Fady
-Fane 
+Fane
 Felippe
-Felix 
-Fitzpatrick 
-Fong 
-Francesco 
+Felix
+Fitzpatrick
+Fong
+Francesco
 Francisco S.
-Gaussier 
-Gauthier 
-George 
-Georges 
-Geraldine 
+Gaussier
+Gauthier
+George
+Georges
+Geraldine
 Ginevra
 Gladden
 Goldie
-Gray 
-Gunes 
+Gray
+Gunes
 Guy
-Guy 
-Hae Won 
-Haggadone 
-Hall 
-Harry H. 
-Hassenzahl 
-Hatice 
+Hae Won
+Haggadone
+Hall
+Harry H.
+Hassenzahl
+Hatice
 Heerink
 Henschel
-Henschel 
-Illah R. 
-Inga 
+Illah R.
+Inga
 Iolanda
-Isabel 
-Jaime 
-Janina 
-Jason M. 
-Jean-Noël 
-Jennifer 
+Isabel
+Jaime
+Janina
+Jason M.
+Jean-Noël
+Jennifer
 Jenny E
-Jeong 
-Jianling 
-Johanna 
+Jeong
+Jianling
+Johanna
 Jones
 Julie M.
 Kabacińska
-Kappas 
+Kappas
 Karl F.
 Katarzyna
 Kawashima
-Kerstin 
-Kerstin Dautenhahn 
-Kevin 
+Kerstin
+Kerstin Dautenhahn
+Kevin
 Khalid
-Kika 
-Kim 
-Koban 
-Koch 
-Korn 
-Kyrki 
+Kika
+Kim
+Koban
+Koch
+Korn
+Kyrki
 Körtner
 Laban
-Laban 
-Lapedriza 
-Laura 
+Lapedriza
+Laura
 Leite
 Leon
 Lin
 Loek
-Loh 
-Louise 
+Loh
+Louise
 Lynn
-Löffler 
+Löffler
 MacDorman
-Manuela 
-Marc 
+Manuela
+Marc
 Marcel
 Marguerite
-Marta 
+Marta
 Martinho
 Matthew
-Matthies 
-Mattia 
+Matthies
+Mattia
 McOwan
-Melissa 
-Melo 
-Meurer 
-Micol 
+Melissa
+Melo
+Meurer
+Micol
 Mihailidis
-Mike 
+Mike
 Miller
-Minja 
+Minja
 Moerman
-Mondada 
+Mondada
 Moro
-Morrison 
+Morrison
 Moyle
 Murfield
-Nations 
-Negin 
+Nations
+Negin
 Nejat
-Nicoud 
+Nicoud
 Nouchi
-Nourbakhsh 
-Oliver 
+Nourbakhsh
+Oliver
 Ownsworth
-O’Kane 
+O’Kane
 Paiva
-Paiva 
-Park 
+Park
 Patric R.
-Patrick 
+Patrick
 Pereira
 Peter W.
-Philippe 
-Picard 
+Philippe
+Picard
 Prescott
-Preussner 
+Preussner
 Przybylowski
-Racca 
-Rainer 
-Randall 
-Ray 
+Racca
+Rainer
+Randall
+Ray
 Robillard
-Roland 
-Rosalind 
+Roland
+Rosalind
 Rui
-Ruth K. 
+Ruth K.
 Ryuta
-Sager 
-Salvatore 
-Sarah 
+Sager
+Salvatore
+Sarah
 Sarko
 Sartorato
-Scarborough 
-Schwaninger 
-Schweich 
+Scarborough
+Schwaninger
+Schweich
 Selma
-Sharifa 
+Sharifa
 Shayne
 Shimoda
 Shingo
-Shruti 
-Siegwart 
-Soizic 
-Sooyeon 
+Shruti
+Siegwart
+Soizic
+Sooyeon
 Spence
-Spitale 
-Steffgen 
+Spitale
+Steffgen
 Sumayya
 Tamara
-Terrence 
-Tonie 
+Terrence
+Tonie
 Tony J.
-Unbehaun 
-United 
+Unbehaun
+United
 Urska
-Val 
-Veloso 
-Ville 
+Val
+Veloso
+Ville
 Vogan
-Volker 
-W. Grey 
-Walter 
-Weir 
+Volker
+W. Grey
+Walter
+Weir
 Wendy
 Westerman
-Wieching 
-Wright 
+Wieching
+Wright
 Wulf
-Wulf 
-Zou 
+Zou
 van der Heide
 Šabanović

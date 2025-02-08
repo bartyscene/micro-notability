@@ -28,6 +28,8 @@ FILTER_PATTERN = re.compile(
     r".*&[a-z]+;.*"             # Matches strings with any characters, then `&`, followed by lowercase letters, then `;`, and then any characters
 )
 
+PARENTHESES_PATTERN = re.compile(r'\s*\(.*?\)')
+
 def extract_raw_names_from_citations(wikitext):
     if wikitext is None:
         return set()
@@ -37,8 +39,10 @@ def extract_raw_names_from_citations(wikitext):
 
     for match in matches:
         for name_field in match:
-            if name_field and not FILTER_PATTERN.match(name_field):
-                name_parts.add(name_field)
+            if name_field:
+                name_field = PARENTHESES_PATTERN.sub('', name_field).strip()
+                if not FILTER_PATTERN.match(name_field):
+                    name_parts.add(name_field)
     
     return name_parts
 
@@ -51,8 +55,10 @@ def extract_names_from_citations(wikitext):
 
     for match in matches:
         for name_field in match:
-            if name_field and not FILTER_PATTERN.match(name_field):
-                name_parts.update(NAME_PATTERN.findall(name_field))
+            if name_field:
+                name_field = PARENTHESES_PATTERN.sub('', name_field).strip()
+                if not FILTER_PATTERN.match(name_field):
+                    name_parts.update(NAME_PATTERN.findall(name_field))
                 
     return name_parts
 

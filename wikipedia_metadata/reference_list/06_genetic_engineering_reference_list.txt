@@ -1,1006 +1,870 @@
+
 '''Bold text'''
 =Roque
-=Roque 
-AND Arthur D. Riggs 
+AND Arthur D. Riggs
 Aaron
-Aaron 
-Abhishek Narain 
-Adam 
-Adam Kraszewski 
+Abhishek Narain
+Adam
+Adam Kraszewski
 Adams
-Adams JM, Piovesan G, Strauss S, Brown S 
+Adams JM, Piovesan G, Strauss S, Brown S
 Adams et. al.
 Agency
 Agrawal
 Aimee
 Ajay Dash
-Alain 
+Alain
 Alan
-Alan 
 Alberto
 Alberts
-Alberts 
 Alberts B, Johnson A, Lewis J, et al.
-Alberts B, Johnson A, Lewis J, etal 
+Alberts B, Johnson A, Lewis J, etal
 Alessandro
 Alexander
-Alexander 
-Alexander DR 
+Alexander DR
 Alexander G.
 Alexander I.
 Alexander Y.
 Alexandra
-Algire 
-Ali R 
-Alice W 
+Algire
+Ali R
+Alice W
 Alison
-Alison 
-Alix 
+Alix
 American Radio Works
 Amy
-Anderson, Brett 
+Anderson, Brett
 Andrew
-Andrew 
 Andrew J.
-Andrews-Pfannkoch 
-Andrianantoandro 
-Andrianantoandro E, Basu S, Karig DK, Weiss R 
+Andrews-Pfannkoch
+Andrianantoandro
+Andrianantoandro E, Basu S, Karig DK, Weiss R
 Angulo
-Angulo E, Cooke B 
-Annie C. Y. 
-Annie C.Y. 
-Anomaly 
+Angulo E, Cooke B
+Annie C. Y.
+Annie C.Y.
+Anomaly
 Antonio
-Antonio 
-Aparna 
+Aparna
 Aparna Islam
 Areal
-Areal FJ, Riesgo L, Rodríguez-Cerezo E 
+Areal FJ, Riesgo L, Rodríguez-Cerezo E
 Arnold
-Arthur D. 
-Ashikari 
-Assad-Garcia 
-Atom 
+Arthur D.
+Ashikari
+Assad-Garcia
+Atom
 Avise
-Avraham A 
+Avraham A
 Bai
 Bak
-Baltimore 
-Barbara 
+Baltimore
+Barbara
 Barbara Hohn, Avraham A Levy and Holger Puchta
 Barbara Hohn, Avraham A. Levy and Holger Puchta
-Barry K. 
+Barry K.
 Bartido
 Bashshur
-Basu 
-Begley 
-Behrooz 
+Basu
+Begley
+Behrooz
 Behrooz Darbani, Safar Farajnia, Mahmoud Toorchi, Saeed Zakerbostanabad, Shahin Noeparvar and C. Neal Stewart Jr.
-Benders 
+Benders
 Berg
-Berg 
-Berg P 
-Berg P ''et al.'' 
-Berg P et al. 
-Berg P, Baltimore D, Boyer HW, Cohen SN, Davis RW, Hogness DS, Nathans D, Roblin R, Watson JD, Weissman S, Zinder ND 
-Berg P, Baltimore D, Brenner S, Roblin RO, Singer MF 
-Berg P, Mertz JE 
+Berg P
+Berg P ''et al.''
+Berg P et al.
+Berg P, Baltimore D, Boyer HW, Cohen SN, Davis RW, Hogness DS, Nathans D, Roblin R, Watson JD, Weissman S, Zinder ND
+Berg P, Baltimore D, Brenner S, Roblin RO, Singer MF
+Berg P, Mertz JE
 Berg, P., Baltimore, D., Brenner, S., Roblin, R. O., and Singer, M. F.
 Berg, P., Baltimore, D., Brenner, S., Roblin, R.O., and Singer, M. F.
 Bergeson
 Bernal
 Bernard
-Bernard 
 Bernstein
-Bernstein 
 Board on Agriculture Natural Resources
-Bolivar 
-Bomgardner MM 
-Bomgardner Melody M 
+Bolivar
+Bomgardner MM
+Bomgardner Melody M
 Bordonaba
 Borquez-Ojeda
-Botchan 
-Bratspies 
-Brenner 
+Botchan
+Bratspies
+Brenner
 Brentjens
-Brentjens RJ, Davila ML, Riviere I, Park J, Wang X, Cowell LG, Bartido S, Stefanski J, Taylor C, Olszewska M, Borquez-Ojeda O, Qu J, Wasielewska T, He Q, Bernal Y, Rijo IV, Hedvat C, Kobos R, Curran K, Steinherz P, Jurcic J, Rosenblat T, Maslak P, Frattini M, Sadelain M 
+Brentjens RJ, Davila ML, Riviere I, Park J, Wang X, Cowell LG, Bartido S, Stefanski J, Taylor C, Olszewska M, Borquez-Ojeda O, Qu J, Wasielewska T, He Q, Bernal Y, Rijo IV, Hedvat C, Kobos R, Curran K, Steinherz P, Jurcic J, Rosenblat T, Maslak P, Frattini M, Sadelain M
 Brian M.
-British Medical Association 
+British Medical Association
 Brown
-Brown C 
+Brown C
 Bruce
-Bruce 
-Bruening 
-Bruening G, Lyons JM 
-Brugliera 
-C. Neal 
+Bruening
+Bruening G, Lyons JM
+Brugliera
+C. Neal
 C. Neal Stewart, J
 Cain
-Caise, Heather 
-Calvey 
+Caise, Heather
+Calvey
 Canquan
-Capecchi 
-Capecchi MR 
+Capecchi
+Capecchi MR
 Carlson
-Carlson 
 Carolyn
 Cary
-Cary 
-Cavazzana-Calvo 
-Cecil W. 
+Cavazzana-Calvo
+Cecil W.
 Chad
-Chan 
-Chang 
-Charlie 
-Charo 
+Chan
+Chang
+Charlie
+Charo
 Charpentier
-Charpentier 
-Chase 
+Chase
 Chen
-Chen 
-Chen I, Dubnau D 
+Chen I, Dubnau D
 Chenhui
-Chin-Yi 
+Chin-Yi
 Chivian
-Chivian 
-Christian M, Cermak T, Doyle EL, ''et al.'' 
-Christian M, Cermak T, Doyle EL, Schmidt C, Zhang F, Hummel A, Bogdanove AJ, Voytas DF 
-Christian M, Cermak T, Doyle EL, et al. 
+Christian M, Cermak T, Doyle EL, ''et al.''
+Christian M, Cermak T, Doyle EL, Schmidt C, Zhang F, Hummel A, Bogdanove AJ, Voytas DF
+Christian M, Cermak T, Doyle EL, et al.
 Christian M, Cermak T, Doyle EL, etal
-Christian M, Cermak T, Doyle EL, etal 
-Christine V 
+Christine V
 Christou
-Chuang 
-Church 
+Chuang
+Church
 Chylinski
-Chylinski 
 Claire
 Clare
-Clark 
+Clark
 Clive
-Clive 
 Clive Root
 Cochran
-Cohen 
+Cohen
 Committee on Genetically Engineered Crops: Past Experience Future Prospects
 Connor
 Cooke
-Corn 
+Corn
 Corrêa
-Corrêa 
 Cowell
-Craig 
-Crea 
+Craig
+Crea
 Curran
 Cyranoski
 Cyrus
 Dabrock
-Dabrock P 
+Dabrock P
 Dai
-Dai 
-Daley 
-Dana 
+Daley
+Dana
 Daniel
-Daniel 
-Daniel G. 
-Daniel G. Yansura 
+Daniel G.
+Daniel G. Yansura
 Daniel Zohary, Maria Hopf, Ehud Weiss
 Daniele
 Danny
-Darbani 
+Darbani
 David
-David 
 David A. Jackson Robert H. Symons and Paul Berg
-David A. Jackson Robert H. Symons and Paul Berg 
-David K. 
+David K.
 David M.
-David M. 
 David M. Suter, Michel Dubois-Dauphin, Karl-Heinz Krause
 Davila
-Davison 
-Debora 
+Davison
+Debora
 Debora MacKenzie
 Deborah B.
-Deborah B. 
 Deborah B. Whitman
 Deepak
-Deepak S, Kottapalli K, Rakwal R, Oros G, Rangappa K, Iwahashi H, Masuo Y, Agrawal G 
-Demont 
-Demont M, Tollens E 
+Deepak S, Kottapalli K, Rakwal R, Oros G, Rangappa K, Iwahashi H, Masuo Y, Agrawal G
+Demont
+Demont M, Tollens E
 Denis A.
-Denis A. 
-Denisova 
-Dennis G. 
-Dennis G. Kleid 
+Denisova
+Dennis G.
+Dennis G. Kleid
 Dennis G. Kleid, Francisco Bolivar, Herbert L. Heyneker, Daniel G. Yansura, Roberto Crea, Tadaaki Hirose, Adam Kraszewski, Keiichi Itakura, AND Arthur D. Riggs
 Desmond S. T.
 Desmond S.T.
 Dhami
-Dhami 
 Diahanna
 Ding
 Dively
-Dively GP, Venugopal PD, Finkenbinder C 
+Dively GP, Venugopal PD, Finkenbinder C
 Division on Earth Life Studies
 Doi
 Domingo
-Domingo JL, Giné Bordonaba J 
-Donnellan, Craig 
+Domingo JL, Giné Bordonaba J
+Donnellan, Craig
 Doudna
-Doudna 
-Dubnau 
+Dubnau
 Dubois-Dauphin
-Dubois-Dauphin 
-During 
-Dyson 
+During
+Dyson
 Edward
-Edward 
-Ehud 
+Ehud
 Ekker
-Ekker SC 
+Ekker SC
 Ekkers
 El Benni
-El Benni 
 Elizabeth
-Elizabeth 
-Elizabeth Pennisi 
+Elizabeth Pennisi
 Ellefson
-Ellefson 
-Emad N 
-Emilie R. 
+Emad N
+Emilie R.
 Emilie R. Bergeson
-Emily 
-Emma 
+Emily
+Emma
 Emma Young
 Emmanuelle
-Emmanuelle 
 Engineering
 Eric
-Eric 
 Eric Chivian, Aaron Bernstein
-Eric Chivian, Aaron Bernstein 
 Ermak
-Ernesto 
+Ernesto
 Ernesto Andrianantoandro, Subhayu Basu, David K Kariga & Ron Weiss
 Erwin
-Erwin 
-Eskandar 
+Eskandar
 Esvelt
-Esvelt 
-Esvelt KM, Wang HH 
+Esvelt KM, Wang HH
 European Commission. Directorate-General for Research
 Evans
-Evans 
 F. Nicholas
 Fabio
 Fahrenkrug
-Fahrenkrug 
-Farajnia 
-Feigin 
-Fenner 
-Filippa 
+Farajnia
+Feigin
+Fenner
+Filippa
 Final Report of the PABE research project
 Finger
-Finger 
 Finkenbinder
-Fischer 
-Fischer A, Hacein-Bey-Abina S, Cavazzana-Calvo M 
-Flaherty 
+Fischer
+Fischer A, Hacein-Bey-Abina S, Cavazzana-Calvo M
+Flaherty
 Floyd E.
-Floyd E. 
 Fonfara
 Food and Agricultural Organisation of the United Nations
-Forsberg 
+Forsberg
 Foster
-Foster 
-Francisco 
-Francisco Bolivar 
+Francisco
+Francisco Bolivar
 François
 Frattini
-Fukuchi-Mizutani 
-Fukui 
+Fukuchi-Mizutani
+Fukui
 Funk
-Funk 
-Fyodor 
-G. Steven 
+Fyodor
+G. Steven
 Galen P.
-Gao H, Smith J, Yang M, ''et al.'' 
-Gao H, Smith J, Yang M, Jones S, Djukanovic V, Nicholson MG, West A, Bidney D, Falco SC, Jantz D, Lyznik LA 
-Gao H, Smith J, Yang M, et al. 
+Gao H, Smith J, Yang M, ''et al.''
+Gao H, Smith J, Yang M, Jones S, Djukanovic V, Nicholson MG, West A, Bidney D, Falco SC, Jantz D, Lyznik LA
+Gao H, Smith J, Yang M, et al.
 Gao H, Smith J, Yang M, etal
-Gao H, Smith J, Yang M, etal 
 Gelvin
-Gelvin 
-Gelvin SB 
+Gelvin SB
 Gendin
-Gendin 
 Gennady
-George 
-George Q. 
-George T. 
+George
+George Q.
+George T.
 Geurts AM, Cost GJ, Freyvert Y, ''et al.''
-Geurts AM, Cost GJ, Freyvert Y, Zeitler B, Miller JC, Choi VM, Jenkins SS, Wood A, Cui X, Meng X, Vincent A, Lam S, Michalkiewicz M, Schilling R, Foeckler J, Kalloway S, Weiler H, Ménoret S, Anegon I, Davis GD, Zhang L, Rebar EJ, Gregory PD, Urnov FD, Jacob HJ, Buelow R 
+Geurts AM, Cost GJ, Freyvert Y, Zeitler B, Miller JC, Choi VM, Jenkins SS, Wood A, Cui X, Meng X, Vincent A, Lam S, Michalkiewicz M, Schilling R, Foeckler J, Kalloway S, Weiler H, Ménoret S, Anegon I, Davis GD, Zhang L, Rebar EJ, Gregory PD, Urnov FD, Jacob HJ, Buelow R
 Geurts AM, Cost GJ, Freyvert Y, et al.
 Geurts AM, Cost GJ, Freyvert Y, etal
-Geurts AM, Cost GJ, Freyvert Y, etal 
-Gibson 
-Gibson DG, Glass JI, Lartigue C, Noskov VN, Chuang RY, Algire MA, Benders GA, Montague MG, Ma L, Moodie MM, Merryman C, Vashee S, Krishnakumar R, Assad-Garcia N, Andrews-Pfannkoch C, Denisova EA, Young L, Qi ZQ, Segall-Shapiro TH, Calvey CH, Parmar PP, Hutchison CA, Smith HO, Venter JC 
+Gibson
+Gibson DG, Glass JI, Lartigue C, Noskov VN, Chuang RY, Algire MA, Benders GA, Montague MG, Ma L, Moodie MM, Merryman C, Vashee S, Krishnakumar R, Assad-Garcia N, Andrews-Pfannkoch C, Denisova EA, Young L, Qi ZQ, Segall-Shapiro TH, Calvey CH, Parmar PP, Hutchison CA, Smith HO, Venter JC
 Gilbert
-Gilbert N 
-Gina 
+Gilbert N
+Gina
 Ginger
-Glass 
+Glass
 Glynis Giddings
 Goeddel
-Goeddel DV, Kleid DG, Bolivar F, Heyneker HL, Yansura DG, Crea R, Hirose T, Kraszewski A, Itakura K, Riggs AD 
+Goeddel DV, Kleid DG, Bolivar F, Heyneker HL, Yansura DG, Crea R, Hirose T, Kraszewski A, Itakura K, Riggs AD
 Gomez-Ospina
 Government of Canada, Canadian Food Inspection
 Government of Canada, Canadian Food Inspection Agency
-Government of Canada, Canadian Food Inspection Agency 
 Government of Canada,Canadian Food Inspection
-Graham 
-Graham Head; Hull, Roger H; Tzotzos, George T. 
-Greely 
-Grizot S, Smith J, Daboussi F, ''et al.'' 
-Grizot S, Smith J, Daboussi F, Prieto J, Redondo P, Merino N, Villate M, Thomas S, Lemaire L, Montoya G, Blanco FJ, Pâques F, Duchateau P 
-Grizot S, Smith J, Daboussi F, et al. 
+Graham
+Graham Head; Hull, Roger H; Tzotzos, George T.
+Greely
+Grizot S, Smith J, Daboussi F, ''et al.''
+Grizot S, Smith J, Daboussi F, Prieto J, Redondo P, Merino N, Villate M, Thomas S, Lemaire L, Montoya G, Blanco FJ, Pâques F, Duchateau P
+Grizot S, Smith J, Daboussi F, et al.
 Grizot S, Smith J, Daboussi F, etal
-Grizot S, Smith J, Daboussi F, etal 
 Grubman
-Grubman 
-Guo-Qing 
-Gutschi S, Hermann W, Stenzl W, Tscheliessnigg KH 
+Guo-Qing
+Gutschi S, Hermann W, Stenzl W, Tscheliessnigg KH
 H.G. Hughes, E. Porceddu, F. Nicholas
 H.G. Hughes, M. Strachan, F. Nicholas
-Hacein-Bey-Abina 
+Hacein-Bey-Abina
 Hackett
-Hackett 
-Haecker 
+Haecker
 Hakim
-Hallenbeck 
+Hallenbeck
 Hanna
 Harmon
-Harris 
+Harris
 Haslberger
-Haslberger AG 
+Haslberger AG
 Hauer
-Hauer 
 He
-Head 
+Head
 Health
 Hedvat
 Hee-Jong
 Heidi
-Heidi 
 Hellwich
-Henderson 
+Henderson
 Henry
-Henry T. 
+Henry T.
 Herbert
-Herbert 
-Herbert L. 
-Herbert L. Heyneker 
-Hershey 
-Hershey A, Chase M 
-Hershey AD, Chase M 
+Herbert L.
+Herbert L. Heyneker
+Hershey
+Hershey A, Chase M
+Hershey AD, Chase M
 Hess
-Heyneker 
-Hirose 
+Heyneker
+Hirose
 Hodge
-Hohn 
-Hohn B, Levy AA, Puchta H 
-Holger 
-Holton 
-Hopf 
+Hohn
+Hohn B, Levy AA, Puchta H
+Holger
+Holton
+Hopf
 Huang
-Hughes 
-Huimin 
-Hull 
-Hutchison Ca 
-Ian 
+Hughes
+Huimin
+Hull
+Hutchison Ca
+Ian
 Ian M.
 Ian Sample
 Inbar
 Ines
-Ines 
-Irene H 
+Irene H
 Isabelle
 Isil Aksan
-Islam 
-Itakura 
-Ito J, Hosaki Y, Torigoe Y, Sakimoto K 
+Islam
+Itakura
+Ito J, Hosaki Y, Torigoe Y, Sakimoto K
 Ivan R.
-Ivan R. 
 Ivelise V.
 Iwahashi
 Jackson
-Jackson 
-Jackson DA, Symons RH, Berg P 
-Jacob E. 
-Jacobsen 
-Jacobsen E, Schouten HJ 
+Jackson DA, Symons RH, Berg P
+Jacob E.
+Jacobsen
+Jacobsen E, Schouten HJ
 Jae
-Jaenisch R, Mintz B 
+Jaenisch R, Mintz B
 Jaenisch, R. and Mintz, B.
-Jaimie M 
+Jaimie M
 James
-James 
-James D. 
-James D. Watson 
-James H. 
+James D.
+James D. Watson
+James H.
 James H. Maryanski
 James, C
 James, Clive
-Jan 
+Jan
 Jan Suszkiw
 Jane
 Jane B.
-Jane B. 
 Jane K.
-Jane K. 
 Jane Qiu
 Jared
-Jared 
-Jason M 
-Jennifer 
+Jason M
+Jennifer
 Jennifer A.
-Jennifer A. 
 Jennifer R.
 Jens
 Jeremy M.
-Jeremy M. 
-Jessica M. 
+Jessica M.
 Jessica M. Pasko
 Jie
 Jinek
-Jinek 
-Jinek M, Chylinski K, Fonfara I, Hauer M, Doudna JA, Charpentier E 
-Jing 
+Jinek M, Chylinski K, Fonfara I, Hauer M, Doudna JA, Charpentier E
+Jing
 Jinrong
-Joab 
+Joab
 Joab Jackson
-Joanna 
-John 
+Joanna
+John
 John C.
-John C. 
 John C. Avise
-John G. 
+John G.
 John Pickrell
 Johnson
-Johnson 
 Jolanta
-Jonathan 
-Jonathan S. 
+Jonathan
+Jonathan S.
 Jordi Giné
 Joseph
 José L.
 Julian
-Julian 
-Junichi 
+Junichi
 Junjiu
 Jurcic
 Kaphengst
-Kaphengst 
-Kaplitt 
-Karan 
-Karen 
-Kariga 
+Kaplitt
+Karan
+Karen
+Kariga
 Karl-Heinz
-Karl-Heinz 
-Katherine 
-Kathi E. 
+Katherine
+Kathi E.
 Kathi E. Hanna
-Kathleen L 
-Katsumoto 
-Katsumoto Y ''et al.'' 
-Katsumoto Y, Fukuchi-Mizutani M, Fukui Y, Brugliera F, Holton TA, Karan M, Nakamura N, Yonekura-Sakakibara K, Togami J, Pigeaire A, Tao GQ, Nehra NS, Lu CY, Dyson BK, Tsuda S, Ashikari T, Kusumi T, Mason JG, Tanaka Y 
+Kathleen L
+Katsumoto
+Katsumoto Y ''et al.''
+Katsumoto Y, Fukuchi-Mizutani M, Fukui Y, Brugliera F, Holton TA, Karan M, Nakamura N, Yonekura-Sakakibara K, Togami J, Pigeaire A, Tao GQ, Nehra NS, Lu CY, Dyson BK, Tsuda S, Ashikari T, Kusumi T, Mason JG, Tanaka Y
 Kaufman
-Kaufman 
-Kaufman RI, Nixon BT 
-Keiichi 
-Keiichi Itakura 
-Keiko 
+Kaufman RI, Nixon BT
+Keiichi
+Keiichi Itakura
+Keiko
 Keith
-Keith 
-Keith R. 
+Keith R.
 Kevin
 Kirandeep
-Kirandeep 
-Kleid 
+Kleid
 Kleiman
-Kleiman 
 Klümper
-Klümper W, Qaim M 
+Klümper W, Qaim M
 Knapton
 Knight
 Koboldt
-Koboldt 
 Kobos
 Koh
-Kolata 
-Kostyk 
+Kolata
+Kostyk
 Kottapalli
 Kouser
 Kramer
-Kraszewski 
+Kraszewski
 Krause
 Krimsky
-Krishnakumar 
+Krishnakumar
 Krohn
 Krzysztof
-Krzysztof 
 Kubisa
-Kurlan 
+Kurlan
 Kurnaz
-Kusumi 
+Kusumi
 Kwon
-Lanphier 
-Lartigue 
+Lanphier
+Lartigue
 Lavergne
-Lavergne 
-LeWitt PA, Rezai AR, Leehey MA, Ojemann SG, Flaherty AW, Eskandar EN, Kostyk SK, Thomas K, Sarkar A, Siddiqui MS, Tatter SB, Schwalb JM, Poston KL, Henderson JM, Kurlan RM, Richard IH, Van Meter L, Sapan CV, During MJ, Kaplitt MG, Feigin A 
+LeWitt PA, Rezai AR, Leehey MA, Ojemann SG, Flaherty AW, Eskandar EN, Kostyk SK, Thomas K, Sarkar A, Siddiqui MS, Tatter SB, Schwalb JM, Poston KL, Henderson JM, Kurlan RM, Richard IH, Van Meter L, Sapan CV, During MJ, Kaplitt MG, Feigin A
 Ledford
-Ledford 
-Ledford H 
+Ledford H
 Lee
-Leehey 
+Leehey
 Lehmann
-Lehmann 
 Levi
-Levy 
+Levy
 Lewis
-Lewis 
-Lewitt 
+Lewitt
 Li
-Li 
-Li T, Huang S, Jiang WZ, ''et al.'' 
-Li T, Huang S, Jiang WZ, Wright D, Spalding MH, Weeks DP, Yang B 
-Li T, Huang S, Jiang WZ, et al. 
+Li T, Huang S, Jiang WZ, ''et al.''
+Li T, Huang S, Jiang WZ, Wright D, Spalding MH, Weeks DP, Yang B
+Li T, Huang S, Jiang WZ, et al.
 Li T, Huang S, Jiang WZ, etal
-Li T, Huang S, Jiang WZ, etal 
 Liang
-Liang 
-Liang J, Luo Y, Zhao H 
-Liang P, Xu Y, Zhang X, Ding C, Huang R, Zhang Z, Lv J, Xie X, Chen Y, Li Y, Sun Y, Bai Y, Songyang Z, Ma W, Zhou C, Huang J 
+Liang J, Luo Y, Zhao H
+Liang P, Xu Y, Zhang X, Ding C, Huang R, Zhang Z, Lv J, Xie X, Chen Y, Li Y, Sun Y, Bai Y, Songyang Z, Ma W, Zhou C, Huang J
 Liang, Puping
-Liang, Puping et al. 
+Liang, Puping et al.
 Lily
 Lindsay G.
 Lisa A.
-Lori 
+Lori
 Lowder
 Lowe
-Lowe 
 Lowell
-Lowell 
-Lu 
+Lu
 Luis L.
-Luis L. 
-Luo 
+Luo
 Lv
 Lynch
-Lynch 
-Lyons 
+Lyons
 Ma
-Ma 
-MacKenzie 
+MacKenzie
 Maduro
-Magaña-Gómez 
+Magaña-Gómez
 Magaña-Gómez JA, de la Barca AM
-Magaña-Gómez JA, de la Barca AM 
-Mahmoud 
+Mahmoud
 Malgorzata
 Malyshev
-Malyshev 
-Malyshev DA, Dhami K, Lavergne T, Chen T, Dai N, Foster JM, Corrêa IR, Romesberg FE 
+Malyshev DA, Dhami K, Lavergne T, Chen T, Dai N, Foster JM, Corrêa IR, Romesberg FE
 Malzahn
-Malzahn A, Lowder L, Qi Y 
+Malzahn A, Lowder L, Qi Y
 Manzo
-Marchione 
+Marchione
 Marco L.
-Marden 
+Marden
 Marguerite
-Maria 
-Marilyn 
-Marina 
-Mario R. 
+Maria
+Marilyn
+Marina
+Mario R.
 Mark
 Mark, and Taleb, Nassim Nicholas
 Marris
-Marris C 
-Marsha 
+Marris C
+Marsha
 Martin
-Martin 
-Marvier 
+Marvier
 Marvin J.
-Marvin J. 
 Maryanski
-Maryanski 
-Masako 
+Masako
 Maslak
-Mason 
+Mason
 Masuo
 Matin
 Matthew G.
 Matthew H.
-Matthew J 
-Maugh 
-Maureen A 
-Mayeno AN, Gleich GJ 
-Mayeno AN, Lin F, Foote CS, Loegering DA, Ames MM, Hedberg CW, Gleich GJ 
+Matthew J
+Maugh
+Maureen A
+Mayeno AN, Gleich GJ
+Mayeno AN, Lin F, Foote CS, Loegering DA, Ames MM, Hedberg CW, Gleich GJ
 McHugen
-McHugen 
-McHughen A, Smyth S 
-Merryman 
-Mertz 
+McHughen A, Smyth S
+Merryman
+Mertz
 Michael
-Michael 
-Michael G 
+Michael G
 Michael L.
 Michel
-Michel 
 Michelle
-Michelle 
 Michelle Marvier
 Miller
 Minorsky
-Mirko 
-Montague 
-Moodie 
+Mirko
+Montague
+Moodie
 Moraga
 Morgan
-Morgan, Sally 
-Morris 
-Morris, Michael 
+Morgan, Sally
+Morris
+Morris, Michael
 Morse
-Morse 
-Mustafa S 
+Mustafa S
 Nadja
-Nadja 
-Nakamura 
+Nakamura
 Nan
-Nan 
 Narayanaswamy
-Narender S. 
+Narender S.
 Natalia
 Nataliya
 Natasha
 National Academies Of Sciences
 National Academies of Sciences
 National Institute of Allergies and Infectious Diseases
-National Research Council (US) Committee on Identifying and Assessing Unintended Effects of Genetically Engineered Foods on Human
-National Research Council (US) Committee on Identifying and Assessing Unintended Effects of Genetically Engineered Foods on Human Health 
-Nehra 
+National Research Council Committee on Identifying and Assessing Unintended Effects of Genetically Engineered Foods on Human
+National Research Council Committee on Identifying and Assessing Unintended Effects of Genetically Engineered Foods on Human Health
+Nehra
 Neil
 Nicholas
-Nicholas 
-Nicholas Wade 
+Nicholas Wade
 Nicholl
 Nicolia
-Nicolia A, Manzo A, Veronesi F, Rosellini D 
+Nicolia A, Manzo A, Veronesi F, Rosellini D
 Nielsen
-Nielsen J 
+Nielsen J
 Nixon
-Noeparvar 
-Noriko 
-Noskov 
-Ojemann 
+Noeparvar
+Noriko
+Noskov
+Ojemann
 Olszewska
 Oriana
 Oros
-Osborne 
+Osborne
 P. Dilip
 Pamela
 Panchin
-Panchin AY, Tuzhikov AI 
+Panchin AY, Tuzhikov AI
 Park
-Parmar 
+Parmar
 Pasko
 Paul
-Paul 
 Paul Berg
-Paulo 
+Paulo
 Paulo Rebêlo
-Penhoet 
+Penhoet
 Pennisi
-Pennisi 
-Pennisi E 
+Pennisi E
 Peter
-Peter 
-Peter A 
+Peter A
 Peter V.
 Philip
 Pickrell
-Pigeaire 
+Pigeaire
 Pinholster
 Pollack
-Pollack 
-Porceddu 
+Porceddu
 Porteus
-Poston 
+Poston
 Praitis
-Praitis V, Maduro MF 
+Praitis V, Maduro MF
 Przemyslaw
-Puchta 
-Puck 
+Puchta
+Puck
 Puckett
 Puping
 Qaim
-Qaim M, Kouser S 
+Qaim M, Kouser S
 Qi
-Qi 
 Qing
 Qiu
 Qu
 R I Kaufman and B T Nixon
-R. Alta 
+R. Alta
 Rachel
 Raff
-Raff 
 Rainie
-Rainie 
 Rakwal
 Ramona
 Rangappa
-Raphals P 
+Raphals P
 Rasmus O.
 Reardon
-Rebecca 
+Rebecca
 Rebêlo
 Redenbaugh
 Redick, T.P.
 Reece
 Regalado
-Regalado 
 Renier J.
-Rezai 
-Richard 
+Rezai
+Richard
 Richard Black
 Richards
 Riesgo
-Riggs 
+Riggs
 Rijo
 Rinaudo
 Riviere
 Robert
-Robert 
 Robert B.
-Robert B. 
-Roberto 
-Roberto Crea 
+Roberto
+Roberto Crea
 Roberts
-Roberts 
-Roblin 
+Roblin
 Rodriguez
-Rodriguez 
-Rodriguez LL, Grubman MJ 
+Rodriguez LL, Grubman MJ
 Rodríguez-Cerezo
 Roger
-Roger H 
-Roger M 
+Roger H
+Roger M
 Romesberg
-Romesberg 
-Ron 
+Ron
 Ronald
-Ronald P 
+Ronald P
 Root
-Roque AC, Lowe CR, Taipa MA 
+Roque AC, Lowe CR, Taipa MA
 Roque AC, Lowe CR, Taipa MA.
 Rosellini
 Rosenblat
 Ross
 Rozin
 Rui
-Ryan 
+Ryan
 S.C. Ekker
 Sabrina
 Sadelain
-Saeed 
-Safar 
-Salima 
-Sally 
-Sample 
-Samuel H. 
-Sanderson 
-Sandra K 
-Sapan 
+Saeed
+Safar
+Salima
+Sally
+Sample
+Samuel H.
+Sanderson
+Sandra K
+Sapan
 Sara
 Sarah
-Sarah Ehlen 
-Sarkar 
+Sarah Ehlen
+Sarkar
 Savage
-Schouten 
+Schouten
 Schué
-Schwalb 
+Schwalb
 Scott
-Scott SE, Inbar Y, Rozin P 
+Scott SE, Inbar Y, Rozin P
 Sean
-Segall-Shapiro 
+Segall-Shapiro
 Setlow
-Shahin 
+Shahin
 Shahzad
-Sharon 
+Sharon
 Sheldon
 Sheldon J.
 Sheryl Gay
-Shinzo 
+Shinzo
 Shirley
-Shiv Kant Prasad 
+Shiv Kant Prasad
 Shukla VK, Doyon Y, Miller JC, ''et al.''
-Shukla VK, Doyon Y, Miller JC, DeKelver RC, Moehle EA, Worden SE, Mitchell JC, Arnold NL, Gopalan S, Meng X, Choi VM, Rock JM, Wu YY, Katibah GE, Zhifang G, McCaskill D, Simpson MA, Blakeslee B, Greenwalt SA, Butler HJ, Hinkley SJ, Zhang L, Rebar EJ, Gregory PD, Urnov FD 
+Shukla VK, Doyon Y, Miller JC, DeKelver RC, Moehle EA, Worden SE, Mitchell JC, Arnold NL, Gopalan S, Meng X, Choi VM, Rock JM, Wu YY, Katibah GE, Zhifang G, McCaskill D, Simpson MA, Blakeslee B, Greenwalt SA, Butler HJ, Hinkley SJ, Zhang L, Rebar EJ, Gregory PD, Urnov FD
 Shukla VK, Doyon Y, Miller JC, et al.
 Shukla VK, Doyon Y, Miller JC, etal
-Shukla VK, Doyon Y, Miller JC, etal 
-Siddiqui 
+Siddiqui
 Sidney
-Sidney 
 Sifferlin
-Singer 
-Singh 
-Smiley''', Sophie 
-Smiley, Sophie 
-Smith 
-Smith KR, Chan S, Harris J 
-Smolenski 
-Sompels, Zachary 
+Singer
+Singh
+Smiley''', Sophie
+Smiley, Sophie
+Smith
+Smith KR, Chan S, Harris J
+Smolenski
+Sompels, Zachary
 Songyang
 Sophie
-Sophie 
 Spitznagel
 Stableford
-Staff 
+Staff
 Stanescu
-Stanley N. 
-Stanley N. Cohen and Annie C. Y. Chang 
+Stanley N.
+Stanley N. Cohen and Annie C. Y. Chang
 Stefanski
 Steinherz
 Stephen
-Stephen 
-Stephen B 
+Stephen B
 Sterling
-Sternberg 
+Sternberg
 Steve
-Steve 
 Steve Connor
 Steven
 Steven A.
-Steven G 
-Stewart 
-Stewart CN 
+Steven G
+Stewart
+Stewart CN
 Stewart, Jr.
 Stupak
-Stupak 
-Subhayu 
+Subhayu
 Suk-Yoon
-Summers 
+Summers
 Sun
-Suszkiw 
+Suszkiw
 Suter
-Suter 
-Suter DM, Dubois-Dauphin M, Krause KH 
+Suter DM, Dubois-Dauphin M, Krause KH
 Sydney E.
 Symons
-Tadaaki 
-Tadaaki Hirose 
+Tadaaki
+Tadaaki Hirose
 Taipa
-Taipa 
-Takaaki 
+Takaaki
 Tan
-Tan 
-Tan WS, Carlson DF, Walton MW, Fahrenkrug SC, Hackett PB 
-Tanaka 
-Tao 
-Tatter 
+Tan WS, Carlson DF, Walton MW, Fahrenkrug SC, Hackett PB
+Tanaka
+Tao
+Tatter
 Taylor
 Teresa
-Terri 
-The Editorial Board 
+Terri
+The Editorial Board
 The European Parliament an the council of the European Union
 The European Parliament and the council of the European Union
 Thomas
-Thomas 
-Thomas H. II 
-Thomas MA, Roemer GW, Donlan CJ, Dickson BG, Matocq M, Malaney J 
+Thomas H. II
+Thomas MA, Roemer GW, Donlan CJ, Dickson BG, Matocq M, Malaney J
 Thomas et. al.
 Thomson
 Thyer
-Thyer 
-Thyer R, Ellefson J 
+Thyer R, Ellefson J
 Timo
-Timo 
-Timofeev-Ressovsky NW 
-Timothy A. 
+Timofeev-Ressovsky NW
+Timothy A.
 Tingjian
-Tingjian 
 Todd
-Togami 
-Tollens 
-Toorchi 
-Toshihiko 
-Townsend JA, Wright DA, Winfrey RJ, ''et al.'' 
-Townsend JA, Wright DA, Winfrey RJ, Fu F, Maeder ML, Joung JK, Voytas DF 
-Townsend JA, Wright DA, Winfrey RJ, et al. 
+Togami
+Tollens
+Toorchi
+Toshihiko
+Townsend JA, Wright DA, Winfrey RJ, ''et al.''
+Townsend JA, Wright DA, Winfrey RJ, Fu F, Maeder ML, Joung JK, Voytas DF
+Townsend JA, Wright DA, Winfrey RJ, et al.
 Townsend JA, Wright DA, Winfrey RJ, etal
-Townsend JA, Wright DA, Winfrey RJ, etal 
-Tsuda 
+Tsuda
 Tuomela
-Tuomela M, Stanescu I, Krohn K 
+Tuomela M, Stanescu I, Krohn K
 Tuzhikov
-Tzotzos 
+Tzotzos
 U.S. EPA online
 U.S. Office of Science and Technology Policy
-U.S. Office of Science and Technology Policy 
 US Supreme Court Cases from Justia & Oyez
-Urnov 
+Urnov
 Urry
 Van And basically you don't have to read this whole article i mean why waste the time go watch an episode of Grey's Anatomy or whatever and chillax and rebel against all those teachers that are making you work as if it could end all the poverty in the world or whatever so okay then bye Eenennaam
 Van Eenennaam
-Van Eenennaam 
-Van Meter 
-Vashee 
-Venter 
+Van Meter
+Vashee
+Venter
 Venugopal
 Veronesi
 Vert
 Vert M, Doi Y, Hellwich KH, Hess M, Hodge P, Kubisa P, Rinaudo
-Vert M, Doi Y, Hellwich KH, Hess M, Hodge P, Kubisa P, Rinaudo M, Schué F 
+Vert M, Doi Y, Hellwich KH, Hess M, Hodge P, Kubisa P, Rinaudo M, Schué F
 Vogel
-Wade 
+Wade
 Walter
-Walter 
 Walton
-Walton 
 Wang
-Wang 
 Wasielewska
 Wasserman
-Watson 
-Watson, James D. 
+Watson
+Watson, James D.
 Weaver
 Weiss
-Weiss 
-Weissman 
+Weissman
 Wen
 Wenbin
-Werner 
+Werner
 Whitman
 Wilhelm
-Witzany, Guenther 
+Witzany, Guenther
 Woodrow W. Walker a three part short story.
 Xiaowei
 Xie
 Xiuyan
 Xiya
 Xu
-Yamamoto 
+Yamamoto
 Yang
-Yang YT, Chen B 
-Yansura 
+Yang YT, Chen B
+Yansura
 Yanwen
 Yaofu
 Ying
 Yiping
 Yoel
-Yonekura-Sakakibara 
+Yonekura-Sakakibara
 Yoshiharu
-Yoshikazu 
+Yoshikazu
 Young
-Young 
 Yujing
-Yukihisa 
+Yukihisa
 Yukihisa Katsumoto ''et. al''
-Yuko 
-Yunzi 
+Yuko
+Yunzi
 Yuxi
 Yvette
-Zaid 
-Zaid A, Hughes HG, Porceddu E, Nicholas F 
-Zakerbostanabad 
+Zaid
+Zaid A, Hughes HG, Porceddu E, Nicholas F
+Zakerbostanabad
 Zhang
-Zhao 
+Zhao
 Zhen
 Zhou
-Zohary 
+Zohary
 [[David Baltimore
-de la Barca 
+de la Barca
 zaJVLUJGCGFX VFHDRTYFGCGHJ(

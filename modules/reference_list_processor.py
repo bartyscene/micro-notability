@@ -21,11 +21,12 @@ AUTHOR_PATTERN = re.compile(
 NAME_PATTERN = re.compile(r"[^\W\d_]+", re.UNICODE) # Regex to extract Unicode word characters
 
 FILTER_PATTERN = re.compile(
-    r"^[a-z\W]+$|"              # Matches strings that are entirely lowercase letters or non-word characters
-    r"^[A-Z\W]+$|"              # Matches strings that are entirely uppercase letters or non-word characters
-    r".*\d.*|"                  # Matches strings that contain at least one digit
-    r"<!--.*?-->|"              # Matches HTML comments
-    r".*&[a-z]+;.*"             # Matches strings with any characters, then `&`, followed by lowercase letters, then `;`, and then any characters
+    r"^[a-z\W]+$|"              # Entirely lowercase letters or non-word characters
+    r"^[A-Z\W]+$|"              # Entirely uppercase letters or non-word characters
+    r".*\d.*|"                  # Contains at least one digit
+    r"<!--.*?-->|"              # HTML comments
+    r".*&[a-z]+;.*|"            # Contains HTML entities like &nbsp;
+    r".*\b(?:https?://)?(?:www\.)?[a-z][a-zA-Z0-9-]*(?:\.[a-zA-Z]{2,})+\b.*" # Website links
 )
 
 PARENTHESES_PATTERN = re.compile(r'\s*\(.*?\)')

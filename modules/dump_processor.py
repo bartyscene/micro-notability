@@ -23,6 +23,7 @@ def _build_reference_list(page_list):
     for revision in tqdm(page_list, desc="Building Reference List for Wikipedia Article"):
         if not revision.text:
             continue
+        #names = extract_raw_names_from_citations(revision.text)
         names = extract_names_from_citations(revision.text)
         reference_list.update(names)
 

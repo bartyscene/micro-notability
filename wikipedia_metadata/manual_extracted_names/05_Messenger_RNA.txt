@@ -9,6 +9,8 @@ Permalink_2025_01_10: https://en.wikipedia.org/w/index.php?title=Messenger_RNA&o
     James Watson
     Jacob
     Jacques Monod
+    Pfizer[–BioNTech COVID-19 vaccine]*
+    Nobel [Prize]*
     Katalin Karikó
     Drew Weissman
     Jacques Monod
@@ -38,9 +40,6 @@ Permalink_2025_01_10: https://en.wikipedia.org/w/index.php?title=Messenger_RNA&o
     Watson
     Jacob
     Monod
-
-    /////Eponyms/////
-    Nobel (Prize) 
 ]
 
 Permalink_2015_01_10: https://en.wikipedia.org/w/index.php?title=Messenger_RNA&oldid=641559759

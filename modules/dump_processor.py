@@ -59,85 +59,74 @@ def _extract_names_with_ner(text, name_entity_recognizer):
     ]
     return formatted_matches
 
-def _extract_names_from_revision(revision, reference_list, spacy_ner, roberta_ner):
+def _process_wikipedia_pages_with_reference_list(input_path, revision_mapping):
     """
-    Processes a single revision to extract names using reference list and spacy.
-    
-    :param revision: The revision object to process.
-    :param reference_list: Set of names extracted from citations.
-    :param name_entity_recognizer: An instance of NameEntityRecognizer.
-    :return: A formatted string of the revision results.
+    Processes a Wikipedia dump file using reference list extraction.
+    revision_mapping: dict mapping revision id (as int) to output file name.
     """
-    if not revision.text:
-        return None
-
-    # Names found via reference list
-    parser_names = _extract_names_with_reference_list(revision.text, reference_list)
-    # Names found via NER
-    spacy_ner_names = _extract_names_with_ner(revision.text, spacy_ner)
-    roberta_ner_names = _extract_names_with_ner(revision.text, roberta_ner)
-
-    timestamp_str = str(revision.timestamp)
-    return (
-        f"REVISION ID: {revision.id}, TIMESTAMP: {timestamp_str}\n\n"
-        "PARSER NAMES:\n" + "\n".join(parser_names) + "\n\n"
-        "SPACY NER NAMES:\n" + "\n".join(spacy_ner_names) + "\n\n"
-        "ROBERTA NER NAMES:\n" + "\n".join(roberta_ner_names) + "\n\n"
-    )
-
-def _process_wikipedia_pages(input_path, output_path, revision_ids):
-    """
-    Internal helper that processes a single Wikipedia dump file (input_path)
-    and writes the results for specific revisions to output_path.
-    If 'revision_ids' is empty, processes all revisions.
-    """
-    spacy = SpacyNameEntityRecognizer(use_gpu=False)
-    roberta = RobertaNameEntityRecognizer()
     open_method = bz2.open if input_path.endswith('.bz2') else open
-    with open_method(input_path, 'rb') as dump_file, open(output_path, 'w', encoding='utf-8') as out_f:
+    with open_method(input_path, 'rb') as dump_file:
         dump = mwxml.Dump.from_file(dump_file)
         for page in tqdm(dump, desc=f"Processing {input_path}"):
             page_list = list(page)
-            
-            reference_list = _build_reference_list(page_list) # Build the reference list from all revisions in the page
-            #sorted_references = sorted(reference_list)
-            #for reference in sorted_references:
-            #    out_f.write(reference + '\n')
+            # Build the reference list for the entire page (using all its revisions)
+            reference_list = _build_reference_list(page_list)
+            for revision in tqdm(page_list, desc="Processing Revisions", leave=False):
+                if not revision.text:
+                    continue
+                if revision.id in revision_mapping:
+                    names = _extract_names_with_reference_list(revision.text, reference_list)
+                    result = {
+                        "revision_id": str(revision.id),
+                        "names": names
+                    }
+                    output_path = revision_mapping[revision.id]
+                    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+                    with open(output_path, 'w', encoding='utf-8') as out_f:
+                        json.dump(result, out_f, indent=4, ensure_ascii=False)
 
-            # Process revisions
-            results_for_revisions = []
-            for revision in tqdm(page_list, desc="Processing Revisions"):
-                if not revision_ids or revision.id in revision_ids:
-                    revision_output = _extract_names_from_revision(revision, reference_list, spacy, roberta)
-                    if revision_output:
-                        results_for_revisions.append(revision_output)
-            
-
-            # Write to output file if there is any content
-            if results_for_revisions:
-                out_f.write(f"TITLE: {page.title}\n\n")
-                out_f.write("\n".join(results_for_revisions))
-
-def process_revisions_from_json(json_path):
+def _process_wikipedia_pages_with_spacy(input_path, revision_mapping, spacy_ner):
     """
-    Reads a JSON file (containing input_file_name, output_file_name, and ids)
-    and processes each Wikipedia dump file found in 'dumps/'.
-    The output files will be saved in the same directory as the JSON file.
-    
-    :param json_path: Path to the revisions JSON file.
+    Processes a Wikipedia dump file using NER extraction.
+    revision_mapping: dict mapping revision id (as int) to output file name.
     """
-    base_dir = os.path.dirname(json_path) or '.'
+    open_method = bz2.open if input_path.endswith('.bz2') else open
+    with open_method(input_path, 'rb') as dump_file:
+        dump = mwxml.Dump.from_file(dump_file)
+        for page in tqdm(dump, desc=f"Processing {input_path}"):
+            for revision in tqdm(list(page), desc="Processing Revisions", leave=False):
+                if not revision.text:
+                    continue
+                if revision.id in revision_mapping:
+                    spacy_names = _extract_names_with_ner(revision.text, spacy_ner)
+                    result = {
+                        "revision_id": str(revision.id),
+                        "names": spacy_names,
+                    }
+                    output_path = revision_mapping[revision.id]
+                    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+                    with open(output_path, 'w', encoding='utf-8') as out_f:
+                        json.dump(result, out_f, indent=4, ensure_ascii=False)
 
+
+def process_dumps_with_reference_list(json_path):
     with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     for item in data:
-        input_file_name = item["input_file_name"]
-        output_file_name = item["output_file_name"]
-        revision_ids = item.get("ids", [])  # Default to empty list if 'ids' is missing
+        input_path = item["input_file_name"]
+        revision_mapping = {rev["id"]: rev["output_file_name"] for rev in item["revisions"]}
+        print(f"Processing {input_path} with reference list extraction...")
+        _process_wikipedia_pages_with_reference_list(input_path, revision_mapping)
 
-        input_path = os.path.join("dumps", input_file_name)
-        output_path = os.path.join(base_dir, output_file_name)
 
-        print(f"Processing: {input_file_name} -> {output_file_name}")
-        _process_wikipedia_pages(input_path, output_path, revision_ids)
+def process_dumps_with_spacy(json_path):
+    spacy_ner = SpacyNameEntityRecognizer(use_gpu=False)
+    with open(json_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    for item in data:
+        input_path = item["input_file_name"]
+        revision_mapping = {rev["id"]: rev["output_file_name"] for rev in item["revisions"]}
+        print(f"Processing {input_path} with NER extraction...")
+        _process_wikipedia_pages_with_spacy(input_path, revision_mapping, spacy_ner)

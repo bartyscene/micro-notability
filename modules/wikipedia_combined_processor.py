@@ -9,6 +9,7 @@ from typing import List, Set, Dict, Any
 from modules.reference_list_parser_processor import (
     find_names_in_wikitext
 )
+from modules.page_extractor import get_wikipedia_plaintext_by_revision
 from modules.reference_list_spacy_processor import SpacyReferenceListProcessor
 
 TOKENS_TO_REMOVE: Set[str] = {
@@ -19,25 +20,20 @@ TOKENS_TO_REMOVE: Set[str] = {
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-def _build_reference_list_from_last_revision(page_list: List[Any]) -> Set[str]:
+def _build_reference_list_from_last_revision(last_revision_id: int) -> Set[str]:
     """
     Builds a reference list using only the unfiltered wikitext from the last revision in the page.
     This is done using the SpacyReferenceListProcessor to extract PERSON names.
     """
     reference_list: Set[str] = set()
-    if not page_list:
-        return reference_list
-
-    last_revision = page_list[-1]
-    if not getattr(last_revision, "text", None):
-        return reference_list
 
     try:
+        last_revision = get_wikipedia_plaintext_by_revision(last_revision_id)
         spacy_processor = SpacyReferenceListProcessor(use_gpu=False)
-        names_set = spacy_processor.extract_names(last_revision.text)
+        names_set = spacy_processor.extract_names(last_revision)
         reference_list.update(names_set)
     except Exception as e:
-        logger.error(f"Error extracting names from last revision {last_revision.id}: {e}")
+        logger.error(f"Error extracting names from last revision {last_revision_id}: {e}")
     
     reference_list -= TOKENS_TO_REMOVE
     return reference_list
@@ -70,7 +66,8 @@ def _process_wikipedia_pages_with_reference_list(input_path: str, revision_mappi
                     continue
 
                 # Build the reference list using only the last revision
-                reference_list = _build_reference_list_from_last_revision(page_list)
+                last_revision_id = page_list[-1].id
+                reference_list = _build_reference_list_from_last_revision(last_revision_id)
                 if not reference_list:
                     continue
 

@@ -9,6 +9,7 @@
         "Fourier",
         "Fourier",
         "Parseval",
+        "Plancherel",
         "Pontryagin",
         "Fourier",
         "Fourier",
@@ -37,6 +38,8 @@
         "Fourier",
         "Pontryagin",
         "Fourier",
-        "Fourier"
+        "Fourier",
+        "Smith",
+        "Steven W"
     ]
 }

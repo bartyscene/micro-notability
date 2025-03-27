@@ -43,7 +43,7 @@ def _extract_names_with_reference_list(text: str, reference_list: Set[str]) -> L
     Finds names in the given text using the provided reference list.
     """
     try:
-        matches = find_names_in_wikitext(text, reference_list, quotes=True)
+        matches = find_names_in_wikitext(text, reference_list)
     except Exception as e:
         logger.error(f"Error finding names in wikitext: {e}")
         return []

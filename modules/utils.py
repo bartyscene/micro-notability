@@ -30,7 +30,7 @@ COMBINED_PATTERN = re.compile(
 
 PIPE_PATTERN = re.compile(r"\[\[[^|\]]+\|([^|\]]+)\]\]")  # Matches [[...|...]] pattern
 
-LETTER_FILTER_PATTERN = re.compile(r"[^\w\s.,!?;:'\"-]", re.UNICODE)
+LETTER_FILTER_PATTERN = re.compile(r"[^\w\s.,!?;:'-]", re.UNICODE)
 
 def filter_wikitext(wikitext):
     """

@@ -19,6 +19,7 @@ AUTHOR_PATTERN = re.compile(
 )
 
 NAME_PATTERN = re.compile(r"[^\W\d_]+", re.UNICODE) # Regex to extract Unicode word characters
+NAME_PATTERN_WITH_QUOTES = re.compile(r"[^\W\d_'\"]+", re.UNICODE)
 
 FILTER_PATTERN = re.compile(
     r"^[a-z\W]+$|"              # Entirely lowercase letters or non-word characters
@@ -64,10 +65,11 @@ def extract_names_from_citations(wikitext):
     return name_parts
 
 
-def find_names_in_wikitext(wikitext, name_set):
+def find_names_in_wikitext(wikitext, name_set, quotes=False):
     processed_text = filter_wikitext(wikitext)
     results = []
-    for match in NAME_PATTERN.finditer(processed_text):
+    pattern = NAME_PATTERN if not quotes else NAME_PATTERN_WITH_QUOTES
+    for match in pattern.finditer(processed_text):
         word = match.group() 
         start = match.start()
         end = match.end() - 1

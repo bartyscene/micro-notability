@@ -43,5 +43,7 @@ class SpacyReferenceListProcessor:
                 cleaned = re.sub(r'[\d_]', ' ', cleaned, flags=re.UNICODE)
                 parts = cleaned.strip().split()
                 for part in parts:
-                    names_set.add(part)
+                    if not (len(part) == 1 and part.islower()):
+                        names_set.add(part)
+                        
         return names_set

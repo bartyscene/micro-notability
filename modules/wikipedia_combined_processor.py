@@ -14,7 +14,7 @@ from modules.reference_list_spacy_processor import SpacyReferenceListProcessor
 
 TOKENS_TO_REMOVE: Set[str] = {
     "and", "the", "of", "for", "in", "not", "on", "an", "a", "at", "with",
-    "And", "The", "Of", "For", "In", "Not", "On", "An", "At", "With",
+    "And", "The", "Of", "For", "In", "Not", "On", "An", "At", "With", "Cas", "Some", "Insulin",
 }
 
 logging.basicConfig(level=logging.INFO)
@@ -43,7 +43,7 @@ def _extract_names_with_reference_list(text: str, reference_list: Set[str]) -> L
     Finds names in the given text using the provided reference list.
     """
     try:
-        matches = find_names_in_wikitext(text, reference_list)
+        matches = find_names_in_wikitext(text, reference_list, quotes=True)
     except Exception as e:
         logger.error(f"Error finding names in wikitext: {e}")
         return []

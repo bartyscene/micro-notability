@@ -1,5 +1,6 @@
 import spacy
 import re
+from modules.utils import filter_wikitext
 
 class SpacyReferenceListProcessor:
     def __init__(self, use_gpu=True):
@@ -32,6 +33,7 @@ class SpacyReferenceListProcessor:
         Returns:
             set: A set of name parts (words) extracted from PERSON entities.
         """
+        wikitext = filter_wikitext(wikitext)
         doc = self.nlp(wikitext)
         names_set = set()
         

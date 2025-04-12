@@ -5,6 +5,7 @@ Permalink 2025-01-10
 https://en.wikipedia.org/w/index.php?title=Fourier_analysis&oldid=1263338092
 Fourier analysis*
 Fourier analysis*
+Fourier analysis*
 Fourier series*
 Joseph Fourier
 Fourier analysis*
@@ -24,7 +25,7 @@ Fourier analysis*
 Fourier analysis*
 Parseval's theorem*
 Plancherel theorem*
-Pontryagin duality
+Pontryagin duality*
 Fourier transforms*
 Fourier transform*
 Fourier transform*
@@ -90,7 +91,7 @@ Euler
 Lagrange
 Fourier analysis*
 Lagrange
-Lagrange resolvents
+Lagrange resolvents*
 Fourier decomposition*
 Lagrange
 Jean le Rond d'Alembert
@@ -120,11 +121,13 @@ Fourier transform*
 Fourier transforms*
 Pontryagin duality
 Fourier analysis*
-Dirac comb
+Dirac comb* (in Segment 'Notes')
+(die See Also-Sektion exkludiert)
 
 
 Permalink 2015-01-10
 https://en.wikipedia.org/w/index.php?title=Fourier_analysis&oldid=637221956
+Fourier analysis*
 Fourier analysis*
 Fourier analysis*
 Fourier series*
@@ -242,10 +245,12 @@ Fourier transform*
 Fourier series*
 discrete Fourier transform*
 Fourier transforms*
-Dirac comb*
+Dirac comb* (in Notes-Sektion)
+(See-Also Sektion exkludiert)
 
 Permalink 2005-01-10
 https://en.wikipedia.org/w/index.php?title=Fourier_analysis&oldid=9494202
+Fourier analysis*
 Fourier transform*
 Jean Baptiste Joseph Fourier
 Fourier-related transforms*
@@ -282,3 +287,4 @@ Fourier transforms*
 Fourier transforms*
 Pontryagin duality*
 Fourier transforms*
+(See-Also Section exckludiert)

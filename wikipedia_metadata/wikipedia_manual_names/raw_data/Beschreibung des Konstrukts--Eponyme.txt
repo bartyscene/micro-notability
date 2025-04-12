@@ -1,0 +1,11 @@
+mein Handling von Eponymen*
+
+*Wort, das aus einem Eigennamen abgeleitet ist (https://de.wikipedia.org/wiki/Eponym_(Sprachwissenschaft))
+
+- Gesetzmäßigkeiten, Methoden, empirische Objekte o.ä. die nach ihren Entdeckern benannt sind (z.B. Fourier analysis, Fourier series, Brockmann body)
+- Institutionen, Preise o.ä. die nach Gründern benannt sind (z.B. Nobelpreis, Beckman Research Institute), oder noch indirekter abgleitet (Universitäten, die via Ortsnamen auf Personen zurückgehen)
+
+sowie
+in einem von uns adaptierten Sinn gemäß unserer Forschungsfrage
+- Namen von Personen, die aber nicht als Entdecker oder Wissenschaftler vorkommen, sondern eher in einem Objektverhältnis stehen (z.B. Elisabeth I, Elizabeth Hughes als einer der ersten Patientinnen, die mit Insulin behandelt wurde)
+- Namen fiktionaler Personen, die ebenfalls als Anwender o.ä. im Kontext von Technologien oder als Beispiele vorkommen (z.B. Prometheus im gleichnamigen Film, Leela)

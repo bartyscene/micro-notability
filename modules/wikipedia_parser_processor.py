@@ -17,6 +17,9 @@ logger = logging.getLogger(__name__)
 TOKENS_TO_REMOVE: Set[str] = {
     "and", "the", "of", "for", "in", "not", "on", "an", "a", "at", "with",
     "And", "The", "Of", "For", "In", "Not", "On", "An", "At", "With",
+    "Electronic", "Journal", "Research", "Center", "Information",
+    "Lighting", "Inc", "United", "States", "Photo", 
+    "Insulin", "Medical", "Clinical", "American", "University", "Institute", "Association", "National", "Health", "Toronto", "Board"
 }
 
 def _build_reference_list(page_list: List[Any]) -> Set[str]:

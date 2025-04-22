@@ -1,5 +1,6 @@
 import os
 import json
+import re
 import bz2
 import mwxml
 import logging
@@ -18,6 +19,30 @@ TOKENS_TO_REMOVE: Set[str] = {
     "and", "the", "of", "for", "in", "not", "on", "an", "a", "at", "with",
     "And", "The", "Of", "For", "In", "Not", "On", "An", "At", "With",
 }
+
+def _extract_wikitext_refs_from_list(page_list: List[Any], output_path: str = 'references.txt') -> Set[str]:
+    pattern = re.compile(r'(<ref>.*?</ref>)', re.DOTALL)
+    reference_set: Set[str] = set()
+
+    for revision in tqdm(page_list, desc="Building List of Wikitext Refs"):
+        if not getattr(revision, "text", None):
+            continue
+        try:
+            matches = pattern.findall(revision.text)
+            for ref_block in matches:
+                normalized = re.sub(r'\s+', ' ', ref_block).strip()
+                reference_set.add(normalized)
+        except Exception as e:
+            logger.error(f"Error extracting refs from text")
+
+    try:
+        with open(output_path, 'w', encoding='utf-8') as f:
+            for ref in sorted(reference_set):
+                f.write(ref + '\n')
+    except IOError as e:
+        logger.error(f"Error writing references to {output_path}: {e}")
+
+    return reference_set
 
 def _build_reference_list(page_list: List[Any]) -> Set[str]:
     """
@@ -60,6 +85,7 @@ def _process_wikipedia_pages_with_reference_list(input_path: str, revision_mappi
                 page_list = list(page)
                 # Build the reference list for the entire page
                 reference_list = _build_reference_list(page_list)
+                referense_tag_list = _extract_wikitext_refs_from_list(page_list)
                 for revision in tqdm(page_list, desc="Processing Revisions", leave=False):
                     if not getattr(revision, "text", None):
                         continue

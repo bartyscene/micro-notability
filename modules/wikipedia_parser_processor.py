@@ -15,11 +15,21 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 TOKENS_TO_REMOVE: Set[str] = {
-    "and", "the", "of", "for", "in", "not", "on", "an", "a", "at", "with",
-    "And", "The", "Of", "For", "In", "Not", "On", "An", "At", "With",
+    "and", "the", "of", "for", "in", "not", "on", "an", "a", "at", "with", "by",
+    "And", "The", "Of", "For", "In", "Not", "On", "An", "At", "With", "By",
     "Electronic", "Journal", "Research", "Center", "Information",
     "Lighting", "Inc", "United", "States", "Photo", 
-    "Insulin", "Medical", "Clinical", "American", "University", "Institute", "Association", "National", "Health", "Toronto", "Board"
+    "Insulin", "Medical", "Clinical", "American", "University", "Institute", "Association", "National", "Health", "Toronto", "Board",
+    "Intelligence", "Study", "Computing", "Machine", "Learning", "Congress", "New", "Use", "AI", "Ai", "General", "Data", "Accountability", "Machinery", "Canada", "Global", "Council", "PhD", 
+    "Genetically", "Human", "Engineering", "Canadian", "Commission", "Sciences", "European", "Union", "Agriculture", "have",  "Office", "Canadian", "Food", "Inspection", "Agency", "Committee", "Technology", "Science",
+    "Psychological", "Schizophrenia",
+    "Displays", "Display",
+    "Drug",
+    "Crispr", 
+    "Disease", "President", "Advisors", "Advisor",
+    "Electric", "Aircraft", "Corporation", "Federal", "Aviation", "Administration", "Experimental", "Institut", "Flugzeugbau", "Polytechnic",
+    "Diabetes", "System", "Organization", "Society", "Medicine",
+    "Event", "Horizon", "Telescope", "EHT", "Collaboration", 
 }
 
 def _build_reference_list(page_list: List[Any]) -> Set[str]:

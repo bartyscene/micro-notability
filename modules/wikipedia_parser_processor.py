@@ -29,7 +29,8 @@ TOKENS_TO_REMOVE: Set[str] = {
     "Disease", "President", "Advisors", "Advisor",
     "Electric", "Aircraft", "Corporation", "Federal", "Aviation", "Administration", "Experimental", "Institut", "Flugzeugbau", "Polytechnic",
     "Diabetes", "System", "Organization", "Society", "Medicine",
-    "Event", "Horizon", "Telescope", "EHT", "Collaboration", 
+    "Event", "Horizon", "Telescope", "EHT", "Collaboration",
+    "Agricultural" , "Mental", "health", 
 }
 
 def _build_reference_list(page_list: List[Any]) -> Set[str]:
